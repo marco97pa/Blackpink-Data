@@ -145,7 +145,7 @@ def youtube_check_videos_change(name, scale, old_videos, new_videos):
                     # Tweet if a video reaches a new record (based on the scale parameter)
                     if convert_num(scale, new_video["views"]) != convert_num(scale, old_video["views"]):
                         twitter_post_image(
-                            "{} reached {} views on #YouTube\n{}\n{}".format(new_video["name"], url_youtube_video + new_video["url"], display_num(new_video["views"]), hashtags_youtube),
+                            "{} reached {} views on #YouTube\n{}\n{}".format(new_video["name"], display_num(new_video["views"]), url_youtube_video + new_video["url"], hashtags_youtube),
                             download_image(new_video["image"]),
                             display_num(new_video["views"], short=True),
                             text_size=100,
