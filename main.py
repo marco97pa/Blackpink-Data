@@ -187,21 +187,19 @@ def instagram_data(group):
     - group (dict): a dictionary containing all the group data
     """
     print("Starting Instagram related tasks...")
-    group = instagram_last_post(group)
-    group = instagram_followers(group)
+    group, ig_profile = instagram_profile(group)
+    group = instagram_last_post(group, ig_profile)
 
     for artist in group["members"]:
-        artist = instagram_last_post(artist)
-        artist = instagram_followers(artist)
+        artist, ig_profile = instagram_profile(artist)
+        artist = instagram_last_post(artist, ig_profile)
 
     print()
     return group
 
-def instagram_last_post(artist):
+def instagram_last_post(artist, profile):
     print("Fetching new posts for {}".format(artist["instagram"]["url"]))
 
-    profile = Profile(artist["instagram"]["url"])
-    profile.scrape()
     recents = profile.get_recent_posts()
     recents[0].scrape()
     if artist["instagram"]["last_post"]["timestamp"] != recents[0].timestamp:
@@ -217,7 +215,7 @@ def instagram_last_post(artist):
         )
     return artist
 
-def instagram_followers(artist):
+def instagram_profile(artist):
     print("Fetching profile details for {}".format(artist["instagram"]["url"]))
 
     profile = Profile(artist["instagram"]["url"])
@@ -229,7 +227,8 @@ def instagram_followers(artist):
                 test=test_mode)
         artist["instagram"]["followers"] = profile.followers
     artist["instagram"]["posts"] = profile.posts
-    return artist
+    artist["instagram"]["image"] = profile.profile_pic_url_hd
+    return artist, profile
 
 def twitter_repost(twitter, test=False):
     print("Starting Twitter repost task...")
