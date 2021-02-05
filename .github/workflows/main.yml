@@ -3,8 +3,8 @@
 name: Runner
 
 on:
-  #schedule:
-  # - cron: "*/5 * * * *" # Runs every five minutes, everyday (actual timing may vary, depending on GitHub)
+  schedule:
+   - cron: "*/5 * * * *" # Runs every five minutes, everyday (actual timing may vary, depending on GitHub)
   workflow_dispatch:
 
 jobs:
@@ -20,21 +20,9 @@ jobs:
     - name: install pip # Install pip
       run: |
         python -m pip install --upgrade pip
-    - name: install pyyaml module # Install the pyyaml module (needed to open YAML files)
+    - name: install requirements # Install the pyyaml module (needed to open YAML files)
       run: |
-        pip install pyyaml
-    - name: install tweepy module # Install the tweepy module (needed to post on Twitter)
-      run: |
-        pip install tweepy
-    - name: install pillow module # Install the pillow module (needed to edit images)
-      run: |
-        pip install pillow
-    - name: install insta-scrape module # Install the insta-scrape module (needed to Instagram actions)
-      run: |
-        pip install insta-scrape
-    - name: install youtube-data-api module # Install the youtube-data-api module (needed to scrape YouTube)
-      run: |
-        pip install youtube-data-api
+        pip3 install -r requirements.txt
     - name: execute py script # Run the script to fetch the latest data
       run: |
         python main.py

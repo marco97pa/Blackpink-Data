@@ -1,0 +1,23 @@
+# PyYAML
+# https://pypi.org/project/PyYAML/
+# Needed to work with YAML files
+pyyaml
+#
+# Tweepy
+# https://pypi.org/project/tweepy/
+# Needed to post or retrieve data from Twitter
+tweepy
+#
+# insta-scrape
+# https://pypi.org/project/insta-scrape/
+# Needed to retrieve data from Instagram
+insta-scrape
+#
+# youtube-data-api
+# https://pypi.org/project/youtube-data-api/
+# Needed to retrieve data from YouTube
+youtube-data-api
+# Pillow
+# https://pypi.org/project/Pillow/
+# Needed to edit images
+pillow
