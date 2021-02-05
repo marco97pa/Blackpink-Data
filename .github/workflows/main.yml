@@ -20,7 +20,7 @@ jobs:
     - name: install pip # Install pip
       run: |
         python -m pip install --upgrade pip
-    - name: install requirements # Install the pyyaml module (needed to open YAML files)
+    - name: install requirements # Install external modules
       run: |
         pip3 install -r requirements.txt
     - name: execute py script # Run the script to fetch the latest data
