@@ -1,0 +1,53 @@
+# This workflow updates runs main.py and eventually posts updates on Twitter
+
+name: Runner
+
+on:
+  schedule:
+   - cron: "*/5 * * * *" # Runs every five minutes, everyday (actual timing may vary, depending on GitHub)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout repo content # Checkout the repository content to GitHub runner
+      uses: actions/checkout@v2
+    - name: setup python # Install Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8 # The script actually runs fine with Python 3.8
+    - name: install pip # Install pip
+      run: |
+        python -m pip install --upgrade pip
+    - name: install pyyaml module # Install the pyyaml module (needed to open YAML files)
+      run: |
+        pip install pyyaml
+    - name: install tweepy module # Install the tweepy module (needed to post on Twitter)
+      run: |
+        pip install tweepy
+    - name: install pillow module # Install the pillow module (needed to edit images)
+      run: |
+        pip install pillow
+    - name: install insta-scrape module # Install the insta-scrape module (needed to Instagram actions)
+      run: |
+        pip install insta-scrape
+    - name: install youtube-data-api module # Install the youtube-data-api module (needed to scrape YouTube)
+      run: |
+        pip install youtube-data-api
+    - name: execute py script # Run the script to fetch the latest data
+      run: |
+        python main.py
+      env: # API KEYs are passed as environment variables. For more info https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }} 
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
+        TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+    - name: Commit changes # Commit changes to the master branch
+      run: |
+        git config --global user.name 'marco97pa'
+        git config --global user.email 'marco97pa@live.it'
+        git add .
+        git commit -m "Updated data.yaml"
+        git push
