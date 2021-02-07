@@ -208,10 +208,16 @@ def instagram_last_post(artist, profile):
         artist["instagram"]["last_post"]["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
         artist["instagram"]["last_post"]["caption"] = recents[0].caption
         artist["instagram"]["last_post"]["timestamp"] = recents[0].timestamp
-        recents[0].download("temp.jpg")
+        if recents[0].is_video:
+            content_type = "video"
+            filename = "temp.mp4"
+        else:
+            content_type = "photo"
+            filename = "temp.jpg"
+        recents[0].download(filename)
         twitter_post_image(
-            "{} posted a new photo on #Instagram\n{}\n{}\n{}".format(artist["name"], artist["instagram"]["last_post"]["url"], artist["instagram"]["last_post"]["caption"][:100], hashtags_instagram),
-            "temp.jpg",
+            "{} posted a new {} on #Instagram:\n{}\n{}\n\n{}".format(artist["name"], content_type, artist["instagram"]["last_post"]["caption"][:100], artist["instagram"]["last_post"]["url"], hashtags_instagram),
+            filename,
             None,
             test=test_mode
         )
@@ -231,6 +237,7 @@ def instagram_profile(artist):
                 "{} reached {} followers on #Instagram\n{}".format(artist["name"], display_num(profile.followers), hashtags_instagram),
                 download_image(artist["instagram"]["image"]),
                 display_num(profile.followers, short=True),
+                text_size=50,
                 test=test_mode)
         artist["instagram"]["followers"] = profile.followers
     
