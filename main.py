@@ -414,6 +414,7 @@ def check_args():
     if len(sys.argv) > 1:
         if sys.argv[1] == "-no-tweet":
             print("-no-tweet parameter passed!\nTest mode enabled: the bot won't tweet anything\n")
+            global test_mode 
             test_mode = True
 
 
