@@ -410,8 +410,16 @@ def download_image(url):
 
     return filename
 
+def check_args():
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "-no-tweet":
+            print("-no-tweet parameter passed!\nTest mode enabled: the bot won't tweet anything\n")
+            test_mode = True
+
 
 if __name__ == '__main__':
+
+    check_args()
     
     group = load_group()
 
