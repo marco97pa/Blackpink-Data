@@ -22,6 +22,11 @@ access_token_secret = os.environ.get('TWITTER_ACCESS_SECRET')
 # Get API key for YouTube
 youtube_api_key = os.environ.get('YOUTUBE_API_KEY')
 
+# Get Instagram cookies
+instagram_sessionid = os.environ.get('INSTAGRAM_SESSION_ID')
+headers = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 Edg/87.0.664.57",
+"cookie": f"sessionid={instagram_sessionid};"}
+
 # Constants
 url_youtube_video = "https://youtu.be/"
 hashtags_youtube = "\n #blackpink #stats #charts #blinks #youtubemusic #music #lisa #jisoo #jennie #rosé"
@@ -203,7 +208,7 @@ def instagram_last_post(artist, profile):
     print("Fetching new posts for {}".format(artist["instagram"]["url"]))
 
     recents = profile.get_recent_posts()
-    recents[0].scrape()
+    recents[0].scrape(headers=headers)
     if artist["instagram"]["last_post"]["timestamp"] != recents[0].timestamp:
         artist["instagram"]["last_post"]["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
         artist["instagram"]["last_post"]["caption"] = recents[0].caption
@@ -227,7 +232,7 @@ def instagram_profile(artist):
     print("Fetching profile details for {}".format(artist["instagram"]["url"]))
 
     profile = Profile(artist["instagram"]["url"])
-    profile.scrape()
+    profile.scrape(headers=headers)
     artist["instagram"]["posts"] = profile.posts
     artist["instagram"]["image"] = profile.profile_pic_url_hd
 
@@ -431,6 +436,6 @@ if __name__ == '__main__':
 
     group["twitter"] = twitter_repost(group["twitter"], test=test_mode)
 
-    #group = instagram_data(group)
+    group = instagram_data(group)
 
     write_group(group)
