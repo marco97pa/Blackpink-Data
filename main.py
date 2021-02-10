@@ -24,8 +24,8 @@ youtube_api_key = os.environ.get('YOUTUBE_API_KEY')
 
 # Constants
 url_youtube_video = "https://youtu.be/"
-hashtags_youtube = "@BLACKPINK #stats #charts #blinks #youtubemusic #music #lisa #jisoo #jennie #rosé #blackpink"
-hashtags_instagram = "@BLACKPINK #post #photo #blinks #lisa #jisoo #jennie #rosé #pic #blackpink"
+hashtags_youtube = "\n #blackpink #stats #charts #blinks #youtubemusic #music #lisa #jisoo #jennie #rosé"
+hashtags_instagram = "\n #blackpink #post #photo #blinks #lisa #jisoo #jennie #rosé #pic"
 
 def load_group():
     print("Loading data from YAML file...")
