@@ -437,6 +437,6 @@ if __name__ == '__main__':
 
     group["twitter"] = twitter_repost(group["twitter"], test=test_mode)
 
-    group = instagram_data(group)
+    #group = instagram_data(group)
 
     write_group(group)
