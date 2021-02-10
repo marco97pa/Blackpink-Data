@@ -3,8 +3,6 @@
 name: Runner (without tweeting)
 
 on:
-  schedule:
-   - cron: "00 21 * * *" # Runs at 21:00 UTC, everyday (actual timing may vary, depending on GitHub)
   workflow_dispatch:
 
 jobs:
