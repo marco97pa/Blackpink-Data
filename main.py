@@ -178,12 +178,14 @@ def check_birthdays(group):
         difference = round((now - birthday).days / 365.25)
         birthday = birthday.replace(year=now.year)
         if birthday.date() == now.date():
-            twitter_post_image(
-                "Today is {}'s birthday! She did {} years\n#{} #{}bday #blackpink @BLACKPINK".format(member["name"], difference, member["name"], member["name"]),
-                download_image(member["instagram"]["image"]),
-                None,
-                test=test_mode
-                )
+            if member["years"] != difference:
+                member["years"] = difference
+                twitter_post_image(
+                    "Today is {}'s birthday! She did {} years\n#{} #{}bday #blackpink @BLACKPINK".format(member["name"], difference, member["name"], member["name"]),
+                    download_image(member["instagram"]["image"]),
+                    str(difference),
+                    test=test_mode
+                    )
     print()
 
 

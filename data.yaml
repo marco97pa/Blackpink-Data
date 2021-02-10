@@ -1382,6 +1382,7 @@ youtube:
   image: https://yt3.ggpht.com/ytc/AAUvwnjEDJWYaIksia0vpqmF1_jPxZz4oYeNnPG6zs-IBw=s800-c-k-c0x00ffffff-no-rj-mo
 members:
 - name: Lisa
+  years: 24
   birthday: 27/03/1997
   youtube:
     name: Lilifilm Official
@@ -1443,6 +1444,7 @@ members:
 
         #광고 #TEENKNIGHTPOEM #CELINEBYHEDISLIMANE'
 - name: Jennie
+  years: 25
   birthday: 16/01/1996
   youtube:
     name: Jennierubyjane Official
@@ -1474,12 +1476,13 @@ members:
   spotify:
     url: 250b0Wlc5Vk0CoUsaCY84M
 - name: Rosé
+  years: 24
   birthday: 11/02/1997
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 35834925
     posts: 572
-    image: https://scontent-fco1-1.cdninstagram.com/v/t51.2885-19/s320x320/66284490_468664600594844_7307310439468105728_n.jpg?_nc_ht=scontent-fco1-1.cdninstagram.com&_nc_ohc=y6o_TmT3c6AAX9PGXzO&tp=1&oh=240222f677c66049485e2edad1d76c77&oe=604E1EC2
+    image: https://scontent-fco1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-fco1-1.cdninstagram.com&_nc_ohc=vLiuePti8-oAX81KArw&tp=1&oh=6347fbcf84fa8021ca0f427c4b355573&oe=604ABB41
     last_post:
       timestamp: 1612969645
       url: https://www.instagram.com/p/CLHbr38BCCr
@@ -1488,6 +1491,7 @@ members:
 
         Vlive in 30 minutes ;)'
 - name: Jisoo
+  years: 26
   birthday: 03/01/1995
   instagram:
     url: https://www.instagram.com/sooyaaa__/
