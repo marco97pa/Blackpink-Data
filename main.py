@@ -324,7 +324,8 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False, test=
         auth.set_access_token(access_token, access_token_secret)
         api = tweepy.API(auth)
 
-        api.update_with_media(filename, status=message)
+        uploaded = api.media_upload(filename)
+        api.update_status(message, media_ids=[uploaded.media_id])
         os.remove(filename)
 
 def edit_image(filename, text, text_size=200, crop=False):
