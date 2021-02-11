@@ -236,7 +236,11 @@ def instagram_profile(artist):
     profile = Profile(artist["instagram"]["url"])
     profile.scrape(headers=headers)
     artist["instagram"]["posts"] = profile.posts
-    artist["instagram"]["image"] = profile.profile_pic_url_hd
+    # Temporary fix to https://github.com/marco97pa/Blackpink-Data/issues/4
+    # Keep this line commented until this issue of instascrape is fixed:
+    # https://github.com/chris-greening/instascrape/issues/90
+    #
+    # artist["instagram"]["image"] = profile.profile_pic_url_hd
 
     if artist["instagram"]["followers"] != profile.followers:
         if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", profile.followers):
