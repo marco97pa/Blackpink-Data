@@ -177,7 +177,7 @@ def check_birthdays(group):
         birthday = datetime.datetime.strptime(member["birthday"], '%d/%m/%Y')
         difference = round((now - birthday).days / 365.25)
         birthday = birthday.replace(year=now.year)
-        if birthday.date() == now.date():
+        if birthday.date() == now.date() or 1==1:
             if member["years"] != difference:
                 member["years"] = difference
                 twitter_post_image(
