@@ -32,6 +32,7 @@ jobs:
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
         TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        INSTAGRAM_SESSION_ID: ${{ secrets.INSTAGRAM_SESSION_ID }}
     - name: Commit changes # Commit changes to the master branch
       run: |
         git config --global user.name 'marco97pa'
