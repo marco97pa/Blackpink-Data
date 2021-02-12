@@ -1482,7 +1482,10 @@ members:
       caption: 내애기들🖤 이렇게 까지 붙어 자는 이유는 ~?
     image: https://scontent-fco1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-fco1-1.cdninstagram.com&_nc_ohc=db2mCD2BpIsAX98B8XD&tp=1&oh=92a0c7bb32ee1d0a949b614b796bbe01&oe=604B2FDB
   spotify:
-    url: 250b0Wlc5Vk0CoUsaCY84M
+    id: 250b0Wlc5Vk0CoUsaCY84M
+    followers: 0
+    discography:
+    - name: v
 - name: Rosé
   years: 24
   birthday: 11/02/1997
@@ -1495,6 +1498,11 @@ members:
       timestamp: 1613120806
       url: https://www.instagram.com/p/CLL8AQZBzaX
       caption: ✨🙇🏼‍♀️✨
+  spotify:
+    id: 3eVa5w3URK5duf6eyVDbu9
+    followers: 0
+    discography:
+    - name: v
 - name: Jisoo
   years: 26
   birthday: 03/01/1995
