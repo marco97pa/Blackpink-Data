@@ -1,5 +1,9 @@
 name: BLACKPINK
-spotify: 41MozSoPIsD1dJM0CLPjZF
+spotify: 
+  id: 41MozSoPIsD1dJM0CLPjZF
+  followers: 0
+  discography:
+    - name: v
 twitter:
   url: blackpink
   last_tweet_id: 1356847571314991105
