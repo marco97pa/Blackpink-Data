@@ -39,7 +39,7 @@ def get_artist(spotify, artist):
             "{} reached {} followers on Spotify\n{}\n{}".format(artist["name"], display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
             download_image(artist["image"]),
             display_num(artist["followers"], short=True),
-            text_size=50
+            text_size=125
             )
 
     return artist
@@ -86,6 +86,7 @@ def get_discography(spotify, artist):
                                 'release_date':album['release_date'],
                                 'total_tracks':album['total_tracks'],
                                 'type':album['album_group'],
+                                'image':album['images'][0]['url'],
                                 'tracks': tracks}
                                 )
         else:
@@ -94,6 +95,7 @@ def get_discography(spotify, artist):
                                 'release_date':album['release_date'],
                                 'total_tracks':album['total_tracks'],
                                 'type':album['album_group'],
+                                'image':album['images'][0]['url'],
                                 'artist_collab':album['artists'][0]['name'],
                                 'tracks': tracks}
                                 )
@@ -134,7 +136,11 @@ def check_new_songs(artist, collection):
     for album in collection:
         if album not in old:
             if album["type"] != 'appears_on':
-                twitter_post("{} released a new {} on Spotify: {}\n{}\n{}".format(artist["name"], album["type"], album["name"], link_album(album["id"]), hashtags))
+                twitter_post_image(
+                    "{} released a new {} on Spotify: {}\n{}\n{}".format(artist["name"], album["type"], album["name"], link_album(album["id"]), hashtags),
+                    download_image(album["image"]),
+                    None
+                    )
             else:
                 twitter_post("{} appeared on {} by {} with the song {}\n{}\n{}".format(artist["name"], album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags ))
     
