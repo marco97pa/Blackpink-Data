@@ -17,6 +17,11 @@ insta-scrape
 # https://pypi.org/project/youtube-data-api/
 # Needed to retrieve data from YouTube
 youtube-data-api
+# spotipy
+# https://github.com/plamere/spotipy
+# Needed to retrieve data from Spotify
+spotipy
+#
 # Pillow
 # https://pypi.org/project/Pillow/
 # Needed to edit images

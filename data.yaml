@@ -1,9 +1,585 @@
 name: BLACKPINK
 spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
-  followers: 0
+  followers: 19104581
   discography:
-  - name: v
+  - name: THE ALBUM
+    id: 71O60S5gIJSIAhdnrDIh3N
+    release_date: '2020-10-02'
+    total_tracks: 8
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
+    tracks:
+    - name: How You Like That
+      id: 4SFknyjLcyTLJFPKD2m96o
+    - name: Ice Cream (with Selena Gomez)
+      id: 4JUPEh2DVSXFGExu4Uxevz
+    - name: Pretty Savage
+      id: 1XnpzbOGptRwfJhZgLbmSr
+    - name: Bet You Wanna (feat. Cardi B)
+      id: 7iAgNZdotu40NwtoIWJHFe
+    - name: Lovesick Girls
+      id: 4Ws314Ylb27BVsvlZOy30C
+    - name: Crazy Over You
+      id: 7qq0EOPW4RRlqdvMBmdd73
+    - name: Love To Hate Me
+      id: 7iKDsPfLT0d5mu2htfMKBZ
+    - name: You Never Know
+      id: 39kzWAiVPpycdMpr745oPj
+  - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
+    id: 7J4ASJD3IvdANlrPkmeVP0
+    release_date: '2020-05-14'
+    total_tracks: 12
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b27323c5b62995e1610ef9f7c137
+    tracks:
+    - name: DDU-DU DDU-DU - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 7fqjqOu4HKTN2yP6aV8lpQ
+    - name: FOREVER YOUNG - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 3F7VrA3ttl6i6Z4b2KJ9YR
+    - name: STAY - Remix / JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 7pt16OMGqeqivEeI1PzkfC
+    - name: WHISTLE - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 3iC3qlIi0KqATuA86pRGcZ
+    - name: Kill This Love - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA
+        -TOKYO DOME-
+      id: 60IHvjpylI1IZHVSZnQSKJ
+    - name: Don’t Know What To Do - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR
+        AREA -TOKYO DOME-
+      id: 3u6Knotm44XwggprlvmPtW
+    - name: REALLY - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-
+      id: 5IKRga8drUYZ5IqON5xXbx
+    - name: SEE U LATER - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 06WghRVH4Yyvu4mtDJ0bfU
+    - name: PLAYING WITH FIRE - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA
+        -TOKYO DOME-
+      id: 614TWJTbiXsJCPxMpnKi0L
+    - name: Kick It - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 3oZWZlxfXuUbbUPndAfmRR
+    - name: BOOMBAYAH - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO
+        DOME-
+      id: 2u8Msh7gewUrmJ74K8HZNq
+    - name: AS IF IT’S YOUR LAST - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR
+        AREA -TOKYO DOME-
+      id: 1hPIpoUwxbXBp5fGMSDcXx
+  - name: BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)
+    id: 4i0XmhtxZBPxwpgNeJ1Tvg
+    release_date: '2019-08-30'
+    total_tracks: 14
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b273b64959a23f88cff1370b602a
+    tracks:
+    - name: DDU-DU DDU-DU - Live
+      id: 437Wn1icOBdhQaVnpJpl0F
+    - name: Forever Young - Live
+      id: 3RTSq1hwAr5CHB10SiWeDX
+    - name: STAY (Remix Version) - Live
+      id: 6zlLFk0ZjBkA80p6xcZ8Ac
+    - name: WHISTLE - Live
+      id: 2QG3xa5guVkZhqZtuZZKgz
+    - name: YOU & I + ONLY LOOK AT ME - Live
+      id: 59DULbyccrhJJb3Ko2bXFz
+    - name: SOLO - Live
+      id: 40HHE2cHpWC3JajQytQUtD
+    - name: Really (Reggae Version) - Live
+      id: 3mGle2Kpzw3E6G0g0T79QN
+    - name: See U Later - Live
+      id: 0ZnRursj0XlLszToN6wNV2
+    - name: PLAYING WITH FIRE - Live
+      id: 3fo1Z8nJX9gRHYPjb4mgJs
+    - name: BOOMBAYAH - Live
+      id: 5SK8ZoIj62LTcRW7OQ8vtZ
+    - name: As If It's Your Last - Live
+      id: 3KcrCvutXhEEinowTrLfN4
+    - name: WHISTLE (Remix Version) - Live
+      id: 6w5egqwHmhrBJsw8soFcuU
+    - name: DDU DDU-DU (Remix Version) - Live
+      id: 1b7PAugOHr8ZjD1Dbj8fON
+    - name: STAY - Live
+      id: 7ov2yk9ZbtJoOpcd7QoRwd
+  - name: '''BLACKPINK 2018 TOUR ''IN YOUR AREA'' SEOUL - Live'
+    id: 08ou14V2A0NWpvq7QkUWbM
+    release_date: '2019-08-30'
+    total_tracks: 14
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b273df1580ff05c0fb1b0cd23e1a
+    tracks:
+    - name: DDU-DU DDU-DU (Live)
+      id: 4k2iYdpCZYH3eQX2bVKOku
+    - name: Forever Young (Live)
+      id: 7cJm6ENCOTONwAMBPN1U9r
+    - name: STAY (Remix Version) [Live]
+      id: 2wmYDj7JwiZOc8EwtRU72N
+    - name: WHISTLE (Live)
+      id: 4UEcgapaOf3Y1azxXPDjz1
+    - name: YOU & I + ONLY LOOK AT ME (Live)
+      id: 7LgNjQL79QIxTpYOJ4c0R2
+    - name: SOLO (Live)
+      id: 4ioOuBakOUKAdSpm9E46kP
+    - name: Really (Reggae Version) [Live]
+      id: 4yrdTx61xR97aEi6qsyFbT
+    - name: See U Later (Live)
+      id: 6RQm1foz7qduRVaCQBZdzf
+    - name: PLAYING WITH FIRE (Live)
+      id: 06Ai7l5EODiJQ6dMFfh2Vj
+    - name: BOOMBAYAH (Live)
+      id: 5NzsuVrkbi7nRsmZR8WYDK
+    - name: As If It's Your Last (Live)
+      id: 5eMbkNvdn4VbUQaJmqyalo
+    - name: WHISTLE (Remix Version) [Live]
+      id: 0jcXavoOHe9f99PE2sLg6T
+    - name: DDU-DU DDU-DU (Remix Version) [Live]
+      id: 1gGU3FKR2pXcYpaLb4fAVn
+    - name: STAY (Live)
+      id: 1b8L7w2aOmmaZ1BbWJurZZ
+  - name: BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
+    id: 1dH4B2bWb5Ys7aszi9KWHA
+    release_date: '2019-03-13'
+    total_tracks: 15
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b2734eb5d1d2cb8e591441903c23
+    tracks:
+    - name: DDU-DU DDU-DU - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME
+        OSAKA"
+      id: 6PDvHZDWtGSVr8LXN3stsH
+    - name: FOREVER YOUNG - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME
+        OSAKA"
+      id: 32ssBfmhrG6qbEapVNwAOm
+    - name: WHISTLE - Acoustic Ver. BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
+        DOME OSAKA"
+      id: 3QuzFJUtG9H4RoEv5J9mCP
+    - name: STAY - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
+      id: 5x9VzjchhXQfDBZcnO5xPM
+    - name: LET IT BE〜 YOU&I〜 ONLY LOOK AT ME / ROSÉ - BLACKPINK ARENA TOUR 2018 "SPECIAL
+        FINAL IN KYOCERA DOME OSAKA"
+      id: 7Iv6YcXoLNhTPYhHqtyNUy
+    - name: 雪の華 / JISOO - LIVE BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
+        DOME OSAKA"
+      id: 1sIKkwYIffUw0vLU8RsWIR
+    - name: ラスト・クリスマス 〜 赤鼻のトナカイ - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
+        DOME OSAKA"
+      id: 6149wOhItvVX0zoa1KK5hw
+    - name: Kiss and Make Up - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
+        DOME OSAKA"
+      id: 6X9DNG2WR3IclfneGurU0T
+    - name: SO HOT - THEBLACKLABEL REMIX BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL
+        IN KYOCERA DOME OSAKA"
+      id: 1fMXWEkJpIH483OrKn1zFV
+    - name: REALLY - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
+      id: 7nWREW5AWOgLMmW6jKJUEz
+    - name: SEE U LATER - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME
+        OSAKA"
+      id: 5dYjvCegNq6LbwWTzy1xIC
+    - name: BOOMBAYAH - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
+      id: 1uK64bAOSKhKFTUwrF2r2p
+    - name: PLAYING WITH FIRE - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
+        DOME OSAKA"
+      id: 6b5xktkZLF96lv5HrFucu4
+    - name: AS IF IT’S YOUR LAST - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
+        DOME OSAKA"
+      id: 4sB4UCnEu6UVC0dWtCqUAT
+  - name: BLACKPINK IN YOUR AREA
+    id: 4cpZazoKuj3jD6x2GrSX2w
+    release_date: '2018-12-05'
+    total_tracks: 9
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b273b11340b8eba51d954ba51f68
+    tracks:
+    - name: BOOMBAYAH
+      id: 5nIjOnMbC0QDMrYFLGx0yV
+    - name: WHISTLE
+      id: 3sgrwjWNJy753U30irIdEN
+    - name: PLAYING WITH FIRE
+      id: 29x3S9kmzTGHswtjSVeUPr
+    - name: STAY
+      id: 4AESxPBujvuBbCAfBuA2sq
+    - name: AS IF IT’S YOUR LAST
+      id: 5DVgfulxeJZJYc8FseyfUf
+    - name: DDU-DU DDU-DU
+      id: 4jUEHIrc443f743JbyLN0y
+    - name: FOREVER YOUNG
+      id: 02h4inVwwNX1cMuGCDtsgV
+    - name: REALLY
+      id: 6OKXcx7tClGAS0o2cOTl2v
+    - name: SEE U LATER
+      id: 7IS4NciwYPs1wMywOKx69z
+  - name: Ice Cream (with Selena Gomez)
+    id: 7nZPZCnwS90jrRjGNjzv4D
+    release_date: '2020-08-28'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    tracks:
+    - name: Ice Cream (with Selena Gomez)
+      id: 2k0e6dy1tx7fE6m126Ydfw
+  - name: How You Like That
+    id: 2jtqWR8SyWOLgKz4HiLtxI
+    release_date: '2020-06-26'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b27324bf339415169fb0d2797d68
+    tracks:
+    - name: How You Like That
+      id: 78VxuxuTcKnhxEDtncc1QS
+  - name: Sour Candy (with BLACKPINK)
+    id: 6y6lP1WRfqEhv8RLy4ufZB
+    release_date: '2020-05-28'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273348a8b432f3e8e02f342056e
+    tracks:
+    - name: Sour Candy (with BLACKPINK)
+      id: 6R6ZoHTypt5lt68MWbzZXv
+  - name: DDU-DU DDU-DU (Remix JP Ver.)
+    id: 37OWAhKTXeHFcPPTkADa5v
+    release_date: '2019-10-16'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2734dad5ee9cd2b2b5827e46d32
+    tracks:
+    - name: DDU-DU DDU-DU - Remix JP Ver.
+      id: 2ERO7JFeaRMIdlEn9JTryn
+  - name: KILL THIS LOVE (JP Ver.)
+    id: 0uWttVLwkFxcW1PkBAsmZd
+    release_date: '2019-10-16'
+    total_tracks: 5
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2739dd7b15113e3d73005713d03
+    tracks:
+    - name: KILL THIS LOVE - JP Ver.
+      id: 3mpGXkkjhY8K5C9OsaCMBo
+    - name: DON'T KNOW WHAT TO DO - JP Ver.
+      id: 38eKmp6QjELXKgLh0pePfG
+    - name: KICK IT - JP Ver.
+      id: 6HHbjSWWGh6j9JcmLZ41Py
+    - name: HOPE NOT - JP Ver.
+      id: 04xEHIAK4MsI7ZSN1hSDQN
+    - name: DDU-DU DDU-DU - Remix -JP Ver.-
+      id: 04LWm93tY9nwdlI9EO54HP
+  - name: KILL THIS LOVE
+    id: 3PNxZ3BELbUXJ1XLktXiHz
+    release_date: '2019-04-05'
+    total_tracks: 5
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0
+    tracks:
+    - name: Kill This Love
+      id: 6hvczQ05jc1yGlp9zhb95V
+    - name: Don't Know What To Do
+      id: 38SKB7UfhL6Sd6Joxex5yK
+    - name: Kick It
+      id: 4rsoLz7ZY1Ldz8dpm4Lqtg
+    - name: Hope Not
+      id: 3eZD5DZGibwxMAOaCMBg3k
+    - name: DDU-DU DDU-DU - Remix
+      id: 4sz6sircK4Jn2SZSHgd96h
+  - name: Kill This Love
+    id: 3qw2vm3uqKT3EIg95wbg83
+    release_date: '2019-04-05'
+    total_tracks: 5
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2738e319ddef7eac91a6f22b8df
+    tracks:
+    - name: Kill This Love
+      id: 5GK7eDDTVz7CTge1wJrDQW
+    - name: Don't Know What To Do
+      id: 4ghGrdxwqLA6ZoCiu0u4IR
+    - name: Kick It
+      id: 3VN74YiIjtY5ouKahBjmRX
+    - name: Hope Not
+      id: 29fsVDL9T36N0tyD7ByLdI
+    - name: DDU-DU DDU-DU (Remix)
+      id: 3pkIaou3w14ytyKYZbg0hc
+  - name: Kiss And Make Up
+    id: 2HUgmAz7PymVOtcW7erjXZ
+    release_date: '2018-10-24'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2738dafccf9d049ccc43b8e68b4
+    tracks:
+    - name: Kiss And Make Up
+      id: 7v57jXggtZOJEjEcgfhxte
+  - name: DDU-DU DDU-DU
+    id: 2811CkGSYR9SUtIoFWWiTk
+    release_date: '2018-08-22'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2731f75d0c821747a61af75441c
+    tracks:
+    - name: DDU-DU DDU-DU
+      id: 1PMXpTPJfh3ViK8PMZ9ZnY
+  - name: SQUARE UP
+    id: 6yetqbA9vli7RLoUWYZLsq
+    release_date: '2018-06-15'
+    total_tracks: 4
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273b4d9562d5d7c11d0e5ba09b4
+    tracks:
+    - name: DDU-DU DDU-DU
+      id: 69BIczdH6QMnFx7dsSssN8
+    - name: Forever Young
+      id: 2Pp9osgyIcw6o1avfDDDhH
+    - name: Really
+      id: 4HxVweMysEnuYxy3gkFtKk
+    - name: See U Later
+      id: 5RBH8ypFAj5HTZTPRpI1XL
+  - name: 'Re: BLACKPINK'
+    id: 2Gz6UbNiSL1caVQBpExJ5x
+    release_date: '2018-03-28'
+    total_tracks: 6
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2734b9761c5547b39294cb2bf2c
+    tracks:
+    - name: BOOMBAYAH - Japanese Version
+      id: 7fnzywGBFweUlh4aeydMyE
+    - name: WHITSLE - Japanese Version
+      id: 2O4vh2CJ5yMWy9qCko3I8u
+    - name: PLAYING WITH FIRE - Japanese Version
+      id: 7yv8uf1ytyxcHyLYOpM62F
+    - name: STAY - Japanese Version
+      id: 0yrJbbImHySWhi9tuidpEQ
+    - name: AS IF IT'S YOUR LAST - Japanese Version
+      id: 0B04pjg8HAL3qs4e5c9WTr
+    - name: WHISTLE - Acoustic Ver.
+      id: 60Z8ni1FA5lNhGhhDsiiCL
+  - name: BLACKPINK
+    id: 6vl7a0PooHBuDRLrtNeUL0
+    release_date: '2017-08-29'
+    total_tracks: 6
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2739b16265c325c6f91ab9608a6
+    tracks:
+    - name: BOOMBAYAH
+      id: 58gwQRB2sJ5EwKEntGR0MA
+    - name: WHISTLE - Japanese Version
+      id: 6kZE8ZhOUM2rGmeG9qk7Y9
+    - name: PLAYING WITH FIRE - Japanese Version
+      id: 2IbQ5hQVrzg4e6bNruEqOs
+    - name: STAY - Japanese Version
+      id: 6Fcoih4yHMyXLzDcTeVUgn
+    - name: AS IF IT'S YOUR LAST - Japanese Version
+      id: 5m8wiO2ySMpCtYSwHatWQr
+    - name: WHISTLE - Acoustic Ver.
+      id: 2jjh53eV2QVGIRjGTawheD
+  - name: SQUARE TWO
+    id: 3KacwE6ax8jp1vun6DQ1Jf
+    release_date: '2017-07-20'
+    total_tracks: 5
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b27358e58a1a55118c9d8614199b
+    tracks:
+    - name: PLAYING WITH FIRE - KR Ver.
+      id: 5OepnJhqZoyJN8qWo2LZzy
+    - name: STAY - KR Ver.
+      id: 2tnBkiyJWLnQGsjyz4BuJJ
+    - name: WHISTLE - (Acoustic Ver.) KR Ver.
+      id: 0RzVkLtXOwfETIi4Z3ik1K
+    - name: WHISTLE - KR Ver.
+      id: 0NTzcUCJU6ivb4IVpTxDCF
+    - name: BOOMBAYAH - KR Ver.
+      id: 1qAPA8TooLVEqAZ58fhcrt
+  - name: AS IF IT'S YOUR LAST (KR Ver.)
+    id: 55cleidxpZk6cnGLBTFNfl
+    release_date: '2017-07-20'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273df8dc2e4625e7d74310cad28
+    tracks:
+    - name: AS IF IT'S YOUR LAST - KR Ver.
+      id: 0onKPjKMVmROyBOItWnPcI
+  - name: SQUARE ONE
+    id: 71QEBJY33oG0l5rqs2kR1c
+    release_date: '2017-07-20'
+    total_tracks: 2
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273a63d8a977b189ad64350f3f3
+    tracks:
+    - name: WHISTLE - KR Ver.
+      id: 67BbMuItfrHmaNqDxBPF7c
+    - name: BOOMBAYAH - KR Ver.
+      id: 3G6PGH2teMqeF9IkbMUY1y
+  - name: As If It's Your Last
+    id: 7ikmjsvRzDRzxHN0KXSQdv
+    release_date: '2017-06-22'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b2732ab2cbcd5742413ca7f4d29f
+    tracks:
+    - name: As If It's Your Last
+      id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: NOW That's What I Call Music, Vol. 77 (New Wa)
+    id: 3P2f6BPhDskUbM5hnvzkLQ
+    release_date: '2021-01-29'
+    total_tracks: 21
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273007cd5d60163152d1556853d
+    artist_collab: Various Artists
+    tracks:
+    - name: Ice Cream
+      id: 0TKbdm1ZLmSmXfm1NRrSBv
+  - name: Nobody in the Game (Remix)
+    id: 7lJofyZv9AfwbT11RTUlKR
+    release_date: '2020-10-29'
+    total_tracks: 1
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273dbf1c3c72b0b5ec0bd3b50bd
+    artist_collab: Lil Stinny
+    tracks:
+    - name: Nobody in the Game - Remix
+      id: 33dEhRCtygunLJurj2EnP7
+  - name: Best Of 2020 - Hits des Jahres
+    id: 17rDDnoIG0vWgsUSzSUFju
+    release_date: '2020-10-23'
+    total_tracks: 38
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273fc60e0afb087a2e0f29f5add
+    artist_collab: Various Artists
+    tracks:
+    - name: How You Like That
+      id: 1kZ9du9IUooVxWs0wSOfcT
+  - name: Besten Hits 2020
+    id: 7IjtsGMc2cVfMojvM39Vke
+    release_date: '2020-10-08'
+    total_tracks: 24
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27368bfff373dff69a4c9d7d636
+    artist_collab: Various Artists
+    tracks:
+    - name: Sour Candy
+      id: 45151vz6HRqWiOu28Jebph
+  - name: Hits Virais
+    id: 7ItNskxl1pUXIHobJRkNj6
+    release_date: '2020-09-25'
+    total_tracks: 24
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27360fed69cccf99129204c4860
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 569jiL1OxsDW4p3ZJfA0An
+  - name: Club Future Nostalgia (DJ MIX)
+    id: 6qCqOI40caiiu8vcldqKDT
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6NM2Ce4Ng73fFNV54fMvf7
+  - name: Club Future Nostalgia (DJ Mix)
+    id: 3W04W2HfQ5kVeByxfjbu2C
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6P8SQWN3pcLKChWHt73fZV
+  - name: Hits da Internet
+    id: 4m1mjqzwQxx9WqqUxYYFfZ
+    release_date: '2020-08-26'
+    total_tracks: 25
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273730915a3f64a72d679e3e998
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 5DtbSlwe9cmZ3bJBxA1ODg
+  - name: Tik Tock Virais
+    id: 3AEgK4EvXg7SeRh2XxnbwA
+    release_date: '2020-08-26'
+    total_tracks: 24
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2733d5ba84ae43d39a0ba376d9b
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 1YhzZz7BVghmdOW5ItoZMH
+  - name: Hits Tik Tock
+    id: 7aZrVJJRyQAm5CiE8g7prh
+    release_date: '2020-08-26'
+    total_tracks: 25
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273b713d634702949c26d0843c2
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 4NGiImJv2ELbkXl14iNwMl
+  - name: Para Limpar A Casa
+    id: 6DYtrSE37OvmPI3TKrB5Wc
+    release_date: '2020-08-17'
+    total_tracks: 22
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273eb003f82960a35d9c002a5b4
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 5ky87z3p4DoQLmhPm4zqn6
+  - name: Viral Tik Tock
+    id: 31udkfCN01sWthHC04ZM55
+    release_date: '2020-08-17'
+    total_tracks: 24
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2733e9d1930abc6af874cf0c890
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 4PgWi2aNtYauYOcwdOyYm6
+  - name: Viral 2020
+    id: 6A7PCDYMPl25RTNbDp5C84
+    release_date: '2020-07-17'
+    total_tracks: 23
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27327830ecaa304c56a48bea0f6
+    artist_collab: Various Artists
+    tracks:
+    - name: Kill This Love
+      id: 2qEol0PKXDXICHYfA9U7Xs
+  - name: 夏恋バスケット♪
+    id: 0L8st2swXgp7bPyBNSsfrv
+    release_date: '2020-07-08'
+    total_tracks: 20
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2738604f82fd5135efacd4d523c
+    artist_collab: Various Artists
+    tracks:
+    - name: PLAYING WITH FIRE
+      id: 0romQaf5xxjOvX9sPSW1SV
+  - name: Chromatica
+    id: 05c49JgPmL4Uz2ZeqRx5SP
+    release_date: '2020-05-29'
+    total_tracks: 16
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a
+    artist_collab: Lady Gaga
+    tracks:
+    - name: Sour Candy (with BLACKPINK)
+      id: 1IWNylpZ477gIVUDpJL66u
+  - name: Kids Party
+    id: 5vFMpCfTy6V4Fy9Nu95t0Z
+    release_date: '2019-12-13'
+    total_tracks: 31
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273d0466215d8809f1def1af800
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 10O3uZ1Qt5pXpxnbrnWCLV
+  uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
+  name: BLACKPINK
+  popularity: 89
+  genres:
+  - k-pop
+  - k-pop girl group
+  image: https://i.scdn.co/image/8655f0fdf5f2d897af934be45f5a40fc7afa29cd
 twitter:
   url: blackpink
   last_tweet_id: 1356847571314991105
@@ -1479,9 +2055,102 @@ members:
     image: https://scontent-fco1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-fco1-1.cdninstagram.com&_nc_ohc=db2mCD2BpIsAX98B8XD&tp=1&oh=92a0c7bb32ee1d0a949b614b796bbe01&oe=604B2FDB
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
-    followers: 0
+    followers: 543960
     discography:
-    - name: v
+    - name: SOLO
+      id: 7qAJpYeABXN9ZV5wOOX59k
+      release_date: '2018-11-12'
+      total_tracks: 1
+      type: single
+      image: https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e
+      tracks:
+      - name: SOLO
+        id: 2wVDWtLKXunswWecARNILj
+    - name: SOLO (KR Ver.)
+      id: 3O4uaXiPGvJXsQHGY8UekJ
+      release_date: '2018-11-12'
+      total_tracks: 1
+      type: single
+      image: https://i.scdn.co/image/58c62ffcc88f43238846316c689c124da484329b
+      tracks:
+      - name: SOLO - KR Ver.
+        id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Solo (Remix)
+      id: 5RV9cBZ9FYvpfIIF1iBvd3
+      release_date: '2021-01-17'
+      total_tracks: 1
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273a8cb6bd014e78b94bd5787b8
+      artist_collab: Dngb
+      tracks:
+      - name: Solo - Remix
+        id: 76sn8wZpBnLINFcQd8bRj3
+    - name: BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
+      id: 1dH4B2bWb5Ys7aszi9KWHA
+      release_date: '2019-03-13'
+      total_tracks: 15
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2734eb5d1d2cb8e591441903c23
+      artist_collab: BLACKPINK
+      tracks:
+      - name: SOLO - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
+        id: 5S7by1wwGii36WAs4sBjzc
+    - name: THE GREAT REMIXES of V.I
+      id: 5MMb06TGse0SmiEL10eT5I
+      release_date: '2018-08-01'
+      total_tracks: 11
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27399788cddb9ca5f2b6c9a5fc9
+      artist_collab: V.I
+      tracks:
+      - name: GG BE - KIRIN REMIX
+        id: 6iLywKsqAok2gQAXwhzwgT
+    - name: First Love
+      id: 0HifrYuTfeJZAHo9j71pRA
+      release_date: '2018-04-11'
+      total_tracks: 9
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273ac2f30e9ba55902df684d8a5
+      artist_collab: LeeHi
+      tracks:
+      - name: SPECIAL
+        id: 6aao2hGW0GzDJbgvQALt2Z
+    - name: LEE HI JAPAN DEBUT ALBUM
+      id: 6hYSa9oKq0RJ9GXx11vWZi
+      release_date: '2018-03-21'
+      total_tracks: 28
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273c375cd4c0d5ce16d692bf80e
+      artist_collab: LeeHi
+      tracks:
+      - name: SPECIAL
+        id: 0adZmKZQ5RTfGDHe57pVXC
+    - name: COUP D'ETAT (Korean Version)
+      id: 6A5g9sz5nChdBMdcATcCjB
+      release_date: '2013-09-05'
+      total_tracks: 12
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27389aa8801826b2a2a3c842391
+      artist_collab: G-DRAGON
+      tracks:
+      - name: BLACK
+        id: 44f1TNdoQUgf3PUYraCTsH
+    - name: LET'S TALK ABOUT LOVE
+      id: 61nJoBqpC5qaF0g0Np0Ucw
+      release_date: '2013-08-19'
+      total_tracks: 6
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273e3fdb668eeac5d4f1be31fc0
+      artist_collab: SEUNGRI
+      tracks:
+      - name: GG Be (Feat. JENNIE)
+        id: 5MPGtk7Ni67f76w0RV79GO
+    uri: spotify:artist:250b0Wlc5Vk0CoUsaCY84M
+    name: JENNIE
+    popularity: 65
+    genres:
+    - k-pop
+    image: https://i.scdn.co/image/993d088c89fadf29834350c491432c52f29d0dbf
 - name: Rosé
   years: 24
   birthday: 11/02/1997
@@ -1498,7 +2167,21 @@ members:
     id: 3eVa5w3URK5duf6eyVDbu9
     followers: 0
     discography:
-    - name: v
+    - name: One of a Kind
+      id: 4EitCfNTOlnqtRrmBBuwGQ
+      release_date: '2012-09-15'
+      total_tracks: 7
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2734687bc7a0bda65c282c13afa
+      artist_collab: G-DRAGON
+      tracks:
+      - name: Without You (Feat. ROSE)
+        id: 3V375E3xldRPEEcIKiw83l
+    uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
+    name: ROSÉ
+    popularity: 47
+    genres: []
+    image: null
 - name: Jisoo
   years: 26
   birthday: 03/01/1995

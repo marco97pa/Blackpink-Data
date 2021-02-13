@@ -8,7 +8,7 @@ from tweet import twitter_post, twitter_post_image, twitter_repost, set_test_mod
 from bithdays import check_birthdays
 from instagram import instagram_data
 from youtube import youtube_data
-
+from spotify import spotify_data
 
 def load_group():
     print("Loading data from YAML file...")
@@ -51,6 +51,6 @@ if __name__ == '__main__':
 
     group = instagram_data(group)
 
-    
+    group = spotify_data(group)
 
     write_group(group)
