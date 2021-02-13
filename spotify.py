@@ -8,6 +8,7 @@ hashtags= "\n#blackpink #music #song #spotify #newmusic #kpop #lisa #jisoo #jenn
 
 
 def login():
+    print("Logging in...")
     # Client credential authorization flow
     # See https://spotipy.readthedocs.io/en/2.16.1/#authorization-code-flow
     auth_manager = SpotifyClientCredentials()
@@ -154,6 +155,7 @@ def link_artist(artist_id):
     return "https://open.spotify.com/artist/" + artist_id
 
 def spotify_data(group):
+    print("Starting Spotify related tasks...")
     spotify = login()
 
     group["spotify"] = get_artist(spotify, group["spotify"])
