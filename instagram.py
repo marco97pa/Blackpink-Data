@@ -63,14 +63,13 @@ def instagram_profile(artist):
     #
     # artist["instagram"]["image"] = profile.profile_pic_url_hd
 
-    if artist["instagram"]["followers"] != profile.followers:
-        if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", profile.followers):
-            twitter_post_image(
-                "{} reached {} followers on #Instagram\n{}".format(artist["name"], display_num(profile.followers), hashtags),
-                download_image(artist["instagram"]["image"]),
-                display_num(profile.followers, short=True),
-                text_size=50
-                )
-        artist["instagram"]["followers"] = profile.followers
+    if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", profile.followers):
+        twitter_post_image(
+            "{} reached {} followers on #Instagram\n{}".format(artist["name"], display_num(profile.followers), hashtags),
+            download_image(artist["instagram"]["image"]),
+            display_num(profile.followers, short=True),
+            text_size=50
+            )
+    artist["instagram"]["followers"] = profile.followers
     
     return artist, profile
