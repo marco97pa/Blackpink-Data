@@ -4,7 +4,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from utils import display_num, convert_num, download_image
 from tweet import twitter_post, twitter_post_image
 
-hashtags= "\n#blackpink #music #song #spotify #newmusic #kpop #lisa #jisoo #jennie #rosé"
+hashtags= "\n@BLACKPINK #blinks #music #kpop"
 
 
 def login():
@@ -37,7 +37,7 @@ def get_artist(spotify, artist):
     if convert_num("100K", artist["followers"]) != convert_num("100K", artist_details["followers"]["total"]):
         artist["followers"] = artist_details["followers"]["total"]
         twitter_post_image(
-            "{} reached {} followers on Spotify\n{}\n{}".format(artist["name"], display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
+            "#{} reached {} followers on #Spotify\n{}\n{}".format(artist["name"].upper(), display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
             download_image(artist["image"]),
             display_num(artist["followers"], short=True),
             text_size=125
@@ -138,12 +138,12 @@ def check_new_songs(artist, collection):
         if album not in old:
             if album["type"] != 'appears_on':
                 twitter_post_image(
-                    "{} released a new {} on Spotify: {}\n{}\n{}".format(artist["name"], album["type"], album["name"], link_album(album["id"]), hashtags),
+                    "#{} released a new {} on #Spotify: {}\n{}\n{}".format(artist["name"].upper(), album["type"], album["name"], link_album(album["id"]), hashtags),
                     download_image(album["image"]),
                     None
                     )
             else:
-                twitter_post("{} appeared on {} by {} with the song {}\n{}\n{}".format(artist["name"], album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags ))
+                twitter_post("#{} appeared on {} by {} with the song {}\n{}\n{} #spotify".format(artist["name"].upper(), album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags ))
     
     artist["discography"] = collection
     return artist
