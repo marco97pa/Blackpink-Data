@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     group["twitter"] = twitter_repost(group["twitter"])
 
-    group = instagram_data(group)
+    #group = instagram_data(group)
 
     group = spotify_data(group)
 
