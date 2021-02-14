@@ -10,7 +10,7 @@ from tweet import twitter_post, twitter_post_image
 youtube_api_key = os.environ.get('YOUTUBE_API_KEY')
 
 url_video = "https://youtu.be/"
-hashtags = "\n#blackpink #stats #charts #blinks #youtubemusic #music #lisa #jisoo #jennie #rosé"
+hashtags = "\n@BLACKPINK #blinks #youtubemusic #music"
 
 def youtube_data(group):
     print("Starting Youtube related tasks...")
@@ -78,7 +78,7 @@ def youtube_check_channel_change(old_channel, new_channel):
     # Tweet if subs reach a new 100 thousands
     if convert_num("100K", new_channel["subs"]) != convert_num("100K", old_channel["subs"]):
         twitter_post_image(
-            "{} reached {} subscribers on #YouTube\n{}".format(new_channel["name"], display_num(new_channel["subs"], decimal=True), hashtags),
+            "#{} reached {} subscribers on #YouTube\n{}".format(new_channel["name"], display_num(new_channel["subs"], decimal=True), hashtags),
             download_image(new_channel["image"]),
             display_num(new_channel["subs"], short=True, decimal=True),
             text_size=150
@@ -88,7 +88,7 @@ def youtube_check_channel_change(old_channel, new_channel):
     # Tweet if total views reach a new mark (based on the views_scale)
     if convert_num(old_channel["views_scale"], new_channel["views"]) != convert_num(old_channel["views_scale"], old_channel["total_views"]):
         twitter_post_image(
-            "{} reached {} total views on #YouTube\n{}".format(new_channel["name"], display_num(new_channel["views"]), hashtags),
+            "#{} reached {} total views on #YouTube\n{}".format(new_channel["name"], display_num(new_channel["views"]), hashtags),
             download_image(new_channel["image"]),
             display_num(new_channel["views"], short=True)
         )
@@ -110,7 +110,7 @@ def youtube_check_videos_change(name, scale, old_videos, new_videos):
                     # Tweet if a video reaches a new record (based on the scale parameter)
                     if convert_num(scale, new_video["views"]) != convert_num(scale, old_video["views"]):
                         twitter_post_image(
-                            "{} reached {} views on #YouTube\n{}\n{}".format(new_video["name"], display_num(new_video["views"]), url_video + new_video["url"], hashtags),
+                            "{} reached {} views on #YouTube\n{}\n{} #{}".format(new_video["name"], display_num(new_video["views"]), url_video + new_video["url"], hashtags, name),
                             download_image(new_video["image"]),
                             display_num(new_video["views"], short=True),
                             text_size=100,
@@ -118,7 +118,7 @@ def youtube_check_videos_change(name, scale, old_videos, new_videos):
                         )
             if not found:
                 twitter_post_image(
-                    "{} uploaded a new #video on #YouTube: {}\n{}\n{}".format(name, new_video["name"], url_video + new_video["url"], hashtags),
+                    "#{} uploaded a new #video on #YouTube: {}\n{}\n{}".format(name, new_video["name"], url_video + new_video["url"], hashtags),
                     download_image(new_video["image"]),
                     "NEW",
                     text_size=100,
