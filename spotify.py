@@ -39,7 +39,7 @@ def get_artist(spotify, artist):
         twitter_post_image(
             "#{} reached {} followers on #Spotify\n{}\n{}".format(artist["name"].upper(), display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
             download_image(artist["image"]),
-            display_num(artist["followers"], short=True),
+            display_num(artist["followers"], short=True, decimal=True),
             text_size=125
             )
 
