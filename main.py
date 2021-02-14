@@ -5,7 +5,7 @@ import os
 
 from utils import convert_num, display_num, download_image
 from tweet import twitter_post, twitter_post_image, twitter_repost, set_test_mode
-from bithdays import check_birthdays
+from birthdays import check_birthdays
 from instagram import instagram_data
 from youtube import youtube_data
 from spotify import spotify_data
