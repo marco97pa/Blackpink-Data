@@ -31,26 +31,57 @@ def write_group(group):
 
 
 def check_args():
+    source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True}
+
     if len(sys.argv) > 1:
-        if sys.argv[1] == "-no-tweet":
-            print("-no-tweet parameter passed!\nTest mode enabled: the bot won't tweet anything\n")
-            set_test_mode()
+        for arg in sys.argv:
+            if arg == "-no-tweet":
+                print("-no-tweet parameter passed!\nTest mode enabled: the bot won't tweet anything")
+                set_test_mode()
+                
+            if arg == "-no-instagram":
+                print("-no-instagram parameter passed!")
+                source["instagram"] = False
+                
+            if arg == "-no-spotify":
+                print("-no-spotify parameter passed!")
+                source["spotify"] = False
+                
+            if arg == "-no-youtube":
+                print("-no-youtube parameter passed!")
+                source["youtube"] = False
+                
+            if arg == "-no-birthday":
+                print("-no-birthday parameter passed!")
+                source["birthday"] = False
+                
+            if arg == "-no-twitter":
+                print("-no-twitter parameter passed!")
+                source["twitter"] = False
+                
+    print()
+    return source
 
 
 if __name__ == '__main__':
 
-    check_args()
+    source = check_args()
     
     group = load_group()
 
-    check_birthdays(group)
-
-    group = youtube_data(group)
-
-    group["twitter"] = twitter_repost(group["twitter"])
-
-    #group = instagram_data(group)
-
-    group = spotify_data(group)
+    if source["birthday"]:
+        check_birthdays(group)
+    
+    if source["youtube"]: 
+        group = youtube_data(group)
+        
+    if source["twitter"]:
+        group["twitter"] = twitter_repost(group["twitter"])
+    
+    if source["instagram"]:
+        group = instagram_data(group)
+    
+    if source["spotify"]:
+        group = spotify_data(group)
 
     write_group(group)
