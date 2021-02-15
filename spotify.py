@@ -135,7 +135,12 @@ def check_new_songs(artist, collection):
     old = artist["discography"]
 
     for album in collection:
-        if album not in old:
+        found = False
+        for old_album in old:
+            if album["name"] == old_album["name"]:
+                found = True
+                break
+        if not found:
             if album["type"] != 'appears_on':
                 twitter_post_image(
                     "#{} released a new {} on #Spotify: {}\n{}\n{}".format(artist["name"].upper(), album["type"], album["name"], link_album(album["id"]), hashtags),
