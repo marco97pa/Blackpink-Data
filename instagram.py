@@ -10,6 +10,7 @@ headers = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N)
 "cookie": f"sessionid={instagram_sessionid};"}
 
 hashtags = "\n@BLACKPINK #blinks #photo #pic"
+module = "Instagram"
 
 def instagram_data(group):
     """ Starts the Instagram tasks (uses the insta-scrape module https://pypi.org/project/insta-scrape/)
@@ -17,7 +18,7 @@ def instagram_data(group):
     Args:
     - group (dict): a dictionary containing all the group data
     """
-    print("Starting Instagram related tasks...")
+    print("[{}] Starting tasks...".format(module))
     group, ig_profile = instagram_profile(group)
     group = instagram_last_post(group, ig_profile)
 
@@ -29,7 +30,7 @@ def instagram_data(group):
     return group
 
 def instagram_last_post(artist, profile):
-    print("Fetching new posts for {}".format(artist["instagram"]["url"]))
+    print("[{}] ({}) Fetching new posts".format(module, artist["instagram"]["url"][26:-1]))
 
     recents = profile.get_recent_posts()
     recents[0].scrape(headers=headers)
@@ -52,7 +53,7 @@ def instagram_last_post(artist, profile):
     return artist
 
 def instagram_profile(artist):
-    print("Fetching profile details for {}".format(artist["instagram"]["url"]))
+    print("[{}] ({}) Fetching profile details".format(module, artist["instagram"]["url"][26:-1]))
 
     profile = Profile(artist["instagram"]["url"])
     profile.scrape(headers=headers)
@@ -65,6 +66,7 @@ def instagram_profile(artist):
 
     # Update followers only if there is an increase (fixes https://github.com/marco97pa/Blackpink-Data/issues/11)
     if profile.followers > artist["instagram"]["followers"]:
+        print("[{}] ({}) Followers increased {} --> {}".format(module, artist["instagram"]["url"][26:-1], artist["instagram"]["followers"], profile.followers))
         if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", profile.followers):
             twitter_post_image(
                 "#{} reached {} followers on #Instagram\n{}".format(artist["name"].upper(), display_num(profile.followers), hashtags),

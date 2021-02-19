@@ -11,9 +11,10 @@ youtube_api_key = os.environ.get('YOUTUBE_API_KEY')
 
 url_video = "https://youtu.be/"
 hashtags = "\n@BLACKPINK #blinks #youtubemusic #music"
+module = "YouTube"
 
 def youtube_data(group):
-    print("Starting Youtube related tasks...")
+    print("[{}] Starting tasks...".format(module))
     yt = YoutubeDataApi(youtube_api_key)
 
     # Getting channel data and stats
@@ -21,7 +22,7 @@ def youtube_data(group):
     group["youtube"] = youtube_check_channel_change(group["youtube"], channel_data)
 
     # Getting video data and stats
-    videos = youtube_get_videos(yt, group["youtube"]["playlist"])
+    videos = youtube_get_videos(yt, group["youtube"]["playlist"], group["youtube"]["name"])
     group["youtube"]["videos"] = youtube_check_videos_change(group["name"], group["youtube"]["videos_scale"], group["youtube"]["videos"], videos)
 
     # Getting Youtube data for each member
@@ -30,7 +31,7 @@ def youtube_data(group):
             channel_data = youtube_get_channel(yt, member["youtube"]["url"])
             member["youtube"] = youtube_check_channel_change(member["youtube"], channel_data)
 
-            videos = youtube_get_videos(yt, member["youtube"]["playlist"])
+            videos = youtube_get_videos(yt, member["youtube"]["playlist"], member["youtube"]["name"])
             member["youtube"]["videos"] = youtube_check_videos_change(member["name"], member["youtube"]["videos_scale"], member["youtube"]["videos"], videos)
     
     print()
@@ -47,11 +48,11 @@ def youtube_get_channel(yt, channel_id):
        "image": youtube_get_profile_image(channel_id)
        }
 
-    print("Fetched {} Youtube channel".format(channel_data["name"]))
+    print("[{}] ({}) Fetched channel".format(module, channel_data["name"]))
 
     return channel_data
 
-def youtube_get_videos(yt, playlist_id):
+def youtube_get_videos(yt, playlist_id, name):
     playlist = yt.get_videos_from_playlist_id(playlist_id)
     
     video_ids = []
@@ -64,7 +65,7 @@ def youtube_get_videos(yt, playlist_id):
     for video in videos_data:
         videos.append({"name": video["video_title"], "url": video["video_id"], "views": video["video_view_count"], "image": video["video_thumbnail"]})
     
-    print("Fetched {} videos".format(len(videos)))
+    print("[{}] ({}) Fetched {} videos".format(module, name, len(videos)))
     
     return videos
 

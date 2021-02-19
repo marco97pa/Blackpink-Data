@@ -3,16 +3,19 @@ import datetime
 from utils import download_image
 from tweet import twitter_post_image, twitter_post
 
+module = "Birthdays"
+
 def check_birthdays(group):
     now = datetime.datetime.today()
-    print("Today is {}".format(now.date()))
+    print("[{}] Today is {}".format(module, now.date()))
     
-    print("Checking birthdays...")
+    print("[{}] Checking...".format(module))
     for member in group["members"]:
         birthday = datetime.datetime.strptime(member["birthday"], '%d/%m/%Y')
         difference = round((now - birthday).days / 365.25)
         birthday = birthday.replace(year=now.year)
         if birthday.date() == now.date():
+            print("[{}] ({}) Birthday: {} years!".format(module, member["name"], difference))
             if member["years"] != difference:
                 member["years"] = difference
                 twitter_post_image(

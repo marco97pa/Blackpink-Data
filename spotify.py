@@ -5,10 +5,10 @@ from utils import display_num, convert_num, download_image
 from tweet import twitter_post, twitter_post_image
 
 hashtags= "\n@BLACKPINK #blinks #music #kpop"
-
+module = "Spotify"
 
 def login():
-    print("Logging in...")
+    print("[{}] Logging in...".format(module))
     # Client credential authorization flow
     # See https://spotipy.readthedocs.io/en/2.16.1/#authorization-code-flow
     auth_manager = SpotifyClientCredentials()
@@ -24,7 +24,7 @@ def get_artist(spotify, artist):
 
 
     artist["name"] = artist_details["name"]
-    print("Getting details of {} ({})".format(artist["name"], artist["id"]))
+    print("[{}] ({}) Getting details... (ID: {})".format(module, artist["name"], artist["id"]))
 
     artist["popularity"] = artist_details["popularity"]
     artist["genres"] = artist_details["genres"]
@@ -47,7 +47,7 @@ def get_artist(spotify, artist):
 
 def get_discography(spotify, artist):
 
-    print("Fetching discography...")
+    print("[{}] ({}) Fetching discography...".format(module, artist["name"]))
 
     # ALBUM DETAILS
     albumResults = spotify.artist_albums(artist["uri"], limit=50)
@@ -101,10 +101,9 @@ def get_discography(spotify, artist):
                                 'tracks': tracks}
                                 )
     
-    print("Fetched {} songs".format(z))
+    print("[{}] ({}) Fetched {} songs".format(module, artist["name"], z))
 
     # Remove duplicates
-    print("Removing duplicates")
     seen = set()
     result = []
     z = 0
@@ -118,7 +117,7 @@ def get_discography(spotify, artist):
         z += 1
         seen.add(key)
 
-    print("Now we have {} albums and singles".format(z))
+    print("[{}] ({}) After removing duplicates we have {} releases (singles/EPs/albums)".format(module, artist["name"], z))
 
     # Uncomment for debug: it prints all the albums and singles fetched
     #
@@ -131,7 +130,7 @@ def get_discography(spotify, artist):
     return result
 
 def check_new_songs(artist, collection):
-    print("Checking new songs...")
+    print("[{}] ({}) Checking new songs...".format(module, artist["name"]))
     old = artist["discography"]
 
     for album in collection:
@@ -160,7 +159,7 @@ def link_artist(artist_id):
     return "https://open.spotify.com/artist/" + artist_id
 
 def spotify_data(group):
-    print("Starting Spotify related tasks...")
+    print("[{}] Starting tasks...".format(module))
     spotify = login()
 
     group["spotify"] = get_artist(spotify, group["spotify"])
