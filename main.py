@@ -52,13 +52,15 @@ def check_args():
     By passing one or more parameters, you can disable a single module source.
 
     Actual parameters allowed are:
-    * `-no-instagram`: disables Instagram source
-    * `-no-youtube`: disables YouTube source
-    * `-no-spotify`: disables Spotify source
-    * `-no-birthday`: disables birthdays events source
-    * `-no-twitter`: disables Twitter source (used for reposting)
+
+    * `-no-instagram`: disables Instagram source  
+    * `-no-youtube`: disables YouTube source  
+    * `-no-spotify`: disables Spotify source  
+    * `-no-birthday`: disables birthdays events source  
+    * `-no-twitter`: disables Twitter source (used for reposting)  
 
     Remember that `-no-twitter` is different than `-no-tweet`:  
+    
     `-no-tweet` actually prevents the bot from tweeting any update from the enabled sources. The output will still be visible on the console. This is really useful for **testing**.
     
     Returns:

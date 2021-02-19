@@ -5,7 +5,7 @@ def convert_num(mode, num):
     """Converts a number in any given number scale
 
     Example:
-    convert_num("100K", 600000) returns 6
+    `convert_num("100K", 600000) returns 6`
 
     Args:
       mode: (string) the scale for the conversion ("100K", "M", "10M", "100M", "B")

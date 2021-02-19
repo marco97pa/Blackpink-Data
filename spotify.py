@@ -12,12 +12,15 @@ def login():
 
     Client credential authorization flow
     The following API keys are needed to be set as environment variables:
-    * SPOTIPY_CLIENT_ID
-    * SPOTIPY_CLIENT_SECRET
+
+      * SPOTIPY_CLIENT_ID
+      * SPOTIPY_CLIENT_SECRET
+      
     You can request API keys on the `Spotify Developer Dashboard <https://developer.spotify.com/dashboard/>`_
 
     See https://spotipy.readthedocs.io/en/2.16.1/#authorization-code-flow for more details
     """
+
     print("[{}] Logging in...".format(module))
     
     auth_manager = SpotifyClientCredentials()
@@ -69,14 +72,17 @@ def get_discography(spotify, artist):
     """Gets all the releases of an artist
 
     A release is single, EP, mini-album or album: Spotify simply calls them all "albums"
+
     Example:
-    * DDU-DU-DDU-DU of BLACKPINK is a single https://open.spotify.com/album/2811CkGSYR9SUtIoFWWiTk
-    * SQUARE UP of BLACKPINK is a mini-album https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc
-    * THE ALBUM of BLACKPINK is (really) an album https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N
+
+      * `DDU-DU-DDU-DU <https://open.spotify.com/album/2811CkGSYR9SUtIoFWWiTk>`_ of BLACKPINK is a **single**
+      * `SQUARE UP <https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc>`_ of BLACKPINK is a **mini-album**
+      * `THE ALBUM <https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N>`_ of BLACKPINK is (really) an **album**
     
-    It also gets releases where the artist is featured.
+    It also gets releases where the artist is **featured**.
     Example:
-    * Sour Candy is a song of Lady Gaga, but BLACKPINK are featured https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB 
+
+      * `Sour Candy <https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB>`_ is a song of Lady Gaga, but BLACKPINK are featured  
 
     Spotify also makes many "clones" of the same album: there could be extended albums or albums that later added tracks.
     Each one of this makes a duplicate of the same album.
