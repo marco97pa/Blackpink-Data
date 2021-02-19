@@ -8,15 +8,35 @@ hashtags= "\n@BLACKPINK #blinks #music #kpop"
 module = "Spotify"
 
 def login():
+    """Logs in to Spotify
+
+    Client credential authorization flow
+    The following API keys are needed to be set as environment variables:
+    * SPOTIPY_CLIENT_ID
+    * SPOTIPY_CLIENT_SECRET
+    You can request API keys on the `Spotify Developer Dashboard <https://developer.spotify.com/dashboard/>`_
+
+    See https://spotipy.readthedocs.io/en/2.16.1/#authorization-code-flow for more details
+    """
     print("[{}] Logging in...".format(module))
-    # Client credential authorization flow
-    # See https://spotipy.readthedocs.io/en/2.16.1/#authorization-code-flow
+    
     auth_manager = SpotifyClientCredentials()
     spotify = spotipy.Spotify(auth_manager=auth_manager)
 
     return spotify
 
 def get_artist(spotify, artist):
+    """Gets details about an artist
+
+    It tweets if the artist reaches a new goal of followers on Spotify
+
+    Args:
+      spotify: The Spotify instance
+      artist: dictionary that contains all the data about the single artist
+
+    Returns:
+      an artist dictionary with updated profile details
+    """
     # Generate URI
     artist["uri"] = 'spotify:artist:' + artist["id"]
 
@@ -46,6 +66,29 @@ def get_artist(spotify, artist):
     return artist
 
 def get_discography(spotify, artist):
+    """Gets all the releases of an artist
+
+    A release is single, EP, mini-album or album: Spotify simply calls them all "albums"
+    Example:
+    * DDU-DU-DDU-DU of BLACKPINK is a single https://open.spotify.com/album/2811CkGSYR9SUtIoFWWiTk
+    * SQUARE UP of BLACKPINK is a mini-album https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc
+    * THE ALBUM of BLACKPINK is (really) an album https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N
+    
+    It also gets releases where the artist is featured.
+    Example:
+    * Sour Candy is a song of Lady Gaga, but BLACKPINK are featured https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB 
+
+    Spotify also makes many "clones" of the same album: there could be extended albums or albums that later added tracks.
+    Each one of this makes a duplicate of the same album.
+    So this function also tries to clean up the discography by removing duplicates.
+
+    Args:
+      spotify: The Spotify instance
+      artist: dictionary that contains all the data about the single artist
+
+    Returns:
+      an dictionary with updated discography details
+    """
 
     print("[{}] ({}) Fetching discography...".format(module, artist["name"]))
 
@@ -130,6 +173,18 @@ def get_discography(spotify, artist):
     return result
 
 def check_new_songs(artist, collection):
+    """Checks if there is any new song
+
+    It compares the old discography of the artist with the new (already fetched) discography.
+    It tweets if there is a new release or featuring of the artist.
+
+    Args:
+      artist: dictionary that contains all the data about the single artist
+      collection: dictionary that contains all the updated discography of the artist
+
+    Returns:
+      an artist dictionary with updated discography details
+    """
     print("[{}] ({}) Checking new songs...".format(module, artist["name"]))
     old = artist["discography"]
 
@@ -153,12 +208,38 @@ def check_new_songs(artist, collection):
     return artist
 
 def link_album(album_id):
+    """Generates a link to an album
+
+    Args:
+      album_id: ID of the album
+
+    Returns:
+      The link to that album on Spotify
+    """
     return "https://open.spotify.com/album/" + album_id
 
 def link_artist(artist_id):
+    """Generates a link to an artist
+
+    Args:
+      artist_id: ID of the artist
+
+    Returns:
+      The link to that artist on Spotify
+    """
     return "https://open.spotify.com/artist/" + artist_id
 
 def spotify_data(group):
+    """Runs all the Spotify related tasks
+
+    It scrapes data from Spotify for the whole group and the single artists
+
+    Args:
+      group: dictionary with the data of the group to scrape
+
+    Returns:
+      the same group dictionary with updated data
+    """
     print("[{}] Starting tasks...".format(module))
     spotify = login()
 

@@ -6,6 +6,17 @@ from tweet import twitter_post_image, twitter_post
 module = "Birthdays"
 
 def check_birthdays(group):
+    """Checks if today is the birthday of a member of the group
+
+    It tweets if it is the birthday of someone
+
+    Args:
+      group: a dictionary with all the details of the group
+
+    Returns:
+      an dictionary containing all the updated data of the group
+    """
+
     now = datetime.datetime.today()
     print("[{}] Today is {}".format(module, now.date()))
     
@@ -24,3 +35,4 @@ def check_birthdays(group):
                     str(difference)
                     )
     print()
+    return group

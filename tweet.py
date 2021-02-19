@@ -9,29 +9,45 @@ consumer_secret = os.environ.get('TWITTER_CONSUMER_SECRET')
 access_token = os.environ.get('TWITTER_ACCESS_KEY')
 access_token_secret = os.environ.get('TWITTER_ACCESS_SECRET')
 
+module = "Twitter"
+
 test = False
 
 def set_test_mode():
+    """Enables the test mode
+
+    Prevents tweets from being posted. They are still printed in the console.
+    This is really useful for debugging purposes
+    """
+
     global test 
     test = True
 
-def twitter_repost(twitter):
-    print("Starting Twitter repost task...")
+def twitter_repost(artist):
+    """Retweets latest tweets of a given account
+
+    Args:
+      artist: a dictionary with all the details of the artist
+
+    Returns:
+      an dictionary containing all the updated data of the artist
+    """
+    print("[{}] Starting repost task...".format(module))
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
-    print("Fetching tweets for {}".format(twitter["url"]))
+    print("[{}] ({}) Fetching tweets".format(module, artist["twitter"]["url"]))
 
-    if twitter["last_tweet_id"] is not None:
-        tweets = api.user_timeline(screen_name = twitter["url"], 
-                                since_id = twitter["last_tweet_id"],
+    if artist["twitter"]["last_tweet_id"] is not None:
+        tweets = api.user_timeline(screen_name = artist["twitter"]["url"], 
+                                since_id = artist["twitter"]["last_tweet_id"],
                                 include_rts = False,
                                 # extended mode to get full text
                                 tweet_mode = "extended"
                                 )
     else:
-        tweets = api.user_timeline(screen_name = twitter["url"], 
+        tweets = api.user_timeline(screen_name = artist["twitter"]["url"], 
                                 # Take only the last tweet
                                 count = 1,
                                 include_rts = False,
@@ -40,7 +56,7 @@ def twitter_repost(twitter):
                                 )
 
     for tweet in tweets:
-        print("Retwitting this tweet from @{}".format(twitter["url"]))
+        print("Retwitting this tweet from @{}".format(artist["twitter"]["url"]))
         print("Tweet ID: {}".format(tweet.id))
         print("Datetime: {}".format(tweet.created_at))
         print(tweet.full_text[:20])
@@ -48,16 +64,16 @@ def twitter_repost(twitter):
             api.retweet(tweet.id)
 
     if len(tweets) > 0:
-        twitter["last_tweet_id"] = tweets[0].id
+        artist["twitter"]["last_tweet_id"] = tweets[0].id
         
     print()
-    return twitter
+    return artist
 
 def twitter_post(message):
     """ Post a message on Twitter (uses the Tweepy module)
     
     Args:
-        message (str): a string containing the message to be posted
+        message: a string containing the message to be posted
     """
     message = message[:270]
     print(message+"\n")
@@ -75,8 +91,8 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     """ Post a photo with message on Twitter (uses the Tweepy module)
     
     Args:
-        message (str): a string containing the message to be posted
-        url (str): filename of the image to be posted
+        message: a string containing the message to be posted
+        url: filename of the image to be posted
     """
 
     if text is not None:
@@ -107,8 +123,10 @@ def edit_image(filename, text, text_size=200, crop=False):
     """ Edit an image by adding a text (uses the Pillow module)
     
     Args:
-        filename (str): filename of the image to be modified
-        text (str): text to be added
+        filename: filename of the image to be modified
+        text: text to be added
+        text_size (optional): size of the text (default: 200)
+        crop (optional): if enabled removes black bars from a video thumbnail (16:9 over 4:3)
     """
     #Open image
     my_image = Image.open(filename)

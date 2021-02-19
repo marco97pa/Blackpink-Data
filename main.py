@@ -11,6 +11,14 @@ from youtube import youtube_data
 from spotify import spotify_data
 
 def load_group():
+    """Reads the data.yaml YAML file
+
+    Data about a group is stored inside the data.yaml file in the same directory as the script
+
+    Returns:
+      A dictionary that contains all the informations about the group
+    """
+
     print("Loading data from YAML file...")
 
     with open('data.yaml', encoding="utf-8") as file:
@@ -25,12 +33,38 @@ def load_group():
         return group
 
 def write_group(group):
+    """Writes the data.yaml YAML file
+
+    Data about a group is stored inside the data.yaml file in the same directory as the script
+
+    Args:
+      group: dictionary that contains all the informations about the group
+    """
+
     print("Writing data to YAML file...")
     with open('data.yaml', 'w', encoding="utf-8") as file:
         yaml.dump(group, file, sort_keys=False, allow_unicode=True)
 
 
 def check_args():
+    """Checks the arguments passed by the command line
+    
+    By passing one or more parameters, you can disable a single module source.
+
+    Actual parameters allowed are:
+    * `-no-instagram`: disables Instagram source
+    * `-no-youtube`: disables YouTube source
+    * `-no-spotify`: disables Spotify source
+    * `-no-birthday`: disables birthdays events source
+    * `-no-twitter`: disables Twitter source (used for reposting)
+
+    Remember that `-no-twitter` is different than `-no-tweet`:  
+    `-no-tweet` actually prevents the bot from tweeting any update from the enabled sources. The output will still be visible on the console. This is really useful for **testing**.
+    
+    Returns:
+      A dictionary that contains all the sources and their state (enabled or disabled, True or False)
+    """
+
     source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True}
 
     if len(sys.argv) > 1:
@@ -70,13 +104,13 @@ if __name__ == '__main__':
     group = load_group()
 
     if source["birthday"]:
-        check_birthdays(group)
+        group = check_birthdays(group)
     
     if source["youtube"]: 
         group = youtube_data(group)
         
     if source["twitter"]:
-        group["twitter"] = twitter_repost(group["twitter"])
+        group = twitter_repost(group)
     
     if source["instagram"]:
         group = instagram_data(group)

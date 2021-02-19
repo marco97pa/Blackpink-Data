@@ -14,6 +14,17 @@ hashtags = "\n@BLACKPINK #blinks #youtubemusic #music"
 module = "YouTube"
 
 def youtube_data(group):
+    """Runs all the YouTube related tasks
+
+    It scrapes data from YouTube for the whole group and the single artists
+
+    Args:
+      group: dictionary with the data of the group to scrape
+
+    Returns:
+      the same group dictionary with updated data
+    """
+
     print("[{}] Starting tasks...".format(module))
     yt = YoutubeDataApi(youtube_api_key)
 
@@ -38,6 +49,16 @@ def youtube_data(group):
     return group
 
 def youtube_get_channel(yt, channel_id):
+    """Gets details about a channel
+
+    Args:
+      yt: The YouTube instance
+      channel_id: the ID of that channel on YouTube
+
+    Returns:
+      an dictionary containing all the scraped data of that channel
+    """
+
     data = yt.get_channel_metadata(channel_id, snippet="statistics, snippet")
 
     channel_data = {
@@ -53,6 +74,17 @@ def youtube_get_channel(yt, channel_id):
     return channel_data
 
 def youtube_get_videos(yt, playlist_id, name):
+    """Gets videos from a playlist
+
+    Args:
+      yt: The YouTube instance
+      playlist_id: the ID of the playlist on YouTube
+      name: name of the channel owner of the playlist
+
+    Returns:
+      a list of videos
+    """
+
     playlist = yt.get_videos_from_playlist_id(playlist_id)
     
     video_ids = []
@@ -70,11 +102,32 @@ def youtube_get_videos(yt, playlist_id, name):
     return videos
 
 def youtube_get_profile_image(channel_id):
+    """Gets profile image of a channel
+
+    Args:
+      channel_id: the ID of the channel on YouTube
+
+    Returns:
+      an url to an high quality thumbanail of that channel
+    """
+
     page = requests.get("https://www.googleapis.com/youtube/v3/channels?part=snippet&id=" + channel_id + "&fields=items(id%2Csnippet%2Fthumbnails)&key=" + youtube_api_key)
     response = json.loads(page.content)
     return response["items"][0]["snippet"]["thumbnails"]["high"]["url"]
 
 def youtube_check_channel_change(old_channel, new_channel):
+    """Checks if there is any change in the number of subscribers or total views of the channel
+
+    It compares the old channel data with the new (already fetched) data.
+    It tweets if the channel reaches a new goal of subscribers or total views on YouTube
+
+    Args:
+      old_channel: dictionary that contains all the old data of the channel
+      new_channel: dictionary that contains all the updated data of the channel
+
+    Returns:
+      a dictionary with updated data of the channel
+    """
     
     # Tweet if subs reach a new 100 thousands
     if convert_num("100K", new_channel["subs"]) != convert_num("100K", old_channel["subs"]):
@@ -102,6 +155,21 @@ def youtube_check_channel_change(old_channel, new_channel):
     return old_channel
 
 def youtube_check_videos_change(name, scale, old_videos, new_videos):
+    """Checks if there is any new video
+
+    It compares the old videos list of the artist with the new (already fetched) videos list.
+    It tweets if there is a new release or if a video reaches a new views goal.
+
+    Args:
+      name: name of the channel
+      scale: number scale that triggers a new views goal (example: reaches a new million, a new billion...)
+      old_videos: list that contains all the old videos
+      new_videos: list that contains all the updated videos
+
+    Returns:
+      new_videos
+    """
+    
     if old_videos is not None:
         for new_video in new_videos:
             found = False

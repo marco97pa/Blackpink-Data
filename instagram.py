@@ -13,11 +13,17 @@ hashtags = "\n@BLACKPINK #blinks #photo #pic"
 module = "Instagram"
 
 def instagram_data(group):
-    """ Starts the Instagram tasks (uses the insta-scrape module https://pypi.org/project/insta-scrape/)
+    """Runs all the Instagram related tasks
+
+    It scrapes data from Instagram for the whole group and the single artists
 
     Args:
-    - group (dict): a dictionary containing all the group data
+      group: dictionary with the data of the group to scrape
+
+    Returns:
+      the same group dictionary with updated data
     """
+
     print("[{}] Starting tasks...".format(module))
     group, ig_profile = instagram_profile(group)
     group = instagram_last_post(group, ig_profile)
@@ -30,6 +36,18 @@ def instagram_data(group):
     return group
 
 def instagram_last_post(artist, profile):
+    """Gets the last post of a profile
+
+    It tweets if there is a new post: if the timestamp of the latest stored post does not match with the latest fetched post timestamp
+
+    Args:
+      profile: a Profile instance, already scraped
+      artist: a dictionary with all the details of the artist
+
+    Returns:
+      an dictionary containing all the updated data of the artist
+    """
+
     print("[{}] ({}) Fetching new posts".format(module, artist["instagram"]["url"][26:-1]))
 
     recents = profile.get_recent_posts()
@@ -53,6 +71,18 @@ def instagram_last_post(artist, profile):
     return artist
 
 def instagram_profile(artist):
+    """Gets the details of an artist on Instagram
+
+    It tweets if the artist reaches a new followers goal
+
+    Args:
+      artist: a dictionary with all the details of the artist
+
+    Returns:
+      an dictionary containing all the updated data of the artist
+      a Profile instance
+    """
+
     print("[{}] ({}) Fetching profile details".format(module, artist["instagram"]["url"][26:-1]))
 
     profile = Profile(artist["instagram"]["url"])
@@ -79,6 +109,17 @@ def instagram_profile(artist):
     return artist, profile
 
 def clean_caption(caption):
+    """Removes unnecessary parts of an Instagram post caption
+
+    It removes all the hashtags and converts tags in plain text (@marco97pa --> marco97pa)
+
+    Args:
+      caption: a text
+
+    Returns:
+      the same caption without hashtags and tags
+    """
+
     clean = ""
 
     words = caption.split()

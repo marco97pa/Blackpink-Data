@@ -2,6 +2,19 @@
 import requests
 
 def convert_num(mode, num):
+    """Converts a number in any given number scale
+
+    Example:
+    convert_num("100K", 600000) returns 6
+
+    Args:
+      mode: (string) the scale for the conversion ("100K", "M", "10M", "100M", "B")
+      num: the number to be converted
+
+    Returns:
+      the converted number
+    """
+
     num = int(num)
 
     if mode == "100K":
@@ -17,6 +30,17 @@ def convert_num(mode, num):
     return num
 
 def display_num(num, short=False, decimal=False):
+    """Converts a number in a readable format
+
+    Args:
+      num: the number to be converted
+      short (optional): flag to get a long or short literal ("Mln" vs "million")
+      decimal (optional): flag to print also the first decimal digit (19.1 vs 19)
+
+    Returns:
+      a string with a number in a readable format
+    """
+
     num = int(num)
     digits = len(str(abs(num)))
 
@@ -48,6 +72,14 @@ def display_num(num, short=False, decimal=False):
     return out
 
 def download_image(url):
+    """Downloads an image, given an url
+
+    The image is saved in the download.jpg file
+
+    Args:
+      url: source from where download the image
+    """
+
     filename = "download.jpg"
     response = requests.get(url)
 
