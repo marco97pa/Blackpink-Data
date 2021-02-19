@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Blackpink Data's documentation!
+Blackpink Data's documentation!
 ==========================================
 
 .. toctree::
@@ -28,36 +28,36 @@ Main script
 .. automodule:: main
    :members:
 
-Tweet module
+Tweet
 ------------
 
 .. automodule:: tweet
    :members:
 
-Utils module
+Utils
 ------------
 
 .. automodule:: utils
    :members:
 
-Birthdays module
+Birthdays
 -----------------
 
 .. automodule:: birthdays
    :members:
 
-YouTube module
+YouTube
 -----------------
 
 .. automodule:: youtube
    :members:
 
-Spotify module
+Spotify
 -----------------
 .. automodule:: spotify
    :members:
 
-Instagram module
+Instagram
 -----------------
 .. automodule:: instagram
    :members:
