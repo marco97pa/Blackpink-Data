@@ -209,13 +209,29 @@ YouTube
 .. automodule:: youtube
    :members:
 
+Instagram
+-----------------
+.. automodule:: instagram
+   :members:
+
 Spotify
 -----------------
 .. automodule:: spotify
    :members:
 
-Instagram
------------------
-.. automodule:: instagram
+Kworb (Spotify Charts)
+------------------------
+
+| Spotify does not have public stats and charts available, it only shows the `top 200 tracks`_ of the day.
+| `Kworb`_ is a site that tracks all the Spotify stats and shows them in a table.
+| Each artist has its `own page`_ with detailed stats of each song.
+| Remember that streams count could be underestimated: for more details visit `the FAQ`_ of **Kworb**
+
+.. _top 200 tracks: https://spotifycharts.com/regional
+.. _Kworb: https://kworb.net/spotify/
+.. _own page: https://kworb.net/spotify/artist/41MozSoPIsD1dJM0CLPjZF.html
+.. _the FAQ: https://kworb.net/faq.html
+
+.. automodule:: kworb
    :members:
    
