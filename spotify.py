@@ -34,8 +34,8 @@ def get_artist(spotify, artist):
     It tweets if the artist reaches a new goal of followers on Spotify
 
     Args:
-      spotify: The Spotify instance
-      artist: dictionary that contains all the data about the single artist
+      - spotify: The Spotify instance
+      - artist: dictionary that contains all the data about the single artist
 
     Returns:
       an artist dictionary with updated profile details
@@ -89,8 +89,8 @@ def get_discography(spotify, artist):
     So this function also tries to clean up the discography by removing duplicates.
 
     Args:
-      spotify: The Spotify instance
-      artist: dictionary that contains all the data about the single artist
+      - spotify: The Spotify instance
+      - artist: dictionary that contains all the data about the single artist
 
     Returns:
       an dictionary with updated discography details
@@ -185,8 +185,8 @@ def check_new_songs(artist, collection):
     It tweets if there is a new release or featuring of the artist.
 
     Args:
-      artist: dictionary that contains all the data about the single artist
-      collection: dictionary that contains all the updated discography of the artist
+      - artist: dictionary that contains all the data about the single artist
+      - collection: dictionary that contains all the updated discography of the artist
 
     Returns:
       an artist dictionary with updated discography details

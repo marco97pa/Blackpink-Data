@@ -8,8 +8,8 @@ def convert_num(mode, num):
     `convert_num("100K", 600000) returns 6`
 
     Args:
-      mode: (string) the scale for the conversion ("100K", "M", "10M", "100M", "B")
-      num: the number to be converted
+      - mode: (string) the scale for the conversion ("100K", "M", "10M", "100M", "B")
+      - num: the number to be converted
 
     Returns:
       the converted number
@@ -33,9 +33,9 @@ def display_num(num, short=False, decimal=False):
     """Converts a number in a readable format
 
     Args:
-      num: the number to be converted
-      short (optional): flag to get a long or short literal ("Mln" vs "million")
-      decimal (optional): flag to print also the first decimal digit (19.1 vs 19)
+      - num: the number to be converted
+      - short (optional): flag to get a long or short literal ("Mln" vs "million")
+      - decimal (optional): flag to print also the first decimal digit (19.1 vs 19)
 
     Returns:
       a string with a number in a readable format

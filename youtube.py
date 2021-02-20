@@ -52,8 +52,8 @@ def youtube_get_channel(yt, channel_id):
     """Gets details about a channel
 
     Args:
-      yt: The YouTube instance
-      channel_id: the ID of that channel on YouTube
+      - yt: The YouTube instance
+      - channel_id: the ID of that channel on YouTube
 
     Returns:
       an dictionary containing all the scraped data of that channel
@@ -77,9 +77,9 @@ def youtube_get_videos(yt, playlist_id, name):
     """Gets videos from a playlist
 
     Args:
-      yt: The YouTube instance
-      playlist_id: the ID of the playlist on YouTube
-      name: name of the channel owner of the playlist
+      - yt: The YouTube instance
+      - playlist_id: the ID of the playlist on YouTube
+      - name: name of the channel owner of the playlist
 
     Returns:
       a list of videos
@@ -122,8 +122,8 @@ def youtube_check_channel_change(old_channel, new_channel):
     It tweets if the channel reaches a new goal of subscribers or total views on YouTube
 
     Args:
-      old_channel: dictionary that contains all the old data of the channel
-      new_channel: dictionary that contains all the updated data of the channel
+      - old_channel: dictionary that contains all the old data of the channel
+      - new_channel: dictionary that contains all the updated data of the channel
 
     Returns:
       a dictionary with updated data of the channel
@@ -161,10 +161,10 @@ def youtube_check_videos_change(name, scale, old_videos, new_videos):
     It tweets if there is a new release or if a video reaches a new views goal.
 
     Args:
-      name: name of the channel
-      scale: number scale that triggers a new views goal (example: reaches a new million, a new billion...)
-      old_videos: list that contains all the old videos
-      new_videos: list that contains all the updated videos
+      - name: name of the channel
+      - scale: number scale that triggers a new views goal (example: reaches a new million, a new billion...)
+      - old_videos: list that contains all the old videos
+      - new_videos: list that contains all the updated videos
 
     Returns:
       new_videos

@@ -41,8 +41,8 @@ def instagram_last_post(artist, profile):
     It tweets if there is a new post: if the timestamp of the latest stored post does not match with the latest fetched post timestamp
 
     Args:
-      profile: a Profile instance, already scraped
-      artist: a dictionary with all the details of the artist
+      - profile: a Profile instance, already scraped
+      - artist: a dictionary with all the details of the artist
 
     Returns:
       an dictionary containing all the updated data of the artist
@@ -79,8 +79,8 @@ def instagram_profile(artist):
       artist: a dictionary with all the details of the artist
 
     Returns:
-      an dictionary containing all the updated data of the artist
-      a Profile instance
+      - an dictionary containing all the updated data of the artist
+      - a Profile instance
     """
 
     print("[{}] ({}) Fetching profile details".format(module, artist["instagram"]["url"][26:-1]))

@@ -91,8 +91,8 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     """ Post a photo with message on Twitter (uses the Tweepy module)
     
     Args:
-        message: a string containing the message to be posted
-        url: filename of the image to be posted
+        - message: a string containing the message to be posted
+        - url: filename of the image to be posted
     """
 
     if text is not None:
@@ -123,10 +123,10 @@ def edit_image(filename, text, text_size=200, crop=False):
     """ Edit an image by adding a text (uses the Pillow module)
     
     Args:
-        filename: filename of the image to be modified
-        text: text to be added
-        text_size (optional): size of the text (default: 200)
-        crop (optional): if enabled removes black bars from a video thumbnail (16:9 over 4:3)
+        - filename: filename of the image to be modified
+        - text: text to be added
+        - text_size (optional): size of the text (default: 200)
+        - crop (optional): if enabled removes black bars from a video thumbnail (16:9 over 4:3)
     """
     #Open image
     my_image = Image.open(filename)
