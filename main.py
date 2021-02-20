@@ -9,6 +9,7 @@ from birthdays import check_birthdays
 from instagram import instagram_data
 from youtube import youtube_data
 from spotify import spotify_data
+from kworb import kworb_data
 
 def load_group():
     """Reads the data.yaml YAML file
@@ -67,7 +68,7 @@ def check_args():
       A dictionary that contains all the sources and their state (enabled or disabled, True or False)
     """
 
-    source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True}
+    source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True, "kworb": True}
 
     if len(sys.argv) > 1:
         for arg in sys.argv:
@@ -94,6 +95,10 @@ def check_args():
             if arg == "-no-twitter":
                 print("-no-twitter parameter passed!")
                 source["twitter"] = False
+
+            if arg == "-no-kworb":
+                print("-no-kworb parameter passed!")
+                source["kworb"] = False
                 
     print()
     return source
@@ -119,5 +124,8 @@ if __name__ == '__main__':
     
     if source["spotify"]:
         group = spotify_data(group)
+
+    if source["kworb"]:
+        group = kworb_data(group)
 
     write_group(group)
