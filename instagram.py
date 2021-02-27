@@ -38,7 +38,7 @@ def instagram_data(group):
 def instagram_last_post(artist, profile):
     """Gets the last post of a profile
 
-    It tweets if there is a new post: if the timestamp of the latest stored post does not match with the latest fetched post timestamp
+    It tweets if there is a new post: if the timestamp of the latest stored post does not match with the latest fetched posts timestamp
 
     Args:
       - profile: a Profile instance, already scraped
@@ -51,23 +51,30 @@ def instagram_last_post(artist, profile):
     print("[{}] ({}) Fetching new posts".format(module, artist["instagram"]["url"][26:-1]))
 
     recents = profile.get_recent_posts()
-    recents[0].scrape(headers=headers)
-    if artist["instagram"]["last_post"]["timestamp"] != recents[0].timestamp:
-        artist["instagram"]["last_post"]["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
-        artist["instagram"]["last_post"]["caption"] = recents[0].caption
-        artist["instagram"]["last_post"]["timestamp"] = recents[0].timestamp
-        if recents[0].is_video:
+    
+    for recent in recents:
+      recent.scrape(headers=headers)
+      if recent.timestamp > artist["instagram"]["last_post"]["timestamp"]:
+        url = "https://www.instagram.com/p/" + recent.shortcode
+        if recent.is_video:
             content_type = "video"
             filename = "temp.mp4"
         else:
             content_type = "photo"
             filename = "temp.jpg"
-        recents[0].download(filename)
+        recent.download(filename)
         twitter_post_image(
-            "#{} posted a new {} on #Instagram:\n{}\n{}\n\n{}".format(artist["name"].upper(), content_type, clean_caption(artist["instagram"]["last_post"]["caption"]), artist["instagram"]["last_post"]["url"], hashtags),
+            "#{} posted a new {} on #Instagram:\n{}\n{}\n\n{}".format(artist["name"].upper(), content_type, clean_caption(recent.caption), url, hashtags),
             filename,
             None
         )
+      else:
+        break
+
+    artist["instagram"]["last_post"]["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
+    artist["instagram"]["last_post"]["caption"] = recents[0].caption
+    artist["instagram"]["last_post"]["timestamp"] = recents[0].timestamp
+    
     return artist
 
 def instagram_profile(artist):

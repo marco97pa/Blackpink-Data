@@ -2,6 +2,7 @@
 import os
 import tweepy
 from PIL import Image, ImageFont, ImageDraw 
+from utils import video_to_image
 
 # Get Twitter API keys
 consumer_key = os.environ.get('TWITTER_CONSUMER_KEY')
@@ -102,13 +103,13 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     print(message)
     print("Media: " + filename + "\n")
 
-    # Check if the file is a video and exit from function
+    # Check if the file is a video and converts it in an image
     # This is needed since Tweepy doesn't support videos
     # See this for more info: https://github.com/marco97pa/Blackpink-Data/issues/12
     # You can remove this check when the issue is fixed
     if filename[-3:] == "mp4":
-        print("WARNING: Video not posted since Tweepy doesn't support it\nSee https://github.com/marco97pa/Blackpink-Data/issues/12 for more info")
-        return
+        print("WARNING: Video not posted since Tweepy doesn't support it\nTaking a still image of it")
+        filename = video_to_image(filename)
 
     if test is False:
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
