@@ -95,11 +95,8 @@ def instagram_profile(artist):
     profile = Profile(artist["instagram"]["url"])
     profile.scrape(headers=headers)
     artist["instagram"]["posts"] = profile.posts
-    # Temporary fix to https://github.com/marco97pa/Blackpink-Data/issues/4
-    # Keep this line commented until this issue of instascrape is fixed:
-    # https://github.com/chris-greening/instascrape/issues/90
-    #
-    # artist["instagram"]["image"] = profile.profile_pic_url_hd
+    # Update profile pic
+    artist["instagram"]["image"] = profile.profile_pic_url_hd
 
     # Update followers only if there is an increase (fixes https://github.com/marco97pa/Blackpink-Data/issues/11)
     if profile.followers > artist["instagram"]["followers"]:
