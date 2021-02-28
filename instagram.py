@@ -93,7 +93,7 @@ def instagram_profile(artist):
     print("[{}] ({}) Fetching profile details".format(module, artist["instagram"]["url"][26:-1]))
 
     profile = Profile(artist["instagram"]["url"])
-    profile.scrape(headers=headers)
+    profile = profile.scrape(headers=headers, inplace=False)
     artist["instagram"]["posts"] = profile.posts
     # Update profile pic
     artist["instagram"]["image"] = profile.profile_pic_url_hd
