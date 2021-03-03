@@ -129,15 +129,16 @@ def youtube_check_channel_change(old_channel, new_channel):
       a dictionary with updated data of the channel
     """
     
-    # Tweet if subs reach a new 100 thousands
-    if convert_num("100K", new_channel["subs"]) != convert_num("100K", old_channel["subs"]):
-        twitter_post_image(
-            "#{} reached {} subscribers on #YouTube\n{}".format(new_channel["name"], display_num(new_channel["subs"], decimal=True), hashtags),
-            download_image(new_channel["image"]),
-            display_num(new_channel["subs"], short=True, decimal=True),
-            text_size=150
-        )
-    old_channel["subs"] = new_channel["subs"]
+    # Tweet if subs increase and reach a new 100 thousands
+    if new_channel["subs"] > old_channel["subs"]:
+      if convert_num("100K", new_channel["subs"]) != convert_num("100K", old_channel["subs"]):
+          twitter_post_image(
+              "#{} reached {} subscribers on #YouTube\n{}".format(new_channel["name"], display_num(new_channel["subs"], decimal=True), hashtags),
+              download_image(new_channel["image"]),
+              display_num(new_channel["subs"], short=True, decimal=True),
+              text_size=150
+          )
+      old_channel["subs"] = new_channel["subs"]
 
     # Tweet if total views reach a new mark (based on the views_scale)
     if convert_num(old_channel["views_scale"], new_channel["views"]) != convert_num(old_channel["views_scale"], old_channel["total_views"]):
