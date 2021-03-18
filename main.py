@@ -68,7 +68,7 @@ def check_args():
       A dictionary that contains all the sources and their state (enabled or disabled, True or False)
     """
 
-    source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True, "kworb": True}
+    source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True}
 
     if len(sys.argv) > 1:
         for arg in sys.argv:
@@ -96,9 +96,6 @@ def check_args():
                 print("-no-twitter parameter passed!")
                 source["twitter"] = False
 
-            if arg == "-no-kworb":
-                print("-no-kworb parameter passed!")
-                source["kworb"] = False
                 
     print()
     return source
@@ -125,7 +122,5 @@ if __name__ == '__main__':
     if source["spotify"]:
         group = spotify_data(group)
 
-    if source["kworb"]:
-        group = kworb_data(group)
 
     write_group(group)
