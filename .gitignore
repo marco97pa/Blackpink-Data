@@ -6,3 +6,4 @@ video_still.jpg
 icon.png
 __pycache__
 docs/build
+.cache
