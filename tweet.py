@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 import os
 import tweepy
+import sys
+import time
+
+import json
+import requests
+from requests_oauthlib import OAuth1
 from PIL import Image, ImageFont, ImageDraw 
 from utils import video_to_image
 
@@ -11,6 +17,13 @@ access_token = os.environ.get('TWITTER_ACCESS_KEY')
 access_token_secret = os.environ.get('TWITTER_ACCESS_SECRET')
 
 module = "Twitter"
+
+MEDIA_ENDPOINT_URL = 'https://upload.twitter.com/1.1/media/upload.json'
+
+oauth = OAuth1(consumer_key,
+  client_secret=consumer_secret,
+  resource_owner_key=access_token,
+  resource_owner_secret=access_token_secret)
 
 test = False
 
@@ -103,22 +116,32 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     print(message)
     print("Media: " + filename + "\n")
 
-    # Check if the file is a video and converts it in an image
-    # This is needed since Tweepy doesn't support videos
-    # See this for more info: https://github.com/marco97pa/Blackpink-Data/issues/12
-    # You can remove this check when the issue is fixed
-    if filename[-3:] == "mp4":
-        print("WARNING: Video not posted since Tweepy doesn't support it\nTaking a still image of it")
-        filename = video_to_image(filename)
 
     if test is False:
-        auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        auth.set_access_token(access_token, access_token_secret)
-        api = tweepy.API(auth)
+        # Check if the file is a video
+        if filename[-3:] == "mp4":
+            print("[{}] File is a video".format(module))
+            # If it is a video, start a chunk upload
+            videoTweet = VideoTweet(filename)
+            videoTweet.upload_init()
+            videoTweet.upload_append()
+            videoTweet.upload_finalize()
+            videoTweet.media_id
 
-        uploaded = api.media_upload(filename)
-        api.update_status(message, media_ids=[uploaded.media_id])
-        os.remove(filename)
+            auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+            auth.set_access_token(access_token, access_token_secret)
+            api = tweepy.API(auth)
+            api.update_status(message, media_ids=[videoTweet.media_id])
+            os.remove(filename)
+
+        else:
+            auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+            auth.set_access_token(access_token, access_token_secret)
+            api = tweepy.API(auth)
+
+            uploaded = api.media_upload(filename)
+            api.update_status(message, media_ids=[uploaded.media_id])
+            os.remove(filename)
 
 def edit_image(filename, text, text_size=200, crop=False):
     """ Edit an image by adding a text (uses the Pillow module)
@@ -153,3 +176,123 @@ def edit_image(filename, text, text_size=200, crop=False):
     image_editable.text((50,15), text, (237, 230, 211), font=title_font)
     # Save image
     my_image.save(filename)
+
+
+class VideoTweet(object):
+
+  def __init__(self, file_name):
+    '''
+    Defines video tweet properties
+    '''
+    self.video_filename = file_name
+    self.total_bytes = os.path.getsize(self.video_filename)
+    self.media_id = None
+    self.processing_info = None
+
+
+  def upload_init(self):
+    '''
+    Initializes Upload
+    '''
+    print("[{}] (video) Initializing...".format(module))
+
+    request_data = {
+      'command': 'INIT',
+      'media_type': 'video/mp4',
+      'total_bytes': self.total_bytes,
+      'media_category': 'tweet_video'
+    }
+
+    req = requests.post(url=MEDIA_ENDPOINT_URL, data=request_data, auth=oauth)
+    media_id = req.json()['media_id']
+
+    self.media_id = media_id
+
+
+  def upload_append(self):
+    '''
+    Uploads media in chunks and appends to chunks uploaded
+    '''
+
+    print("[{}] (video) Appending...".format(module))
+
+    segment_id = 0
+    bytes_sent = 0
+    file = open(self.video_filename, 'rb')
+
+    while bytes_sent < self.total_bytes:
+      chunk = file.read(4*1024*1024)
+
+      request_data = {
+        'command': 'APPEND',
+        'media_id': self.media_id,
+        'segment_index': segment_id
+      }
+
+      files = {
+        'media':chunk
+      }
+
+      req = requests.post(url=MEDIA_ENDPOINT_URL, data=request_data, files=files, auth=oauth)
+
+      if req.status_code < 200 or req.status_code > 299:
+        print(req.status_code)
+        print(req.text)
+        sys.exit(0)
+
+      segment_id = segment_id + 1
+      bytes_sent = file.tell()
+
+      print("[{}] (video) {}%".format(module, int((bytes_sent / self.total_bytes) * 100)))
+
+    print("[{}] (video) Upload complete".format(module))
+
+
+  def upload_finalize(self):
+    '''
+    Finalizes uploads and starts video processing
+    '''
+    print("[{}] (video) Finalizing...".format(module))
+
+    request_data = {
+      'command': 'FINALIZE',
+      'media_id': self.media_id
+    }
+
+    req = requests.post(url=MEDIA_ENDPOINT_URL, data=request_data, auth=oauth)
+
+    self.processing_info = req.json().get('processing_info', None)
+    self.check_status()
+
+
+  def check_status(self):
+    '''
+    Checks video processing status
+    '''
+    if self.processing_info is None:
+      return
+
+    state = self.processing_info['state']
+
+    print("[{}] (video) Media processing status is {}".format(module, state))
+
+    if state == u'succeeded':
+      print("[{}] (video) Posted successfully!".format(module))
+      return
+
+    if state == u'failed':
+      sys.exit(0)
+
+    check_after_secs = self.processing_info['check_after_secs']
+    
+    time.sleep(check_after_secs)
+
+    request_params = {
+      'command': 'STATUS',
+      'media_id': self.media_id
+    }
+
+    req = requests.get(url=MEDIA_ENDPOINT_URL, params=request_params, auth=oauth)
+    
+    self.processing_info = req.json().get('processing_info', None)
+    self.check_status()
