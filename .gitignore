@@ -7,3 +7,4 @@ icon.png
 __pycache__
 docs/build
 .cache
+.vscode
