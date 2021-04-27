@@ -81,6 +81,7 @@ The project is really modular and by editing the YAML file you can easily fork t
 * [insta-scrape](https://pypi.org/project/insta-scrape/)
 * [youtube-data-api](https://pypi.org/project/youtube-data-api/)
 * [spotipy](https://github.com/plamere/spotipy)
+* [billboard.py](https://github.com/guoguo12/billboard-charts)
 
 
 
