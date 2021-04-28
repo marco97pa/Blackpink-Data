@@ -57,7 +57,7 @@ def get_artist(spotify, artist):
         artist["image"] = None
         print("WARNING: Cannot fetch image of {}".format(artist["name"])) # This fix is needed for artists without a profile image
 
-    if convert_num("100K", artist["followers"]) != convert_num("100K", artist_details["followers"]["total"]):
+    if convert_num("100K", artist_details["followers"]["total"]) > convert_num("100K", artist["followers"]):
         artist["followers"] = artist_details["followers"]["total"]
         twitter_post_image(
             "#{} reached {} followers on #Spotify\n{}\n{}".format(artist["name"].upper(), display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
