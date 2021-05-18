@@ -1,0 +1,29 @@
+name: BLACKPINK # name of the group
+hashtags: '#BLACKPINK #blinks @BLACKPINK' # insert hashtag here: they will be added to the Tweets
+spotify:
+  id: 41MozSoPIsD1dJM0CLPjZF # ID of the artist in Spotify
+  followers: 0 # Leave zero: it will be updated on the first launch
+twitter:
+  url: blackpink # Twitter nickname of the account (@)
+instagram:
+  url: https://www.instagram.com/blackpinkofficial/ # URL to the Instagram account
+youtube:
+  name: BLACKPINK # Name of the account on YouTube (you can leave it blank)
+  url: UCOmHUn--16B90oW2L6FRR3A # Unique ID on YouTube (you can find it in the URL of the channel)
+  views_scale: B # Scale of views of the whole channel, you will get a tweet if it reaches a new Billon, Million etc...
+  videos_scale: B # Same as above but for single videos views
+  subs: '0' # Leave zero: it will be updated on the first launch
+  total_views: '0' # Leave zero: it will be updated on the first launch
+  videos: # Leave empty: it will be populated on the first launch
+members:
+- name: Jennie
+  years: 25
+  birthday: 18/05/1996 # Date of birth in DD/MM/YYYY
+  hashtags: '#JENNIE #제니 #BLACKPINK @BLACKPINK' # insert hashtag here: they will be added to the Tweets
+  instagram:
+    url: https://www.instagram.com/jennierubyjane/ # URL to the Instagram account
+
+# You can add more members or social network services for each member
+# Remember that you should launch the Python script with -no-tweet for the first launch
+# You can also disable single services by adding more parameters like -no-instagram
+

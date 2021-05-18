@@ -9,7 +9,6 @@ instagram_sessionid = os.environ.get('INSTAGRAM_SESSION_ID')
 headers = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 Edg/87.0.664.57",
 "cookie": f"sessionid={instagram_sessionid};"}
 
-hashtags = "\n@BLACKPINK #blinks #photo #pic"
 module = "Instagram"
 
 def instagram_data(group):
@@ -54,7 +53,8 @@ def instagram_last_post(artist, profile):
     
     for recent in recents:
       recent.scrape(headers=headers)
-      if recent.timestamp > artist["instagram"]["last_post"]["timestamp"]:
+      # If the last post timestamp is greater (post is newest) or the saved post does not exist
+      if "last_post" not in artist["instagram"] or recent.timestamp > artist["instagram"]["last_post"]["timestamp"]:
         url = "https://www.instagram.com/p/" + recent.shortcode
         if recent.is_video:
             content_type = "video"
@@ -64,16 +64,19 @@ def instagram_last_post(artist, profile):
             filename = "temp.jpg"
         recent.download(filename)
         twitter_post_image(
-            "#{} posted a new {} on #Instagram:\n{}\n{}\n\n{}".format(artist["name"].upper(), content_type, clean_caption(recent.caption), url, hashtags),
+            "{} posted a new {} on #Instagram:\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(recent.caption), url, artist["hashtags"]),
             filename,
             None
         )
       else:
         break
 
-    artist["instagram"]["last_post"]["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
-    artist["instagram"]["last_post"]["caption"] = recents[0].caption
-    artist["instagram"]["last_post"]["timestamp"] = recents[0].timestamp
+    last_post = {}
+    last_post["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
+    last_post["caption"] = recents[0].caption
+    last_post["timestamp"] = recents[0].timestamp
+
+    artist["instagram"]["last_post"] = last_post
     
     return artist
 
@@ -98,12 +101,16 @@ def instagram_profile(artist):
     # Update profile pic
     artist["instagram"]["image"] = profile.profile_pic_url_hd
 
+    # Add followers if never happened before
+    if "followers" not in artist["instagram"]:
+      artist["instagram"]["followers"] = profile.followers
+
     # Update followers only if there is an increase (fixes https://github.com/marco97pa/Blackpink-Data/issues/11)
     if profile.followers > artist["instagram"]["followers"]:
         print("[{}] ({}) Followers increased {} --> {}".format(module, artist["instagram"]["url"][26:-1], artist["instagram"]["followers"], profile.followers))
         if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", profile.followers):
             twitter_post_image(
-                "#{} reached {} followers on #Instagram\n{}".format(artist["name"].upper(), display_num(profile.followers), hashtags),
+                "{} reached {} followers on #Instagram\n{}".format(artist["name"], display_num(profile.followers), artist["hashtags"]),
                 download_image(artist["instagram"]["image"]),
                 display_num(profile.followers, short=True),
                 text_size=50
