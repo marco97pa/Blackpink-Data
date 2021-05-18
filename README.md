@@ -95,7 +95,10 @@ To get a copy up and running follow these simple steps.
 
 Make sure you have installed:
 * Python **3.8**
-* pip
+* pip  
+
+_While not necessary, this project supports **pyenv**:  
+in that case all the python command will be 'python' instead of 'python3' and 'pip' instead of 'pip3'_
 
 ### Installation
 

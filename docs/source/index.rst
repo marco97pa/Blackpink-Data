@@ -115,11 +115,11 @@ Fork
 --------------------
 By editing the data.yaml file you can make the script work with a different artist group.
 
-For example, you could make a BTS Data Bot. 
+For example, you could make a BTS Data Bot by editing the provided **sample_data.yaml** file and saving it as data.yaml
 
 Edit the data.yaml accordingly with all the data you know. Leave empty fields or write fake data if you don't know some details: they will be overwritten with the real ones at the first launch of the script.
 
-With minimal code edits, the script could work even for single artists and not only groups.
+With minimal or no code edits, the script could work even for single artists and not only groups.
 
 Run
 ----
@@ -219,19 +219,8 @@ Spotify
 .. automodule:: spotify
    :members:
 
-Kworb (Spotify Charts)
+Billboard Charts
 ------------------------
-
-| Spotify does not have public stats and charts available, it only shows the `top 200 tracks`_ of the day.
-| `Kworb`_ is a site that tracks all the Spotify stats and shows them in a table.
-| Each artist has its `own page`_ with detailed stats of each song.
-| Remember that streams count could be underestimated: for more details visit `the FAQ`_ of **Kworb**
-
-.. _top 200 tracks: https://spotifycharts.com/regional
-.. _Kworb: https://kworb.net/spotify/
-.. _own page: https://kworb.net/spotify/artist/41MozSoPIsD1dJM0CLPjZF.html
-.. _the FAQ: https://kworb.net/faq.html
-
-.. automodule:: kworb
+.. automodule:: billboard_charts
    :members:
    
