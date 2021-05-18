@@ -69,6 +69,7 @@ def check_args():
     """
 
     source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True, "billboard": True}
+    write = True
 
     if len(sys.argv) > 1:
         for arg in sys.argv:
@@ -99,15 +100,19 @@ def check_args():
             if arg == "-no-twitter":
                 print("-no-twitter parameter passed!")
                 source["twitter"] = False
+            
+            if arg == "-no-write":
+                print("-no-write parameter passed!")
+                write = False
 
                 
     print()
-    return source
+    return source, write
 
 
 if __name__ == '__main__':
 
-    source = check_args()
+    source, write = check_args()
     
     group = load_group()
 
@@ -129,5 +134,5 @@ if __name__ == '__main__':
     if source["billboard"]:
         group = billboard_data(group)
 
-
-    write_group(group)
+    if write:
+        write_group(group)
