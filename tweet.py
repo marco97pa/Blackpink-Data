@@ -53,7 +53,7 @@ def twitter_repost(artist):
 
     print("[{}] ({}) Fetching tweets".format(module, artist["twitter"]["url"]))
 
-    if artist["twitter"]["last_tweet_id"] is not None:
+    if "last_tweet_id" in artist["twitter"] and artist["twitter"]["last_tweet_id"] is not None:
         tweets = api.user_timeline(screen_name = artist["twitter"]["url"], 
                                 since_id = artist["twitter"]["last_tweet_id"],
                                 include_rts = False,

@@ -3,7 +3,6 @@ import billboard
 from datetime import date
 from tweet import twitter_post
 
-hashtags= "\n@BLACKPINK #blinks #music #kpop"
 module = "Billboard"
 
 def billboard_data(group):
@@ -36,7 +35,7 @@ def billboard_data(group):
 		group["billboard_check"] = date.today().strftime("%d-%m-%Y")
 
 		if len(report) > 0:
-			report = "Today on #Billboard #Hot100:\n" + report + hashtags
+			report = "Today on #Billboard #Hot100:\n" + report + "\n" + group["hashtags"]
 			twitter_post(report)
 		else:
 			print("[{}] No songs found for the provided artist(s)".format(module))

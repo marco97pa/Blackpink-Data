@@ -30,7 +30,7 @@ def check_birthdays(group):
             if member["years"] != difference:
                 member["years"] = difference
                 twitter_post_image(
-                    "Today is #{}'s birthday! She did {} years\n#{}bday #blackpink @BLACKPINK".format(member["name"].upper(), difference, member["name"].lower()),
+                    "Today is #{}'s birthday! She did {} years\n{}".format(member["name"].upper(), difference, member["hashtags"]),
                     download_image(member["instagram"]["image"]),
                     str(difference)
                     )

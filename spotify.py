@@ -4,7 +4,6 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from utils import display_num, convert_num, download_image
 from tweet import twitter_post, twitter_post_image
 
-hashtags= "\n@BLACKPINK #blinks #music #kpop"
 module = "Spotify"
 
 def login():
@@ -28,7 +27,7 @@ def login():
 
     return spotify
 
-def get_artist(spotify, artist):
+def get_artist(spotify, artist, hashtags):
     """Gets details about an artist
 
     It tweets if the artist reaches a new goal of followers on Spotify
@@ -36,6 +35,7 @@ def get_artist(spotify, artist):
     Args:
       - spotify: The Spotify instance
       - artist: dictionary that contains all the data about the single artist
+      - hashtags: hashtags to append to the Tweet
 
     Returns:
       an artist dictionary with updated profile details
@@ -60,7 +60,7 @@ def get_artist(spotify, artist):
     if convert_num("100K", artist_details["followers"]["total"]) > convert_num("100K", artist["followers"]):
         artist["followers"] = artist_details["followers"]["total"]
         twitter_post_image(
-            "#{} reached {} followers on #Spotify\n{}\n{}".format(artist["name"].upper(), display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
+            "{} reached {} followers on #Spotify\n{}\n{}".format(artist["name"], display_num(artist["followers"], decimal=True), link_artist(artist["id"]), hashtags),
             download_image(artist["image"]),
             display_num(artist["followers"], short=True, decimal=True),
             text_size=125
@@ -178,7 +178,7 @@ def get_discography(spotify, artist):
 
     return result
 
-def check_new_songs(artist, collection):
+def check_new_songs(artist, collection, hashtags):
     """Checks if there is any new song
 
     It compares the old discography of the artist with the new (already fetched) discography.
@@ -187,29 +187,33 @@ def check_new_songs(artist, collection):
     Args:
       - artist: dictionary that contains all the data about the single artist
       - collection: dictionary that contains all the updated discography of the artist
+      - hashtags: hashtags to append to the Tweet
 
     Returns:
       an artist dictionary with updated discography details
     """
     print("[{}] ({}) Checking new songs...".format(module, artist["name"]))
-    old = artist["discography"]
 
-    for album in collection:
-        found = False
-        for old_album in old:
-            if album["name"] == old_album["name"]:
-                found = True
-                break
-        if not found:
-            if album["type"] != 'appears_on':
-                twitter_post_image(
-                    "#{} released a new {} on #Spotify: {}\n{}\n{}".format(artist["name"].upper(), album["type"], album["name"], link_album(album["id"]), hashtags),
-                    download_image(album["image"]),
-                    None
-                    )
-            else:
-                twitter_post("#{} appeared on {} by {} with the song {}\n{}\n{} #spotify".format(artist["name"].upper(), album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags ))
-    
+    # Skip check if discography is empty
+    if "discography" in artist:
+      old = artist["discography"]
+
+      for album in collection:
+          found = False
+          for old_album in old:
+              if album["name"] == old_album["name"]:
+                  found = True
+                  break
+          if not found:
+              if album["type"] != 'appears_on':
+                  twitter_post_image(
+                      "{} released a new {} on #Spotify: {}\n{}\n{}".format(artist["name"], album["type"], album["name"], link_album(album["id"]), hashtags),
+                      download_image(album["image"]),
+                      None
+                      )
+              else:
+                  twitter_post("{} appeared on {} by {} with the song {}\n{}\n{} #spotify".format(artist["name"], album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags))
+      
     artist["discography"] = collection
     return artist
 
@@ -249,15 +253,15 @@ def spotify_data(group):
     print("[{}] Starting tasks...".format(module))
     spotify = login()
 
-    group["spotify"] = get_artist(spotify, group["spotify"])
+    group["spotify"] = get_artist(spotify, group["spotify"], group["hashtags"])
     collection = get_discography(spotify, group["spotify"])
-    group["spotify"] = check_new_songs(group["spotify"], collection)
+    group["spotify"] = check_new_songs(group["spotify"], collection, group["hashtags"])
 
     for member in group["members"]:
         if "spotify" in member:
-            member["spotify"] = get_artist(spotify, member["spotify"])
+            member["spotify"] = get_artist(spotify, member["spotify"], member["hashtags"])
             collection = get_discography(spotify, member["spotify"])
-            member["spotify"] = check_new_songs(member["spotify"], collection)
+            member["spotify"] = check_new_songs(member["spotify"], collection,  member["hashtags"])
 
     print()
 

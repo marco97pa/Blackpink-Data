@@ -1,4 +1,5 @@
 name: BLACKPINK
+hashtags: "#블랙핑크 #BLACKPINK #blinks @BLACKPINK"
 spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
   followers: 21618095
@@ -2046,116 +2047,11 @@ youtube:
     views: '69728396'
     image: https://i.ytimg.com/vi/3fg8pyLKvXE/hqdefault.jpg
   image: https://yt3.ggpht.com/ytc/AAUvwnheBe2kEkBDitMl_iIGaTiiP4PeG6pO562vu9ch7g=s800-c-k-c0x00ffffff-no-rj-mo
-kworb:
-- id: 3vAn0qZzdyuHamcrpkfiX3
-  name: How You Like That
-  streams: 366761123
-- id: 4pUCKHjJ4Ijewc37rRrvHn
-  name: Kill This Love
-  streams: 252089706
-- id: 4JUPEh2DVSXFGExu4Uxevz
-  name: Ice Cream
-  streams: 236147376
-- id: 13hvHEstJ4sNbzdroPrPI3
-  name: Kiss and Make Up
-  streams: 229015031
-- id: 4Ws314Ylb27BVsvlZOy30C
-  name: Lovesick Girls
-  streams: 155286051
-- id: 1IWNylpZ477gIVUDpJL66u
-  name: Sour Candy
-  streams: 113573963
-- id: 1XnpzbOGptRwfJhZgLbmSr
-  name: Pretty Savage
-  streams: 80076549
-- id: 1Zyd6zQnC6XIIzmg3hP7Ot
-  name: As If It's Your Last
-  streams: 71943696
-- id: 2CWnuF7ht55Ajyeg4WPvWu
-  name: DDU-DU DDU-DU - KR Ver.
-  streams: 70823164
-- id: 7iAgNZdotu40NwtoIWJHFe
-  name: Bet You Wanna
-  streams: 60703164
-- id: 2aI2k39nfa3KFsa4JclQzw
-  name: DDU-DU DDU-DU
-  streams: 53336361
-- id: 1TaQciB8qqRZ9fxWGhS65X
-  name: Don't Know What To Do
-  streams: 39264547
-- id: 7iKDsPfLT0d5mu2htfMKBZ
-  name: Love To Hate Me
-  streams: 34461144
-- id: 7qq0EOPW4RRlqdvMBmdd73
-  name: Crazy Over You
-  streams: 31733145
-- id: 39kzWAiVPpycdMpr745oPj
-  name: You Never Know
-  streams: 27188367
-- id: 1qAPA8TooLVEqAZ58fhcrt
-  name: BOOMBAYAH - KR Ver.
-  streams: 25788557
-- id: 57Enap29zKl7NGRdDJjkjA
-  name: FOREVER YOUNG - KR Ver.
-  streams: 22298492
-- id: 56bHclo7YNvpujMveLElQn
-  name: Forever Young
-  streams: 19079976
-- id: 5OepnJhqZoyJN8qWo2LZzy
-  name: PLAYING WITH FIRE - KR Ver.
-  streams: 13108620
-- id: 5R0cvR5BMFkLomChhmcCzr
-  name: Kick It
-  streams: 12274254
-- id: 5ANbXf5qR48a4jfFnSq80w
-  name: PLAYING WITH FIRE
-  streams: 7367683
-- id: 67BbMuItfrHmaNqDxBPF7c
-  name: WHISTLE - KR Ver.
-  streams: 7221494
-- id: 32107DdzIGbVs9Pi54MuRS
-  name: Hope Not
-  streams: 6709343
-- id: 3hfN1wQSiLPa6b1RX5Kfbj
-  name: WHISTLE
-  streams: 6549130
-- id: 0NeNAcCVtGqLAAmf4FhWWT
-  name: BOOMBAYAH
-  streams: 6435161
-- id: 7AWtaOSb7cgi16wJr3mkuf
-  name: REALLY - KR Ver.
-  streams: 4667768
-- id: 7tXQdx76iQVFeaBGDzXpZ2
-  name: DDU-DU DDU-DU - Remix
-  streams: 3570734
-- id: 514mQDPkXmPzsYwGNmkBJZ
-  name: SEE U LATER - KR Ver.
-  streams: 3459669
-- id: 2r5oD7twaQTsv5KoRS6v16
-  name: Really
-  streams: 3013025
-- id: 3AyLh4R4D3fQfyqCsTdFf3
-  name: See U Later
-  streams: 2026888
-- id: 5LBxMvApPk3HdsQdi6DT9L
-  name: STAY
-  streams: 1354207
-- id: 2tnBkiyJWLnQGsjyz4BuJJ
-  name: STAY - KR Ver.
-  streams: 279418
-- id: 3SQUu7BMxRJSBMQdTbN0P5
-  name: WHISTLE (Acoustic Ver.)
-  streams: 157890
-- id: 3OLkecLbqxFwIyjTWQXtvt
-  name: So Hot
-  streams: 39372
-- id: 5m8wiO2ySMpCtYSwHatWQr
-  name: AS IF IT'S YOUR LAST - Japanese Version
-  streams: 4894
 members:
 - name: Lisa
   years: 24
   birthday: 27/03/1997
+  hashtags: "#LISA #리사 #BLACKPINK @BLACKPINK"
   youtube:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
@@ -2230,6 +2126,7 @@ members:
 - name: Jennie
   years: 25
   birthday: 16/01/1996
+  hashtags: "#JENNIE #제니 #BLACKPINK @BLACKPINK"
   youtube:
     name: Jennierubyjane Official
     url: UCNYi_zGmR519r5gYdOKLTjQ
@@ -2356,6 +2253,7 @@ members:
 - name: Rosé
   years: 24
   birthday: 11/02/1997
+  hashtags: "#로제 #ROSÉ #BLACKPINK @BLACKPINK"
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 40925752
@@ -2423,6 +2321,7 @@ members:
 - name: Jisoo
   years: 26
   birthday: 03/01/1995
+  hashtags: " #지수 #JISOO #BLACKPINK @BLACKPINK"
   instagram:
     url: https://www.instagram.com/sooyaaa__/
     followers: 40799428
