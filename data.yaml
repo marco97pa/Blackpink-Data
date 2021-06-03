@@ -5,61 +5,61 @@ spotify:
   followers: 22011404
   discography:
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 5IDJBkr9EzMofENo4ScNxi
+    id: 05tjy9njMXtZhhQKy6eSbw
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
     tracks:
     - name: Kill This Love - Live
-      id: 1GrGs8HBvOHHdeho4w1ZkH
+      id: 20M2G72S2uPv5HSGlbjzau
     - name: Crazy Over You - Live
-      id: 20O6VxUyfLn6Zk8izFpMeu
+      id: 7DrC7HY96mwYCZTdVMWRqC
     - name: How You Like That - Live
-      id: 3p9HltmtqXCvCSKKOKMZ29
+      id: 2t7einPRQzodw4hn1mTey3
     - name: Don't Know What To Do - Live
-      id: 6BYdrWzCp2tL2RKSoncArx
+      id: 4YRsEUhV94lfsE8ths8qnF
     - name: PLAYING WITH FIRE - Live
-      id: 7jKhvwWoXGmfc8Ehc4kFrt
+      id: 6HenyHrl0dlPFZKZeZrQL1
     - name: Lovesick Girls - Live
-      id: 4GPLXDicIuRmAELK5RWvCw
+      id: 1H7ZzRGyuyccxcCEl5iZka
     - name: Love To Hate Me + You Never Know - Live
-      id: 76F0GgW1qB7nED5CQeZSrX
+      id: 7aD3TKOSytAienGPAe7mUO
     - name: Pretty Savage - Live
-      id: 3ua8wdqzl3SdgElppgcuf2
+      id: 6L21Zb4gCi8DsGFfRWzP1e
     - name: DDU-DU DDU-DU - Live
-      id: 4gXhyN8S81jbq50NdEUcLR
+      id: 0wYdz8PwtGIuxOcgsAfBTV
     - name: WHISTLE - Live
-      id: 5dUFWYt4BJfWlhC9CxWFGe
+      id: 2Lf2DTkeqCRka9Gw7dT0cI
     - name: As If It's Your Last - Live
-      id: 5ROltcFSXdACTwRwOyJRzv
+      id: 0xY0xiUh7JAq7WKAMZbX6V
     - name: BOOMBAYAH - Live
-      id: 1kUXkPQh6G8GLAIVIMgJwk
+      id: 4pvNkEwArOjdB0usShWcFm
     - name: Forever Young - Live
-      id: 3QCRpdVPsCK11k5zUMfc1l
+      id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -349,20 +349,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 0wOiWrujRbxlKEGWRQpKYc
+    id: 6yetqbA9vli7RLoUWYZLsq
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
+    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
     tracks:
     - name: DDU-DU DDU-DU
-      id: 4lQsB3ERTWSNaAN1IkuNRl
+      id: 69BIczdH6QMnFx7dsSssN8
     - name: Forever Young
-      id: 6veFyjNycn6EaNCKhkPXUY
+      id: 2Pp9osgyIcw6o1avfDDDhH
     - name: Really
-      id: 2URMA0ap6SAI8wFmcY1yta
+      id: 4HxVweMysEnuYxy3gkFtKk
     - name: See U Later
-      id: 2REoTZjaB3jyAt5dgkV5GK
+      id: 5RBH8ypFAj5HTZTPRpI1XL
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -497,16 +497,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ MIX)
-    id: 6qCqOI40caiiu8vcldqKDT
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Club Future Nostalgia (DJ Mix)
     id: 3W04W2HfQ5kVeByxfjbu2C
     release_date: '2020-08-28'
@@ -517,6 +507,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6P8SQWN3pcLKChWHt73fZV
+  - name: Club Future Nostalgia (DJ MIX)
+    id: 6qCqOI40caiiu8vcldqKDT
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -589,7 +589,7 @@ spotify:
       id: 1IWNylpZ477gIVUDpJL66u
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
-  popularity: 88
+  popularity: 87
   genres:
   - k-pop
   - k-pop girl group
@@ -599,9 +599,9 @@ twitter:
   last_tweet_id: 1382499836663005186
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 38208158
+  followers: 38209961
   posts: 1128
-  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=Vo5-yX6gzUMAX9obJt8&edm=ABfd0MgBAAAA&ccb=7-4&oh=36019059f9fb4ba3e32c8612be02393f&oe=60BF0F4C&_nc_sid=7bff83
+  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=Vo5-yX6gzUMAX8wdUdE&edm=ABfd0MgBAAAA&ccb=7-4&oh=11ea55c43e49f0325a123e425274e837&oe=60BF0F4C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CPkZLZzD05c
     caption: "BLACKPINK 2021 [THE SHOW] DVD \U0001F4C0\U0001F4BF\n\n===\n\nRelease\
@@ -621,1445 +621,1445 @@ youtube:
   videos:
   - name: BLACKPINK ­- JAPAN 1st FULL ALBUM 「THE ALBUM -JP Ver.-」
     url: wiOGSpOV9T8
-    views: '2061057'
+    views: '2118908'
     image: https://i.ytimg.com/vi/wiOGSpOV9T8/hqdefault.jpg
   - name: BLACKPINK - 2021 [THE SHOW] DVD & KiT VIDEO RELEASE
     url: oIupRdK7pwM
-    views: '3007001'
+    views: '3032882'
     image: https://i.ytimg.com/vi/oIupRdK7pwM/hqdefault.jpg
   - name: LISA PHOTOBOOK [0327] VOL.2 -SECOND EDITION- Online Fansigning Event
     url: e93WOX_gIvM
-    views: '4410363'
+    views: '4411784'
     image: https://i.ytimg.com/vi/e93WOX_gIvM/hqdefault.jpg
   - name: ROSÉ - 'Gone' M/V MAKING FILM
     url: XEb5u0lJARU
-    views: '5574865'
+    views: '5576698'
     image: https://i.ytimg.com/vi/XEb5u0lJARU/hqdefault.jpg
   - name: ROSÉ - 'Gone' M/V
     url: K9_VFxzCuQ0
-    views: '84637505'
+    views: '84688662'
     image: https://i.ytimg.com/vi/K9_VFxzCuQ0/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' 0404 SBS Inkigayo
     url: kZZYkrDWUls
-    views: '3949262'
+    views: '3950258'
     image: https://i.ytimg.com/vi/kZZYkrDWUls/hqdefault.jpg
   - name: 'ROSÉ - ''On The Ground'' 0328 SBS Inkigayo : NO.1 OF THE WEEK'
     url: VFBj5sWfbH4
-    views: '4201853'
+    views: '4202588'
     image: https://i.ytimg.com/vi/VFBj5sWfbH4/hqdefault.jpg
   - name: How ROSÉ’S Song “On The Ground” Makes Her Feel | RELEASED
     url: S7_iy3BOgvk
-    views: '952397'
+    views: '952513'
     image: https://i.ytimg.com/vi/S7_iy3BOgvk/hqdefault.jpg
   - name: ROSÉ Talks about Going Solo and “On The Ground” | RELEASED
     url: jxqzqCEvTcY
-    views: '770647'
+    views: '770788'
     image: https://i.ytimg.com/vi/jxqzqCEvTcY/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' Dance Performance
     url: z6CSW2yu8Mg
-    views: '47241663'
+    views: '47257732'
     image: https://i.ytimg.com/vi/z6CSW2yu8Mg/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' 0321 SBS Inkigayo
     url: AkISOALL8Cw
-    views: '7592247'
+    views: '7593366'
     image: https://i.ytimg.com/vi/AkISOALL8Cw/hqdefault.jpg
   - name: Getting to Know ROSÉ | RELEASED
     url: h9g8Z07tZvU
-    views: '1648085'
+    views: '1648283'
     image: https://i.ytimg.com/vi/h9g8Z07tZvU/hqdefault.jpg
   - name: ROSÉ’s Solo Performance | RELEASED
     url: BMesMlKi2oc
-    views: '2866845'
+    views: '2867058'
     image: https://i.ytimg.com/vi/BMesMlKi2oc/hqdefault.jpg
   - name: ROSÉ - FIRST SINGLE ALBUM -R- MAKING FILM
     url: _iOBHJLe3eE
-    views: '4863095'
+    views: '4863500'
     image: https://i.ytimg.com/vi/_iOBHJLe3eE/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' 0314 SBS Inkigayo
     url: Q88P1gpOJxA
-    views: '22343283'
+    views: '22344548'
     image: https://i.ytimg.com/vi/Q88P1gpOJxA/hqdefault.jpg
   - name: ROSÉ - 'Gone' 0314 SBS Inkigayo
     url: fjp4thii1WY
-    views: '11710104'
+    views: '11710943'
     image: https://i.ytimg.com/vi/fjp4thii1WY/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' M/V MAKING FILM
     url: wexdV6Gj84s
-    views: '6820827'
+    views: '6821204'
     image: https://i.ytimg.com/vi/wexdV6Gj84s/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' M/V
     url: CKZvWhCqx1s
-    views: '180977018'
+    views: '181026042'
     image: https://i.ytimg.com/vi/CKZvWhCqx1s/hqdefault.jpg
   - name: 'ROSÉ - ''On The Ground'' M/V TEASER #2'
     url: UmiVBYrBrkU
-    views: '16765365'
+    views: '16765714'
     image: https://i.ytimg.com/vi/UmiVBYrBrkU/hqdefault.jpg
   - name: ROSÉ - 'On The Ground' M/V TEASER
     url: _W8y2A9sK6s
-    views: '17099948'
+    views: '17100213'
     image: https://i.ytimg.com/vi/_W8y2A9sK6s/hqdefault.jpg
   - name: 'CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26'
     url: E1yePjSH87U
-    views: '3947402'
+    views: '3947598'
     image: https://i.ytimg.com/vi/E1yePjSH87U/hqdefault.jpg
   - name: ROSÉ - COMING SOON
     url: LGkUW5cUPz8
-    views: '51860198'
+    views: '51860827'
     image: https://i.ytimg.com/vi/LGkUW5cUPz8/hqdefault.jpg
   - name: 'BLACKPINK - ''THE SHOW'' MESSAGE VIDEO #3'
     url: pkf1t2trKyg
-    views: '6132802'
+    views: '6132954'
     image: https://i.ytimg.com/vi/pkf1t2trKyg/hqdefault.jpg
   - name: BLACKPINK - ‘THE SHOW’ VIEWING TIP
     url: ahXqvtkgG9A
-    views: '4672125'
+    views: '4672268'
     image: https://i.ytimg.com/vi/ahXqvtkgG9A/hqdefault.jpg
   - name: 'BLACKPINK - ''THE SHOW'' MESSAGE VIDEO #2'
     url: DOzjtEV7Bjk
-    views: '3694494'
+    views: '3694590'
     image: https://i.ytimg.com/vi/DOzjtEV7Bjk/hqdefault.jpg
   - name: BLACKPINK 2021 SEASON'S GREETINGS PREVIEW
     url: J0bgkMW8nRQ
-    views: '3991613'
+    views: '3991701'
     image: https://i.ytimg.com/vi/J0bgkMW8nRQ/hqdefault.jpg
   - name: BLACKPINK - ‘THE SHOW’ GUIDE VIDEO
     url: k6P1w_KBCGk
-    views: '3007037'
+    views: '3007127'
     image: https://i.ytimg.com/vi/k6P1w_KBCGk/hqdefault.jpg
   - name: 'BLACKPINK - ''THE SHOW'' TRAILER #2'
     url: 7SjQeoEtrn4
-    views: '4316831'
+    views: '4316947'
     image: https://i.ytimg.com/vi/7SjQeoEtrn4/hqdefault.jpg
   - name: BLACKPINK - ‘THE SHOW’ POSTPONEMENT ANNOUNCEMENT
     url: CyqctquwO3Y
-    views: '3873029'
+    views: '3873131'
     image: https://i.ytimg.com/vi/CyqctquwO3Y/hqdefault.jpg
   - name: '블링크들 주목! 기후변화에 대해 함께 배워 볼 시간! #COP26'
     url: DXKtt8c0Kac
-    views: '2384216'
+    views: '2384294'
     image: https://i.ytimg.com/vi/DXKtt8c0Kac/hqdefault.jpg
   - name: 'CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26'
     url: jj4Io6PC68s
-    views: '2445747'
+    views: '2445824'
     image: https://i.ytimg.com/vi/jj4Io6PC68s/hqdefault.jpg
   - name: BLACKPINK - 'THE SHOW' MESSAGE VIDEO
     url: Tj97V46-Irs
-    views: '4364407'
+    views: '4364475'
     image: https://i.ytimg.com/vi/Tj97V46-Irs/hqdefault.jpg
   - name: BLACKPINK - ‘THE SHOW’ TRAILER
     url: BJjh-rEFNME
-    views: '4410434'
+    views: '4410561'
     image: https://i.ytimg.com/vi/BJjh-rEFNME/hqdefault.jpg
   - name: BLACKPINK - THE INVITATION
     url: VgVzTgjKZ7k
-    views: '5143791'
+    views: '5143874'
     image: https://i.ytimg.com/vi/VgVzTgjKZ7k/hqdefault.jpg
   - name: BLACKPINK - AROUND THE WORLD
     url: Z3kAZse4xgM
-    views: '9436748'
+    views: '9437085'
     image: https://i.ytimg.com/vi/Z3kAZse4xgM/hqdefault.jpg
   - name: BLACKPINK - [THE ALBUM] ONLINE FANSIGNING EVENT
     url: 7zy4Z8tHj4k
-    views: '7851385'
+    views: '7851700'
     image: https://i.ytimg.com/vi/7zy4Z8tHj4k/hqdefault.jpg
   - name: 'BLACKPINK - ‘Lovesick Girls’ 1025 SBS Inkigayo : NO.1 OF THE WEEK'
     url: MBStYsiE618
-    views: '22430479'
+    views: '22432922'
     image: https://i.ytimg.com/vi/MBStYsiE618/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.16
     url: O_ibCeLnhPQ
-    views: '8263407'
+    views: '8264124'
     image: https://i.ytimg.com/vi/O_ibCeLnhPQ/hqdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' Jimmy Kimmel Live
     url: 3l5jwqPT2yk
-    views: '36338113'
+    views: '36343092'
     image: https://i.ytimg.com/vi/3l5jwqPT2yk/hqdefault.jpg
   - name: 'BLACKPINK - ‘Lovesick Girls’ 1018 SBS Inkigayo : NO.1 OF THE WEEK'
     url: UcvYlihruvo
-    views: '7855545'
+    views: '7855807'
     image: https://i.ytimg.com/vi/UcvYlihruvo/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.15
     url: K0bsoA3SEJs
-    views: '6062544'
+    views: '6062949'
     image: https://i.ytimg.com/vi/K0bsoA3SEJs/hqdefault.jpg
   - name: BLACKPINK - 'THE ALBUM' JACKET MAKING FILM
     url: _QVsY6wdYgM
-    views: '8122584'
+    views: '8122975'
     image: https://i.ytimg.com/vi/_QVsY6wdYgM/hqdefault.jpg
   - name: 'BLACKPINK - ‘Lovesick Girls’ 1011 SBS Inkigayo : NO.1 OF THE WEEK'
     url: Fwg9-MXdBYA
-    views: '14412364'
+    views: '14412910'
     image: https://i.ytimg.com/vi/Fwg9-MXdBYA/hqdefault.jpg
   - name: BLACKPINK - ‘Pretty Savage’ 1011 SBS Inkigayo
     url: gU2HqP4NxUs
-    views: '169177172'
+    views: '169194475'
     image: https://i.ytimg.com/vi/gU2HqP4NxUs/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.14
     url: IXpUVTAZ9B4
-    views: '8979906'
+    views: '8980695'
     image: https://i.ytimg.com/vi/IXpUVTAZ9B4/hqdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' DANCE PRACTICE VIDEO
     url: YxksUfnuEbI
-    views: '166174927'
+    views: '166195586'
     image: https://i.ytimg.com/vi/YxksUfnuEbI/hqdefault.jpg
   - name: BLACKPINK - 1st FULL ALBUM [THE ALBUM] SAMPLER
     url: 1L-qLpSjCrg
-    views: '3991071'
+    views: '3991211'
     image: https://i.ytimg.com/vi/1L-qLpSjCrg/hqdefault.jpg
   - name: BLACKPINK dishes about music, festivals and style | BLACKPINK on RELEASED
     url: PLd-PoQtJFk
-    views: '2923771'
+    views: '2923911'
     image: https://i.ytimg.com/vi/PLd-PoQtJFk/hqdefault.jpg
   - name: Each BLACKPINK member wants a superpower | BLACKPINK on RELEASED
     url: _oGv-g2HSEc
-    views: '2978175'
+    views: '2978513'
     image: https://i.ytimg.com/vi/_oGv-g2HSEc/hqdefault.jpg
   - name: Which Member Would? | BLACKPINK on RELEASED
     url: zd8fTHw-8UI
-    views: '10655124'
+    views: '10656324'
     image: https://i.ytimg.com/vi/zd8fTHw-8UI/hqdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' M/V MAKING FILM
     url: Hryms86U1cE
-    views: '17392287'
+    views: '17392739'
     image: https://i.ytimg.com/vi/Hryms86U1cE/hqdefault.jpg
   - name: BLACKPINK – ‘Lovesick Girls’ M/V
     url: dyRsYk0LyA8
-    views: '429229645'
+    views: '429276390'
     image: https://i.ytimg.com/vi/dyRsYk0LyA8/hqdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' M/V TEASER
     url: YdQg_L4o57g
-    views: '25637444'
+    views: '25637881'
     image: https://i.ytimg.com/vi/YdQg_L4o57g/hqdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' Concept Teaser Video
     url: sXkhYC8Z9lw
-    views: '12752593'
+    views: '12752808'
     image: https://i.ytimg.com/vi/sXkhYC8Z9lw/hqdefault.jpg
   - name: BLACKPINK - 'THE ALBUM' JENNIE Concept Teaser Video
     url: vt5riIUJGlQ
-    views: '6623356'
+    views: '6623487'
     image: https://i.ytimg.com/vi/vt5riIUJGlQ/hqdefault.jpg
   - name: BLACKPINK - 'THE ALBUM' JISOO Concept Teaser Video
     url: 1Zxjr6fd43w
-    views: '6321970'
+    views: '6322096'
     image: https://i.ytimg.com/vi/1Zxjr6fd43w/hqdefault.jpg
   - name: BLACKPINK - 'THE ALBUM' ROSÉ Concept Teaser Video
     url: Q9G14FEpM3U
-    views: '7383747'
+    views: '7383895'
     image: https://i.ytimg.com/vi/Q9G14FEpM3U/hqdefault.jpg
   - name: BLACKPINK - 'THE ALBUM' LISA Concept Teaser Video
     url: RYp6SPNSLxw
-    views: '8167320'
+    views: '8167648'
     image: https://i.ytimg.com/vi/RYp6SPNSLxw/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.13
     url: fpVs15zmMCs
-    views: '7362917'
+    views: '7363570'
     image: https://i.ytimg.com/vi/fpVs15zmMCs/hqdefault.jpg
   - name: BLACKPINK - ‘Ice Cream (with Selena Gomez)' Lyric Video
     url: XO56k_hOftU
-    views: '16691616'
+    views: '16692552'
     image: https://i.ytimg.com/vi/XO56k_hOftU/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.12
     url: Is0iob8lz4w
-    views: '11629108'
+    views: '11630449'
     image: https://i.ytimg.com/vi/Is0iob8lz4w/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.11
     url: uKECHoewS08
-    views: '6684635'
+    views: '6685065'
     image: https://i.ytimg.com/vi/uKECHoewS08/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.10
     url: DBDmov0fBSs
-    views: '12841685'
+    views: '12842434'
     image: https://i.ytimg.com/vi/DBDmov0fBSs/hqdefault.jpg
   - name: BLACKPINK X Selena Gomez - 'Ice Cream' DANCE PERFORMANCE VIDEO (in ZEPETO)
     url: 27h9SJcIdM0
-    views: '112157683'
+    views: '112164996'
     image: https://i.ytimg.com/vi/27h9SJcIdM0/hqdefault.jpg
   - name: BLACKPINK X Selena Gomez - 'Ice Cream' DANCE PERFORMANCE VIDEO Teaser
     url: GGRN3OUKX50
-    views: '8636601'
+    views: '8636650'
     image: https://i.ytimg.com/vi/GGRN3OUKX50/hqdefault.jpg
   - name: BLACKPINK - 'Ice Cream (with Selena Gomez)' M/V MAKING FILM
     url: bO8hS_W3BPE
-    views: '22114208'
+    views: '22114518'
     image: https://i.ytimg.com/vi/bO8hS_W3BPE/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.9
     url: 3nZf_hL4g8A
-    views: '6893727'
+    views: '6894259'
     image: https://i.ytimg.com/vi/3nZf_hL4g8A/hqdefault.jpg
   - name: BLACKPINK - 'Ice Cream (with Selena Gomez)' M/V
     url: vRXZj0DzXIA
-    views: '572498848'
+    views: '572544394'
     image: https://i.ytimg.com/vi/vRXZj0DzXIA/hqdefault.jpg
   - name: BLACKPINK - 'Ice Cream (with Selena Gomez)' M/V TEASER
     url: ySo1_loUkcQ
-    views: '24638837'
+    views: '24638973'
     image: https://i.ytimg.com/vi/ySo1_loUkcQ/hqdefault.jpg
   - name: BLACKPINK X Selena Gomez - 'Ice Cream' Teaser Video
     url: dGCSeyKL5dE
-    views: '15971113'
+    views: '15971386'
     image: https://i.ytimg.com/vi/dGCSeyKL5dE/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.8
     url: ppYWU34iMFo
-    views: '4806179'
+    views: '4806492'
     image: https://i.ytimg.com/vi/ppYWU34iMFo/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.7
     url: Cct4uQTwkF4
-    views: '7127246'
+    views: '7127945'
     image: https://i.ytimg.com/vi/Cct4uQTwkF4/hqdefault.jpg
   - name: BLACKPINK - 2020 BLACKPINK'S SUMMER DIARY [IN SEOUL] PREVIEW
     url: TqEPcWkPEBk
-    views: '2663329'
+    views: '2663377'
     image: https://i.ytimg.com/vi/TqEPcWkPEBk/hqdefault.jpg
   - name: BLACKPINK - 4TH ANNIVERSARY
     url: 784TL-z1P5g
-    views: '11675220'
+    views: '11675530'
     image: https://i.ytimg.com/vi/784TL-z1P5g/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.6
     url: 2Ccv0YfDLBc
-    views: '12656741'
+    views: '12657818'
     image: https://i.ytimg.com/vi/2Ccv0YfDLBc/hqdefault.jpg
   - name: BLACKPINK - [How You Like That] ONLINE FANSIGNING EVENT
     url: BjAjGUVCpDU
-    views: '3925017'
+    views: '3925060'
     image: https://i.ytimg.com/vi/BjAjGUVCpDU/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.5
     url: UnGzwoYOEc8
-    views: '6729465'
+    views: '6729897'
     image: https://i.ytimg.com/vi/UnGzwoYOEc8/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.4
     url: LcGgtIRi-EU
-    views: '7848193'
+    views: '7848730'
     image: https://i.ytimg.com/vi/LcGgtIRi-EU/hqdefault.jpg
   - name: 'BLACKPINK - ''How You Like That'' 0719 SBS Inkigayo : NO.1 OF THE WEEK'
     url: 7PpUuLYWcs8
-    views: '10172833'
+    views: '10173460'
     image: https://i.ytimg.com/vi/7PpUuLYWcs8/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.3
     url: yuU7RwiXXlM
-    views: '9806854'
+    views: '9807351'
     image: https://i.ytimg.com/vi/yuU7RwiXXlM/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' COUNTDOWN LIVE REPLAY
     url: 21Zo1sjN3gY
-    views: '5621208'
+    views: '5621421'
     image: https://i.ytimg.com/vi/21Zo1sjN3gY/hqdefault.jpg
   - name: 'BLACKPINK - ''How You Like That'' 0712 SBS Inkigayo : NO.1 OF THE WEEK'
     url: 04lxLDmFaOE
-    views: '9429140'
+    views: '9429339'
     image: https://i.ytimg.com/vi/04lxLDmFaOE/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.2
     url: U_RL_wbowhw
-    views: '12683827'
+    views: '12684564'
     image: https://i.ytimg.com/vi/U_RL_wbowhw/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' DANCE PERFORMANCE VIDEO
     url: 32si5cfrCNc
-    views: '714473934'
+    views: '714558965'
     image: https://i.ytimg.com/vi/32si5cfrCNc/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' 0705 SBS Inkigayo
     url: JLOwA3o6Zr0
-    views: '12028250'
+    views: '12028524'
     image: https://i.ytimg.com/vi/JLOwA3o6Zr0/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.1
     url: 1viIqwCiEr8
-    views: '11808727'
+    views: '11809303'
     image: https://i.ytimg.com/vi/1viIqwCiEr8/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' 0628 SBS Inkigayo
     url: t0RcZWn085g
-    views: '41301330'
+    views: '41303611'
     image: https://i.ytimg.com/vi/t0RcZWn085g/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' M/V MAKING FILM
     url: KVsRHth92Jw
-    views: '26546123'
+    views: '26546816'
     image: https://i.ytimg.com/vi/KVsRHth92Jw/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' M/V
     url: ioNng23DkIM
-    views: '879736967'
+    views: '879803365'
     image: https://i.ytimg.com/vi/ioNng23DkIM/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' M/V TEASER
     url: Hqqn8uCtk_A
-    views: '30779713'
+    views: '30780168'
     image: https://i.ytimg.com/vi/Hqqn8uCtk_A/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' Concept Teaser Video
     url: At50B3NJbPc
-    views: '24668637'
+    views: '24670292'
     image: https://i.ytimg.com/vi/At50B3NJbPc/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' JISOO Concept Teaser Video
     url: cVz8UQznK-U
-    views: '18406532'
+    views: '18406914'
     image: https://i.ytimg.com/vi/cVz8UQznK-U/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' LISA Concept Teaser Video
     url: i8hicLO6gwY
-    views: '23893813'
+    views: '23894234'
     image: https://i.ytimg.com/vi/i8hicLO6gwY/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' JENNIE Concept Teaser Video
     url: ZkbNDErPFko
-    views: '20192725'
+    views: '20193023'
     image: https://i.ytimg.com/vi/ZkbNDErPFko/hqdefault.jpg
   - name: BLACKPINK - 'How You Like That' ROSÉ Concept Teaser Video
     url: RbHXthF3GSU
-    views: '23597227'
+    views: '23597511'
     image: https://i.ytimg.com/vi/RbHXthF3GSU/hqdefault.jpg
   - name: BLACKPINK - '24/365 with BLACKPINK' Prologue
     url: ZjGiK87EaQ0
-    views: '10561352'
+    views: '10561591'
     image: https://i.ytimg.com/vi/ZjGiK87EaQ0/hqdefault.jpg
   - name: BLACKPINK ‐ Kill This Love -JP Ver.- Live at BLACKPINK 2019-2020 WORLD TOUR
       IN YOUR AREA-TOKYO DOME-
     url: tOCUE8wRQYY
-    views: '23938052'
+    views: '23939758'
     image: https://i.ytimg.com/vi/tOCUE8wRQYY/hqdefault.jpg
   - name: BLACKPINK - LIVE Blu-ray & DVD 「BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA-TOKYO
       DOME-」 TEASER
     url: wnCqVU2b9iw
-    views: '3233264'
+    views: '3233294'
     image: https://i.ytimg.com/vi/wnCqVU2b9iw/hqdefault.jpg
   - name: BLACKPINK - 'Kill This Love' Live at Coachella 2019
     url: -6XwN_wu3KU
-    views: '14342546'
+    views: '14344014'
     image: https://i.ytimg.com/vi/-6XwN_wu3KU/hqdefault.jpg
   - name: BLACKPINK - '붐바야 (BOOMBAYAH)' Live at Coachella 2019
     url: _HhAzr5DLik
-    views: '9055347'
+    views: '9055991'
     image: https://i.ytimg.com/vi/_HhAzr5DLik/hqdefault.jpg
   - name: BLACKPINK - '뚜두뚜두 (DDU-DU DDU-DU)' 2019 Coachella Live Performance
     url: a5gUds01aXY
-    views: '30691033'
+    views: '30693952'
     image: https://i.ytimg.com/vi/a5gUds01aXY/hqdefault.jpg
   - name: BLACKPINK - BLACKPINK'S 2020 WELCOMING COLLECTION PREVIEW
     url: JvCBLBOXBuI
-    views: '3870792'
+    views: '3870845'
     image: https://i.ytimg.com/vi/JvCBLBOXBuI/hqdefault.jpg
   - name: JENNIE - DANCE PRACTICE VIDEO
     url: kqXGnxJ-S3k
-    views: '7774352'
+    views: '7774697'
     image: https://i.ytimg.com/vi/kqXGnxJ-S3k/hqdefault.jpg
   - name: ROSÉ - 'THE CHRISTMAS SONG (Nat King Cole)' COVER
     url: 6Nm9GOAmZgk
-    views: '8101746'
+    views: '8101939'
     image: https://i.ytimg.com/vi/6Nm9GOAmZgk/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.16
     url: hownMyg3g3M
-    views: '4439492'
+    views: '4439677'
     image: https://i.ytimg.com/vi/hownMyg3g3M/hqdefault.jpg
   - name: BLACKPINK - ALBUM 「KILL THIS LOVE -JP Ver.-」TEASER
     url: qD4RL2EtSVs
-    views: '2108118'
+    views: '2108135'
     image: https://i.ytimg.com/vi/qD4RL2EtSVs/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.15
     url: TIil9aZsbsE
-    views: '4181128'
+    views: '4181308'
     image: https://i.ytimg.com/vi/TIil9aZsbsE/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.14
     url: Ci2qEE3Zo6s
-    views: '3681861'
+    views: '3681986'
     image: https://i.ytimg.com/vi/Ci2qEE3Zo6s/hqdefault.jpg
   - name: BLACKPINK - 2019 BLACKPINK'S SUMMER DIARY [IN HAWAII] PREVIEW
     url: wCEulfWiVUk
-    views: '2412694'
+    views: '2412796'
     image: https://i.ytimg.com/vi/wCEulfWiVUk/hqdefault.jpg
   - name: BLACKPINK  - 2019 PRIVATE STAGE [Chapter 1] PROMOTION VIDEO
     url: Isgle6jNYgQ
-    views: '1088120'
+    views: '1088139'
     image: https://i.ytimg.com/vi/Isgle6jNYgQ/hqdefault.jpg
   - name: BLACKPINK - 2019 PRIVATE STAGE [Chapter 1] MESSAGE VIDEO
     url: sUOifogm4bc
-    views: '1181162'
+    views: '1181183'
     image: https://i.ytimg.com/vi/sUOifogm4bc/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.13
     url: s3Qb3uaTp_o
-    views: '5200281'
+    views: '5200558'
     image: https://i.ytimg.com/vi/s3Qb3uaTp_o/hqdefault.jpg
   - name: BLACKPINK - 3 YEAR DEBUT ANNIVERSARY
     url: F7_lbR87HMk
-    views: '4702790'
+    views: '4702900'
     image: https://i.ytimg.com/vi/F7_lbR87HMk/hqdefault.jpg
   - name: BLACKPINK - 2019 WORLD TOUR with KIA x STINGER
     url: vChTs9cY3cU
-    views: '7666276'
+    views: '7666420'
     image: https://i.ytimg.com/vi/vChTs9cY3cU/hqdefault.jpg
   - name: BLACKPINK - 2018 TOUR [IN YOUR AREA] SEOUL DVD
     url: gQXYF876gTA
-    views: '1138388'
+    views: '1138398'
     image: https://i.ytimg.com/vi/gQXYF876gTA/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.12
     url: SjR7BqRIQjg
-    views: '3133703'
+    views: '3133795'
     image: https://i.ytimg.com/vi/SjR7BqRIQjg/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.11
     url: CqKdT6mwTcY
-    views: '4069085'
+    views: '4069223'
     image: https://i.ytimg.com/vi/CqKdT6mwTcY/hqdefault.jpg
   - name: BLACKPINK - 'PHOTOBOOK -LIMITED EDITION-' FAN SIGNING DAY IN YOUNGDEUNGPO
     url: nYbKCPb0eS0
-    views: '3702249'
+    views: '3702299'
     image: https://i.ytimg.com/vi/nYbKCPb0eS0/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.10
     url: q5e3KwloudI
-    views: '4347574'
+    views: '4347706'
     image: https://i.ytimg.com/vi/q5e3KwloudI/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.9
     url: P19oo7RtJmo
-    views: '5646381'
+    views: '5646507'
     image: https://i.ytimg.com/vi/P19oo7RtJmo/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.8
     url: 1xVb0_T6GTk
-    views: '7667356'
+    views: '7667693'
     image: https://i.ytimg.com/vi/1xVb0_T6GTk/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.7
     url: 6l2onWTpDzk
-    views: '6385779'
+    views: '6385952'
     image: https://i.ytimg.com/vi/6l2onWTpDzk/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.6
     url: U-kl3VAmFR0
-    views: '5505111'
+    views: '5505319'
     image: https://i.ytimg.com/vi/U-kl3VAmFR0/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.5
     url: jy3S96upoLI
-    views: '6635896'
+    views: '6636196'
     image: https://i.ytimg.com/vi/jy3S96upoLI/hqdefault.jpg
   - name: BLACKPINK - 'Don't Know What To Do' DANCE PRACTICE VIDEO (MOVING VER.)
     url: bqzDuRz_P7g
-    views: '213719321'
+    views: '213732245'
     image: https://i.ytimg.com/vi/bqzDuRz_P7g/hqdefault.jpg
   - name: BLACKPINK - ‘Kill This Love’ 0414 SBS Inkigayo
     url: vx9CSpnROfs
-    views: '83651353'
+    views: '83654979'
     image: https://i.ytimg.com/vi/vx9CSpnROfs/hqdefault.jpg
   - name: BLACKPINK - JISOO 'Don't Know What To Do' FOCUSED CAMERA
     url: RgI8UNOqczE
-    views: '7852126'
+    views: '7852407'
     image: https://i.ytimg.com/vi/RgI8UNOqczE/hqdefault.jpg
   - name: BLACKPINK - JENNIE 'Don't Know What To Do' FOCUSED CAMERA
     url: sL175y19MUU
-    views: '9868864'
+    views: '9869136'
     image: https://i.ytimg.com/vi/sL175y19MUU/hqdefault.jpg
   - name: BLACKPINK - LISA 'Kill This Love' FOCUSED CAMERA
     url: GXBDwS2Tizo
-    views: '16976664'
+    views: '16977646'
     image: https://i.ytimg.com/vi/GXBDwS2Tizo/hqdefault.jpg
   - name: BLACKPINK - ROSÉ 'Kill This Love' FOCUSED CAMERA
     url: rt6G9Vwt1xc
-    views: '14224367'
+    views: '14224708'
     image: https://i.ytimg.com/vi/rt6G9Vwt1xc/hqdefault.jpg
   - name: BLACKPINK - 'Kill This Love' DANCE PRACTICE VIDEO (MOVING VER.)
     url: MOwaUlXZxkI
-    views: '373591444'
+    views: '373607499'
     image: https://i.ytimg.com/vi/MOwaUlXZxkI/hqdefault.jpg
   - name: BLACKPINK - ‘Kill This Love’ 0407 SBS Inkigayo
     url: MkG24J87IUk
-    views: '44919145'
+    views: '44919909'
     image: https://i.ytimg.com/vi/MkG24J87IUk/hqdefault.jpg
   - name: BLACKPINK - ‘Don't Know What To Do’ 0407 SBS Inkigayo
     url: o4GHoqGtRkg
-    views: '53423070'
+    views: '53425089'
     image: https://i.ytimg.com/vi/o4GHoqGtRkg/hqdefault.jpg
   - name: BLACKPINK - 'Kill This Love' M/V MAKING FILM
     url: X-aaDs5heQ4
-    views: '55045305'
+    views: '55046900'
     image: https://i.ytimg.com/vi/X-aaDs5heQ4/hqdefault.jpg
   - name: BLACKPINK - 'Kill This Love' M/V
     url: 2S24-y0Ij3Y
-    views: '1310747999'
+    views: '1310801770'
     image: https://i.ytimg.com/vi/2S24-y0Ij3Y/hqdefault.jpg
   - name: BLACKPINK - 'Kill This Love' M/V Teaser
     url: -f0MQzVMuUE
-    views: '54063761'
+    views: '54065041'
     image: https://i.ytimg.com/vi/-f0MQzVMuUE/hqdefault.jpg
   - name: BLACKPINK - 'KILL THIS LOVE' ROSÉ TEASER VIDEO
     url: Ld0yQCIYkw4
-    views: '13269556'
+    views: '13269645'
     image: https://i.ytimg.com/vi/Ld0yQCIYkw4/hqdefault.jpg
   - name: BLACKPINK - 'KILL THIS LOVE' JISOO TEASER VIDEO
     url: Gyr47bL8t0s
-    views: '9902409'
+    views: '9902498'
     image: https://i.ytimg.com/vi/Gyr47bL8t0s/hqdefault.jpg
   - name: BLACKPINK - 'KILL THIS LOVE' JENNIE TEASER VIDEO
     url: HSFqo45N0tM
-    views: '10285785'
+    views: '10285878'
     image: https://i.ytimg.com/vi/HSFqo45N0tM/hqdefault.jpg
   - name: BLACKPINK - 'KILL THIS LOVE' LISA TEASER VIDEO
     url: TlCPlO5rf7U
-    views: '13390585'
+    views: '13390669'
     image: https://i.ytimg.com/vi/TlCPlO5rf7U/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.4
     url: iFPZiwQytVY
-    views: '5086680'
+    views: '5086962'
     image: https://i.ytimg.com/vi/iFPZiwQytVY/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.3
     url: LbKPzNaVqbY
-    views: '9107814'
+    views: '9108062'
     image: https://i.ytimg.com/vi/LbKPzNaVqbY/hqdefault.jpg
   - name: LIVE DVD & Blu-ray “BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
       DOME OSAKA"” TRAILER
     url: y46mF5uQtQs
-    views: '2208883'
+    views: '2208901'
     image: https://i.ytimg.com/vi/y46mF5uQtQs/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.2
     url: mkNDSFWGb6E
-    views: '5908668'
+    views: '5908837'
     image: https://i.ytimg.com/vi/mkNDSFWGb6E/hqdefault.jpg
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.1
     url: 73ZA1phZIeM
-    views: '8426979'
+    views: '8427242'
     image: https://i.ytimg.com/vi/73ZA1phZIeM/hqdefault.jpg
   - name: ROSÉ - 'EYES CLOSED (Halsey)' COVER
     url: vXmVvAgzgVI
-    views: '29336815'
+    views: '29337858'
     image: https://i.ytimg.com/vi/vXmVvAgzgVI/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY LAST SPECIAL EPISODE
     url: iE6sH1DxxKk
-    views: '3185745'
+    views: '3185867'
     image: https://i.ytimg.com/vi/iE6sH1DxxKk/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.5-2
     url: xKW9q-oIZUE
-    views: '5618142'
+    views: '5618372'
     image: https://i.ytimg.com/vi/xKW9q-oIZUE/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.5-1
     url: gHj5OGqvZ_8
-    views: '9611918'
+    views: '9612281'
     image: https://i.ytimg.com/vi/gHj5OGqvZ_8/hqdefault.jpg
   - name: BLACKPINK - 'SOLO' + '뚜두뚜두(DDU-DU DDU-DU)' + 'FOREVER YOUNG' in 2018 SBS
       Gayodaejun
     url: cxNIewNXpcg
-    views: '254468357'
+    views: '254486723'
     image: https://i.ytimg.com/vi/cxNIewNXpcg/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.4-3
     url: QIvx2ZPE6K4
-    views: '3521624'
+    views: '3521796'
     image: https://i.ytimg.com/vi/QIvx2ZPE6K4/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.4-2
     url: HDIoWLzOmVc
-    views: '2641465'
+    views: '2641549'
     image: https://i.ytimg.com/vi/HDIoWLzOmVc/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.4-1
     url: 2IOdJyJS5DY
-    views: '6994901'
+    views: '6995136'
     image: https://i.ytimg.com/vi/2IOdJyJS5DY/hqdefault.jpg
   - name: 'JENNIE - ‘SOLO’ 1216 SBS Inkigayo : NO.1 OF THE WEEK'
     url: 7nukOecMf-U
-    views: '4469755'
+    views: '4469895'
     image: https://i.ytimg.com/vi/7nukOecMf-U/hqdefault.jpg
   - name: JENNIE - 'SOLO' FAN SIGNING DAY
     url: T8ONpK3S0KI
-    views: '2346669'
+    views: '2347535'
     image: https://i.ytimg.com/vi/T8ONpK3S0KI/hqdefault.jpg
   - name: JENNIE - ‘SOLO’ 1209 SBS Inkigayo
     url: CPSH3ljpkZ4
-    views: '11964154'
+    views: '11964575'
     image: https://i.ytimg.com/vi/CPSH3ljpkZ4/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.3
     url: DR9n-vDj-zo
-    views: '3744235'
+    views: '3744331'
     image: https://i.ytimg.com/vi/DR9n-vDj-zo/hqdefault.jpg
   - name: 'JENNIE - ‘SOLO’ 1202 SBS Inkigayo : NO.1 OF THE WEEK'
     url: hxDXhh2sE1g
-    views: '5598786'
+    views: '5598839'
     image: https://i.ytimg.com/vi/hxDXhh2sE1g/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.2-2
     url: GEFef9eOInM
-    views: '2799167'
+    views: '2799224'
     image: https://i.ytimg.com/vi/GEFef9eOInM/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.2-1
     url: qWDuwmwMTBQ
-    views: '5306530'
+    views: '5306652'
     image: https://i.ytimg.com/vi/qWDuwmwMTBQ/hqdefault.jpg
   - name: JAPAN FULL ALBUM “BLACKPINK IN YOUR AREA” TRAILER
     url: gXf0NW7ZOko
-    views: '1692577'
+    views: '1692745'
     image: https://i.ytimg.com/vi/gXf0NW7ZOko/hqdefault.jpg
   - name: BLACKPINK - 2019 WORLD TOUR [IN YOUR AREA] SPOT
     url: hYQsh5YOXMc
-    views: '1267674'
+    views: '1267688'
     image: https://i.ytimg.com/vi/hYQsh5YOXMc/hqdefault.jpg
   - name: 'JENNIE - ‘SOLO’ 1125 SBS Inkigayo : NO.1 OF THE WEEK'
     url: smimdoBjeAE
-    views: '15684962'
+    views: '15685257'
     image: https://i.ytimg.com/vi/smimdoBjeAE/hqdefault.jpg
   - name: JENNIE - ‘SOLO’ PERFORMANCE VIDEO
     url: Ws5SOMeA3_E
-    views: '13224571'
+    views: '13224822'
     image: https://i.ytimg.com/vi/Ws5SOMeA3_E/hqdefault.jpg
   - name: JENNIE - 'SOLO' PERFORMANCE [IN YOUR AREA] SEOUL
     url: N1C_G3sfzXo
-    views: '24701651'
+    views: '24702164'
     image: https://i.ytimg.com/vi/N1C_G3sfzXo/hqdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.1
     url: iHgDwNSCoiQ
-    views: '4332707'
+    views: '4332806'
     image: https://i.ytimg.com/vi/iHgDwNSCoiQ/hqdefault.jpg
   - name: JENNIE - 'SOLO' CHOREOGRAPHY ALTERNATE EDITED VERSION
     url: k-wmRTFVwPA
-    views: '3283380'
+    views: '3283457'
     image: https://i.ytimg.com/vi/k-wmRTFVwPA/hqdefault.jpg
   - name: JENNIE - 'SOLO' CHOREOGRAPHY UNEDITED VERSION
     url: vdDuCvCrcKg
-    views: '208006489'
+    views: '208011815'
     image: https://i.ytimg.com/vi/vdDuCvCrcKg/hqdefault.jpg
   - name: JENNIE - 'SOLO' CHOREOGRAPHY CUT TEASER
     url: f3bbg-h-pps
-    views: '2364216'
+    views: '2364235'
     image: https://i.ytimg.com/vi/f3bbg-h-pps/hqdefault.jpg
   - name: JENNIE - 'SOLO' M/V MAKING FILM
     url: QCyPQVgSu0M
-    views: '5837106'
+    views: '5837194'
     image: https://i.ytimg.com/vi/QCyPQVgSu0M/hqdefault.jpg
   - name: JENNIE - 'SOLO' M/V
     url: b73BI9eUkjM
-    views: '670294112'
+    views: '670326316'
     image: https://i.ytimg.com/vi/b73BI9eUkjM/hqdefault.jpg
   - name: JENNIE - 'SOLO' M/V TEASER
     url: BE5-W9ttOlg
-    views: '9352232'
+    views: '9352458'
     image: https://i.ytimg.com/vi/BE5-W9ttOlg/hqdefault.jpg
   - name: 'JENNIE - ''SOLO'' TEASER VIDEO #2'
     url: ySSFetWziVU
-    views: '3536950'
+    views: '3536979'
     image: https://i.ytimg.com/vi/ySSFetWziVU/hqdefault.jpg
   - name: 'JENNIE - ''SOLO'' TEASER VIDEO #1'
     url: o5Fw2AYfUzs
-    views: '5102444'
+    views: '5102485'
     image: https://i.ytimg.com/vi/o5Fw2AYfUzs/hqdefault.jpg
   - name: BLACKPINK - 2018 TOUR [IN YOUR AREA] SEOUL X BC CARD
     url: s5nn7R33AMg
-    views: '1079863'
+    views: '1079873'
     image: https://i.ytimg.com/vi/s5nn7R33AMg/hqdefault.jpg
   - name: BLACKPINK - '2018 TOUR [IN YOUR AREA] SEOUL X BC CARD' MESSAGE VIDEO
     url: Xs2KfxUDUPk
-    views: '1424079'
+    views: '1424092'
     image: https://i.ytimg.com/vi/Xs2KfxUDUPk/hqdefault.jpg
   - name: 'BLACKPINK - 2018 TOUR [IN YOUR AREA] SEOUL X BC CARD SPOT VIDEO #2'
     url: kH-afVS-hVo
-    views: '766758'
+    views: '766768'
     image: https://i.ytimg.com/vi/kH-afVS-hVo/hqdefault.jpg
   - name: BLACKPINK - 2018 TOUR [IN YOUR AREA] SEOUL X BC CARD SPOT VIDEO
     url: -GtzKY8y0J0
-    views: '809320'
+    views: '809329'
     image: https://i.ytimg.com/vi/-GtzKY8y0J0/hqdefault.jpg
   - name: BLACKPINK x YouTube - BLACKPINK Reaches 10 Million Subscribers
     url: q0iVxYJge2o
-    views: '6396360'
+    views: '6396722'
     image: https://i.ytimg.com/vi/q0iVxYJge2o/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.12-2
     url: mQSbaGNzNzc
-    views: '14443057'
+    views: '14443907'
     image: https://i.ytimg.com/vi/mQSbaGNzNzc/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.12-4
     url: wpMn2cFX_EQ
-    views: '4328767'
+    views: '4328994'
     image: https://i.ytimg.com/vi/wpMn2cFX_EQ/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.12-1
     url: P-LmmW4xNFw
-    views: '5803087'
+    views: '5803337'
     image: https://i.ytimg.com/vi/P-LmmW4xNFw/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.12-3
     url: SYLSJHtisiE
-    views: '4618566'
+    views: '4618818'
     image: https://i.ytimg.com/vi/SYLSJHtisiE/hqdefault.jpg
   - name: BLACKPINK - DDU-DU DDU-DU (JP Ver.) M/V
     url: a1aV8IUgP8Q
-    views: '11844155'
+    views: '11844648'
     image: https://i.ytimg.com/vi/a1aV8IUgP8Q/hqdefault.jpg
   - name: BLACKPINK JAPAN SINGLE CD “DDU-DU DDU-DU” TRAILER
     url: Evv39uqjzkE
-    views: '998555'
+    views: '998743'
     image: https://i.ytimg.com/vi/Evv39uqjzkE/hqdefault.jpg
   - name: BLACKPINK - '블핑하우스 (BLACKPINK HOUSE)' EP.12 PREVIEW
     url: eC6JWE47lFg
-    views: '2058930'
+    views: '2059081'
     image: https://i.ytimg.com/vi/eC6JWE47lFg/hqdefault.jpg
   - name: BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo
     url: 5hwepTxNKtE
-    views: '46104200'
+    views: '46106005'
     image: https://i.ytimg.com/vi/5hwepTxNKtE/hqdefault.jpg
   - name: BLACKPINK - LISA 'Forever Young' FOCUSED CAMERA
     url: 4KRdmXcJWQU
-    views: '6861978'
+    views: '6862258'
     image: https://i.ytimg.com/vi/4KRdmXcJWQU/hqdefault.jpg
   - name: BLACKPINK - JENNIE 'Forever Young' FOCUSED CAMERA
     url: HhyRAPKiXi4
-    views: '3098697'
+    views: '3098880'
     image: https://i.ytimg.com/vi/HhyRAPKiXi4/hqdefault.jpg
   - name: BLACKPINK - ‘FOREVER YOUNG’ 0722 SBS Inkigayo
     url: PMsBMoc9eFg
-    views: '10734038'
+    views: '10734599'
     image: https://i.ytimg.com/vi/PMsBMoc9eFg/hqdefault.jpg
   - name: BLACKPINK - JISOO 'Forever Young' FOCUSED CAMERA
     url: xqWjJP_WT-0
-    views: '8822011'
+    views: '8822480'
     image: https://i.ytimg.com/vi/xqWjJP_WT-0/hqdefault.jpg
   - name: BLACKPINK - ROSÉ 'Forever Young' FOCUSED CAMERA
     url: WaIGc9QmV2w
-    views: '2914314'
+    views: '2914390'
     image: https://i.ytimg.com/vi/WaIGc9QmV2w/hqdefault.jpg
   - name: BLACKPINK - ‘FOREVER YOUNG’ 0715 SBS Inkigayo
     url: 67otJZ6qe9Y
-    views: '25378147'
+    views: '25380691'
     image: https://i.ytimg.com/vi/67otJZ6qe9Y/hqdefault.jpg
   - name: BLACKPINK - ‘SQUARE UP’ FAN SIGNING DAY IN YEOUIDO
     url: HP3ytBUzLcI
-    views: '1032455'
+    views: '1032468'
     image: https://i.ytimg.com/vi/HP3ytBUzLcI/hqdefault.jpg
   - name: BLACKPINK - JISOO '뚜두뚜두 (DDU-DU DDU-DU)' FOCUSED CAMERA
     url: PZ5t29qgGAM
-    views: '7805753'
+    views: '7806109'
     image: https://i.ytimg.com/vi/PZ5t29qgGAM/hqdefault.jpg
   - name: BLACKPINK - ROSÉ '뚜두뚜두 (DDU-DU DDU-DU)' FOCUSED CAMERA
     url: dEnDjgoLLY4
-    views: '5284545'
+    views: '5284765'
     image: https://i.ytimg.com/vi/dEnDjgoLLY4/hqdefault.jpg
   - name: BLACKPINK - JENNIE '뚜두뚜두 (DDU-DU DDU-DU)' FOCUSED CAMERA
     url: 0uje7GB8Azk
-    views: '7978465'
+    views: '7978732'
     image: https://i.ytimg.com/vi/0uje7GB8Azk/hqdefault.jpg
   - name: 'BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ 0708 SBS Inkigayo  : NO.1 OF THE WEEK'
     url: F6IR7luozPw
-    views: '3712638'
+    views: '3712673'
     image: https://i.ytimg.com/vi/F6IR7luozPw/hqdefault.jpg
   - name: BLACKPINK - LISA '뚜두뚜두 (DDU-DU DDU-DU)' FOCUSED CAMERA
     url: rw2-h5JNLqM
-    views: '10080917'
+    views: '10081475'
     image: https://i.ytimg.com/vi/rw2-h5JNLqM/hqdefault.jpg
   - name: 'BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ 0701 SBS Inkigayo  : NO.1 OF THE WEEK'
     url: TIOCHR0OxOQ
-    views: '4253855'
+    views: '4253888'
     image: https://i.ytimg.com/vi/TIOCHR0OxOQ/hqdefault.jpg
   - name: BLACKPINK - ‘SQUARE UP’ FAN SIGNING DAY IN GOYANG
     url: GWJJ3EUflsw
-    views: '1074376'
+    views: '1074382'
     image: https://i.ytimg.com/vi/GWJJ3EUflsw/hqdefault.jpg
   - name: 'BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ 0624 SBS Inkigayo  : NO.1 OF THE WEEK'
     url: PUcGXTSCRLA
-    views: '7194796'
+    views: '7194850'
     image: https://i.ytimg.com/vi/PUcGXTSCRLA/hqdefault.jpg
   - name: BLACKPINK - 'Forever Young' DANCE PRACTICE VIDEO (MOVING VER.)
     url: 89kTb73csYg
-    views: '185135272'
+    views: '185140798'
     image: https://i.ytimg.com/vi/89kTb73csYg/hqdefault.jpg
   - name: BLACKPINK - '뚜두뚜두 (DDU-DU DDU-DU)' DANCE PRACTICE VIDEO (MOVING VER.)
     url: jOJbXvjZ-cQ
-    views: '388484916'
+    views: '388497897'
     image: https://i.ytimg.com/vi/jOJbXvjZ-cQ/hqdefault.jpg
   - name: BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ 0617 SBS Inkigayo
     url: b5dUYf_uPaY
-    views: '37805083'
+    views: '37805769'
     image: https://i.ytimg.com/vi/b5dUYf_uPaY/hqdefault.jpg
   - name: BLACKPINK - ‘FOREVER YOUNG’ 0617 SBS Inkigayo
     url: n7ukhNJvQ8s
-    views: '57257481'
+    views: '57258579'
     image: https://i.ytimg.com/vi/n7ukhNJvQ8s/hqdefault.jpg
   - name: BLACKPINK - '뚜두뚜두 (DDU-DU DDU-DU)' M/V MAKING FILM
     url: yPzMZsCuCxE
-    views: '11797902'
+    views: '11798306'
     image: https://i.ytimg.com/vi/yPzMZsCuCxE/hqdefault.jpg
   - name: BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ M/V
     url: IHNzOHi8sJs
-    views: '1599210774'
+    views: '1599275555'
     image: https://i.ytimg.com/vi/IHNzOHi8sJs/hqdefault.jpg
   - name: BLACKPINK - 1st MINI ALBUM 'SQUARE UP' SAMPLER
     url: bUQZ8qQFvag
-    views: '3421770'
+    views: '3421807'
     image: https://i.ytimg.com/vi/bUQZ8qQFvag/hqdefault.jpg
   - name: BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ M/V TEASER
     url: vUALE5SitT0
-    views: '25581868'
+    views: '25583500'
     image: https://i.ytimg.com/vi/vUALE5SitT0/hqdefault.jpg
   - name: BLACKPINK - 'SQUARE UP' LISA MOVING POSTER
     url: flPqsVWTnT0
-    views: '4186081'
+    views: '4186179'
     image: https://i.ytimg.com/vi/flPqsVWTnT0/hqdefault.jpg
   - name: BLACKPINK - 'SQUARE UP' JENNIE MOVING POSTER
     url: JfS5IxIYw50
-    views: '3785192'
+    views: '3785265'
     image: https://i.ytimg.com/vi/JfS5IxIYw50/hqdefault.jpg
   - name: BLACKPINK - 'SQUARE UP' JISOO MOVING POSTER
     url: NDA2sD9JFc4
-    views: '3598043'
+    views: '3598114'
     image: https://i.ytimg.com/vi/NDA2sD9JFc4/hqdefault.jpg
   - name: BLACKPINK - 'SQUARE UP' ROSÉ MOVING POSTER
     url: kL1f09pdVa4
-    views: '5525998'
+    views: '5526096'
     image: https://i.ytimg.com/vi/kL1f09pdVa4/hqdefault.jpg
   - name: BLACKPINK - 'AS IF IT'S YOUR LAST' from BLACKPINK PREMIUM DEBUT SHOWCASE
     url: fZykqIbvBxk
-    views: '2991768'
+    views: '2991847'
     image: https://i.ytimg.com/vi/fZykqIbvBxk/hqdefault.jpg
   - name: BLACKPINK - 'BOOMBAYAH' from BLACKPINK PREMIUM DEBUT SHOWCASE
     url: FfR0ce19-Wo
-    views: '10667272'
+    views: '10667869'
     image: https://i.ytimg.com/vi/FfR0ce19-Wo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.11-5
     url: hvBIzqad6Ng
-    views: '5849752'
+    views: '5850063'
     image: https://i.ytimg.com/vi/hvBIzqad6Ng/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.11-2
     url: vC69F6i8Cvg
-    views: '3059669'
+    views: '3059919'
     image: https://i.ytimg.com/vi/vC69F6i8Cvg/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.11-3
     url: zqx-ARiZugQ
-    views: '2532225'
+    views: '2532356'
     image: https://i.ytimg.com/vi/zqx-ARiZugQ/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.11-1
     url: ZffRm82GL6g
-    views: '5292308'
+    views: '5292879'
     image: https://i.ytimg.com/vi/ZffRm82GL6g/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.11-4
     url: JszqGay42-Y
-    views: '11765570'
+    views: '11766302'
     image: https://i.ytimg.com/vi/JszqGay42-Y/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.11 PREVIEW
     url: xoXSCpE_8DE
-    views: '410994'
+    views: '411015'
     image: https://i.ytimg.com/vi/xoXSCpE_8DE/hqdefault.jpg
   - name: 'BLACKPINK - REPACKAGE MINI ALBUM "Re: BLACKPINK" TRAILER'
     url: 3nn9RMvOPf0
-    views: '1192866'
+    views: '1192871'
     image: https://i.ytimg.com/vi/3nn9RMvOPf0/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10-5
     url: 0L411ktv534
-    views: '3352390'
+    views: '3352594'
     image: https://i.ytimg.com/vi/0L411ktv534/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10-4
     url: lxpeofh5470
-    views: '4314560'
+    views: '4314774'
     image: https://i.ytimg.com/vi/lxpeofh5470/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10-1
     url: UunNgcNf4Y0
-    views: '8498587'
+    views: '8499347'
     image: https://i.ytimg.com/vi/UunNgcNf4Y0/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10-2
     url: A9W0r5DHlBw
-    views: '5744988'
+    views: '5745610'
     image: https://i.ytimg.com/vi/A9W0r5DHlBw/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10-3
     url: 68GoEaT51m0
-    views: '3216836'
+    views: '3217002'
     image: https://i.ytimg.com/vi/68GoEaT51m0/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10 PREVIEW
     url: 7Sl6ejTF5zs
-    views: '404474'
+    views: '404481'
     image: https://i.ytimg.com/vi/7Sl6ejTF5zs/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.10 SPECIAL TEASER
     url: XLAhLC_Tkho
-    views: '476561'
+    views: '476578'
     image: https://i.ytimg.com/vi/XLAhLC_Tkho/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.9-5
     url: MiLAgxvG7Uc
-    views: '3582680'
+    views: '3582933'
     image: https://i.ytimg.com/vi/MiLAgxvG7Uc/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.9-1
     url: LK4UWnImijY
-    views: '68880473'
+    views: '68885187'
     image: https://i.ytimg.com/vi/LK4UWnImijY/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.9-3
     url: eQU-R5dqP-Q
-    views: '8085867'
+    views: '8086467'
     image: https://i.ytimg.com/vi/eQU-R5dqP-Q/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.9-2
     url: ho7HwRQqV6Q
-    views: '17486766'
+    views: '17487904'
     image: https://i.ytimg.com/vi/ho7HwRQqV6Q/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.9-4
     url: AL16f1QJZhY
-    views: '5741826'
+    views: '5742216'
     image: https://i.ytimg.com/vi/AL16f1QJZhY/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.9 PREVIEW
     url: xcEng68Cn0w
-    views: '387217'
+    views: '387232'
     image: https://i.ytimg.com/vi/xcEng68Cn0w/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8-5
     url: mIJF114am8g
-    views: '4336242'
+    views: '4336458'
     image: https://i.ytimg.com/vi/mIJF114am8g/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8-2
     url: JoeB9cm76Sw
-    views: '7842847'
+    views: '7843491'
     image: https://i.ytimg.com/vi/JoeB9cm76Sw/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8-1
     url: e9ZJ7FHlRV8
-    views: '4482402'
+    views: '4482635'
     image: https://i.ytimg.com/vi/e9ZJ7FHlRV8/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8-3
     url: 5Lfa3d2nZjo
-    views: '5815521'
+    views: '5815846'
     image: https://i.ytimg.com/vi/5Lfa3d2nZjo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8-4
     url: LJt1cJE-Qh0
-    views: '10635992'
+    views: '10636479'
     image: https://i.ytimg.com/vi/LJt1cJE-Qh0/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8 PREVIEW
     url: QnvLCV8oDVg
-    views: '427871'
+    views: '427881'
     image: https://i.ytimg.com/vi/QnvLCV8oDVg/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-5
     url: txMVxDWU7Jg
-    views: '3918289'
+    views: '3918470'
     image: https://i.ytimg.com/vi/txMVxDWU7Jg/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-3
     url: gwy9e5e622A
-    views: '4399283'
+    views: '4399571'
     image: https://i.ytimg.com/vi/gwy9e5e622A/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-1
     url: JdOFKXyiFjo
-    views: '6517924'
+    views: '6518169'
     image: https://i.ytimg.com/vi/JdOFKXyiFjo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-2
     url: 7V0INF_Z5b4
-    views: '6759896'
+    views: '6760351'
     image: https://i.ytimg.com/vi/7V0INF_Z5b4/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-4
     url: OfV0qDQZoO4
-    views: '5116013'
+    views: '5116345'
     image: https://i.ytimg.com/vi/OfV0qDQZoO4/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7 PREVIEW
     url: rMD7oFrHhek
-    views: '393120'
+    views: '393131'
     image: https://i.ytimg.com/vi/rMD7oFrHhek/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-5
     url: eu_8kk_BVmo
-    views: '7017780'
+    views: '7018290'
     image: https://i.ytimg.com/vi/eu_8kk_BVmo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-4
     url: kgtnZFKKAxU
-    views: '5603452'
+    views: '5603822'
     image: https://i.ytimg.com/vi/kgtnZFKKAxU/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-2
     url: lrumhMzxPLc
-    views: '7458346'
+    views: '7458786'
     image: https://i.ytimg.com/vi/lrumhMzxPLc/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-3
     url: t1s-U-xadpA
-    views: '7846762'
+    views: '7847148'
     image: https://i.ytimg.com/vi/t1s-U-xadpA/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-1
     url: ZNziUUhjmvI
-    views: '9743010'
+    views: '9743526'
     image: https://i.ytimg.com/vi/ZNziUUhjmvI/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6 PREVIEW
     url: BmRRxdXaKJU
-    views: '398469'
+    views: '398481'
     image: https://i.ytimg.com/vi/BmRRxdXaKJU/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ BIG EVENT COMING SOON
     url: Y_hUc-AIvto
-    views: '388050'
+    views: '388061'
     image: https://i.ytimg.com/vi/Y_hUc-AIvto/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5-5
     url: rMGwt1sBMq4
-    views: '4743556'
+    views: '4743785'
     image: https://i.ytimg.com/vi/rMGwt1sBMq4/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5-2
     url: orSVp0mMxRQ
-    views: '5928091'
+    views: '5928524'
     image: https://i.ytimg.com/vi/orSVp0mMxRQ/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5-3
     url: Vlsh3fuXzv8
-    views: '7219064'
+    views: '7219524'
     image: https://i.ytimg.com/vi/Vlsh3fuXzv8/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5-1
     url: SQG-sWDolJ0
-    views: '6788450'
+    views: '6788895'
     image: https://i.ytimg.com/vi/SQG-sWDolJ0/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5-4
     url: DCjhRYqHYKU
-    views: '9957768'
+    views: '9958657'
     image: https://i.ytimg.com/vi/DCjhRYqHYKU/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5 PREVIEW
     url: HGcOwDbwfW0
-    views: '528362'
+    views: '528372'
     image: https://i.ytimg.com/vi/HGcOwDbwfW0/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.4-5
     url: H55MOO1N0hA
-    views: '15683243'
+    views: '15684244'
     image: https://i.ytimg.com/vi/H55MOO1N0hA/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.4-1
     url: mRR12SiTaHc
-    views: '34493565'
+    views: '34495970'
     image: https://i.ytimg.com/vi/mRR12SiTaHc/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.4-2
     url: M0-fH_lAn-Q
-    views: '5814776'
+    views: '5815130'
     image: https://i.ytimg.com/vi/M0-fH_lAn-Q/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.4-4
     url: R0Dze7Jlr4E
-    views: '9749642'
+    views: '9750447'
     image: https://i.ytimg.com/vi/R0Dze7Jlr4E/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.4-3
     url: 9ZAr9z7woHo
-    views: '4818733'
+    views: '4819029'
     image: https://i.ytimg.com/vi/9ZAr9z7woHo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.4 PREVIEW
     url: Av0bctIdL7A
-    views: '559937'
+    views: '559953'
     image: https://i.ytimg.com/vi/Av0bctIdL7A/hqdefault.jpg
   - name: BLACKPINK - INTRO +  ‘마지막처럼 (AS IF IT’S YOUR LAST)’ in 2018 Seoul Music
       Awards
     url: f1xIeTCgoFk
-    views: '29030818'
+    views: '29032113'
     image: https://i.ytimg.com/vi/f1xIeTCgoFk/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.3-1
     url: tECX4Ty9wrs
-    views: '8863078'
+    views: '8863513'
     image: https://i.ytimg.com/vi/tECX4Ty9wrs/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.3-5
     url: yOmGcJTdu5o
-    views: '7330167'
+    views: '7330728'
     image: https://i.ytimg.com/vi/yOmGcJTdu5o/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.3-2
     url: pvNy3hU6v6k
-    views: '8286316'
+    views: '8286744'
     image: https://i.ytimg.com/vi/pvNy3hU6v6k/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.3-4
     url: TUkpjt8B0Rg
-    views: '9572433'
+    views: '9573068'
     image: https://i.ytimg.com/vi/TUkpjt8B0Rg/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.3-3
     url: PPqE6Z7Qeqo
-    views: '6238608'
+    views: '6238940'
     image: https://i.ytimg.com/vi/PPqE6Z7Qeqo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.3 PREVIEW
     url: 99iVEdynUVA
-    views: '808846'
+    views: '808865'
     image: https://i.ytimg.com/vi/99iVEdynUVA/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-5
     url: rfbggUOs7EA
-    views: '4870106'
+    views: '4870297'
     image: https://i.ytimg.com/vi/rfbggUOs7EA/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-1
     url: Bn-2aJONSb4
-    views: '10137411'
+    views: '10137851'
     image: https://i.ytimg.com/vi/Bn-2aJONSb4/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-4
     url: Spp7sNhTKQo
-    views: '12196535'
+    views: '12197145'
     image: https://i.ytimg.com/vi/Spp7sNhTKQo/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-2
     url: XrIaJayElnw
-    views: '22099815'
+    views: '22101890'
     image: https://i.ytimg.com/vi/XrIaJayElnw/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-3
     url: 1pDj6Z6cDZ8
-    views: '6747725'
+    views: '6748079'
     image: https://i.ytimg.com/vi/1pDj6Z6cDZ8/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2 PREVIEW
     url: k6zUyY2xpzA
-    views: '816797'
+    views: '816805'
     image: https://i.ytimg.com/vi/k6zUyY2xpzA/hqdefault.jpg
   - name: BLACKPINK - ‘불장난 (PLAYING WITH FIRE)’ +  ‘마지막처럼 (AS IF IT’S YOUR LAST)’
       in 2018 Golden Disc Awards
     url: gDnCr0HaDXg
-    views: '39283442'
+    views: '39285851'
     image: https://i.ytimg.com/vi/gDnCr0HaDXg/hqdefault.jpg
   - name: 'BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ Unreleased Clip #1'
     url: SKGsQ82Y7Mw
-    views: '632787'
+    views: '632799'
     image: https://i.ytimg.com/vi/SKGsQ82Y7Mw/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-5
     url: 1rXL-Qi502k
-    views: '15567740'
+    views: '15568779'
     image: https://i.ytimg.com/vi/1rXL-Qi502k/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-1
     url: WBdQnhwO4gQ
-    views: '45456341'
+    views: '45458448'
     image: https://i.ytimg.com/vi/WBdQnhwO4gQ/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-2
     url: tVYSrwBW1tQ
-    views: '17274460'
+    views: '17275435'
     image: https://i.ytimg.com/vi/tVYSrwBW1tQ/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-3
     url: eB8Gwc_SfKA
-    views: '11649015'
+    views: '11649580'
     image: https://i.ytimg.com/vi/eB8Gwc_SfKA/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-4
     url: 7WHnlZuIY2U
-    views: '15547145'
+    views: '15548159'
     image: https://i.ytimg.com/vi/7WHnlZuIY2U/hqdefault.jpg
   - name: 'BLACKPINK - COME OVER TO BLACKPINK HOUSE #2'
     url: 4zckanuoxeg
-    views: '623471'
+    views: '623483'
     image: https://i.ytimg.com/vi/4zckanuoxeg/hqdefault.jpg
   - name: BLACKPINK - COME OVER TO BLACKPINK HOUSE
     url: KkIjYbo6hVs
-    views: '606298'
+    views: '606309'
     image: https://i.ytimg.com/vi/KkIjYbo6hVs/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1 PREVIEW
     url: htau_A7L0i8
-    views: '986253'
+    views: '986270'
     image: https://i.ytimg.com/vi/htau_A7L0i8/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ TEASER
     url: E_b-htXbVOk
-    views: '1200437'
+    views: '1200448'
     image: https://i.ytimg.com/vi/E_b-htXbVOk/hqdefault.jpg
   - name: 'BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ SPOILER #4'
     url: OqEq4tOSpZI
-    views: '822726'
+    views: '822739'
     image: https://i.ytimg.com/vi/OqEq4tOSpZI/hqdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ SPOILER
     url: JI7GibZyM7k
-    views: '637021'
+    views: '637028'
     image: https://i.ytimg.com/vi/JI7GibZyM7k/hqdefault.jpg
   - name: 'BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ SPOILER #2'
     url: OhhZ4NNdJlc
-    views: '865765'
+    views: '865777'
     image: https://i.ytimg.com/vi/OhhZ4NNdJlc/hqdefault.jpg
   - name: 'BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ SPOILER #3'
     url: htBZkiPhce4
-    views: '805331'
+    views: '805348'
     image: https://i.ytimg.com/vi/htBZkiPhce4/hqdefault.jpg
   - name: BLACKPINK - SO HOT (THEBLACKLABEL Remix) Official Track
     url: eRDe7bOp5uA
-    views: '27569883'
+    views: '27571711'
     image: https://i.ytimg.com/vi/eRDe7bOp5uA/hqdefault.jpg
   - name: BLACKPINK - 'SO HOT' (THEBLACKLABEL Remix) in 2017 SBS Gayodaejun
     url: skIfzl96Gc0
-    views: '69163417'
+    views: '69166680'
     image: https://i.ytimg.com/vi/skIfzl96Gc0/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ in 2017 SBS Gayodaejun
     url: PoHD4wfwC6Y
-    views: '7472140'
+    views: '7472359'
     image: https://i.ytimg.com/vi/PoHD4wfwC6Y/hqdefault.jpg
   - name: 'BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ TEASER : ROSÉ & LISA ver.'
     url: sj3yvxmSVSc
-    views: '1761082'
+    views: '1761100'
     image: https://i.ytimg.com/vi/sj3yvxmSVSc/hqdefault.jpg
   - name: 'BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ TEASER : JENNIE & JISOO ver.'
     url: bQFGYALQWKw
-    views: '2388421'
+    views: '2388475'
     image: https://i.ytimg.com/vi/bQFGYALQWKw/hqdefault.jpg
   - name: BLACKPINK - ‘블랙핑크 TV (BLACKPINK TV)’ TEASER
     url: lw7KGYCep3I
-    views: '1648671'
+    views: '1648695'
     image: https://i.ytimg.com/vi/lw7KGYCep3I/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ 1001 SBS Inkigayo
     url: wwuZtpS8FNI
-    views: '26078789'
+    views: '26079775'
     image: https://i.ytimg.com/vi/wwuZtpS8FNI/hqdefault.jpg
   - name: BLACKPINK JAPAN DEBUT MINI ALBUM TRAILER
     url: 8Bp-2oo1kIU
-    views: '991372'
+    views: '991639'
     image: https://i.ytimg.com/vi/8Bp-2oo1kIU/hqdefault.jpg
   - name: BLACKPINK - OPENING MEDLDY 0812 SBS PARTY PEOPLE
     url: GE7x2fVVsXM
-    views: '14153987'
+    views: '14154315'
     image: https://i.ytimg.com/vi/GE7x2fVVsXM/hqdefault.jpg
   - name: BLACKPINK - 'SURE THING (Miguel)' COVER 0812 SBS PARTY PEOPLE
     url: _7TMluHVx4Y
-    views: '79586615'
+    views: '79590320'
     image: https://i.ytimg.com/vi/_7TMluHVx4Y/hqdefault.jpg
   - name: BLACKPINK - 'PARTITION (Beyonce)' DANCE COVER 0812 SBS PARTY PEOPLE
     url: X3P6dnL2OyY
-    views: '36767671'
+    views: '36769234'
     image: https://i.ytimg.com/vi/X3P6dnL2OyY/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST) Remix ver.' 0723 SBS Inkigayo
     url: RczrR4FVKzg
-    views: '17008172'
+    views: '17008413'
     image: https://i.ytimg.com/vi/RczrR4FVKzg/hqdefault.jpg
   - name: BLACKPINK - AS IF IT'S YOUR LAST (JP Ver.) M/V
     url: 5_O9MbCeOrk
-    views: '6039979'
+    views: '6040121'
     image: https://i.ytimg.com/vi/5_O9MbCeOrk/hqdefault.jpg
   - name: BLACKPINK - STAY (JP Ver.) M/V
     url: Dojlbb44LpA
-    views: '2931900'
+    views: '2932040'
     image: https://i.ytimg.com/vi/Dojlbb44LpA/hqdefault.jpg
   - name: 'BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ 0716 SBS Inkigayo  : NO.1 OF
       THE WEEK'
     url: vW1PeCzs7Sg
-    views: '4364118'
+    views: '4364170'
     image: https://i.ytimg.com/vi/vW1PeCzs7Sg/hqdefault.jpg
   - name: BLACKPINK - PLAYING WITH FIRE (JP Ver.) M/V
     url: 5gt8P6dwuCY
-    views: '3659394'
+    views: '3659504'
     image: https://i.ytimg.com/vi/5gt8P6dwuCY/hqdefault.jpg
   - name: BLACKPINK​ - WHISTLE (JP Ver.) M/V
     url: rCr57C1F_38
-    views: '4157156'
+    views: '4157309'
     image: https://i.ytimg.com/vi/rCr57C1F_38/hqdefault.jpg
   - name: BLACKPINK - BOOMBAYAH (JP Ver.) M/V
     url: RHpwpBnfLco
-    views: '7098132'
+    views: '7098227'
     image: https://i.ytimg.com/vi/RHpwpBnfLco/hqdefault.jpg
   - name: 'BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ 0709 SBS Inkigayo  : NO.1 OF
       THE WEEK'
     url: ZL8LqlKtpVE
-    views: '4038168'
+    views: '4038215'
     image: https://i.ytimg.com/vi/ZL8LqlKtpVE/hqdefault.jpg
   - name: BLACKPINK - ICE CREAM EVENT DAY
     url: SsyInQXEIs4
-    views: '3296247'
+    views: '3296281'
     image: https://i.ytimg.com/vi/SsyInQXEIs4/hqdefault.jpg
   - name: 'BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ 0702 SBS Inkigayo  : NO.1 OF
       THE WEEK'
     url: fWOAe_xXTQs
-    views: '6525671'
+    views: '6525774'
     image: https://i.ytimg.com/vi/fWOAe_xXTQs/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ 0625 SBS Inkigayo
     url: TWRSR7y1288
-    views: '28531601'
+    views: '28531995'
     image: https://i.ytimg.com/vi/TWRSR7y1288/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ DANCE PRACTICE VIDEO
     url: hKUJmA9O6iA
-    views: '219442300'
+    views: '219450049'
     image: https://i.ytimg.com/vi/hKUJmA9O6iA/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ M/V BEHIND THE SCENES FULL VER.
     url: ApzONNuuUGw
-    views: '9001710'
+    views: '9001808'
     image: https://i.ytimg.com/vi/ApzONNuuUGw/hqdefault.jpg
   - name: BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V
     url: Amq-qlqbjYA
-    views: '1022306227'
+    views: '1022343109'
     image: https://i.ytimg.com/vi/Amq-qlqbjYA/hqdefault.jpg
   - name: BLACKPINK - ‘마지막처럼 (AS IF IT’S YOUR LAST)’ M/V BEHIND THE SCENES PREVIEW
     url: HlsxEGd0MLw
-    views: '5449260'
+    views: '5449354'
     image: https://i.ytimg.com/vi/HlsxEGd0MLw/hqdefault.jpg
   - name: BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V TEASER
     url: _gpltTuUd48
-    views: '17897106'
+    views: '17897787'
     image: https://i.ytimg.com/vi/_gpltTuUd48/hqdefault.jpg
   - name: BLACKPINK - ‘불장난 (PLAYING WITH FIRE)’ + ‘붐바야 (BOOMBAYAH)’  in 2017 Seoul
       Music Awards
     url: VQLn90MACUQ
-    views: '41045808'
+    views: '41048175'
     image: https://i.ytimg.com/vi/VQLn90MACUQ/hqdefault.jpg
   - name: BLACKPINK - BLACKPINK CHANNEL+ OPEN!!
     url: cZ4wUi5TJcs
-    views: '3219242'
+    views: '3220204'
     image: https://i.ytimg.com/vi/cZ4wUi5TJcs/hqdefault.jpg
   - name: BLACKPINK - '휘파람 (WHISTLE)' + '불장난 (PLAYING WITH FIRE)' in 2016 SBS Gayodaejun
     url: _paRxWTIyAo
-    views: '81817221'
+    views: '81820994'
     image: https://i.ytimg.com/vi/_paRxWTIyAo/hqdefault.jpg
   - name: BLACKPINK​ - Interview(마지막 무대 인사) + '불장난(PLAYING WITH FIRE)' 1211 SBS Inkigayo
     url: FOv-Rsp1LS0
-    views: '2620360'
+    views: '2620387'
     image: https://i.ytimg.com/vi/FOv-Rsp1LS0/hqdefault.jpg
   - name: 'BLACKPINK - ''불장난 (PLAYING WITH FIRE)'' 1204 SBS Inkigayo : NO.1 OF THE
       WEEK'
     url: hTDRE5d5A2M
-    views: '3448547'
+    views: '3448639'
     image: https://i.ytimg.com/vi/hTDRE5d5A2M/hqdefault.jpg
   - name: 'BLACKPINK - ''불장난 (PLAYING WITH FIRE)'' 1127 SBS Inkigayo : NO.1 OF THE
       WEEK'
     url: HoAdqZW4ptY
-    views: '6046454'
+    views: '6046603'
     image: https://i.ytimg.com/vi/HoAdqZW4ptY/hqdefault.jpg
   - name: BLACKPINK - '불장난 (PLAYING WITH FIRE)' 1120 SBS Inkigayo
     url: TklpzjGlqFE
-    views: '11165400'
+    views: '11165624'
     image: https://i.ytimg.com/vi/TklpzjGlqFE/hqdefault.jpg
   - name: BLACKPINK - '휘파람(WHISTLE)' + '불장난 (PLAYING WITH FIRE)' in 2016 MELON MUSIC
       AWARDS
     url: ZwVTC_686Sw
-    views: '57580052'
+    views: '57584420'
     image: https://i.ytimg.com/vi/ZwVTC_686Sw/hqdefault.jpg
   - name: BLACKPINK - 'STAY' 1106 SBS Inkigayo
     url: _NVwS4mcVYg
-    views: '19558221'
+    views: '19558671'
     image: https://i.ytimg.com/vi/_NVwS4mcVYg/hqdefault.jpg
   - name: BLACKPINK - '불장난 (PLAYING WITH FIRE)' 1106 SBS Inkigayo
     url: 5LWCPzwiN28
-    views: '54373556'
+    views: '54374608'
     image: https://i.ytimg.com/vi/5LWCPzwiN28/hqdefault.jpg
   - name: BLACKPINK - ‘불장난(PLAYING WITH FIRE)’ DANCE PRACTICE VIDEO
     url: NvWfJTbrTBY
-    views: '175193241'
+    views: '175197994'
     image: https://i.ytimg.com/vi/NvWfJTbrTBY/hqdefault.jpg
   - name: BLACKPINK - 'STAY' M/V
     url: FzVR_fymZw4
-    views: '275124786'
+    views: '275135843'
     image: https://i.ytimg.com/vi/FzVR_fymZw4/hqdefault.jpg
   - name: BLACKPINK - '불장난 (PLAYING WITH FIRE)' M/V
     url: 9pdj4iJD08s
-    views: '654918466'
+    views: '654940933'
     image: https://i.ytimg.com/vi/9pdj4iJD08s/hqdefault.jpg
   - name: BLACKPINK - '불장난’(PLAYING WITH FIRE) M/V BEHIND THE SCENES
     url: -4f_1HYnTcM
-    views: '6385421'
+    views: '6385580'
     image: https://i.ytimg.com/vi/-4f_1HYnTcM/hqdefault.jpg
   - name: BLACKPINK - 'STAY' M/V BEHIND THE SCENES
     url: tSuKh0obBKE
-    views: '3957413'
+    views: '3957481'
     image: https://i.ytimg.com/vi/tSuKh0obBKE/hqdefault.jpg
   - name: BLACKPINK - SQUARE TWO TEASER FILM D-3
     url: 8hOo7Ms5Syk
-    views: '1720898'
+    views: '1720937'
     image: https://i.ytimg.com/vi/8hOo7Ms5Syk/hqdefault.jpg
   - name: BLACKPINK - SQUARE TWO TEASER FILM 'JENNIE&ROSÉ' D-3
     url: w_SXfxgqKOs
-    views: '846446'
+    views: '846471'
     image: https://i.ytimg.com/vi/w_SXfxgqKOs/hqdefault.jpg
   - name: BLACKPINK - SQUARE TWO TEASER FILM 'JISOO&LISA' D-3
     url: P6U9MX-5fmI
-    views: '1021658'
+    views: '1021685'
     image: https://i.ytimg.com/vi/P6U9MX-5fmI/hqdefault.jpg
   - name: 'BLACKPINK​ - ''휘파람(WHISTLE)'' 0911 SBS Inkigayo : NO.1 OF THE WEEK'
     url: o4rSRaqvHyc
-    views: '5401598'
+    views: '5401710'
     image: https://i.ytimg.com/vi/o4rSRaqvHyc/hqdefault.jpg
   - name: BLACKPINK​ - '휘파람(WHISTLE)' 0904 SBS Inkigayo
     url: 6F0UWgSSQqU
-    views: '8465409'
+    views: '8465548'
     image: https://i.ytimg.com/vi/6F0UWgSSQqU/hqdefault.jpg
   - name: BLACKPINK​ - '휘파람(WHISTLE)' 0828 SBS Inkigayo
     url: 13XTnp3Lp84
-    views: '26371368'
+    views: '26371657'
     image: https://i.ytimg.com/vi/13XTnp3Lp84/hqdefault.jpg
   - name: BLACKPINK​ - '붐바야(BOOMBAYAH)' 0828 SBS Inkigayo
     url: EKHdMwRaU60
-    views: '50867904'
+    views: '50868384'
     image: https://i.ytimg.com/vi/EKHdMwRaU60/hqdefault.jpg
   - name: 'BLACKPINK - BEHIND THE SCENES #001'
     url: 9bOfCLnOQnI
-    views: '5211749'
+    views: '5211872'
     image: https://i.ytimg.com/vi/9bOfCLnOQnI/hqdefault.jpg
   - name: BLACKPINK​ - '휘파람(WHISTLE)' 0821 SBS Inkigayo
     url: metZ_f8aqC0
-    views: '30836569'
+    views: '30837930'
     image: https://i.ytimg.com/vi/metZ_f8aqC0/hqdefault.jpg
   - name: 'BLACKPINK​ - ''붐바야(BOOMBAYAH)'' 0821 SBS Inkigayo : ''휘파람(WHISTLE)'' NO.1
       OF THE WEEK'
     url: RGmL76BBGZk
-    views: '14115330'
+    views: '14115619'
     image: https://i.ytimg.com/vi/RGmL76BBGZk/hqdefault.jpg
   - name: BLACKPINK - '붐바야(BOOMBAYAH)' DANCE PRACTICE VIDEO
     url: ivoS3HUJB3Q
-    views: '228330386'
+    views: '228337082'
     image: https://i.ytimg.com/vi/ivoS3HUJB3Q/hqdefault.jpg
   - name: BLACKPINK - '휘파람(WHISTLE)' DANCE PRACTICE VIDEO
     url: 1kYrp_Bs8DU
-    views: '146798206'
+    views: '146802979'
     image: https://i.ytimg.com/vi/1kYrp_Bs8DU/hqdefault.jpg
   - name: BLACKPINK - '휘파람’(WHISTLE) 0814 SBS Inkigayo
     url: vAqAp1tJnkc
-    views: '43725397'
+    views: '43725920'
     image: https://i.ytimg.com/vi/vAqAp1tJnkc/hqdefault.jpg
   - name: BLACKPINK - '붐바야(BOOMBAYAH)' 0814 SBS Inkigayo
     url: LpSH8MrYCfg
-    views: '113016801'
+    views: '113021083'
     image: https://i.ytimg.com/vi/LpSH8MrYCfg/hqdefault.jpg
   - name: BLACKPINK - A THANK YOU TO OUR FANS WORLDWIDE
     url: rKltTMnp4G4
-    views: '3588457'
+    views: '3588598'
     image: https://i.ytimg.com/vi/rKltTMnp4G4/hqdefault.jpg
   - name: BLACKPINK - '휘파람'(WHISTLE) M/V BEHIND THE SCENES
     url: cxbZuoF3RuQ
-    views: '3646409'
+    views: '3646496'
     image: https://i.ytimg.com/vi/cxbZuoF3RuQ/hqdefault.jpg
   - name: BLACKPINK - '붐바야'(BOOMBAYAH) M/V BEHIND THE SCENES​
     url: uy2Yc5tt5ns
-    views: '5936508'
+    views: '5936673'
     image: https://i.ytimg.com/vi/uy2Yc5tt5ns/hqdefault.jpg
   - name: BLACKPINK - '휘파람'(WHISTLE) M/V
     url: dISNgvVpWlo
-    views: '663753460'
+    views: '663780626'
     image: https://i.ytimg.com/vi/dISNgvVpWlo/hqdefault.jpg
   - name: BLACKPINK - '붐바야'(BOOMBAYAH) M/V
     url: bwmSjveL3Lc
-    views: '1196278345'
+    views: '1196327274'
     image: https://i.ytimg.com/vi/bwmSjveL3Lc/hqdefault.jpg
   - name: BLACKPINK - DANCE PRACTICE VIDEO
     url: 3fg8pyLKvXE
-    views: '70525998'
+    views: '70529239'
     image: https://i.ytimg.com/vi/3fg8pyLKvXE/hqdefault.jpg
   image: https://yt3.ggpht.com/ytc/AAUvwnheBe2kEkBDitMl_iIGaTiiP4PeG6pO562vu9ch7g=s800-c-k-c0x00ffffff-no-rj-mo
 members:
@@ -2078,62 +2078,62 @@ members:
     videos:
     - name: LILI's FILM - Vlog with JISOO
       url: _wOKXC05jl4
-      views: '9613503'
+      views: '9616815'
       image: https://i.ytimg.com/vi/_wOKXC05jl4/hqdefault.jpg
     - name: LILI's FILM - Introducing the L Family
       url: _qGu29KbPdM
-      views: '4759406'
+      views: '4760024'
       image: https://i.ytimg.com/vi/_qGu29KbPdM/hqdefault.jpg
     - name: LILI's FILM - '0327' Photobook Unboxing
       url: hQBEOEM-bO0
-      views: '4473735'
+      views: '4474145'
       image: https://i.ytimg.com/vi/hQBEOEM-bO0/hqdefault.jpg
     - name: LILI’s FILM [The Movie]
       url: vtRJZEHdu8M
-      views: '61602650'
+      views: '61610161'
       image: https://i.ytimg.com/vi/vtRJZEHdu8M/hqdefault.jpg
     - name: 'LILI''s FILM #4 - LISA Dance Performance Video'
       url: 6U-4Y17xMRY
-      views: '36792031'
+      views: '36795481'
       image: https://i.ytimg.com/vi/6U-4Y17xMRY/hqdefault.jpg
     - name: 'LILI''s FILM #3 - LISA Dance Performance Video'
       url: je_R3gEtDbw
-      views: '66584208'
+      views: '66590662'
       image: https://i.ytimg.com/vi/je_R3gEtDbw/hqdefault.jpg
     - name: 'LILI''s FILM #2 - LISA Dance Performance Video'
       url: By61X4Ku9JE
-      views: '43048735'
+      views: '43051689'
       image: https://i.ytimg.com/vi/By61X4Ku9JE/hqdefault.jpg
     - name: 'LILI''s FILM #4 - BLACKPINK in CALIFORNIA'
       url: JRZQGMzbPes
-      views: '5907794'
+      views: '5908231'
       image: https://i.ytimg.com/vi/JRZQGMzbPes/hqdefault.jpg
     - name: 'LILI''s FILM #1 - JISOO in JAPAN'
       url: ihE62u3JjN4
-      views: '4757850'
+      views: '4758156'
       image: https://i.ytimg.com/vi/ihE62u3JjN4/hqdefault.jpg
     - name: 'LILI''s FILM #1 - LISA Dance Performance Video'
       url: w62vZn2VgkM
-      views: '34022954'
+      views: '34024876'
       image: https://i.ytimg.com/vi/w62vZn2VgkM/hqdefault.jpg
     - name: 'LILI''s FILM #5 - BLACKPINK in AUSTRALIA'
       url: 83vbZroyOUE
-      views: '5001344'
+      views: '5001591'
       image: https://i.ytimg.com/vi/83vbZroyOUE/hqdefault.jpg
     - name: 'LILI''s FILM #3 - WORLD TOUR [IN YOUR AREA] BANGKOK'
       url: 0JwKdtHuFV8
-      views: '6327889'
+      views: '6328135'
       image: https://i.ytimg.com/vi/0JwKdtHuFV8/hqdefault.jpg
     - name: 'LILI''s FILM #2 - [IN YOUR AREA] SEOUL'
       url: __CkL4bsNmE
-      views: '6754774'
+      views: '6755039'
       image: https://i.ytimg.com/vi/__CkL4bsNmE/hqdefault.jpg
     image: https://yt3.ggpht.com/ytc/AAUvwng1opYySbGVKbJyyMYpRutkoM7UwbGY7817NgqpnQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 53436713
     posts: 698
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=edliizhIVnUAX_Og1gF&edm=ABfd0MgBAAAA&ccb=7-4&oh=4b958f8c7a3a36fa6f5fab3c5f47bf8e&oe=60C01A4D&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=edliizhIVnUAX8IR4Qw&edm=ABfd0MgBAAAA&ccb=7-4&oh=c4d1720f03f1afce17cf2df83b023eb0&oe=60C01A4D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CPe-Q0rj3HG
       caption: "#광고 \n#CELINE16\n#CELINEBYHEDISLIMANE"
@@ -2153,19 +2153,19 @@ members:
     videos:
     - name: Jennie's Everyday Essentials
       url: wSYBay8oYJA
-      views: '5161171'
+      views: '5162870'
       image: https://i.ytimg.com/vi/wSYBay8oYJA/hqdefault.jpg
     - name: Vogue photo shoot vlog
       url: D-q6HDjMTA0
-      views: '5092927'
+      views: '5093336'
       image: https://i.ytimg.com/vi/D-q6HDjMTA0/hqdefault.jpg
     - name: '''THE SHOW'' vlog'
       url: vH3EhJFY3us
-      views: '14555400'
+      views: '14556099'
       image: https://i.ytimg.com/vi/vH3EhJFY3us/hqdefault.jpg
     - name: Hello world . From Jennie
       url: erYPvNbc_mc
-      views: '30229415'
+      views: '30230345'
       image: https://i.ytimg.com/vi/erYPvNbc_mc/hqdefault.jpg
     image: https://yt3.ggpht.com/ytc/AAUvwnh6wlzZiykQ2t6y6198lNB0u_H0WYSpr1PbUXiP=s800-c-k-c0x00ffffff-no-rj
   instagram:
@@ -2176,7 +2176,7 @@ members:
       url: https://www.instagram.com/p/CPm0YOHD_yt
       caption: Flowers from @calvinklein 💐
       timestamp: 1622612713
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=GUaaAgyrSd4AX--dlmE&tn=VTPqTGKmP6YsfloG&edm=ABfd0MgBAAAA&ccb=7-4&oh=ef1f63e2df56d35c45bffa3b28c58271&oe=60BFDC9B&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=GUaaAgyrSd4AX_M4yYy&edm=ABfd0MgBAAAA&ccb=7-4&oh=0f592b1fe5ccf1cab0bdb034195ab165&oe=60BFDC9B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 710858
@@ -2200,15 +2200,15 @@ members:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 5IDJBkr9EzMofENo4ScNxi
+      id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 6V3dOOUiPg53wUf83tBLR8
+        id: 0eQgA4KkNbJojAIfNjdJrM
     - name: BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
       id: 1dH4B2bWb5Ys7aszi9KWHA
       release_date: '2019-03-13'
@@ -2283,7 +2283,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 41529143
     posts: 671
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=Xje6avNOcm8AX_R2ipS&edm=ABfd0MgBAAAA&ccb=7-4&oh=40b3622342f43c335e47b7d3cdbb077e&oe=60BF6801&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=Xje6avNOcm8AX_ehxxb&edm=ABfd0MgBAAAA&ccb=7-4&oh=314ee6e5fb01066fd569a1e74adfdc8a&oe=60BF6801&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CPI3QR4jyot
       caption: '@tiffanyandco'
@@ -2304,15 +2304,15 @@ members:
       - name: Gone
         id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 5IDJBkr9EzMofENo4ScNxi
+      id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
       artist_collab: BLACKPINK
       tracks:
       - name: Gone - Live
-        id: 5lnmMdUf1ifC0Oa8wsKuyW
+        id: 4HZ6bzqW2ybPYbvfuBLmUM
     - name: One of a Kind
       id: 4EitCfNTOlnqtRrmBBuwGQ
       release_date: '2012-09-15'
@@ -2325,7 +2325,7 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 77
+    popularity: 76
     genres: []
     image: https://i.scdn.co/image/6605c13b7601ae2c2aaeef1b7050d4fa60fc43b9
   youtube:
@@ -2339,15 +2339,15 @@ members:
     videos:
     - name: Thank you for loving -R-
       url: Swn6d0mynXY
-      views: '3146695'
+      views: '3147451'
       image: https://i.ytimg.com/vi/Swn6d0mynXY/hqdefault.jpg
     - name: -R- Film
       url: zWOjRqaHxgU
-      views: '1932304'
+      views: '1932558'
       image: https://i.ytimg.com/vi/zWOjRqaHxgU/hqdefault.jpg
     - name: ROSÉ | Interview Film
       url: YmZEXPPDCzc
-      views: '5647844'
+      views: '5648149'
       image: https://i.ytimg.com/vi/YmZEXPPDCzc/hqdefault.jpg
     image: https://yt3.ggpht.com/ytc/AAUvwnjYh6slXV51CkoDYHcADRWaRU64KBe3ZrFZdkEY=s800-c-k-c0x00ffffff-no-rj
 - name: Jisoo
@@ -2356,9 +2356,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 41382201
+    followers: 41384830
     posts: 664
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=3LlUz9sBDSYAX-xZaFs&tn=VTPqTGKmP6YsfloG&edm=ABfd0MgBAAAA&ccb=7-4&oh=2edff845106f94d44225261576476067&oe=60C00C42&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=3LlUz9sBDSYAX9UoTS-&edm=ABfd0MgBAAAA&ccb=7-4&oh=dbcebfa0c0950c54a3b0f73862b602c6&oe=60C00C42&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CPngTnCpuFg
       caption: 👀🫒
