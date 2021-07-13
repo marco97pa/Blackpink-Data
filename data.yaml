@@ -2,7 +2,7 @@ name: BLACKPINK
 hashtags: '#블랙핑크 #BLACKPINK #blinks @BLACKPINK'
 spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
-  followers: 23009326
+  followers: 23117114
   discography:
   - name: BLACKPINK 2021 'THE SHOW' LIVE
     id: 5IDJBkr9EzMofENo4ScNxi
@@ -38,28 +38,28 @@ spotify:
     - name: Forever Young - Live
       id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -243,6 +243,15 @@ spotify:
       id: 6OKXcx7tClGAS0o2cOTl2v
     - name: SEE U LATER
       id: 7IS4NciwYPs1wMywOKx69z
+  - name: Lovesick Girls (JP Ver.)
+    id: 0nhyyhprFn6lcIAzTpmFDo
+    release_date: '2021-07-13'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273157030e2a5235c649af7284d
+    tracks:
+    - name: Lovesick Girls - JP Ver.
+      id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
     id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
@@ -577,16 +586,6 @@ spotify:
     tracks:
     - name: PLAYING WITH FIRE
       id: 0romQaf5xxjOvX9sPSW1SV
-  - name: Chromatica
-    id: 05c49JgPmL4Uz2ZeqRx5SP
-    release_date: '2020-05-29'
-    total_tracks: 16
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a
-    artist_collab: Lady Gaga
-    tracks:
-    - name: Sour Candy (with BLACKPINK)
-      id: 1IWNylpZ477gIVUDpJL66u
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 86
@@ -596,20 +595,16 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1411916130667556864
+  last_tweet_id: 1414721253772984321
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39187880
-  posts: 1155
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=KRlqf2KNywkAX96buv8&edm=ABfd0MgBAAAA&ccb=7-4&oh=5a4fcda0446db8d41a38a04d24c3814e&oe=60F279CC&_nc_sid=7bff83
+  followers: 39233660
+  posts: 1158
+  image: https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=lSUi__yrvpQAX8FJBoq&edm=ABfd0MgBAAAA&ccb=7-4&oh=629498211b7922e2a13c7073a5eb2fad&oe=60F4740C&_nc_sid=7bff83
   last_post:
-    url: https://www.instagram.com/p/CRAbyTBDfRU
-    caption: "BLACKPINK [4+1] THE ALBUM PHOTOBOOK [LIMITED EDITION] \U0001F4F8\n\n\
-      ===\n\nRelease // August 9 (Mon)\nPre-order // July 7 ~ August 8 \n\nPhotobook\
-      \ Includes:\n- Sleeve Package Box\n- Hard Cover Photobook\n- [4+1] Special Gift\
-      \ Case\n- [4+1] Double-Sided History Poster Set\n- [4+1] Hologram Sticker Set\n\
-      - Random Photocard Set\n- Random Layering Bookmark\n- Random Folded Poster"
-    timestamp: 1625619718
+    url: https://www.instagram.com/p/CRPyB6MjPWH
+    caption: '#ROSÉ #로제 #BLACKPINK #블랙핑크 #OnTheGround #MV #200MILLION #YOUTUBE #YG'
+    timestamp: 1626134697
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
@@ -2147,13 +2142,21 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 55359123
-    posts: 707
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=Mq5oFsygAuQAX_QDE2v&edm=ABfd0MgBAAAA&ccb=7-4&oh=8a635b96c01c2b7d07f83a638c4bd00a&oe=60F18A8D&_nc_sid=7bff83
+    followers: 55442546
+    posts: 709
+    image: https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=Mq5oFsygAuQAX9gea6w&edm=ABfd0MgBAAAA&ccb=7-4&oh=6531862c30710349a8da8f88bb74f932&oe=60F57F0D&_nc_sid=7bff83
     last_post:
-      url: https://www.instagram.com/p/CQ-v7LdLtxu
-      caption: MISS U SO MUCH😢😢
-      timestamp: 1625563168
+      url: https://www.instagram.com/p/CROTDP2Ddb9
+      caption: '@Bulgari
+
+        #Bvlgari
+
+        #BZero1
+
+        #DreamAndDare
+
+        #AD'
+      timestamp: 1626084922
 - name: Jennie
   years: 25
   birthday: 16/01/1996
@@ -2186,13 +2189,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 47710066
+    followers: 47779060
     posts: 750
     last_post:
       url: https://www.instagram.com/p/CRApv5hjfsN
       caption: 🐿🐻 in the studio
       timestamp: 1625627038
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=qwrs6tfaIf0AX_HCaBJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=dfdbe234c707fd9397a0aa2bc4aad967&oe=60F14CDB&_nc_sid=7bff83
+    image: https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=_0LtlnmP9nsAX8KU_e2&edm=ABfd0MgBAAAA&ccb=7-4&oh=869add56c19bce688196edc2ab8186bf&oe=60F5415B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 800897
@@ -2297,28 +2300,31 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 42838744
-    posts: 677
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=313wnf8r6ccAX_8dUjM&edm=ABfd0MgBAAAA&ccb=7-4&oh=ac3f97dec032b6d1d964230e11d680b3&oe=60F2D281&_nc_sid=7bff83
+    followers: 42913718
+    posts: 678
+    image: https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=XEcprfJSqJAAX87FTRL&edm=ABfd0MgBAAAA&ccb=7-4&oh=2742c59873709ea0b6696559c8ad0256&oe=60F4CCC1&_nc_sid=7bff83
     last_post:
-      url: https://www.instagram.com/p/CRAp6p2DQrv
-      caption: 📲🎧🎙🐿🧸💖
-      timestamp: 1625627126
+      url: https://www.instagram.com/p/CRQ-2X6jbuD
+      caption: '오늘 밤 9시! JTBC에서 바라던바다 합니다 여러분~
+
+
+        요것은 수현이가 찍어준 사진들 이랍니다! 하늘이 기가 막히죠? ☁️'
+      timestamp: 1626174972
   spotify:
     id: 3eVa5w3URK5duf6eyVDbu9
     followers: 902634
     discography:
     - name: R
-      id: 5BQcoDfcZ8aBcikYX9B7Ob
+      id: 0rBtYa6AUvlhoTTrPbYUmi
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
+      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
       tracks:
       - name: On The Ground
-        id: 2pn8dNVSpYnAtlKFC8Q0DJ
+        id: 4cuQfZEUCI0gmjGPS89T46
       - name: Gone
-        id: 2dHoVW9AxJVSRebPRyV2aA
+        id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
@@ -2372,12 +2378,12 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 42918394
+    followers: 42992892
     posts: 678
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=hhlpd7ZtZJ4AX-nM71T&edm=ABfd0MgBAAAA&ccb=7-4&oh=b76311bd4e37ab020d420804bfd9210d&oe=60F17C82&_nc_sid=7bff83
+    image: https://scontent-fco2-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_ohc=9JNEv4PqZ3IAX_sb7eR&edm=ABfd0MgBAAAA&ccb=7-4&oh=d760acb4761504d40be79346b461fc86&oe=60F57102&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRDQ_XMJkVT
       caption: "[ @yg_stage \U0001F90D ]\n\U0001F4F8 @mokjungwook \n\U0001F484 @iammaeng\
         \ \n\U0001F487\U0001F3FB‍♀️ @iseonyeong1118 \n\U0001F457 @stylist_eel"
       timestamp: 1625714721
-billboard_check: 11-07-2021
+billboard_check: 13-07-2021
