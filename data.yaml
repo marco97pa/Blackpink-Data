@@ -5,38 +5,38 @@ spotify:
   followers: 23117114
   discography:
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 05tjy9njMXtZhhQKy6eSbw
+    id: 5IDJBkr9EzMofENo4ScNxi
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
     tracks:
     - name: Kill This Love - Live
-      id: 20M2G72S2uPv5HSGlbjzau
+      id: 1GrGs8HBvOHHdeho4w1ZkH
     - name: Crazy Over You - Live
-      id: 7DrC7HY96mwYCZTdVMWRqC
+      id: 20O6VxUyfLn6Zk8izFpMeu
     - name: How You Like That - Live
-      id: 2t7einPRQzodw4hn1mTey3
+      id: 3p9HltmtqXCvCSKKOKMZ29
     - name: Don't Know What To Do - Live
-      id: 4YRsEUhV94lfsE8ths8qnF
+      id: 6BYdrWzCp2tL2RKSoncArx
     - name: PLAYING WITH FIRE - Live
-      id: 6HenyHrl0dlPFZKZeZrQL1
+      id: 7jKhvwWoXGmfc8Ehc4kFrt
     - name: Lovesick Girls - Live
-      id: 1H7ZzRGyuyccxcCEl5iZka
+      id: 4GPLXDicIuRmAELK5RWvCw
     - name: Love To Hate Me + You Never Know - Live
-      id: 7aD3TKOSytAienGPAe7mUO
+      id: 76F0GgW1qB7nED5CQeZSrX
     - name: Pretty Savage - Live
-      id: 6L21Zb4gCi8DsGFfRWzP1e
+      id: 3ua8wdqzl3SdgElppgcuf2
     - name: DDU-DU DDU-DU - Live
-      id: 0wYdz8PwtGIuxOcgsAfBTV
+      id: 4gXhyN8S81jbq50NdEUcLR
     - name: WHISTLE - Live
-      id: 2Lf2DTkeqCRka9Gw7dT0cI
+      id: 5dUFWYt4BJfWlhC9CxWFGe
     - name: As If It's Your Last - Live
-      id: 0xY0xiUh7JAq7WKAMZbX6V
+      id: 5ROltcFSXdACTwRwOyJRzv
     - name: BOOMBAYAH - Live
-      id: 4pvNkEwArOjdB0usShWcFm
+      id: 1kUXkPQh6G8GLAIVIMgJwk
     - name: Forever Young - Live
-      id: 0vGUFVPXhsEUeDnwNCs8CC
+      id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
     id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
@@ -358,20 +358,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -506,16 +506,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ MIX)
-    id: 6qCqOI40caiiu8vcldqKDT
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Club Future Nostalgia (DJ Mix)
     id: 3W04W2HfQ5kVeByxfjbu2C
     release_date: '2020-08-28'
@@ -526,6 +516,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6P8SQWN3pcLKChWHt73fZV
+  - name: Club Future Nostalgia (DJ MIX)
+    id: 6qCqOI40caiiu8vcldqKDT
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -588,7 +588,7 @@ spotify:
       id: 0romQaf5xxjOvX9sPSW1SV
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
-  popularity: 86
+  popularity: 87
   genres:
   - k-pop
   - k-pop girl group
@@ -600,7 +600,7 @@ instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 39269128
   posts: 1158
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=lSUi__yrvpQAX8XFJKY&edm=ABfd0MgBAAAA&ccb=7-4&oh=8a26efa18753ce374276a80af9e687f7&oe=60F66E4C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=lSUi__yrvpQAX-Q8ZQw&edm=ABfd0MgBAAAA&ccb=7-4&oh=0aa8a91484930804239b956c0daad07b&oe=60F66E4C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CRPyB6MjPWH
     caption: '#ROSÉ #로제 #BLACKPINK #블랙핑크 #OnTheGround #MV #200MILLION #YOUTUBE #YG'
@@ -2144,7 +2144,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 55519574
     posts: 709
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=0P1Trl0h3hEAX-wAkz4&edm=ABfd0MgBAAAA&ccb=7-4&oh=6d526eb2e107894d605e21f6bb912d6e&oe=60F7794D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=0P1Trl0h3hEAX-E5D-D&edm=ABfd0MgBAAAA&ccb=7-4&oh=6079a39ebebe5fdb7c03bae25e0ed865&oe=60F7794D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CROTDP2Ddb9
       caption: '@Bulgari
@@ -2189,13 +2189,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 47819078
+    followers: 47819359
     posts: 752
     last_post:
       url: https://www.instagram.com/p/CRS9i3_DbDx
       caption: Spot us 🖤💕
       timestamp: 1626241397
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=_0LtlnmP9nsAX_1-PuU&edm=ABfd0MgBAAAA&ccb=7-4&oh=11cbc77706b50668b44b6ed4b38c641a&oe=60F73B9B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=_0LtlnmP9nsAX_rXPnl&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=e1d527e063b240cd2ed467ad098d99aa&oe=60F73B9B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 800897
@@ -2300,9 +2300,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 42970489
+    followers: 42970710
     posts: 682
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=XEcprfJSqJAAX_QpllQ&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=e2d62d067a4688064fa8d3aaa557ec57&oe=60F6C701&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=XEcprfJSqJAAX_KEiP-&edm=ABfd0MgBAAAA&ccb=7-4&oh=f515969e5be1cf9756b13aed391b7fca&oe=60F6C701&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRVZ6VMDv3X
       caption: 🎇❤️‍🔥💞🌸 200M 🌸💞❤️‍🔥🎇
@@ -2377,7 +2377,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 43045334
     posts: 680
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=gLiC8m1sclgAX9ChMdT&edm=ABfd0MgBAAAA&ccb=7-4&oh=08f9a6e5243eed02406b8e125f67ba01&oe=60F76B42&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=gLiC8m1sclgAX8dKKls&edm=ABfd0MgBAAAA&ccb=7-4&oh=c95d2e31acabcab919c470eb8aa7d9c9&oe=60F76B42&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRTLGuBJz-v
       caption: ☁️뭉게뭉게☁️
