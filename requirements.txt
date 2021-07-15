@@ -13,10 +13,10 @@ tweepy
 # Needed to retrieve data from Instagram
 insta-scrape
 #
-# youtube-data-api
-# https://pypi.org/project/youtube-data-api/
+# python-youtube
+# https://pypi.org/project/python-youtube/
 # Needed to retrieve data from YouTube
-youtube-data-api
+python-youtube
 # spotipy
 # https://github.com/plamere/spotipy
 # Needed to retrieve data from Spotify

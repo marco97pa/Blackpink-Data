@@ -7,7 +7,7 @@ from utils import convert_num, display_num, download_image
 from tweet import twitter_post, twitter_post_image, twitter_repost, set_test_mode
 from birthdays import check_birthdays
 from instagram import instagram_data
-# from youtube import youtube_data - NEEDS A FIX see https://github.com/marco97pa/Blackpink-Data/issues/17
+from youtube import youtube_data #- NEEDS A FIX see https://github.com/marco97pa/Blackpink-Data/issues/17
 from spotify import spotify_data
 from billboard_charts import billboard_data
 

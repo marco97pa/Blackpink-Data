@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/env papihon3
 import os
 import requests
 import json
-from youtube_api import YoutubeDataApi
+from pyyoutube import Api
 from utils import display_num, convert_num, download_image
 from tweet import twitter_post, twitter_post_image
 
@@ -26,100 +26,91 @@ def youtube_data(group):
     """
 
     print("[{}] Starting tasks...".format(module))
-    yt = YoutubeDataApi(youtube_api_key)
+    api = Api(api_key=youtube_api_key)
 
     # Getting channel data and stats
-    channel_data = youtube_get_channel(yt, group["youtube"]["url"])
+    channel_data = youtube_get_channel(api, group["youtube"]["url"])
     group["youtube"] = youtube_check_channel_change(group["youtube"], channel_data, group["hashtags"])
 
     # Getting video data and stats
-    videos = youtube_get_videos(yt, group["youtube"]["playlist"], group["youtube"]["name"])
+    videos = youtube_get_videos(api, group["youtube"]["playlist"], group["youtube"]["name"])
     group["youtube"]["videos"] = youtube_check_videos_change(group["name"], group["youtube"]["videos_scale"], group["youtube"]["videos"], videos, group["hashtags"])
 
     # Getting Youtube data for each member
     for member in group["members"]:
         if "youtube" in member:
-            channel_data = youtube_get_channel(yt, member["youtube"]["url"])
+            channel_data = youtube_get_channel(api, member["youtube"]["url"])
             member["youtube"] = youtube_check_channel_change(member["youtube"], channel_data, member["hashtags"])
 
-            videos = youtube_get_videos(yt, member["youtube"]["playlist"], member["youtube"]["name"])
+            videos = youtube_get_videos(api, member["youtube"]["playlist"], member["youtube"]["name"])
             member["youtube"]["videos"] = youtube_check_videos_change(member["name"], member["youtube"]["videos_scale"], member["youtube"]["videos"], videos, member["hashtags"])
     
     print()
     return group
 
-def youtube_get_channel(yt, channel_id):
+def youtube_get_channel(api, channel_id):
     """Gets details about a channel
 
     Args:
-      - yt: The YouTube instance
+      - api: The YouTube instance
       - channel_id: the ID of that channel on YouTube
 
     Returns:
       an dictionary containing all the scraped data of that channel
     """
 
-    data = yt.get_channel_metadata(channel_id, snippet="statistics, snippet")
+    data = api.get_channel_info(channel_id=channel_id)
+    channel = data.items[0]
 
     channel_data = {
-       "name": data["title"],
-       "subs": data["subscription_count"],
-       "views": data["view_count"],
-       "playlist": data["playlist_id_uploads"],
-       "image": youtube_get_profile_image(channel_id)
+       "name": channel.snippet.title,
+       "subs": channel.statistics.subscriberCount,
+       "views": channel.statistics.viewCount,
+       "playlist": channel.contentDetails.relatedPlaylists.uploads,
+       "image": channel.snippet.thumbnails.high.url
        }
 
     print("[{}] ({}) Fetched channel".format(module, channel_data["name"]))
 
     return channel_data
 
-def youtube_get_videos(yt, playlist_id, name):
+def youtube_get_videos(api, playlist_id, name):
     """Gets videos from a playlist
 
     Args:
-      - yt: The YouTube instance
+      - api: The YouTube instance
       - playlist_id: the ID of the playlist on YouTube
       - name: name of the channel owner of the playlist
 
     Returns:
       a list of videos
     """
-
-    playlist = yt.get_videos_from_playlist_id(playlist_id)
-    
-    video_ids = []
-    for video in playlist:
-        video_ids.append(video["video_id"])
-    
     videos = []
-    videos_data = yt.get_video_metadata(video_ids)
-    videos_data
-    for video in videos_data:
-        videos.append({"name": video["video_title"], "url": video["video_id"], "views": video["video_view_count"], "image": video["video_thumbnail"]})
+
+    playlist = api.get_playlist_items(playlist_id=playlist_id, count=None)
+    
+    for video in playlist.items:
+      # Try to get the highest quality thumbnail
+      if video.snippet.thumbnails.maxres is None:
+        thumbnail = video.snippet.thumbnails.standard.url
+      else:
+        thumbnail = video.snippet.thumbnails.maxres.url
+
+        videos.append(
+         {"name": video.snippet.title,
+         "url": video.snippet.resourceId.videoId,
+         "image": thumbnail}
+        )
     
     print("[{}] ({}) Fetched {} videos".format(module, name, len(videos)))
     
     return videos
 
-def youtube_get_profile_image(channel_id):
-    """Gets profile image of a channel
-
-    Args:
-      channel_id: the ID of the channel on YouTube
-
-    Returns:
-      an url to an high quality thumbanail of that channel
-    """
-
-    page = requests.get("https://www.googleapis.com/youtube/v3/channels?part=snippet&id=" + channel_id + "&fields=items(id%2Csnippet%2Fthumbnails)&key=" + youtube_api_key)
-    response = json.loads(page.content)
-    return response["items"][0]["snippet"]["thumbnails"]["high"]["url"]
 
 def youtube_check_channel_change(old_channel, new_channel, hashtags):
     """Checks if there is any change in the number of subscribers or total views of the channel
 
     It compares the old channel data with the new (already fetched) data.
-    It tweets if the channel reaches a new goal of subscribers or total views on YouTube
 
     Args:
       - old_channel: dictionary that contains all the old data of the channel
@@ -156,7 +147,7 @@ def youtube_check_channel_change(old_channel, new_channel, hashtags):
 
     return old_channel
 
-def youtube_check_videos_change(name, scale, old_videos, new_videos, hashtags):
+def youtube_check_videos_change(name, scale, old_videos, new_videos, hashtags): 
     """Checks if there is any new video
 
     It compares the old videos list of the artist with the new (already fetched) videos list.
@@ -179,15 +170,6 @@ def youtube_check_videos_change(name, scale, old_videos, new_videos, hashtags):
             for old_video in old_videos:
                 if new_video["url"] == old_video["url"]:
                     found = True
-                    # Tweet if a video reaches a new record (based on the scale parameter)
-                    if convert_num(scale, new_video["views"]) != convert_num(scale, old_video["views"]):
-                        twitter_post_image(
-                            "{} reached {} views on #YouTube\n{}\n{} #{}".format(new_video["name"], display_num(new_video["views"]), url_video + new_video["url"], hashtags, name),
-                            download_image(new_video["image"]),
-                            display_num(new_video["views"], short=True),
-                            text_size=100,
-                            crop=True
-                        )
             if not found:
                 twitter_post_image(
                     "{} uploaded a new #video on #YouTube: {}\n{}\n{}".format(name, new_video["name"], url_video + new_video["url"], hashtags),
