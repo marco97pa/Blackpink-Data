@@ -79,7 +79,7 @@ The project is really modular and by editing the YAML file you can easily fork t
 * [Tweepy](https://pypi.org/project/tweepy/)
 * [pillow](https://pypi.org/project/Pillow/)
 * [insta-scrape](https://pypi.org/project/insta-scrape/)
-* [youtube-data-api](https://pypi.org/project/youtube-data-api/)
+* [python-youtube](https://pypi.org/project/python-youtube/)
 * [spotipy](https://github.com/plamere/spotipy)
 * [billboard.py](https://github.com/guoguo12/billboard-charts)
 

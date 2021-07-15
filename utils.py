@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import requests
-import cv2
 
 def convert_num(mode, num):
     """Converts a number in any given number scale
