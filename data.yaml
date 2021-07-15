@@ -501,7 +501,7 @@ spotify:
     release_date: '2020-09-25'
     total_tracks: 24
     type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27360fed69cccf99129204c4860
+    image: https://i.scdn.co/image/ab67616d0000b273f5f7ffcf2eff1841e0ea1e2b
     artist_collab: Various Artists
     tracks:
     - name: Kill This Love
@@ -598,9 +598,9 @@ twitter:
   last_tweet_id: 1415235949160636417
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39269128
+  followers: 39269617
   posts: 1158
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=lSUi__yrvpQAX-Q8ZQw&edm=ABfd0MgBAAAA&ccb=7-4&oh=0aa8a91484930804239b956c0daad07b&oe=60F66E4C&_nc_sid=7bff83
+  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=lSUi__yrvpQAX9Oroj7&edm=ABfd0MgBAAAA&ccb=7-4&oh=475f673f714445dd6d2ae5a91b36b648&oe=60F66E4C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CRPyB6MjPWH
     caption: '#ROSÉ #로제 #BLACKPINK #블랙핑크 #OnTheGround #MV #200MILLION #YOUTUBE #YG'
@@ -2142,9 +2142,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 55519574
+    followers: 55521661
     posts: 709
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=0P1Trl0h3hEAX-E5D-D&edm=ABfd0MgBAAAA&ccb=7-4&oh=6079a39ebebe5fdb7c03bae25e0ed865&oe=60F7794D&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=0P1Trl0h3hEAX8E0LyI&edm=ABfd0MgBAAAA&ccb=7-4&oh=8e20266dcae2af8b638ed3dfdcc27a63&oe=60F7794D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CROTDP2Ddb9
       caption: '@Bulgari
@@ -2189,13 +2189,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 47819359
+    followers: 47820189
     posts: 752
     last_post:
       url: https://www.instagram.com/p/CRS9i3_DbDx
       caption: Spot us 🖤💕
       timestamp: 1626241397
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=_0LtlnmP9nsAX_rXPnl&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=e1d527e063b240cd2ed467ad098d99aa&oe=60F73B9B&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=_0LtlnmP9nsAX_Gfm19&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=e8a2078aa0afda19b969b07f496f4558&oe=60F73B9B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 800897
@@ -2219,15 +2219,15 @@ members:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
       id: 1dH4B2bWb5Ys7aszi9KWHA
       release_date: '2019-03-13'
@@ -2300,9 +2300,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 42970710
+    followers: 42971448
     posts: 682
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=XEcprfJSqJAAX_KEiP-&edm=ABfd0MgBAAAA&ccb=7-4&oh=f515969e5be1cf9756b13aed391b7fca&oe=60F6C701&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=XEcprfJSqJAAX-qTJ6m&edm=ABfd0MgBAAAA&ccb=7-4&oh=ab226d9d5f12228835b644d032a4ddd2&oe=60F6C701&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRVZ6VMDv3X
       caption: 🎇❤️‍🔥💞🌸 200M 🌸💞❤️‍🔥🎇
@@ -2323,15 +2323,15 @@ members:
       - name: Gone
         id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: Gone - Live
-        id: 4HZ6bzqW2ybPYbvfuBLmUM
+        id: 5lnmMdUf1ifC0Oa8wsKuyW
     - name: One of a Kind
       id: 4EitCfNTOlnqtRrmBBuwGQ
       release_date: '2012-09-15'
@@ -2377,7 +2377,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 43045334
     posts: 680
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=gLiC8m1sclgAX8dKKls&edm=ABfd0MgBAAAA&ccb=7-4&oh=c95d2e31acabcab919c470eb8aa7d9c9&oe=60F76B42&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=gLiC8m1sclgAX_AdwSk&edm=ABfd0MgBAAAA&ccb=7-4&oh=8473ee9b64fc7da4711d845f7b9c3e35&oe=60F76B42&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRTLGuBJz-v
       caption: ☁️뭉게뭉게☁️
