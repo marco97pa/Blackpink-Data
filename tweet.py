@@ -8,7 +8,6 @@ import json
 import requests
 from requests_oauthlib import OAuth1
 from PIL import Image, ImageFont, ImageDraw 
-from utils import video_to_image
 
 # Get Twitter API keys
 consumer_key = os.environ.get('TWITTER_CONSUMER_KEY')

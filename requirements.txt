@@ -27,11 +27,6 @@ spotipy
 # Needed to edit images
 pillow
 #
-# opencv
-# https://pypi.org/project/opencv-python/
-# Needed to take a frame from a video. It can be removed when https://github.com/marco97pa/Blackpink-Data/issues/12 is fixed.
-opencv-python
-#
 # billboard
 # https://pypi.org/project/billboard.py/
 # Needed to get Billboard charts

@@ -89,24 +89,3 @@ def download_image(url):
     file.close()
 
     return filename
-
-def video_to_image(video_filename):
-    """Takes a still image from a video
-
-    Args:
-      video_filename: filename of the video source
-
-    Returns:
-      the filename of the still image
-    """
-
-    image_filename = "video_still.jpg"
-    seconds = 1 # the frame at this time will be taken
-    
-    vidcap = cv2.VideoCapture(video_filename)
-    vidcap.set(cv2.CAP_PROP_POS_MSEC, seconds*1000)
-    hasFrames, image = vidcap.read()
-    if hasFrames:
-        cv2.imwrite(image_filename, image) # save frame as JPG file
-
-    return image_filename

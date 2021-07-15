@@ -34,7 +34,7 @@ def youtube_data(group):
 
     # Getting video data and stats
     videos = youtube_get_videos(api, group["youtube"]["playlist"], group["youtube"]["name"])
-    group["youtube"]["videos"] = youtube_check_videos_change(group["name"], group["youtube"]["videos_scale"], group["youtube"]["videos"], videos, group["hashtags"])
+    group["youtube"]["videos"] = youtube_check_videos_change(group["name"], group["youtube"]["videos"], videos, group["hashtags"])
 
     # Getting Youtube data for each member
     for member in group["members"]:
@@ -43,7 +43,7 @@ def youtube_data(group):
             member["youtube"] = youtube_check_channel_change(member["youtube"], channel_data, member["hashtags"])
 
             videos = youtube_get_videos(api, member["youtube"]["playlist"], member["youtube"]["name"])
-            member["youtube"]["videos"] = youtube_check_videos_change(member["name"], member["youtube"]["videos_scale"], member["youtube"]["videos"], videos, member["hashtags"])
+            member["youtube"]["videos"] = youtube_check_videos_change(member["name"], member["youtube"]["videos"], videos, member["hashtags"])
     
     print()
     return group
@@ -147,7 +147,7 @@ def youtube_check_channel_change(old_channel, new_channel, hashtags):
 
     return old_channel
 
-def youtube_check_videos_change(name, scale, old_videos, new_videos, hashtags): 
+def youtube_check_videos_change(name, old_videos, new_videos, hashtags): 
     """Checks if there is any new video
 
     It compares the old videos list of the artist with the new (already fetched) videos list.
@@ -155,7 +155,6 @@ def youtube_check_videos_change(name, scale, old_videos, new_videos, hashtags):
 
     Args:
       - name: name of the channel
-      - scale: number scale that triggers a new views goal (example: reaches a new million, a new billion...)
       - old_videos: list that contains all the old videos
       - new_videos: list that contains all the updated videos
       - hashtags: hashtags to append to the Tweet
