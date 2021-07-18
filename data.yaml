@@ -506,16 +506,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ MIX)
-    id: 6qCqOI40caiiu8vcldqKDT
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Club Future Nostalgia (DJ Mix)
     id: 3W04W2HfQ5kVeByxfjbu2C
     release_date: '2020-08-28'
@@ -526,6 +516,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6P8SQWN3pcLKChWHt73fZV
+  - name: Club Future Nostalgia (DJ MIX)
+    id: 6qCqOI40caiiu8vcldqKDT
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -598,7 +598,7 @@ twitter:
   last_tweet_id: 1415235949160636417
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39346718
+  followers: 39346946
   posts: 1158
   image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=ZFy6T6qOViIAX83WoC5&edm=ABfd0MgBAAAA&ccb=7-4&oh=024624a1435438f5b9fb3f2e5d0a51d6&oe=60FA62CC&_nc_sid=7bff83
   last_post:
@@ -1654,7 +1654,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 55677863
     posts: 709
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=8jJ1ncfQ5moAX-8qVNq&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=cea578a4859dab6b8d5d0f09d6d4f964&oe=60FB6DCD&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=8jJ1ncfQ5moAX-8qVNq&edm=ABfd0MgBAAAA&ccb=7-4&oh=ac43ddb32e27ec856a13a7d92e94df69&oe=60FB6DCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CROTDP2Ddb9
       caption: '@Bulgari
@@ -1694,7 +1694,7 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 47929568
+    followers: 47929931
     posts: 753
     last_post:
       url: https://www.instagram.com/p/CRXkZP8jufP
@@ -1805,7 +1805,7 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 43098174
+    followers: 43098573
     posts: 682
     image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=jNUvrh5_m-MAX_L8eR-&edm=ABfd0MgBAAAA&ccb=7-4&oh=75a25e450ba5942c5a1d972fc805967a&oe=60FABB81&_nc_sid=7bff83
     last_post:
@@ -1876,7 +1876,7 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 43151358
+    followers: 43151740
     posts: 682
     image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=z8q-pDZWTfgAX-tY_RC&edm=ABfd0MgBAAAA&ccb=7-4&oh=6b75019ccaf1d9dc3d42d3a8250a1647&oe=60FB5FC2&_nc_sid=7bff83
     last_post:
