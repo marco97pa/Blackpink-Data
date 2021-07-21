@@ -38,28 +38,28 @@ spotify:
     - name: Forever Young - Live
       id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -506,16 +506,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ Mix)
-    id: 3W04W2HfQ5kVeByxfjbu2C
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6P8SQWN3pcLKChWHt73fZV
   - name: Club Future Nostalgia (DJ MIX)
     id: 6qCqOI40caiiu8vcldqKDT
     release_date: '2020-08-28'
@@ -526,6 +516,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6NM2Ce4Ng73fFNV54fMvf7
+  - name: Club Future Nostalgia (DJ Mix)
+    id: 3W04W2HfQ5kVeByxfjbu2C
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6P8SQWN3pcLKChWHt73fZV
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -598,9 +598,9 @@ twitter:
   last_tweet_id: 1416946474059931652
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39425088
+  followers: 39425370
   posts: 1161
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=GzBXhsiBlU4AX8VSXLb&edm=ABfd0MgBAAAA&ccb=7-4&oh=99e73139f540e45b4dc1645595e5c432&oe=60FE574C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=GzBXhsiBlU4AX_JY6mG&edm=ABfd0MgBAAAA&ccb=7-4&oh=b281c88ab2f751980cf0ddec382bc13c&oe=60FE574C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CRf85YKj3hu
     caption: '#블랙핑크 #블랙핑크카드 #BLACKPINK #BLACKPINKCARD #BCCARD #비씨카드 #BC카드 #페이북 #paybooc
@@ -1689,9 +1689,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 55897697
+    followers: 55898679
     posts: 709
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=Eyqmkp_uYYYAX-Mqrvl&edm=ABfd0MgBAAAA&ccb=7-4&oh=4ac4aae00f8e6a9f1a8fb4ffb153f7da&oe=60FF624D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=Eyqmkp_uYYYAX_6ngVs&edm=ABfd0MgBAAAA&ccb=7-4&oh=f9397358b39b916fc65101fd427dc4b4&oe=60FF624D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CROTDP2Ddb9
       caption: '@Bulgari
@@ -1731,13 +1731,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 48066746
+    followers: 48067363
     posts: 754
     last_post:
       url: https://www.instagram.com/p/CRheN1PDkZ_
       caption: 🌞🌵
       timestamp: 1626728288
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=Bkk2X2qloVYAX8fizah&edm=ABfd0MgBAAAA&ccb=7-4&oh=9b8a5119b2c955d90bea3aff2400d7cf&oe=60FF249B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=Bkk2X2qloVYAX_4tmY1&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=62e1b0a8330ff421da029c1495f645aa&oe=60FF249B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 800897
@@ -1844,7 +1844,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 43244034
     posts: 682
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=c5NnKfU-380AX_YAGJ_&edm=ABfd0MgBAAAA&ccb=7-4&oh=c4bb37bf6b8802a952a914176c2a3577&oe=60FEB001&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=c5NnKfU-380AX9pbIiO&edm=ABfd0MgBAAAA&ccb=7-4&oh=aea92e1feca2263467babbb5d30e6c55&oe=60FEB001&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRVZ6VMDv3X
       caption: 🎇❤️‍🔥💞🌸 200M 🌸💞❤️‍🔥🎇
@@ -1854,16 +1854,16 @@ members:
     followers: 902634
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
@@ -1915,7 +1915,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 43293196
     posts: 683
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=M3kUxPEju78AX9xB-Ew&tn=NgP8xwHOLNN-YHyn&edm=ABfd0MgBAAAA&ccb=7-4&oh=b8fd0a494d5fa1b4585cfc4e54535a71&oe=60FF5442&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=M3kUxPEju78AX-uq4cK&edm=ABfd0MgBAAAA&ccb=7-4&oh=cf2d13708d8117fcd8ad4e7f7b7da87d&oe=60FF5442&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRgtSEwpZPc
       caption: 'Our dearest thank you to  #OlivierBialobos from both me and Dalgom
