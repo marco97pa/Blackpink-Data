@@ -506,16 +506,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ Mix)
-    id: 3W04W2HfQ5kVeByxfjbu2C
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6P8SQWN3pcLKChWHt73fZV
   - name: Club Future Nostalgia (DJ MIX)
     id: 6qCqOI40caiiu8vcldqKDT
     release_date: '2020-08-28'
@@ -526,6 +516,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6NM2Ce4Ng73fFNV54fMvf7
+  - name: Club Future Nostalgia (DJ Mix)
+    id: 3W04W2HfQ5kVeByxfjbu2C
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6P8SQWN3pcLKChWHt73fZV
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -598,9 +598,9 @@ twitter:
   last_tweet_id: 1417803711691165696
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39529999
+  followers: 39530384
   posts: 1164
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=yfBIOzDjNYoAX_7Y8Wc&edm=ABfd0MgBAAAA&ccb=7-4&oh=1acc71d0ab7c29f20e2c8b981523d477&oe=6104460C&_nc_sid=7bff83
+  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=yfBIOzDjNYoAX_HMDJ-&tn=AeProdG2VXQAzrmZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=89370ef57a79b302ae74400f13a33f8c&oe=6104460C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CRlkWPWDiNC
     caption: '#BLACKPINK #블랙핑크 #SelenaGomez #셀레나고메즈 #IceCream #MV #600MILLION #YOUTUBE
@@ -1661,7 +1661,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 56129409
     posts: 710
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=sez-iLSSjz4AX8a_Qov&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad06701a51f0ba05f04ee63c6a7a9f68&oe=610356CD&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=sez-iLSSjz4AX9uMRSc&edm=ABfd0MgBAAAA&ccb=7-4&oh=3feda41f629091569b1e8f9acdad3763&oe=610356CD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRlL6u0LwT-
       caption: '@bulgari #불가리 #불가리컬러전시회 #불가리컬러 #BVLGARICOLORS #AD'
@@ -1693,13 +1693,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 48262722
+    followers: 48263611
     posts: 756
     last_post:
       url: https://www.instagram.com/p/CRpu_S5j00V
       caption: Or her
       timestamp: 1627005518
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=fOot-HYnfdAAX87b6G2&edm=ABfd0MgBAAAA&ccb=7-4&oh=438eb3045571f3bc936dde6da1da5d98&oe=6103191B&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=fOot-HYnfdAAX90U-oz&edm=ABfd0MgBAAAA&ccb=7-4&oh=7e9aa3275d846c927af9c4a13bb754c9&oe=6103191B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 800897
@@ -1804,9 +1804,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 43452106
+    followers: 43452956
     posts: 684
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=UHC9ENJqqf4AX-OCYhO&edm=ABfd0MgBAAAA&ccb=7-4&oh=1499e7ca748e108c6ecc7c47630dc842&oe=61049EC1&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=UHC9ENJqqf4AX-eZyZU&edm=ABfd0MgBAAAA&ccb=7-4&oh=34b5ba13914e9b9813fbc98b0b7fa51b&oe=61049EC1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRpqsSODBzQ
       caption: "Video dump. \nPractice hopefully will make perfect - be easy on me\
@@ -1818,16 +1818,16 @@ members:
     followers: 1000086
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
@@ -1850,7 +1850,7 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 73
+    popularity: 72
     genres: []
     image: https://i.scdn.co/image/ab6761610000e5eba23b22965ecef5703f58b6c5
   youtube:
@@ -1879,7 +1879,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 43486185
     posts: 684
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=sTFoKJBuxsIAX9m8XPJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=14408a020464767e5faa03ec87058490&oe=610348C2&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=sTFoKJBuxsIAX8YZV8Q&edm=ABfd0MgBAAAA&ccb=7-4&oh=3a3ef5f3eea95029e69bb60a01ca9b26&oe=610348C2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRlKuCGJIrp
       caption: with 🐰
