@@ -36,6 +36,37 @@ def set_test_mode():
     global test 
     test = True
 
+def retrieve_own_tweets(num=3):
+    """Retrieves recent tweets made by the bot.
+
+    Args:
+      num: an integer with the number of tweets to retrieve.
+
+    Returns:
+      a list of tweet objects
+    """
+
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+    api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+
+    latest_tweets = api.user_timeline(screen_name="data_blackpink", count=num, tweet_mode="extended")
+    return latest_tweets
+
+def check_duplicates(message):
+    """Checks tweet message against 3 latest user tweets to ensure no duplicative posts
+
+    Args:
+      message: a string containing the message to be posted
+
+    Returns:
+      Boolean which signals True if a duplicate is found
+    """
+    last_three = retrieve_own_tweets()
+    last_three_messages = [tweet.full_text for tweet in last_three]  # list of tweet message strings to check against
+
+    return message in last_three_messages
+
 def twitter_repost(artist):
     """Retweets latest tweets of a given account
 
@@ -91,15 +122,19 @@ def twitter_post(message):
     message = message[:270]
     print(message+"\n")
 
-    if test is False:
-        auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        auth.set_access_token(access_token, access_token_secret)
-        api = tweepy.API(auth)
-        try:
-            api.update_status(message)
-        except tweepy.TweepError as error:
-            print("WARNING: Tweet NOT posted because " + str(error.reason))
-
+    if not check_duplicates(message):
+        if test is False:
+            auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+            auth.set_access_token(access_token, access_token_secret)
+            api = tweepy.API(auth)
+            
+            try:
+                api.update_status(message)
+            except tweepy.TweepError as error:
+                print("WARNING: Tweet NOT posted because " + str(error.reason))
+    else:
+        print("WARNING: Tweet NOT posted because it was a duplicate.")
+          
 def twitter_post_image(message, filename, text, text_size=200, crop=False):
     """ Post a photo with message on Twitter (uses the Tweepy module)
     
@@ -116,31 +151,34 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     print("Media: " + filename + "\n")
 
 
-    if test is False:
-        # Check if the file is a video
-        if filename[-3:] == "mp4":
-            print("[{}] File is a video".format(module))
-            # If it is a video, start a chunk upload
-            videoTweet = VideoTweet(filename)
-            videoTweet.upload_init()
-            videoTweet.upload_append()
-            videoTweet.upload_finalize()
-            videoTweet.media_id
+    if not check_duplicates(message):
+        if test is False:
+            # Check if the file is a video
+            if filename[-3:] == "mp4":
+                print("[{}] File is a video".format(module))
+                # If it is a video, start a chunk upload
+                videoTweet = VideoTweet(filename)
+                videoTweet.upload_init()
+                videoTweet.upload_append()
+                videoTweet.upload_finalize()
+                videoTweet.media_id
 
-            auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-            auth.set_access_token(access_token, access_token_secret)
-            api = tweepy.API(auth)
-            api.update_status(message, media_ids=[videoTweet.media_id])
-            os.remove(filename)
+                auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+                auth.set_access_token(access_token, access_token_secret)
+                api = tweepy.API(auth)
+                api.update_status(message, media_ids=[videoTweet.media_id])
+                os.remove(filename)
 
-        else:
-            auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-            auth.set_access_token(access_token, access_token_secret)
-            api = tweepy.API(auth)
+            else:
+                auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+                auth.set_access_token(access_token, access_token_secret)
+                api = tweepy.API(auth)
 
-            uploaded = api.media_upload(filename)
-            api.update_status(message, media_ids=[uploaded.media_id])
-            os.remove(filename)
+                uploaded = api.media_upload(filename)
+                api.update_status(message, media_ids=[uploaded.media_id])
+                os.remove(filename)
+    else:
+        print("WARNING: Tweet NOT posted because it was a duplicate.")
 
 def edit_image(filename, text, text_size=200, crop=False):
     """ Edit an image by adding a text (uses the Pillow module)
