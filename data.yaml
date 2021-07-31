@@ -38,28 +38,28 @@ spotify:
     - name: Forever Young - Live
       id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
-    id: 71O60S5gIJSIAhdnrDIh3N
+    id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
+    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
     tracks:
     - name: How You Like That
-      id: 4SFknyjLcyTLJFPKD2m96o
+      id: 6qHFPCWow1hMMY5x8h9VSM
     - name: Ice Cream (with Selena Gomez)
-      id: 4JUPEh2DVSXFGExu4Uxevz
+      id: 52aLulmBwpzoQXkiE7G4OT
     - name: Pretty Savage
-      id: 1XnpzbOGptRwfJhZgLbmSr
+      id: 3VTKwL1uS2JGotaJA4oXXB
     - name: Bet You Wanna (feat. Cardi B)
-      id: 7iAgNZdotu40NwtoIWJHFe
+      id: 1hPkiovjTqiJAJen4uyNRg
     - name: Lovesick Girls
-      id: 4Ws314Ylb27BVsvlZOy30C
+      id: 4Vhvlhomv8fTp2e6I4XTpe
     - name: Crazy Over You
-      id: 7qq0EOPW4RRlqdvMBmdd73
+      id: 4yOqfpzmL4FvmXJTUgAMUP
     - name: Love To Hate Me
-      id: 7iKDsPfLT0d5mu2htfMKBZ
+      id: 09JE599HkmbidwGWyD4ZGy
     - name: You Never Know
-      id: 39kzWAiVPpycdMpr745oPj
+      id: 1b0PG9Zd1HhOwq3n9QNkDg
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -262,14 +262,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -597,9 +597,9 @@ twitter:
   last_tweet_id: 1420612036694659072
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39682690
+  followers: 39683224
   posts: 1167
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=GCquvsa2l-gAX-o7vei&tn=AeProdG2VXQAzrmZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=170c8b2f616eea40816f1c7c0e1c7116&oe=610C2F0C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=GCquvsa2l-gAX8bFYwM&edm=ABfd0MgBAAAA&ccb=7-4&oh=3ae1f50df6c27d1a7a0c6f1616973bff&oe=610C2F0C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CR28plaDFs1
     caption: 'BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY [KiT VIDEO] ☀️🎢
@@ -1692,7 +1692,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 56423625
     posts: 712
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=t0QK7j_NjlUAX8XbrSt&edm=ABfd0MgBAAAA&ccb=7-4&oh=1d8e0d6e5c46fb466adddc6f3ae7a329&oe=610B3FCD&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=t0QK7j_NjlUAX9Q2pSh&edm=ABfd0MgBAAAA&ccb=7-4&oh=4eea125068c0fb4105d07286172565e0&oe=610B3FCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CR6tiVSropE
       caption: 💟
@@ -1724,13 +1724,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 48612976
+    followers: 48614231
     posts: 759
     last_post:
       url: https://www.instagram.com/p/CR5cO4eDjXU
       caption: Sun is out
       timestamp: 1627532555
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=snn5s0UP5hcAX-spSqk&edm=ABfd0MgBAAAA&ccb=7-4&oh=3badcc328bdb75e750d5e75492a66d97&oe=610B021B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=snn5s0UP5hcAX9eVGOb&edm=ABfd0MgBAAAA&ccb=7-4&oh=755144fc2850e2c7edcacccb8b6689c1&oe=610B021B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 902761
@@ -1835,9 +1835,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 43749309
+    followers: 43750288
     posts: 682
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=rLA2WC8QkJEAX_XIabC&edm=ABfd0MgBAAAA&ccb=7-4&oh=25064d9f2cf2309fec9b59c7cf8036e5&oe=610C87C1&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=rLA2WC8QkJEAX8CfKgn&edm=ABfd0MgBAAAA&ccb=7-4&oh=7c8cf44b44d6a6df71010ef58937317c&oe=610C87C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRpqsSODBzQ
       caption: "Video dump. \nPractice hopefully will make perfect - be easy on me\
@@ -1849,16 +1849,16 @@ members:
     followers: 1000086
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
@@ -1910,7 +1910,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 43738473
     posts: 685
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=JwG9tufq1-oAX-JN8Al&edm=ABfd0MgBAAAA&ccb=7-4&oh=dc302e1845a4897a9bf9f5fd9fd5e8f7&oe=610B31C2&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=JwG9tufq1-oAX-beYje&tn=AeProdG2VXQAzrmZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=20ee18e02e46d532e9f4bad891f91996&oe=610B31C2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CR3h82HJKLL
       caption: '@blackpinkofficial 🖤💖'
