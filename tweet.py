@@ -3,7 +3,7 @@ import os
 import tweepy
 import sys
 import time
-
+import re
 import json
 import requests
 from requests_oauthlib import OAuth1
@@ -63,9 +63,25 @@ def check_duplicates(message):
       Boolean which signals True if a duplicate is found
     """
     last_three = retrieve_own_tweets()
-    last_three_messages = [tweet.full_text for tweet in last_three]  # list of tweet message strings to check against
+    last_three_tweets = [tweet.full_text for tweet in last_three]  # list of tweet message strings to check against
 
-    return message in last_three_messages
+    for text_tweet in last_three_tweets:
+      text_tweet = remove_URLs(text_tweet) # Remove URLs from each tweet
+      if remove_URLs(message) in text_tweet: # Check if they match
+        return True
+    
+    return False
+
+def remove_URLs(text):
+    """Remove URLs from a text string
+    
+    Args:
+      text: any text containing URL(s)
+
+    Returns:
+      the same text without URL(s)
+    """
+    return re.sub(r" ?http\S+", "", text)
 
 def twitter_repost(artist):
     """Retweets latest tweets of a given account
@@ -122,8 +138,8 @@ def twitter_post(message):
     message = message[:270]
     print(message+"\n")
 
-    if not check_duplicates(message):
-        if test is False:
+    if test is False:
+      if not check_duplicates(message):
             auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
             auth.set_access_token(access_token, access_token_secret)
             api = tweepy.API(auth)
@@ -132,8 +148,8 @@ def twitter_post(message):
                 api.update_status(message)
             except tweepy.TweepError as error:
                 print("WARNING: Tweet NOT posted because " + str(error.reason))
-    else:
-        print("WARNING: Tweet NOT posted because it was a duplicate.")
+      else:
+          print("WARNING: Tweet NOT posted because it was a duplicate.")
           
 def twitter_post_image(message, filename, text, text_size=200, crop=False):
     """ Post a photo with message on Twitter (uses the Tweepy module)
@@ -150,9 +166,8 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     print(message)
     print("Media: " + filename + "\n")
 
-
-    if not check_duplicates(message):
-        if test is False:
+    if test is False:
+      if not check_duplicates(message):
             # Check if the file is a video
             if filename[-3:] == "mp4":
                 print("[{}] File is a video".format(module))
@@ -177,8 +192,8 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
                 uploaded = api.media_upload(filename)
                 api.update_status(message, media_ids=[uploaded.media_id])
                 os.remove(filename)
-    else:
-        print("WARNING: Tweet NOT posted because it was a duplicate.")
+      else:
+          print("WARNING: Tweet NOT posted because it was a duplicate.")
 
 def edit_image(filename, text, text_size=200, crop=False):
     """ Edit an image by adding a text (uses the Pillow module)
