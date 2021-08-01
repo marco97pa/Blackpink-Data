@@ -64,7 +64,7 @@ def instagram_last_post(artist, profile):
             filename = "temp.jpg"
         recent.download(filename)
         twitter_post_image(
-            "{} posted a new {} on #Instagram:\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(recent.caption), url, artist["hashtags"]),
+            "{} posted a new {} on #Instagram:\n{}\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(recent.caption), recent.timestamp, url, artist["hashtags"]),
             filename,
             None
         )
