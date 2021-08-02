@@ -4,6 +4,29 @@ spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
   followers: 23517115
   discography:
+  - name: THE ALBUM (JP Ver.)
+    id: 5HZR4Ep8QsjDeVJTKCKv0W
+    release_date: '2021-08-03'
+    total_tracks: 8
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b273e874586fc2082c5f30051818
+    tracks:
+    - name: How You Like That - JP Ver.
+      id: 3822UZ47KvFXH7Gy8AFY4P
+    - name: Ice Cream (with Selena Gomez)
+      id: 2LbKROMbpTnlf7nIv6MERM
+    - name: Pretty Savage - JP Ver.
+      id: 3wKCldl6riuEKxXlvuxFJ2
+    - name: Bet You Wanna
+      id: 4oAJysAwdiq5bxO0uWQAxg
+    - name: Lovesick Girls - JP Ver.
+      id: 09vMdvv4GzBC6r6O7fMFFb
+    - name: Crazy Over You
+      id: 1BHRrPbaAcXaht63OA3Vu3
+    - name: Love To Hate Me
+      id: 4Xqc26p92OEcLWtfyaqHnN
+    - name: You Never Know - JP Ver.
+      id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
     id: 05tjy9njMXtZhhQKy6eSbw
     release_date: '2021-06-01'
@@ -573,16 +596,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 1YhzZz7BVghmdOW5ItoZMH
-  - name: Hits Tik Tock
-    id: 7aZrVJJRyQAm5CiE8g7prh
-    release_date: '2020-08-26'
-    total_tracks: 25
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273b713d634702949c26d0843c2
-    artist_collab: Various Artists
-    tracks:
-    - name: Kill This Love
-      id: 4NGiImJv2ELbkXl14iNwMl
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 86
@@ -595,9 +608,9 @@ twitter:
   last_tweet_id: 1420612036694659072
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 39748268
+  followers: 39753941
   posts: 1170
-  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=GCquvsa2l-gAX-jv9Bo&tn=AeProdG2VXQAzrmZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=43abe3cf02dfa59794a80ebc9d563fed&oe=610E294C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=gAueWRUEu10AX_7giCb&edm=ABfd0MgBAAAA&ccb=7-4&oh=cdf73c3470b9681d4805ab96a9c8c19a&oe=6110238C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CSAl4lah0nq
     caption: '#BLACKPINK #블랙핑크 #뚜두뚜두 #DDU_DU_DDU_DU #DANCE_PRACTICE #안무영상 #400MILLION
@@ -1662,9 +1675,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 56561351
+    followers: 56572231
     posts: 712
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=zRTG6P7mrFcAX9w1LRn&edm=ABfd0MgBAAAA&ccb=7-4&oh=175299118d1a9ad4d9228da3637c692a&oe=610F344D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=zRTG6P7mrFcAX9Zzful&edm=ABfd0MgBAAAA&ccb=7-4&oh=ccfe1fe108be1b8882f99ea04b8c23cb&oe=610F344D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CR6tiVSropE
       caption: 💟
@@ -1696,13 +1709,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 48742972
+    followers: 48752229
     posts: 759
     last_post:
       url: https://www.instagram.com/p/CR5cO4eDjXU
       caption: Sun is out
       timestamp: 1627532555
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=45KUjOqD0GUAX9b88eS&edm=ABfd0MgBAAAA&ccb=7-4&oh=15f9840eff1ce1fbbe922460f6d4a5d4&oe=610EF69B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=45KUjOqD0GUAX9dKjJ-&edm=ABfd0MgBAAAA&ccb=7-4&oh=40e651494aaa7212abad72f46d069f72&oe=610EF69B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 902761
@@ -1807,9 +1820,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 43865674
+    followers: 43869899
     posts: 682
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=rLA2WC8QkJEAX_sXoA9&edm=ABfd0MgBAAAA&ccb=7-4&oh=3622b8e9319fbce33d0a66ace365b6ea&oe=610E8201&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=rLA2WC8QkJEAX9kaeTV&edm=ABfd0MgBAAAA&ccb=7-4&oh=06e830f6f6c97113bd54db2da897a95c&oe=610E8201&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CRpqsSODBzQ
       caption: "Video dump. \nPractice hopefully will make perfect - be easy on me\
@@ -1880,9 +1893,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 43838845
+    followers: 43851745
     posts: 687
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=yZuzOQLfVX8AX_Gc-Hy&edm=ABfd0MgBAAAA&ccb=7-4&oh=40edfd60bf1b6e66dc5b902cc5d6bda1&oe=610F2642&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=yZuzOQLfVX8AX_klm-K&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=ed82e90d763938fa8f99c919fd58153d&oe=610F2642&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CSB2taBp3VL
       caption: "8월 4일 \n'THEMOVIE' 극장에서 만나요\n\U0001F5A4"
