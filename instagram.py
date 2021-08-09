@@ -141,4 +141,4 @@ def clean_caption(caption):
             else:
                 clean += word + " "
 
-    return clean[:100]
+    return clean[:90]
