@@ -556,16 +556,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ MIX)
-    id: 6qCqOI40caiiu8vcldqKDT
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Club Future Nostalgia (DJ Mix)
     id: 3W04W2HfQ5kVeByxfjbu2C
     release_date: '2020-08-28'
@@ -576,6 +566,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6P8SQWN3pcLKChWHt73fZV
+  - name: Club Future Nostalgia (DJ MIX)
+    id: 6qCqOI40caiiu8vcldqKDT
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6NM2Ce4Ng73fFNV54fMvf7
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1425280247755247618
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 40088473
+  followers: 40092717
   posts: 1182
-  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=g4roX3ngk3UAX_gT6Oo&edm=ABfd0MgBAAAA&ccb=7-4&oh=ef4b39ebe429f43b82a1c732ecf1f80f&oe=611C010C&_nc_sid=7bff83
+  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=g4roX3ngk3UAX9IZJom&edm=ABfd0MgBAAAA&ccb=7-4&oh=49b8c8bff7535068fb5f6ce782be0623&oe=611DFB4C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CSaqy7apmTi
     caption: "Get ready to hang out with us and experience the best of @adidas \n\
@@ -620,7 +620,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '63900000'
-  total_views: '18946579456'
+  total_views: '18960331016'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1681,9 +1681,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 57199680
+    followers: 57207331
     posts: 716
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=gHKhGIJZ-z8AX9wg2Hz&edm=ABfd0MgBAAAA&ccb=7-4&oh=226f3db8f1d210acdc9061e641146148&oe=611D0C0D&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=gHKhGIJZ-z8AX-KOocX&edm=ABfd0MgBAAAA&ccb=7-4&oh=fd9fac42194c604db39a3bd25f4b266a&oe=611D0C0D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CSVv4ZZBXZ3
       caption: '#MACLovesLisa #MACEyes'
@@ -1715,7 +1715,7 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 49324370
+    followers: 49335005
     posts: 765
     last_post:
       url: https://www.instagram.com/p/CSd3GXAnTuw
@@ -1723,7 +1723,7 @@ members:
 
         #BLACKPINK #비씨카드 #paybooc #블랙핑크카드 #블핑카드 #페이북 #BC카드 @bccard_official'
       timestamp: 1628754600
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=VgFY7nIxQxEAX-Z5BZr&edm=ABfd0MgBAAAA&ccb=7-4&oh=5c0d3a7c627e9fdb8755d5603975b757&oe=611CCE5B&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=VgFY7nIxQxEAX8ZV0t8&edm=ABfd0MgBAAAA&ccb=7-4&oh=b30721c18e6b518fb39dc1f933afc9d1&oe=611CCE5B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 902761
@@ -1828,9 +1828,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 44449136
+    followers: 44456188
     posts: 687
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=16j2GEvoJw0AX9Av4Pe&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=ccc9a43c8ed1d1d058e87732b5f41ef8&oe=611C59C1&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=16j2GEvoJw0AX_CaOnC&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=32c940760ca78d19b002b0dce3dd7796&oe=611C59C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CSc-hXoBFvB
       caption: 🐻🧸❤️‍🩹💞
@@ -1899,9 +1899,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 44418678
+    followers: 44425749
     posts: 697
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=GTwWIGZPVjIAX8uTS-w&edm=ABfd0MgBAAAA&ccb=7-4&oh=d931d688a3844d9f4b17b00eea8d08bc&oe=611CFE02&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=GTwWIGZPVjIAX9Y7d_U&edm=ABfd0MgBAAAA&ccb=7-4&oh=bf775c3c4086518b914cc1d263c55705&oe=611CFE02&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CSb9VgEpwWb
       caption: "너무너무 맘에 든다아\U0001F5A4\U0001F496\n@bccard_official \n\n#BLACKPINK #비씨카드\
