@@ -86,26 +86,31 @@ def youtube_get_videos(api, playlist_id, name):
       a list of videos
     """
     videos = []
-
-    playlist = api.get_playlist_items(playlist_id=playlist_id, count=None)
     
-    for video in playlist.items:
-      # Try to get the highest quality thumbnail
-      if video.snippet.thumbnails.maxres is None:
-        thumbnail = video.snippet.thumbnails.standard.url
-      else:
-        thumbnail = video.snippet.thumbnails.maxres.url
-
-        videos.append(
-         {"name": video.snippet.title,
-         "url": video.snippet.resourceId.videoId,
-         "image": thumbnail}
-        )
+    # This try block is needed to mitigate the PyYouTubeException: Invalid page token issue. See https://github.com/marco97pa/Blackpink-Data/issues/20
+    try:
+        playlist = api.get_playlist_items(playlist_id=playlist_id, count=None)
     
-    print("[{}] ({}) Fetched {} videos".format(module, name, len(videos)))
-    
-    return videos
+        for video in playlist.items:
+          # Try to get the highest quality thumbnail
+          if video.snippet.thumbnails.maxres is None:
+            thumbnail = video.snippet.thumbnails.standard.url
+          else:
+            thumbnail = video.snippet.thumbnails.maxres.url
 
+            videos.append(
+             {"name": video.snippet.title,
+             "url": video.snippet.resourceId.videoId,
+             "image": thumbnail}
+            )
+
+        print("[{}] ({}) Fetched {} videos".format(module, name, len(videos)))
+
+        return videos
+    
+    except pyyoutube.error.PyYouTubeException:
+        print("::warning PyYouTubeException caused by invalid page token on get_playlist_items\nFor more info see: https://github.com/sns-sdks/python-youtube/issues/100")
+        return None
 
 def youtube_check_channel_change(old_channel, new_channel, hashtags):
     """Checks if there is any change in the number of subscribers or total views of the channel
@@ -162,6 +167,9 @@ def youtube_check_videos_change(name, old_videos, new_videos, hashtags):
     Returns:
       new_videos
     """
+    # This check is needed to mitigate the PyYouTubeException: Invalid page token issue. See https://github.com/marco97pa/Blackpink-Data/issues/20
+    if new_videos is None:
+        new_videos = old_videos
     
     if old_videos is not None:
         for new_video in new_videos:
