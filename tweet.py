@@ -147,9 +147,9 @@ def twitter_post(message):
             try:
                 api.update_status(message)
             except tweepy.TweepError as error:
-                print("WARNING: Tweet NOT posted because " + str(error.reason))
+                print("::error file=tweet.py:: Tweet NOT posted because " + str(error.reason))
       else:
-          print("WARNING: Tweet NOT posted because it was a duplicate.")
+          print("::warning file=tweet.py:: Tweet NOT posted because it was a duplicate.")
           
 def twitter_post_image(message, filename, text, text_size=200, crop=False):
     """ Post a photo with message on Twitter (uses the Tweepy module)
@@ -193,7 +193,7 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
                 api.update_status(message, media_ids=[uploaded.media_id])
                 os.remove(filename)
       else:
-          print("WARNING: Tweet NOT posted because it was a duplicate.")
+          print("::warning file=tweet.py:: Tweet NOT posted because it was a duplicate.")
 
 def edit_image(filename, text, text_size=200, crop=False):
     """ Edit an image by adding a text (uses the Pillow module)
