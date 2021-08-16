@@ -16,8 +16,7 @@ def check_birthdays(group):
     Returns:
       an dictionary containing all the updated data of the group
     """
-    print("::group::" + module)
-
+    
     now = datetime.datetime.today()
     print("[{}] Today is {}".format(module, now.date()))
     
@@ -36,5 +35,4 @@ def check_birthdays(group):
                     str(difference)
                     )
     print()
-    print("::endgroup::")
     return group
