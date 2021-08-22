@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/marco97pa/Blackpink-Data">
-    <img src="https://pbs.twimg.com/profile_images/1359556072781074447/GyN-rAtv_400x400.jpg" alt="Logo" width="80" height="80">
+    <img src="https://pbs.twimg.com/profile_images/1422130846635597825/Wrndt5N7_400x400.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BLACKPINK Data</h3>
