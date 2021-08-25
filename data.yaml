@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 0wOiWrujRbxlKEGWRQpKYc
+    id: 6yetqbA9vli7RLoUWYZLsq
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
+    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
     tracks:
     - name: DDU-DU DDU-DU
-      id: 4lQsB3ERTWSNaAN1IkuNRl
+      id: 69BIczdH6QMnFx7dsSssN8
     - name: Forever Young
-      id: 6veFyjNycn6EaNCKhkPXUY
+      id: 2Pp9osgyIcw6o1avfDDDhH
     - name: Really
-      id: 2URMA0ap6SAI8wFmcY1yta
+      id: 4HxVweMysEnuYxy3gkFtKk
     - name: See U Later
-      id: 2REoTZjaB3jyAt5dgkV5GK
+      id: 5RBH8ypFAj5HTZTPRpI1XL
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1429458353403486210
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 40441917
+  followers: 40442326
   posts: 1185
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=9ZEMODubGukAX9D2rAC&edm=ABfd0MgBAAAA&ccb=7-4&oh=e9f297378a7426ccfa71e27bfefd54a4&oe=612DCD4C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=9ZEMODubGukAX_MkYjP&edm=ABfd0MgBAAAA&ccb=7-4&oh=f15ffdce49180b63239f0354413df68b&oe=612DCD4C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CS4YWX1JAXW
     caption: '#LISA #리사 #BLACKPINK #블랙핑크 #COMINGSOON #YG'
@@ -1680,9 +1680,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 57926132
+    followers: 57926882
     posts: 718
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ZYvMfO-TPZUAX9bIEkq&edm=ABfd0MgBAAAA&ccb=7-4&oh=08b130e9823ee43abca816ebc7e4fdda&oe=612CDE0D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ZYvMfO-TPZUAX-BuWi8&edm=ABfd0MgBAAAA&ccb=7-4&oh=634cb183a4afd459f1aa988b02e1f69b&oe=612CDE0D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CS4ZZ1mhANn
       caption: COMING SOON
@@ -1714,13 +1714,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 50033754
+    followers: 50034448
     posts: 766
     last_post:
       url: https://www.instagram.com/p/CS32hsRnF_x
       caption: 좋은 잠 🛌😴 @acebed_official
       timestamp: 1629626715
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=_zvjK-4iJbkAX_n5uJ3&edm=ABfd0MgBAAAA&ccb=7-4&oh=7309d013f9521a5cf218885482f755e8&oe=612CA05B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=_zvjK-4iJbkAX_wadEL&edm=ABfd0MgBAAAA&ccb=7-4&oh=6ac86d62b6cf42057008503e88d4ee00&oe=612CA05B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 902761
@@ -1827,7 +1827,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 45086903
     posts: 694
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=lKko_ejJxLIAX9uxbdL&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=7797629d3290930267436fa5acc8e682&oe=612C2BC1&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=lKko_ejJxLIAX-_lS1F&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=d6cd3014e3e03809551b8f82bc72ecc1&oe=612C2BC1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CS6iLnQBDBI
       caption: ♟ @ysl @anthonyvaccarello
@@ -1896,9 +1896,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 45032108
+    followers: 45032739
     posts: 701
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=RtqfSMm9ShQAX8IvFMR&edm=ABfd0MgBAAAA&ccb=7-4&oh=91ff9a83bd8882cef50548be3a054a73&oe=612CD002&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=RtqfSMm9ShQAX-WU9lY&edm=ABfd0MgBAAAA&ccb=7-4&oh=47f3eae7b91bca673b8f4e44c645d723&oe=612CD002&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CS1NXHfJekg
       caption: '이뿌✨
