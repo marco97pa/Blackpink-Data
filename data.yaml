@@ -61,28 +61,28 @@ spotify:
     - name: Forever Young - Live
       id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
-    id: 71O60S5gIJSIAhdnrDIh3N
+    id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
+    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
     tracks:
     - name: How You Like That
-      id: 4SFknyjLcyTLJFPKD2m96o
+      id: 6qHFPCWow1hMMY5x8h9VSM
     - name: Ice Cream (with Selena Gomez)
-      id: 4JUPEh2DVSXFGExu4Uxevz
+      id: 52aLulmBwpzoQXkiE7G4OT
     - name: Pretty Savage
-      id: 1XnpzbOGptRwfJhZgLbmSr
+      id: 3VTKwL1uS2JGotaJA4oXXB
     - name: Bet You Wanna (feat. Cardi B)
-      id: 7iAgNZdotu40NwtoIWJHFe
+      id: 1hPkiovjTqiJAJen4uyNRg
     - name: Lovesick Girls
-      id: 4Ws314Ylb27BVsvlZOy30C
+      id: 4Vhvlhomv8fTp2e6I4XTpe
     - name: Crazy Over You
-      id: 7qq0EOPW4RRlqdvMBmdd73
+      id: 4yOqfpzmL4FvmXJTUgAMUP
     - name: Love To Hate Me
-      id: 7iKDsPfLT0d5mu2htfMKBZ
+      id: 09JE599HkmbidwGWyD4ZGy
     - name: You Never Know
-      id: 39kzWAiVPpycdMpr745oPj
+      id: 1b0PG9Zd1HhOwq3n9QNkDg
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 0wOiWrujRbxlKEGWRQpKYc
+    id: 6yetqbA9vli7RLoUWYZLsq
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
+    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
     tracks:
     - name: DDU-DU DDU-DU
-      id: 4lQsB3ERTWSNaAN1IkuNRl
+      id: 69BIczdH6QMnFx7dsSssN8
     - name: Forever Young
-      id: 6veFyjNycn6EaNCKhkPXUY
+      id: 2Pp9osgyIcw6o1avfDDDhH
     - name: Really
-      id: 2URMA0ap6SAI8wFmcY1yta
+      id: 4HxVweMysEnuYxy3gkFtKk
     - name: See U Later
-      id: 2REoTZjaB3jyAt5dgkV5GK
+      id: 5RBH8ypFAj5HTZTPRpI1XL
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -566,16 +566,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ Mix)
-    id: 3W04W2HfQ5kVeByxfjbu2C
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6P8SQWN3pcLKChWHt73fZV
   - name: Club Future Nostalgia (DJ MIX)
     id: 6qCqOI40caiiu8vcldqKDT
     release_date: '2020-08-28'
@@ -586,6 +576,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6NM2Ce4Ng73fFNV54fMvf7
+  - name: Club Future Nostalgia (DJ Mix)
+    id: 3W04W2HfQ5kVeByxfjbu2C
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6P8SQWN3pcLKChWHt73fZV
   - name: Hits da Internet
     id: 4m1mjqzwQxx9WqqUxYYFfZ
     release_date: '2020-08-26'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1431995063727316998
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 40611026
+  followers: 40611746
   posts: 1200
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=xKwzBmg4cyQAX-HdttZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=8a04d7882ad4f83d39a0d581f1b5f98a&oe=6133BC0C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=xKwzBmg4cyQAX_kcrby&edm=ABfd0MgBAAAA&ccb=7-4&oh=6e07518109a155a6781dc782ddfb6443&oe=6133BC0C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CTKZ7ToJPpq
     caption: 'LISA - ‘LALISA’ TITLE POSTER
@@ -1687,9 +1687,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 58270557
+    followers: 58271738
     posts: 721
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=gxsR2naWStcAX8QBBIa&edm=ABfd0MgBAAAA&ccb=7-4&oh=822a34466675049db5c51bfe38e02184&oe=6132CCCD&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=gxsR2naWStcAX-O_Ytj&edm=ABfd0MgBAAAA&ccb=7-4&oh=4b914a4bbf7b92258b457a2e08a54474&oe=6132CCCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTKcsYnhtOP
       caption: LALISA
@@ -1727,7 +1727,7 @@ members:
       url: https://www.instagram.com/p/CS32hsRnF_x
       caption: 좋은 잠 🛌😴 @acebed_official
       timestamp: 1629626715
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=PFOkYSzhlOsAX-GCyRK&edm=ABfd0MgBAAAA&ccb=7-4&oh=0d968059fa72d826a233e8dd6024222f&oe=61328F1B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=PFOkYSzhlOsAX-M-hXB&edm=ABfd0MgBAAAA&ccb=7-4&oh=560be4e1722d8ea3b1d7f60cc12c1fa7&oe=61328F1B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 902761
@@ -1834,7 +1834,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 45362094
     posts: 694
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=u1WOHGIHDpAAX9fuczo&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=a7f44f5b3cb3c31132e2d3dce941a212&oe=613414C1&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=u1WOHGIHDpAAX9uHLS0&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=0b9fa1e4685f71f738e6fdbdb694df30&oe=613414C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CS6iLnQBDBI
       caption: ♟ @ysl @anthonyvaccarello
@@ -1844,16 +1844,16 @@ members:
     followers: 1104287
     discography:
     - name: R
-      id: 5BQcoDfcZ8aBcikYX9B7Ob
+      id: 0rBtYa6AUvlhoTTrPbYUmi
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
+      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
       tracks:
       - name: On The Ground
-        id: 2pn8dNVSpYnAtlKFC8Q0DJ
+        id: 4cuQfZEUCI0gmjGPS89T46
       - name: Gone
-        id: 2dHoVW9AxJVSRebPRyV2aA
+        id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
@@ -1903,9 +1903,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 45277113
+    followers: 45278023
     posts: 703
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=ZUcEEefdpG0AX_0vJ2o&edm=ABfd0MgBAAAA&ccb=7-4&oh=5a4ac13acaee0720eea2f1861362afda&oe=6132BEC2&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ZUcEEefdpG0AX-kZbF7&edm=ABfd0MgBAAAA&ccb=7-4&oh=8cb25aad6cd0172e9f1fb3c0c10edd27&oe=6132BEC2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTCOR3lJz5Q
       caption: "@diorbeauty \nwakeup for love❤️"
