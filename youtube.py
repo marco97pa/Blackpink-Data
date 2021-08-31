@@ -92,7 +92,7 @@ def youtube_get_videos(api, playlist_id, name):
     for video in playlist.items:
       # Try to get the highest quality thumbnail
       if video.snippet.thumbnails.maxres is None:
-        thumbnail = video.snippet.thumbnails.standard.url
+        thumbnail = video.snippet.thumbnails.default.url
       else:
         thumbnail = video.snippet.thumbnails.maxres.url
 
