@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: Un apéro détente
+    id: 4akC1JpswkGpoHtAegBSm6
+    release_date: '2021-09-03'
+    total_tracks: 30
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2734fc7105826a1a4d7442dd594
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 6aRPVJBHiVK4MRItdiSJfb
   - name: Dawn Of Chromatica
     id: 3OevODyllQCrhudfLLnV3y
     release_date: '2021-09-03'
@@ -586,16 +596,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6NM2Ce4Ng73fFNV54fMvf7
-  - name: Club Future Nostalgia (DJ Mix)
-    id: 3W04W2HfQ5kVeByxfjbu2C
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6P8SQWN3pcLKChWHt73fZV
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 86
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1433445505472679939
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 40738202
+  followers: 40738586
   posts: 1209
-  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=5b9v2wQGuXUAX_2EDif&edm=ABfd0MgBAAAA&ccb=7-4&oh=f1b1c4076072d112584f1859fbe65037&oe=6137B08C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=5b9v2wQGuXUAX_1PcRf&edm=ABfd0MgBAAAA&ccb=7-4&oh=c44d4324cb6f693b025d40af68d7ca4f&oe=6137B08C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CTUtDY9pC6X
     caption: 'LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #3
@@ -1690,9 +1690,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 58495321
+    followers: 58495944
     posts: 723
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=S-9xk7bE4j4AX-SXv5E&edm=ABfd0MgBAAAA&ccb=7-4&oh=7e52869ec87b636d3648207166f88b8b&oe=6138BB8D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=S-9xk7bE4j4AX-dYFUi&edm=ABfd0MgBAAAA&ccb=7-4&oh=4d6c532b4735a740662117c763813999&oe=6138BB8D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTUtbhGDo3n
       caption: 💘💘💘🔥🔥🔥
@@ -1730,7 +1730,7 @@ members:
       url: https://www.instagram.com/p/CTPko3KFodC
       caption: 앞머리 내린 젠득 바이바이 👋
       timestamp: 1630422643
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=x-j2lLZeW-EAX-rzPGy&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=d18a07cae5cec59ba8755b2e26e95124&oe=61387DDB&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=x-j2lLZeW-EAX_UIlQe&tn=0I4wX6fuWY_HMZFG&edm=ABfd0MgBAAAA&ccb=7-4&oh=4221e3abaca9368e8719ccb0e3256fa7&oe=61387DDB&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1000708
@@ -1835,9 +1835,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 45545152
+    followers: 45545637
     posts: 695
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=pP5HNxhxmkoAX9fjlcH&edm=ABfd0MgBAAAA&ccb=7-4&oh=f2703c8e9b8f3aef7cf3b0c969173074&oe=61380941&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=pP5HNxhxmkoAX9GNv_P&edm=ABfd0MgBAAAA&ccb=7-4&oh=c61f6283f7878183305ca743b279ede9&oe=61380941&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTOlz_lBLK2
       caption: 🐛
@@ -1906,9 +1906,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 45452351
+    followers: 45452858
     posts: 705
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=B1N1fvcm2kIAX-z_Qqt&edm=ABfd0MgBAAAA&ccb=7-4&oh=12be3bbafdf8e7355f211f162b2db51a&oe=6138AD82&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=B1N1fvcm2kIAX_1m758&edm=ABfd0MgBAAAA&ccb=7-4&oh=606dee5a4117f50828e97dbfe0d1ac84&oe=6138AD82&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTT9ZTgp3VM
       caption: LOVE JISOO ❤️❤️❤️
