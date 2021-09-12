@@ -61,28 +61,28 @@ spotify:
     - name: Forever Young - Live
       id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 71O60S5gIJSIAhdnrDIh3N
+    id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
+    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
     tracks:
     - name: How You Like That
-      id: 4SFknyjLcyTLJFPKD2m96o
+      id: 6qHFPCWow1hMMY5x8h9VSM
     - name: Ice Cream (with Selena Gomez)
-      id: 4JUPEh2DVSXFGExu4Uxevz
+      id: 52aLulmBwpzoQXkiE7G4OT
     - name: Pretty Savage
-      id: 1XnpzbOGptRwfJhZgLbmSr
+      id: 3VTKwL1uS2JGotaJA4oXXB
     - name: Bet You Wanna (feat. Cardi B)
-      id: 7iAgNZdotu40NwtoIWJHFe
+      id: 1hPkiovjTqiJAJen4uyNRg
     - name: Lovesick Girls
-      id: 4Ws314Ylb27BVsvlZOy30C
+      id: 4Vhvlhomv8fTp2e6I4XTpe
     - name: Crazy Over You
-      id: 7qq0EOPW4RRlqdvMBmdd73
+      id: 4yOqfpzmL4FvmXJTUgAMUP
     - name: Love To Hate Me
-      id: 7iKDsPfLT0d5mu2htfMKBZ
+      id: 09JE599HkmbidwGWyD4ZGy
     - name: You Never Know
-      id: 39kzWAiVPpycdMpr745oPj
+      id: 1b0PG9Zd1HhOwq3n9QNkDg
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1436920454913007621
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 41110011
+  followers: 41110799
   posts: 1236
-  image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=g967DesS_REAX-gWUQB&edm=ABfd0MgBAAAA&ccb=7-4&oh=3984bb54fa987d93130e743a522120b0&oe=6145884C&_nc_sid=7bff83
+  image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=g967DesS_REAX_ZDYVd&edm=ABfd0MgBAAAA&ccb=7-4&oh=52fe3fac4a10f35ab9f5da084af42063&oe=6145884C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CTtZqyJJir2
     caption: '#LISA #리사 #BLACKPINK #블랙핑크 #LALISA #MV #100MILLION #YOUTUBE #YG'
@@ -1707,9 +1707,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 59293694
+    followers: 59295836
     posts: 731
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=kCqlYJxRCq8AX9wJ5Ys&edm=ABfd0MgBAAAA&ccb=7-4&oh=9cc423c7982bb191a075009e3194abba&oe=6144990D&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=kCqlYJxRCq8AX-QQNld&edm=ABfd0MgBAAAA&ccb=7-4&oh=b159116425275e0348b3c1f2ff9381f6&oe=6144990D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTtTg7-vA_G
       caption: Have you guys tried the LALISA Challenge?
@@ -1761,13 +1761,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 51075165
+    followers: 51076888
     posts: 770
     last_post:
       url: https://www.instagram.com/p/CTrKgrbl7xx
       caption: '#mycalvins #ad @calvinklein @_rubberband'
       timestamp: 1631348469
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=dsz4SSA_trcAX_Bctv5&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=2e42959e858ee432171ea3b8cfaffbe5&oe=61445B5B&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=dsz4SSA_trcAX_g0fhz&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=c6e0535e72dffad09c85d13a796e3a16&oe=61445B5B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1112224
@@ -1874,7 +1874,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 46090864
     posts: 700
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=QpEPOU8JwV4AX832NEe&edm=ABfd0MgBAAAA&ccb=7-4&oh=1390e5fbed69adf7f97a277d565ef937&oe=6143E6C1&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=QpEPOU8JwV4AX8oJrHX&edm=ABfd0MgBAAAA&ccb=7-4&oh=5c70f360df8e72b2576b42916d16d222&oe=6143E6C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CTsNYguhPY0
       caption: '🧚
@@ -1949,9 +1949,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 45993210
+    followers: 45994601
     posts: 708
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=1fa9pRAeqSgAX9T-cIC&edm=ABfd0MgBAAAA&ccb=7-4&oh=03d5d4fc33c1101ff1d9e2217f0c16e1&oe=61448B02&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=1fa9pRAeqSgAX8e6smP&edm=ABfd0MgBAAAA&ccb=7-4&oh=3b601b2b02ba3becdc302d370bc7fa1f&oe=61448B02&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CToIpo9JKs4
       caption: "울 리사의 첫 솔로곡 #LALISA 가 지금 공개됐습니다!! 많은 응원과 사랑 부탁드려요!! \n너무너무 고생했고 자랑스럽고\
