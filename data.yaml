@@ -605,12 +605,12 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1438471037625122816
+  last_tweet_id: 1438518373982240770
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 41296617
+  followers: 41297162
   posts: 1236
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=rUf_97neOY4AX8H4aJx&edm=ABfd0MgBAAAA&ccb=7-4&oh=dd23f4eb01db2fa86050e98a549af7f1&oe=61497CCC&_nc_sid=7bff83
+  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=rUf_97neOY4AX8CAqri&edm=ABfd0MgBAAAA&ccb=7-4&oh=6dba13be9cc41662dd5304dd674ec32a&oe=61497CCC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CTtZqyJJir2
     caption: '#LISA #리사 #BLACKPINK #블랙핑크 #LALISA #MV #100MILLION #YOUTUBE #YG'
@@ -623,6 +623,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: LISA - 'LALISA' DANCE PRACTICE VIDEO
+    url: ZJ6QQLDIzrI
+    image: https://i.ytimg.com/vi/ZJ6QQLDIzrI/maxresdefault.jpg
   - name: LISA - 'LALISA' JACKET MAKING FILM
     url: 7UrRPh26dYI
     image: https://i.ytimg.com/vi/7UrRPh26dYI/maxresdefault.jpg
@@ -1719,9 +1722,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 59755275
+    followers: 59756779
     posts: 737
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=Mwwnzms5_Z0AX_PClW6&edm=ABfd0MgBAAAA&ccb=7-4&oh=93c3362c84b2558640e3875426dd5409&oe=614A87CD&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=Mwwnzms5_Z0AX-dceu3&edm=ABfd0MgBAAAA&ccb=7-4&oh=f2dacebf13df5bc9d978a893ecedf8cb&oe=614A87CD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CT4Ef40PC9r
       caption: pretty ✨
@@ -1773,13 +1776,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 51449601
+    followers: 51450726
     posts: 772
     last_post:
       url: https://www.instagram.com/p/CTv_wqXlHPM
       caption: Today is ivory matching colour day for us
       timestamp: 1631510605
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=mLBwFvP1-VMAX_lrhfx&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=cafbe1790fd3ee93836adfc279edf434&oe=614A4A1B&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=mLBwFvP1-VMAX8ohCI3&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=2b3bcc7ae572ea86ecab7bf2083243c6&oe=614A4A1B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1112224
@@ -1884,9 +1887,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 46498142
+    followers: 46499199
     posts: 703
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=ay8JqvgMlwsAX_OPyEh&edm=ABfd0MgBAAAA&ccb=7-4&oh=a019f0c34ca120fa3888abb495d3c4bc&oe=6149D581&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=ay8JqvgMlwsAX8h_xUB&edm=ABfd0MgBAAAA&ccb=7-4&oh=57c8b0fb519f56975283a524c69abdf9&oe=6149D581&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CT32AKQLCy-
       caption: ☕️
@@ -1955,9 +1958,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 46278436
+    followers: 46279256
     posts: 709
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=e_tV_Q_t7gQAX_zyuNK&edm=ABfd0MgBAAAA&ccb=7-4&oh=3523eaa84c1830cadb60e4d7e0d73ee0&oe=614A79C2&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=e_tV_Q_t7gQAX8LkLMU&edm=ABfd0MgBAAAA&ccb=7-4&oh=1c7bb201cd278ba0f9d3cc6b67fc2ec8&oe=614A79C2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CT2QaUPpUDN
       caption: found myself in a forgotten film ♡
