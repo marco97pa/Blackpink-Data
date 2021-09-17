@@ -124,7 +124,7 @@ def twitter_repost(artist):
           try:
             api.retweet(tweet.id)
           except tweepy.TweepError as error:
-            if error.api_code != 327:
+            if error.api_code == 327:
               print("::warning file=tweet.py:: Tweet NOT retweeted because " + str(error.reason))
             else:
               raise tweepy.TweepError(str(error.reason))
