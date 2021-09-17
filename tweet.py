@@ -121,7 +121,13 @@ def twitter_repost(artist):
         print("Datetime: {}".format(tweet.created_at))
         print(tweet.full_text[:20])
         if test is False:
+          try:
             api.retweet(tweet.id)
+          except tweepy.TweepError as error:
+            if error.api_code != 327:
+              print("::warning file=tweet.py:: Tweet NOT retweeted because " + str(error.reason))
+            else:
+              raise tweepy.TweepError(str(error.reason))
 
     if len(tweets) > 0:
         artist["twitter"]["last_tweet_id"] = tweets[0].id
@@ -147,7 +153,7 @@ def twitter_post(message):
             try:
                 api.update_status(message)
             except tweepy.TweepError as error:
-                print("::error file=tweet.py:: Tweet NOT posted because " + str(error.reason))
+                 raise tweepy.TweepError(str(error.reason))
       else:
           print("::warning file=tweet.py:: Tweet NOT posted because it was a duplicate.")
           
