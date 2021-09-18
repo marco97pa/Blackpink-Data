@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 0wOiWrujRbxlKEGWRQpKYc
+    id: 6yetqbA9vli7RLoUWYZLsq
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
+    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
     tracks:
     - name: DDU-DU DDU-DU
-      id: 4lQsB3ERTWSNaAN1IkuNRl
+      id: 69BIczdH6QMnFx7dsSssN8
     - name: Forever Young
-      id: 6veFyjNycn6EaNCKhkPXUY
+      id: 2Pp9osgyIcw6o1avfDDDhH
     - name: Really
-      id: 2URMA0ap6SAI8wFmcY1yta
+      id: 4HxVweMysEnuYxy3gkFtKk
     - name: See U Later
-      id: 2REoTZjaB3jyAt5dgkV5GK
+      id: 5RBH8ypFAj5HTZTPRpI1XL
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -586,16 +586,16 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ MIX)
-    id: 6qCqOI40caiiu8vcldqKDT
+  - name: Club Future Nostalgia (DJ Mix)
+    id: 3W04W2HfQ5kVeByxfjbu2C
     release_date: '2020-08-28'
     total_tracks: 17
     type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
+    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
     artist_collab: Dua Lipa
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6NM2Ce4Ng73fFNV54fMvf7
+      id: 6P8SQWN3pcLKChWHt73fZV
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1439075849160904709
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 41348680
+  followers: 41348815
   posts: 1236
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=-Q1om68gDigAX-9iJlI&edm=ABfd0MgBAAAA&ccb=7-4&oh=ea82cebdb06ede95af4bdfdf11527aae&oe=614D714C&_nc_sid=7bff83
+  image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=-Q1om68gDigAX_vRnSL&edm=ABfd0MgBAAAA&ccb=7-4&oh=af7f4ba2a8f0f7e41acff6b59f54cdd0&oe=614D714C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CTtZqyJJir2
     caption: '#LISA #리사 #BLACKPINK #블랙핑크 #LALISA #MV #100MILLION #YOUTUBE #YG'
@@ -1728,33 +1728,33 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 59888429
+    followers: 59889187
     posts: 737
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=WasdJygP2xcAX9RQqc2&edm=ABfd0MgBAAAA&ccb=7-4&oh=6024db984ec3c3bfd46b64e2d8e9fb08&oe=614C820D&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=WasdJygP2xcAX9z6DPT&edm=ABfd0MgBAAAA&ccb=7-4&oh=f4acb993f0ab665f4e7e3b282c3813d4&oe=614C820D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CT4Ef40PC9r
-      caption: Excuse me ma'am 😭
+      caption: Omgggggg
       timestamp: 1631781524
   spotify:
     id: 5L1lO4eRHmJ7a0Q6csE5cT
     followers: 605175
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
-    popularity: 74
+    popularity: 75
     genres: []
     image: https://i.scdn.co/image/ab6761610000e5eb7315c4978296c4de311f577e
     discography:
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
 - name: Jennie
   years: 25
   birthday: 16/01/1996
@@ -1782,13 +1782,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 51542685
+    followers: 51543183
     posts: 773
     last_post:
       url: https://www.instagram.com/p/CT6Q12QlTIL
       caption: 🎀cute top🎀
       timestamp: 1631855104
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=NbjvzQtaANYAX_8DOoP&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=61bd04a649a0e76f895ff18b4b9617c1&oe=614C445B&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=NbjvzQtaANYAX81Axir&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=37956364d99e501988ca603fb8c95c0f&oe=614C445B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1112224
@@ -1893,9 +1893,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 46598172
+    followers: 46599279
     posts: 706
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=RMLXKOy4RdcAX_pF1fh&edm=ABfd0MgBAAAA&ccb=7-4&oh=e70ce3568f8ea5af0ba6bc4a06957129&oe=614BCFC1&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=RMLXKOy4RdcAX-CBe0y&edm=ABfd0MgBAAAA&ccb=7-4&oh=426dc8bd969146c3a4e0d8b0fde74593&oe=614BCFC1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CT8J8-XMucN
       caption: "\U0001F440\U0001F484@yslbeauty \n\n-\n\n#ad #theslimvelvet"
@@ -1964,9 +1964,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 46352877
+    followers: 46353314
     posts: 709
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=e_tV_Q_t7gQAX8Dwfcq&edm=ABfd0MgBAAAA&ccb=7-4&oh=b430cae58212dd846fa752d0649bb9f6&oe=614C7402&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=e_tV_Q_t7gQAX81kpUb&edm=ABfd0MgBAAAA&ccb=7-4&oh=bf4106bbcfb7a2d43476df5fafc72a8e&oe=614C7402&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CT2QaUPpUDN
       caption: found myself in a forgotten film ♡
