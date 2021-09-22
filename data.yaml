@@ -556,16 +556,6 @@ spotify:
     tracks:
     - name: Nobody in the Game - Remix
       id: 33dEhRCtygunLJurj2EnP7
-  - name: Best Of 2020 - Hits des Jahres
-    id: 17rDDnoIG0vWgsUSzSUFju
-    release_date: '2020-10-23'
-    total_tracks: 38
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273fc60e0afb087a2e0f29f5add
-    artist_collab: Various Artists
-    tracks:
-    - name: How You Like That
-      id: 1kZ9du9IUooVxWs0wSOfcT
   - name: Besten Hits 2020
     id: 7IjtsGMc2cVfMojvM39Vke
     release_date: '2020-10-08'
@@ -596,6 +586,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up (Remix) [Mixed]
       id: 6NM2Ce4Ng73fFNV54fMvf7
+  - name: Club Future Nostalgia (DJ Mix)
+    id: 3W04W2HfQ5kVeByxfjbu2C
+    release_date: '2020-08-28'
+    total_tracks: 17
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273ac5db6adf5520c8eef3fd65e
+    artist_collab: Dua Lipa
+    tracks:
+    - name: Kiss and Make Up (Remix) [Mixed]
+      id: 6P8SQWN3pcLKChWHt73fZV
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
