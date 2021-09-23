@@ -605,12 +605,12 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1440980971289931782
+  last_tweet_id: 1441055047882706956
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 41524304
+  followers: 41524874
   posts: 1248
-  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=P8YHmaZDEIUAX-qb5S1&edm=ABfd0MgBAAAA&ccb=7-4&oh=2945d5780747b06efcfac013b50da9bc&oe=6153600C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=P8YHmaZDEIUAX_p0VX9&edm=ABfd0MgBAAAA&ccb=7-4&oh=b20b658bedb70f24dabc4d9e4ac24c98&oe=6153600C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CUKQOrSJhiu
     caption: '#BLACKPINK #블랙핑크 #DDU_DU_DDU_DU #뚜두뚜두 #MV #1_7BILLION #YOUTUBE #YG'
@@ -623,6 +623,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: LISA - 'MONEY' EXCLUSIVE PERFORMANCE VIDEO
+    url: dNCWe_6HAM8
+    image: https://i.ytimg.com/vi/dNCWe_6HAM8/maxresdefault.jpg
   - name: LISA - FIRST SINGLE ALBUM LALISA ALBUM UNBOXING
     url: LuFyun11XNs
     image: https://i.ytimg.com/vi/LuFyun11XNs/maxresdefault.jpg
@@ -1731,9 +1734,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLT_LksgDvg_MRgUUVCfq1s6pDuj8GVlL73jBPo0FQ=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 60401630
+    followers: 60402873
     posts: 744
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=7h8eisG79BQAX-Mgpu_&edm=ABfd0MgBAAAA&ccb=7-4&oh=8b78d0e5307e66ad6fccdc21a4cedb17&oe=61546B0D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=7h8eisG79BQAX__hoTC&edm=ABfd0MgBAAAA&ccb=7-4&oh=3866d854d27b57957c91217dc99e384a&oe=61546B0D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CUKwPTsPNHs
       caption: '#광고 #CELINETABOU #CELINEBYHEDISLIMANE'
@@ -1785,7 +1788,7 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLQHC6HFIBJ_2wFklM_zi4optyQrQWCqJw73q3mI=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 51895540
+    followers: 51896657
     posts: 775
     last_post:
       url: https://www.instagram.com/p/CUJ1bKwFAdt
@@ -1793,7 +1796,7 @@ members:
 
         @chanelofficial'
       timestamp: 1632377601
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=XgQ16PRoCVQAX8eI6wl&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=4d6286a420d98c15dfd548b87d121694&oe=61542D5B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=XgQ16PRoCVQAX_KefFb&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=b01276db0519aae5076da2b36fa465e4&oe=61542D5B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1204509
@@ -1898,9 +1901,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 46928638
+    followers: 46929696
     posts: 711
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=5oqtbxuRuhwAX-AXE90&edm=ABfd0MgBAAAA&ccb=7-4&oh=85b8d0ae83c86c677a96c36b1b5c7af1&oe=6153B8C1&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=5oqtbxuRuhwAX9uZ9lr&edm=ABfd0MgBAAAA&ccb=7-4&oh=4e77313a854a781f8c8fbad927fe4c63&oe=6153B8C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CUKToM8h399
       caption: "@tiffanyandco x @dazedkorea \n\n-\nThank you always to my team:\n\
@@ -1970,9 +1973,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 46628104
+    followers: 46629089
     posts: 710
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=fnUp911huhMAX-rB-Oy&edm=ABfd0MgBAAAA&ccb=7-4&oh=4ded79d0b9bbd983d7145edf689fb1e3&oe=61545D02&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=fnUp911huhMAX-5Y3cH&edm=ABfd0MgBAAAA&ccb=7-4&oh=8b765c0fd4dea7104be89de08158027a&oe=61545D02&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CUAdBb7pRTF
       caption: 💄❤️
