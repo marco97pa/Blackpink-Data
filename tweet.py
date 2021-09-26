@@ -48,7 +48,7 @@ def retrieve_own_tweets(num=3):
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
-    api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+    api = tweepy.API(auth, wait_on_rate_limit=True)
 
     latest_tweets = api.user_timeline(screen_name="data_blackpink", count=num, tweet_mode="extended")
     return latest_tweets
