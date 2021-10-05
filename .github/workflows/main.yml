@@ -42,3 +42,4 @@ jobs:
         git add .
         git commit -m "Updated data.yaml"
         git push
+      continue-on-error: true
