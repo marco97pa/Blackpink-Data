@@ -28,38 +28,38 @@ spotify:
     - name: You Never Know - JP Ver.
       id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 05tjy9njMXtZhhQKy6eSbw
+    id: 5IDJBkr9EzMofENo4ScNxi
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
     tracks:
     - name: Kill This Love - Live
-      id: 20M2G72S2uPv5HSGlbjzau
+      id: 1GrGs8HBvOHHdeho4w1ZkH
     - name: Crazy Over You - Live
-      id: 7DrC7HY96mwYCZTdVMWRqC
+      id: 20O6VxUyfLn6Zk8izFpMeu
     - name: How You Like That - Live
-      id: 2t7einPRQzodw4hn1mTey3
+      id: 3p9HltmtqXCvCSKKOKMZ29
     - name: Don't Know What To Do - Live
-      id: 4YRsEUhV94lfsE8ths8qnF
+      id: 6BYdrWzCp2tL2RKSoncArx
     - name: PLAYING WITH FIRE - Live
-      id: 6HenyHrl0dlPFZKZeZrQL1
+      id: 7jKhvwWoXGmfc8Ehc4kFrt
     - name: Lovesick Girls - Live
-      id: 1H7ZzRGyuyccxcCEl5iZka
+      id: 4GPLXDicIuRmAELK5RWvCw
     - name: Love To Hate Me + You Never Know - Live
-      id: 7aD3TKOSytAienGPAe7mUO
+      id: 76F0GgW1qB7nED5CQeZSrX
     - name: Pretty Savage - Live
-      id: 6L21Zb4gCi8DsGFfRWzP1e
+      id: 3ua8wdqzl3SdgElppgcuf2
     - name: DDU-DU DDU-DU - Live
-      id: 0wYdz8PwtGIuxOcgsAfBTV
+      id: 4gXhyN8S81jbq50NdEUcLR
     - name: WHISTLE - Live
-      id: 2Lf2DTkeqCRka9Gw7dT0cI
+      id: 5dUFWYt4BJfWlhC9CxWFGe
     - name: As If It's Your Last - Live
-      id: 0xY0xiUh7JAq7WKAMZbX6V
+      id: 5ROltcFSXdACTwRwOyJRzv
     - name: BOOMBAYAH - Live
-      id: 4pvNkEwArOjdB0usShWcFm
+      id: 1kUXkPQh6G8GLAIVIMgJwk
     - name: Forever Young - Live
-      id: 0vGUFVPXhsEUeDnwNCs8CC
+      id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
     id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
@@ -605,12 +605,12 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1445917876871782404
+  last_tweet_id: 1446627392789745669
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42134411
+  followers: 42173777
   posts: 1257
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=IVPFOHaWA_gAX_02uXt&edm=ABfd0MgBAAAA&ccb=7-4&oh=ffe50315541ce4fef18829c1a14bd329&oe=6167268C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=IVPFOHaWA_gAX8dcM5_&edm=ABfd0MgBAAAA&ccb=7-4&oh=27085313fc87014e0119deed7eb278e2&oe=616920CC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CUySXDIBEYY
     caption: '#LISA #리사 #BLACKPINK #블랙핑크 #MONEY #EXCLUSIVE_PERFORMANCE_VIDEO #100MILLION
@@ -620,7 +620,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '67900000'
-  total_views: '20264975797'
+  total_views: '20289113525'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1682,8 +1682,8 @@ members:
   youtube:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
-    subs: '8920000'
-    total_views: '367916994'
+    subs: '8930000'
+    total_views: '368473955'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
@@ -1751,9 +1751,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLTLQIpIIBQW8idkLnRwfKi14FrFYsb01ZwvM6FC3A=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 62457373
+    followers: 62661990
     posts: 751
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ssP0wODHEpkAX8BP2LA&edm=ABfd0MgBAAAA&ccb=7-4&oh=447ead318a41758f036a4ebb8c67c919&oe=6168318D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ssP0wODHEpkAX-NYj2N&edm=ABfd0MgBAAAA&ccb=7-4&oh=bdb469fd5f04c648a676351473b8ea97&oe=616A2BCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CUZMWqzPdz9
       caption: '💛💛 LISAAAAAAA BEST GIRL 💛💛
@@ -1762,7 +1762,7 @@ members:
       timestamp: 1632892939
   spotify:
     id: 5L1lO4eRHmJ7a0Q6csE5cT
-    followers: 805094
+    followers: 926475
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
     popularity: 81
@@ -1788,8 +1788,8 @@ members:
   youtube:
     name: Jennierubyjane Official
     url: UCNYi_zGmR519r5gYdOKLTjQ
-    subs: '6930000'
-    total_views: '60704619'
+    subs: '6940000'
+    total_views: '60734734'
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
     videos:
@@ -1808,18 +1808,16 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLR370wZkUW6W6am9USVPMu3sbK-_Mb_f_LJjKx6=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 53615230
-    posts: 782
+    followers: 53760641
+    posts: 783
     last_post:
-      url: https://www.instagram.com/p/CUr8jZis3BK
-      caption: '#CHANELSpringSummer
-
-        @chanelofficial'
-      timestamp: 1633522189
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=dTEYOABEMcEAX9wgFnT&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=3e11488e24124de09fda84d3f570f7ea&oe=6167F3DB&_nc_sid=7bff83
+      url: https://www.instagram.com/p/CU1tRfyl7xe
+      caption: ☁️☁️☁️
+      timestamp: 1633849722
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=dTEYOABEMcEAX-Q4dyf&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=6cd46f0d4da46cdda96ed1382d4a7acb&oe=6169EE1B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
-    followers: 1204509
+    followers: 1304038
     discography:
     - name: SOLO
       id: 7qAJpYeABXN9ZV5wOOX59k
@@ -1840,15 +1838,15 @@ members:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
       id: 1dH4B2bWb5Ys7aszi9KWHA
       release_date: '2019-03-13'
@@ -1921,13 +1919,15 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 48176584
-    posts: 719
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=zqkHnjp4qEgAX9Y49ur&edm=ABfd0MgBAAAA&ccb=7-4&oh=c99d8f59c543216f53283f21baa7fdd8&oe=61677F41&_nc_sid=7bff83
+    followers: 48283994
+    posts: 720
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=zqkHnjp4qEgAX86cHu7&edm=ABfd0MgBAAAA&ccb=7-4&oh=f4e1fb2c9fd6d7df327aa9a4b0e06c15&oe=61697981&_nc_sid=7bff83
     last_post:
-      url: https://www.instagram.com/p/CUoWWSyB7Qf
-      caption: just a few of my favorites from @leeum_official.
-      timestamp: 1633401495
+      url: https://www.instagram.com/p/CUzEl7lhPlR
+      caption: '•
+
+        📷: @emjbhe'
+      timestamp: 1633761285
   spotify:
     id: 3eVa5w3URK5duf6eyVDbu9
     followers: 1503111
@@ -1944,15 +1944,15 @@ members:
       - name: Gone
         id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: Gone - Live
-        id: 4HZ6bzqW2ybPYbvfuBLmUM
+        id: 5lnmMdUf1ifC0Oa8wsKuyW
     - name: One of a Kind
       id: 4EitCfNTOlnqtRrmBBuwGQ
       release_date: '2012-09-15'
@@ -1993,11 +1993,11 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 48005221
-    posts: 725
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=jUDxLgCGUgIAX-pw25O&edm=ABfd0MgBAAAA&ccb=7-4&oh=b892bf5155365bec73c7027e3d5032c4&oe=61682382&_nc_sid=7bff83
+    followers: 48128326
+    posts: 726
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=enPbmjyE2gcAX-x_kYe&edm=ABfd0MgBAAAA&ccb=7-4&oh=4d77b423119d20ba08029e8cf747f069&oe=616A1DC2&_nc_sid=7bff83
     last_post:
-      url: https://www.instagram.com/p/CUuUE8wJL40
-      caption: favourite moment from the flight ☁️
-      timestamp: 1633601631
-billboard_check: 08-10-2021
+      url: https://www.instagram.com/p/CU2ObGxFJhZ
+      caption: "와우 겨우 바꿨다 \nnew phone, cute case\U0001F9F8"
+      timestamp: 1633867103
+billboard_check: 10-10-2021
