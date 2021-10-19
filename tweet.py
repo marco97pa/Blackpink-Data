@@ -123,11 +123,12 @@ def twitter_repost(artist):
         if test is False:
           try:
             api.retweet(tweet.id)
-          except tweepy.TweepError as error:
-            if error.api_code == 327:
-              print("::warning file=tweet.py:: Tweet NOT retweeted because " + str(error.reason))
+          except tweepy.errors.Forbidden as error:
+            if error.api_codes[0] == 327:
+              print("::warning file=tweet.py:: Tweet NOT retweeted because " + str(error.api_messages[0]))
             else:
-              raise tweepy.TweepError(str(error.reason))
+              print("::error file=tweet.py:: " + str(error.api_errors))
+              raise tweepy.errors.Forbidden(error)
 
     if len(tweets) > 0:
         artist["twitter"]["last_tweet_id"] = tweets[0].id
