@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: 10's Pop Memories
+    id: 7jv7d3xHcSAfcgmicIuwVS
+    release_date: '2021-10-22'
+    total_tracks: 32
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273a435288656a2efedd93b7ea2
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 11poYen8s39yFHtShAhw3l
   - name: Women Now
     id: 0XbWjWEOInB35ZrrrxVLKV
     release_date: '2021-10-01'
@@ -586,16 +596,6 @@ spotify:
     tracks:
     - name: Kill This Love
       id: 569jiL1OxsDW4p3ZJfA0An
-  - name: Club Future Nostalgia (DJ MIX)
-    id: 6qCqOI40caiiu8vcldqKDT
-    release_date: '2020-08-28'
-    total_tracks: 17
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27370fb15d6ab3ed41e157df1f3
-    artist_collab: Dua Lipa
-    tracks:
-    - name: Kiss and Make Up (Remix) [Mixed]
-      id: 6NM2Ce4Ng73fFNV54fMvf7
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 85
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1450332330963263489
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42510308
+  followers: 42510755
   posts: 1260
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=K55ZIbeQmfAAX8sJCuK&edm=ABfd0MgBAAAA&ccb=7-4&oh=a4bef7c0195b48ed103f4f9c833887ba&oe=6178F2CC&_nc_sid=7bff83
+  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=K55ZIbeQmfAAX8KpDJn&edm=ABfd0MgBAAAA&ccb=7-4&oh=2133d1f11fc33a255912d67e6bf9e163&oe=6178F2CC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVMAm9fh7wO
     caption: '#BLACKPINK #블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE
@@ -1757,9 +1757,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLTLQIpIIBQW8idkLnRwfKi14FrFYsb01ZwvM6FC3A=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 64024336
+    followers: 64025508
     posts: 765
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=-yY8cLSNC-8AX-QX_O3&edm=ABfd0MgBAAAA&ccb=7-4&oh=a3d2e2ee7201e8fabaa3ee4495b03830&oe=6178038D&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=-yY8cLSNC-8AX8pNKUJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=256d3b59d7e29333a48c537ad37b3ef0&oe=6178038D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVSObKWvP_o
       caption: 🌊
@@ -1785,6 +1785,16 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
+      id: 2TGtXG18s21Q1jnY2TC39M
+      release_date: '2021-10-22'
+      total_tracks: 1
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273f69fb7ccd31f20f317b4bd12
+      artist_collab: DJ Snake
+      tracks:
+      - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
+        id: 6IPNp9PfaEqrzotY47TIWy
 - name: Jennie
   years: 25
   birthday: 16/01/1996
@@ -1812,14 +1822,14 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLR370wZkUW6W6am9USVPMu3sbK-_Mb_f_LJjKx6=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 54793069
+    followers: 54793926
     posts: 789
     last_post:
       url: https://www.instagram.com/p/CVSPjeylGLM
       caption: 'Dream work 🖤 So happy to be apart of this beautiful collection of
         #coconeige. Thank you to my wonderful @chanelofficial team!'
       timestamp: 1634807220
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=8Sl5jU850E8AX8CJFyu&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=956f68b0d0737abac37cc0abb96c4071&oe=6177C5DB&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=8Sl5jU850E8AX8MAkJy&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=2cc2dfc94aa4614e90e31ec3eb2975f7&oe=6177C5DB&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1304038
@@ -1924,9 +1934,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 49024616
+    followers: 49025358
     posts: 723
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=0IL-TBovWvsAX-aV2w0&edm=ABfd0MgBAAAA&ccb=7-4&oh=8d19b8a785c0abf519b7b2c6d7d05c14&oe=61775141&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=0IL-TBovWvsAX8Q4XlU&edm=ABfd0MgBAAAA&ccb=7-4&oh=6a3cb7b613cc5a0da8c31bfc29b71603&oe=61775141&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CU9MmnjBNx3
       caption: 🍓
@@ -1996,9 +2006,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 48947829
+    followers: 48949693
     posts: 729
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=P7GcZY7K_cMAX9mxzkq&edm=ABfd0MgBAAAA&ccb=7-4&oh=65caa97bbf6441ec9c94422e3d0ca226&oe=6177F582&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=P7GcZY7K_cMAX9kOUID&edm=ABfd0MgBAAAA&ccb=7-4&oh=04c501e2de23f7e3085a787923b23dea&oe=6177F582&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVNHOCIpmpC
       caption: '@dior 🖤'
