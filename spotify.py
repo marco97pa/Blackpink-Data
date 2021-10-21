@@ -201,7 +201,7 @@ def check_new_songs(artist, collection, hashtags):
       for album in collection:
           found = False
           for old_album in old:
-              if album["name"] == old_album["name"]:
+              if album["name"].lower() == old_album["name"].lower():
                   found = True
                   break
           if not found:
