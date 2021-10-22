@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1450332330963263489
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42537622
+  followers: 42537850
   posts: 1260
-  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=K55ZIbeQmfAAX9O-wQD&edm=ABfd0MgBAAAA&ccb=7-4&oh=b0398369962cf97e8fa1349f1f5850a3&oe=6178F2CC&_nc_sid=7bff83
+  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=K55ZIbeQmfAAX8eJfyz&edm=ABfd0MgBAAAA&ccb=7-4&oh=c178a311021f3300e37e899bd14d5db6&oe=6178F2CC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVMAm9fh7wO
     caption: '#BLACKPINK #블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE
@@ -1759,7 +1759,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 64135006
     posts: 767
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=-yY8cLSNC-8AX9WE3D_&edm=ABfd0MgBAAAA&ccb=7-4&oh=928131f06967a9f149ee843800876af9&oe=6179FDCD&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=-yY8cLSNC-8AX8D88RU&edm=ABfd0MgBAAAA&ccb=7-4&oh=32c78980c36ad2137acc2091e6862bbb&oe=6179FDCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVUnjAqPhck
       caption: '#SG YOU KNOW I DON’T PLAY'
@@ -1829,7 +1829,7 @@ members:
       caption: 'Dream work 🖤 So happy to be apart of this beautiful collection of
         #coconeige. Thank you to my wonderful @chanelofficial team!'
       timestamp: 1634807220
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=8Sl5jU850E8AX8tpQQy&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=8653444c477bb32deaa7ba42b13fc7f0&oe=6179C01B&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=8Sl5jU850E8AX89r8KR&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=f5a0892f1d07abd2874ed251703111ef&oe=6179C01B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1304038
@@ -1999,7 +1999,9 @@ members:
       type: appears_on
       image: https://i.scdn.co/image/ab67616d0000b273f1325daa20f3a24fb87a1498
       artist_collab: Various Artists
-      tracks: []
+      tracks:
+      - name: SOLO
+        id: 0jWq05RuoZKQCeowHGHPya
     - name: BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
       id: 1dH4B2bWb5Ys7aszi9KWHA
       release_date: '2019-03-13'
@@ -2074,7 +2076,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 49082472
     posts: 725
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=0IL-TBovWvsAX-JKDWl&edm=ABfd0MgBAAAA&ccb=7-4&oh=2e980c9dc662a5d90a2948798e0ffcb8&oe=61794B81&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=0IL-TBovWvsAX-t4oVH&edm=ABfd0MgBAAAA&ccb=7-4&oh=473379cae68f2703f149f835b5d1e700&oe=61794B81&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVSsZczBGiV
       caption: 이사진은 솔로 막방 끝났날 오랜만에 밖에서 밥먹으러 나갔을때. 저때도 저 원피스 입었었네요. 같은옷, 다른 다른 느낌s
@@ -2145,9 +2147,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 49014969
+    followers: 49015492
     posts: 729
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX-H2vkE&edm=ABfd0MgBAAAA&ccb=7-4&oh=864f565d8eba6f87078f080c1232d142&oe=6179EFC2&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX-kym6f&edm=ABfd0MgBAAAA&ccb=7-4&oh=f3bbbf097aeceff4ce462c05dde6595e&oe=6179EFC2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVNHOCIpmpC
       caption: '@dior 🖤'
