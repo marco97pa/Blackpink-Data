@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1450332330963263489
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42536903
+  followers: 42537360
   posts: 1260
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=K55ZIbeQmfAAX-XXgUE&edm=ABfd0MgBAAAA&ccb=7-4&oh=7d25f46be0d7ffbfa1323a933464c5e7&oe=6178F2CC&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=K55ZIbeQmfAAX-059Jd&edm=ABfd0MgBAAAA&ccb=7-4&oh=9466d8ca5f1834c03163d12dcb218225&oe=6178F2CC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVMAm9fh7wO
     caption: '#BLACKPINK #블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE
@@ -1759,7 +1759,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 64135006
     posts: 767
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=-yY8cLSNC-8AX-lv4l-&edm=ABfd0MgBAAAA&ccb=7-4&oh=c5c68e0847b1f411dfbad0f60ad31694&oe=6179FDCD&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=-yY8cLSNC-8AX-MUnRD&edm=ABfd0MgBAAAA&ccb=7-4&oh=96ac6731b232a6c92062d85112d9148c&oe=6179FDCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVUnjAqPhck
       caption: '#SG YOU KNOW I DON’T PLAY'
@@ -1829,7 +1829,7 @@ members:
       caption: 'Dream work 🖤 So happy to be apart of this beautiful collection of
         #coconeige. Thank you to my wonderful @chanelofficial team!'
       timestamp: 1634807220
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=8Sl5jU850E8AX9DSfxV&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=f1a17fcc572e10c8fe54920187ca1d47&oe=6179C01B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=8Sl5jU850E8AX-U3Yzz&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=6647b597bfdf024042ee4963f178ef6e&oe=6179C01B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1304038
@@ -1869,7 +1869,9 @@ members:
       type: appears_on
       image: https://i.scdn.co/image/ab67616d0000b2730a55f39760232405f2714656
       artist_collab: Various Artists
-      tracks: []
+      tracks:
+      - name: SOLO
+        id: 346GDk6OSCypBCA2opefw3
     - name: Licencia de Conducción
       id: 3Mfbr0HQYBKeQ0jLYxRzBu
       release_date: '2021-10-01'
@@ -1897,7 +1899,9 @@ members:
       type: appears_on
       image: https://i.scdn.co/image/ab67616d0000b273dfa7fb847eaf89a52cbce273
       artist_collab: Various Artists
-      tracks: []
+      tracks:
+      - name: SOLO
+        id: 5PBBTNktBcB3iT1AWleBrp
     - name: All You Need Is Love And K-Pop
       id: 3h3lwMhVdY54pJo4WPy5A1
       release_date: '2021-06-25'
@@ -1925,7 +1929,9 @@ members:
       type: appears_on
       image: https://i.scdn.co/image/ab67616d0000b273d7549a242e9e53cb23fbf0e7
       artist_collab: Various Artists
-      tracks: []
+      tracks:
+      - name: SOLO
+        id: 77jXoDbu5ava2qKCzwznJN
     - name: Music And Work
       id: 68zazdzFNf3RdvcMMW97HM
       release_date: '2021-05-21'
@@ -2070,10 +2076,11 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 49082472
     posts: 725
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=0IL-TBovWvsAX9dAt09&edm=ABfd0MgBAAAA&ccb=7-4&oh=a038746cb2e8fe6bcbbb794c8d18fa0a&oe=61794B81&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=0IL-TBovWvsAX8gzVmi&edm=ABfd0MgBAAAA&ccb=7-4&oh=07dcd7b0b8e6ef72d219671f1596935c&oe=61794B81&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVSsZczBGiV
-      caption: Omg throwbackkkk 😳😳😳
+      caption: 이사진은 솔로 막방 끝났날 오랜만에 밖에서 밥먹으러 나갔을때. 저때도 저 원피스 입었었네요. 같은옷, 다른 다른 느낌s
+        라고도 하죠 힣
       timestamp: 1634822342
   spotify:
     id: 3eVa5w3URK5duf6eyVDbu9
@@ -2142,7 +2149,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 49013359
     posts: 729
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX-uMej8&edm=ABfd0MgBAAAA&ccb=7-4&oh=b3c7e076e28f6da388a89139d50b1246&oe=6179EFC2&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX_UzkSp&edm=ABfd0MgBAAAA&ccb=7-4&oh=17dbfc1210a4ae842bdb3a676b0aa4f7&oe=6179EFC2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVNHOCIpmpC
       caption: '@dior 🖤'
