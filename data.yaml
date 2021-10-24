@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1451728215815319562
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42589490
+  followers: 42589835
   posts: 1260
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=3kbgSZ4jSMAAX-mQKPc&edm=ABfd0MgBAAAA&ccb=7-4&oh=8437f0d563b90c6cce671d72bbedff76&oe=617CE74C&_nc_sid=7bff83
+  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=3kbgSZ4jSMAAX8NJ7kw&edm=ABfd0MgBAAAA&ccb=7-4&oh=e55bb85233da5fcaa456c2af327bf626&oe=617CE74C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVMAm9fh7wO
     caption: '#BLACKPINK #블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE
@@ -1765,7 +1765,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 64381668
     posts: 767
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=qD8lad1fgXgAX-ZKqj4&edm=ABfd0MgBAAAA&ccb=7-4&oh=5c46755fd077b048c19da387e2f66458&oe=617BF80D&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=qD8lad1fgXgAX8EK6oF&edm=ABfd0MgBAAAA&ccb=7-4&oh=257788388c15ac936dbf6e1191d8f18d&oe=617BF80D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVUnjAqPhck
       caption: '#SG YOU KNOW I DON’T PLAY'
@@ -1775,7 +1775,7 @@ members:
     followers: 1111811
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
-    popularity: 83
+    popularity: 84
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb7315c4978296c4de311f577e
@@ -1835,7 +1835,7 @@ members:
       caption: 'Dream work 🖤 So happy to be apart of this beautiful collection of
         #coconeige. Thank you to my wonderful @chanelofficial team!'
       timestamp: 1634807220
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=77LNLGRHGDQAX-wECQ8&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=71b818aba6a1f5fdd25ac2bb480d07c7&oe=617BBA5B&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=77LNLGRHGDQAX8b7IgX&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=907f56cd791ad7a1d8164f5effab3890&oe=617BBA5B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1304038
@@ -1929,15 +1929,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
@@ -2092,10 +2092,11 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 49217821
     posts: 725
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=JufWCx5JXgEAX8kKtfJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=da8ea929d5978482421799672d6742b4&oe=617B45C1&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=JufWCx5JXgEAX9SqxOi&edm=ABfd0MgBAAAA&ccb=7-4&oh=da636fd82da4d9c580fb9435f5d11c2b&oe=617B45C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVSsZczBGiV
-      caption: Barbie in real life!!!!😭
+      caption: 이사진은 솔로 막방 끝났날 오랜만에 밖에서 밥먹으러 나갔을때. 저때도 저 원피스 입었었네요. 같은옷, 다른 다른 느낌s
+        라고도 하죠 힣
       timestamp: 1634822342
   spotify:
     id: 3eVa5w3URK5duf6eyVDbu9
@@ -2164,7 +2165,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 49143116
     posts: 729
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX8wdbcf&edm=ABfd0MgBAAAA&ccb=7-4&oh=cc2c8cd59b6dc51d601727acb3749604&oe=617BEA02&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX-ahNoC&edm=ABfd0MgBAAAA&ccb=7-4&oh=9ad2c3bd3eb037f60ff9f93a38e87856&oe=617BEA02&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVNHOCIpmpC
       caption: '@dior 🖤'
