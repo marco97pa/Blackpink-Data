@@ -28,38 +28,38 @@ spotify:
     - name: You Never Know - JP Ver.
       id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 05tjy9njMXtZhhQKy6eSbw
+    id: 5IDJBkr9EzMofENo4ScNxi
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
     tracks:
     - name: Kill This Love - Live
-      id: 20M2G72S2uPv5HSGlbjzau
+      id: 1GrGs8HBvOHHdeho4w1ZkH
     - name: Crazy Over You - Live
-      id: 7DrC7HY96mwYCZTdVMWRqC
+      id: 20O6VxUyfLn6Zk8izFpMeu
     - name: How You Like That - Live
-      id: 2t7einPRQzodw4hn1mTey3
+      id: 3p9HltmtqXCvCSKKOKMZ29
     - name: Don't Know What To Do - Live
-      id: 4YRsEUhV94lfsE8ths8qnF
+      id: 6BYdrWzCp2tL2RKSoncArx
     - name: PLAYING WITH FIRE - Live
-      id: 6HenyHrl0dlPFZKZeZrQL1
+      id: 7jKhvwWoXGmfc8Ehc4kFrt
     - name: Lovesick Girls - Live
-      id: 1H7ZzRGyuyccxcCEl5iZka
+      id: 4GPLXDicIuRmAELK5RWvCw
     - name: Love To Hate Me + You Never Know - Live
-      id: 7aD3TKOSytAienGPAe7mUO
+      id: 76F0GgW1qB7nED5CQeZSrX
     - name: Pretty Savage - Live
-      id: 6L21Zb4gCi8DsGFfRWzP1e
+      id: 3ua8wdqzl3SdgElppgcuf2
     - name: DDU-DU DDU-DU - Live
-      id: 0wYdz8PwtGIuxOcgsAfBTV
+      id: 4gXhyN8S81jbq50NdEUcLR
     - name: WHISTLE - Live
-      id: 2Lf2DTkeqCRka9Gw7dT0cI
+      id: 5dUFWYt4BJfWlhC9CxWFGe
     - name: As If It's Your Last - Live
-      id: 0xY0xiUh7JAq7WKAMZbX6V
+      id: 5ROltcFSXdACTwRwOyJRzv
     - name: BOOMBAYAH - Live
-      id: 4pvNkEwArOjdB0usShWcFm
+      id: 1kUXkPQh6G8GLAIVIMgJwk
     - name: Forever Young - Live
-      id: 0vGUFVPXhsEUeDnwNCs8CC
+      id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
     id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1451728215815319562
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42588992
+  followers: 42589490
   posts: 1260
-  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=3kbgSZ4jSMAAX9hEucw&edm=ABfd0MgBAAAA&ccb=7-4&oh=4d671dd3dbfa4647dde05ac59a967abb&oe=617AED0C&_nc_sid=7bff83
+  image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=3kbgSZ4jSMAAX-mQKPc&edm=ABfd0MgBAAAA&ccb=7-4&oh=8437f0d563b90c6cce671d72bbedff76&oe=617CE74C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVMAm9fh7wO
     caption: '#BLACKPINK #블랙핑크 #LovesickGirls #DANCE_PRACTICE #안무영상 #200MILLION #YOUTUBE
@@ -1763,9 +1763,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLTLQIpIIBQW8idkLnRwfKi14FrFYsb01ZwvM6FC3A=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 64379696
+    followers: 64381668
     posts: 767
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=qD8lad1fgXgAX9Fqb0c&edm=ABfd0MgBAAAA&ccb=7-4&oh=eedef4d470d9ba85bb04fd1b8a30a524&oe=617BF80D&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=qD8lad1fgXgAX-ZKqj4&edm=ABfd0MgBAAAA&ccb=7-4&oh=5c46755fd077b048c19da387e2f66458&oe=617BF80D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVUnjAqPhck
       caption: '#SG YOU KNOW I DON’T PLAY'
@@ -1781,16 +1781,16 @@ members:
     image: https://i.scdn.co/image/ab6761610000e5eb7315c4978296c4de311f577e
     discography:
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
       id: 2TGtXG18s21Q1jnY2TC39M
       release_date: '2021-10-22'
@@ -1835,7 +1835,7 @@ members:
       caption: 'Dream work 🖤 So happy to be apart of this beautiful collection of
         #coconeige. Thank you to my wonderful @chanelofficial team!'
       timestamp: 1634807220
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=77LNLGRHGDQAX_4EAeI&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=91da8cec8c338a8c1bfb8d081198831a&oe=617BBA5B&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=77LNLGRHGDQAX-wECQ8&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=71b818aba6a1f5fdd25ac2bb480d07c7&oe=617BBA5B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1304038
@@ -2090,39 +2090,38 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 49216686
+    followers: 49217821
     posts: 725
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=JufWCx5JXgEAX-t0wA5&edm=ABfd0MgBAAAA&ccb=7-4&oh=38b47ae43ddbc6be994d7cb2b9fc5963&oe=617B45C1&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=JufWCx5JXgEAX8kKtfJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=da8ea929d5978482421799672d6742b4&oe=617B45C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVSsZczBGiV
-      caption: 이사진은 솔로 막방 끝났날 오랜만에 밖에서 밥먹으러 나갔을때. 저때도 저 원피스 입었었네요. 같은옷, 다른 다른 느낌s
-        라고도 하죠 힣
+      caption: Barbie in real life!!!!😭
       timestamp: 1634822342
   spotify:
     id: 3eVa5w3URK5duf6eyVDbu9
     followers: 1603177
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: Gone - Live
-        id: 4HZ6bzqW2ybPYbvfuBLmUM
+        id: 5lnmMdUf1ifC0Oa8wsKuyW
     - name: One of a Kind
       id: 4EitCfNTOlnqtRrmBBuwGQ
       release_date: '2012-09-15'
@@ -2163,9 +2162,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 49141953
+    followers: 49143116
     posts: 729
-    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX936C3Q&edm=ABfd0MgBAAAA&ccb=7-4&oh=3a58df3919de73e9210dd27b51e4f012&oe=617BEA02&_nc_sid=7bff83
+    image: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=j52vkhcB_YkAX8wdbcf&edm=ABfd0MgBAAAA&ccb=7-4&oh=cc2c8cd59b6dc51d601727acb3749604&oe=617BEA02&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVNHOCIpmpC
       caption: '@dior 🖤'
