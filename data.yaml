@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -506,16 +506,6 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
-  - name: Fiesta Universitaria
-    id: 2Vg0do7tHidLuMZWivEE6Q
-    release_date: '2021-10-29'
-    total_tracks: 30
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273e1ea164c57a34e39ec6f8e86
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 4gfcMcDG0dtbOVPBqKiIAm
   - name: XOXO Pop
     id: 5jzSlGo8pOrSGEpYxr4IMv
     release_date: '2021-10-29'
@@ -526,6 +516,16 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 6Z7ZW8i0P0l7tEXyWkHYfR
+  - name: Fiesta Universitaria
+    id: 2Vg0do7tHidLuMZWivEE6Q
+    release_date: '2021-10-29'
+    total_tracks: 30
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273e1ea164c57a34e39ec6f8e86
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 4gfcMcDG0dtbOVPBqKiIAm
   - name: 10's Pop Memories
     id: 7jv7d3xHcSAfcgmicIuwVS
     release_date: '2021-10-22'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1454222160696803331
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42733108
+  followers: 42733333
   posts: 1269
-  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ism38lrYT50AX-l5XrH&edm=ABfd0MgBAAAA&ccb=7-4&oh=0e78145d437006bd2e39b3420a7ea679&oe=6184D04C&_nc_sid=7bff83
+  image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ism38lrYT50AX-ImZCc&edm=ABfd0MgBAAAA&ccb=7-4&oh=1a31896799140430e756279a0796fa8f&oe=6184D04C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVoVd_oBsSk
     caption: '#BLACKPINK #블랙핑크 #PLAYINGWITHFIRE #불장난 #MV #700MILLION #YOUTUBE #YG'
@@ -623,6 +623,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: LISA - 'SG' DANCE HIGHLIGHT CLIP
+    url: a74YfHF4TKY
+    image: https://i.ytimg.com/vi/a74YfHF4TKY/maxresdefault.jpg
   - name: LISA - 'MONEY' DANCE CHALLENGE
     url: B8fapsO4P2g
     image: https://i.ytimg.com/vi/B8fapsO4P2g/maxresdefault.jpg
@@ -1765,9 +1768,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLTLQIpIIBQW8idkLnRwfKi14FrFYsb01ZwvM6FC3A=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 65030581
+    followers: 65031641
     posts: 768
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=Lh9WWzvyWLQAX9qHym4&edm=ABfd0MgBAAAA&ccb=7-4&oh=1bc53155bd93b52711e68771a5027a19&oe=6183E10D&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=Lh9WWzvyWLQAX-FnIMB&edm=ABfd0MgBAAAA&ccb=7-4&oh=b64d729bbbf76116773fc9cd60044748&oe=6183E10D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVnYguqP8Vf
       caption: 😎
@@ -1829,14 +1832,14 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLR370wZkUW6W6am9USVPMu3sbK-_Mb_f_LJjKx6=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 55531207
+    followers: 55534508
     posts: 789
     last_post:
       url: https://www.instagram.com/p/CVSPjeylGLM
       caption: 'Dream work 🖤 So happy to be apart of this beautiful collection of
         #coconeige. Thank you to my wonderful @chanelofficial team!'
       timestamp: 1634807220
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=AeLItvtXJBgAX8xhcTY&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=6c8c16e72cca2871ec59f937cdae4ec9&oe=6183A35B&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=AeLItvtXJBgAX97lNzL&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=0ec30998302dfa3890f1e9bcd92008fb&oe=6183A35B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1400830
@@ -2091,28 +2094,29 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 49582546
+    followers: 49585050
     posts: 725
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=zaSg2ezPsdIAX-lNE4T&edm=ABfd0MgBAAAA&ccb=7-4&oh=194af0ef1a264fa7b9318811eeb9ec95&oe=61832EC1&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=zaSg2ezPsdIAX8IbIKN&edm=ABfd0MgBAAAA&ccb=7-4&oh=dc7a50bfbee8d14bae254560103c7299&oe=61832EC1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVSsZczBGiV
-      caption: Omg throwbackkkk 😳😳😳
+      caption: 이사진은 솔로 막방 끝났날 오랜만에 밖에서 밥먹으러 나갔을때. 저때도 저 원피스 입었었네요. 같은옷, 다른 다른 느낌s
+        라고도 하죠 힣
       timestamp: 1634822342
   spotify:
     id: 3eVa5w3URK5duf6eyVDbu9
     followers: 1701011
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
@@ -2163,9 +2167,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 49523687
+    followers: 49524350
     posts: 731
-    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=WicdztZWkqIAX9RsC2K&edm=ABfd0MgBAAAA&ccb=7-4&oh=d4e3f40869e8f6f58aacdc4146fc33a2&oe=6183D302&_nc_sid=7bff83
+    image: https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=WicdztZWkqIAX-mN88S&edm=ABfd0MgBAAAA&ccb=7-4&oh=71d53c8115234e13acc17fb91cd9c7a4&oe=6183D302&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVjmOpnJBzH
       caption: '이번 겨울은 잇미샤와 함께 ☃️
