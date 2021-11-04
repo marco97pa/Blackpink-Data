@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 0wOiWrujRbxlKEGWRQpKYc
+    id: 6yetqbA9vli7RLoUWYZLsq
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
+    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
     tracks:
     - name: DDU-DU DDU-DU
-      id: 4lQsB3ERTWSNaAN1IkuNRl
+      id: 69BIczdH6QMnFx7dsSssN8
     - name: Forever Young
-      id: 6veFyjNycn6EaNCKhkPXUY
+      id: 2Pp9osgyIcw6o1avfDDDhH
     - name: Really
-      id: 2URMA0ap6SAI8wFmcY1yta
+      id: 4HxVweMysEnuYxy3gkFtKk
     - name: See U Later
-      id: 2REoTZjaB3jyAt5dgkV5GK
+      id: 5RBH8ypFAj5HTZTPRpI1XL
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1454972324722065408
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42885137
+  followers: 42885385
   posts: 1275
-  image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=hQd3DdDcLMwAX89CiPl&edm=ABfd0MgBAAAA&ccb=7-4&oh=521e08d9ee05c0e2ffc507f2253890fa&oe=618ABF0C&_nc_sid=7bff83
+  image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=hQd3DdDcLMwAX8up2ky&edm=ABfd0MgBAAAA&ccb=7-4&oh=df84f589c7ac8c49c43d797f09738652&oe=618ABF0C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CVtqfQihr_p
     caption: '#BLACKPINK #블랙핑크 #BOOMBAYAH #붐바야 #MV #1_3BILLION #YOUTUBE #YG'
@@ -1771,9 +1771,9 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLTLQIpIIBQW8idkLnRwfKi14FrFYsb01ZwvM6FC3A=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 65661181
+    followers: 65662228
     posts: 773
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=4LdzSM491EYAX_p8EGk&edm=ABfd0MgBAAAA&ccb=7-4&oh=5ff39d55dfa29545d6a87f862bd6a1ed&oe=6189CFCD&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=4LdzSM491EYAX_ZADiN&edm=ABfd0MgBAAAA&ccb=7-4&oh=91013f3a0b1397e49c75f84e6cdf7ee8&oe=6189CFCD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVzUk5bvdYt
       caption: CELINE GIRL😍😍🔥
@@ -1798,16 +1798,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
 - name: Jennie
   years: 25
   birthday: 16/01/1996
@@ -1835,13 +1835,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLR370wZkUW6W6am9USVPMu3sbK-_Mb_f_LJjKx6=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 55982634
+    followers: 55983317
     posts: 792
     last_post:
       url: https://www.instagram.com/p/CV1ab__pSxt
       caption: 🌴
       timestamp: 1635987331
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=AZ43s6hQP40AX8oZL8A&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=d559fd65847b846e491ef469189c3446&oe=6189921B&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=AZ43s6hQP40AX8uXtY7&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=a256171f206adcd9b19fc085e95c5261&oe=6189921B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1400830
@@ -2096,9 +2096,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 49931612
+    followers: 49932095
     posts: 729
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=wwWYf7pRsn0AX9l6r-W&edm=ABfd0MgBAAAA&ccb=7-4&oh=de3015e205b4c4e607c45baf1617551e&oe=618B17C1&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=wwWYf7pRsn0AX82Jrqv&edm=ABfd0MgBAAAA&ccb=7-4&oh=29752d1589bfde5e6ce6a80ec1f728a5&oe=618B17C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV0WVdShWK0
       caption: '•
@@ -2172,9 +2172,9 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 50006083
+    followers: 50006751
     posts: 736
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=XvOElT_2EzIAX8GO_uy&edm=ABfd0MgBAAAA&ccb=7-4&oh=2a3bfce3d07683485211e0eefe8f3b29&oe=6189C1C2&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=XvOElT_2EzIAX-60k7-&edm=ABfd0MgBAAAA&ccb=7-4&oh=a0f27060838391eae0036e893b16a43f&oe=6189C1C2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CVz4iMVJdxu
       caption: "@blackpinkofficial \U0001F5A4\U0001F496\n@originals_kr \n@adidasoriginals\n\
