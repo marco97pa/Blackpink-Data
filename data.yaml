@@ -61,28 +61,28 @@ spotify:
     - name: Forever Young - Live
       id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 71O60S5gIJSIAhdnrDIh3N
+    id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
+    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
     tracks:
     - name: How You Like That
-      id: 4SFknyjLcyTLJFPKD2m96o
+      id: 6qHFPCWow1hMMY5x8h9VSM
     - name: Ice Cream (with Selena Gomez)
-      id: 4JUPEh2DVSXFGExu4Uxevz
+      id: 52aLulmBwpzoQXkiE7G4OT
     - name: Pretty Savage
-      id: 1XnpzbOGptRwfJhZgLbmSr
+      id: 3VTKwL1uS2JGotaJA4oXXB
     - name: Bet You Wanna (feat. Cardi B)
-      id: 7iAgNZdotu40NwtoIWJHFe
+      id: 1hPkiovjTqiJAJen4uyNRg
     - name: Lovesick Girls
-      id: 4Ws314Ylb27BVsvlZOy30C
+      id: 4Vhvlhomv8fTp2e6I4XTpe
     - name: Crazy Over You
-      id: 7qq0EOPW4RRlqdvMBmdd73
+      id: 4yOqfpzmL4FvmXJTUgAMUP
     - name: Love To Hate Me
-      id: 7iKDsPfLT0d5mu2htfMKBZ
+      id: 09JE599HkmbidwGWyD4ZGy
     - name: You Never Know
-      id: 39kzWAiVPpycdMpr745oPj
+      id: 1b0PG9Zd1HhOwq3n9QNkDg
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1457352838049255424
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 42996400
+  followers: 42996961
   posts: 1278
-  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=SeZVxxmbvQcAX_RALfc&edm=ABfd0MgBAAAA&ccb=7-4&oh=c09a8f6a004f56722f7635e7a2fd8584&oe=618EB38C&_nc_sid=7bff83
+  image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=SeZVxxmbvQcAX8HJb7Q&edm=ABfd0MgBAAAA&ccb=7-4&oh=73d4a448ad4c2143ca65b3550e5f6119&oe=618EB38C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CV-lfyihhQ8
     caption: '#BLACKPINK #블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 #900MILLION
@@ -1774,7 +1774,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 66064782
     posts: 779
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=YqWDxZ0HsFkAX8kZwI3&edm=ABfd0MgBAAAA&ccb=7-4&oh=fcb8ef65cbb0755f089f55ef9e27fafc&oe=618FBE8D&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=YqWDxZ0HsFkAX9LHifA&edm=ABfd0MgBAAAA&ccb=7-4&oh=e0b66dfc919f6b5e8e1192c06627a0f6&oe=618FBE8D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV64efoPVc9
       caption: "I hope you can stay healthy and sleep well and eat lots of good food.\
@@ -1849,7 +1849,7 @@ members:
       url: https://www.instagram.com/p/CV_1PMOJtIb
       caption: Head in the clouds today☁️☁️☁️
       timestamp: 1636336926
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=VQKm3nCsSrYAX-IiQZ9&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=9923dd505b744206e37ddfe3842deb4b&oe=618F80DB&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=VQKm3nCsSrYAX92UOqe&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=0e5a2362aec581e0be7f512d9876a90c&oe=618F80DB&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1400830
@@ -2106,7 +2106,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 50161966
     posts: 732
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=gqSNVzpY_SMAX-x6an2&edm=ABfd0MgBAAAA&ccb=7-4&oh=9d40f9a4ae040df871f84f27363427d5&oe=618F0C41&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=gqSNVzpY_SMAX9onW7_&edm=ABfd0MgBAAAA&ccb=7-4&oh=d880442bacbea0d512cbcf201dbaff71&oe=618F0C41&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV8PXYVoKqI
       caption: The last one is me looking for my mask
@@ -2116,16 +2116,16 @@ members:
     followers: 1701011
     discography:
     - name: R
-      id: 5BQcoDfcZ8aBcikYX9B7Ob
+      id: 0rBtYa6AUvlhoTTrPbYUmi
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
+      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
       tracks:
       - name: On The Ground
-        id: 2pn8dNVSpYnAtlKFC8Q0DJ
+        id: 4cuQfZEUCI0gmjGPS89T46
       - name: Gone
-        id: 2dHoVW9AxJVSRebPRyV2aA
+        id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
@@ -2178,7 +2178,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 50265033
     posts: 737
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=-RXYUEowfbcAX_mknCg&edm=ABfd0MgBAAAA&ccb=7-4&oh=dbdf7f822c083651095d43dff3e33b59&oe=618FB082&_nc_sid=7bff83
+    image: https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=-RXYUEowfbcAX9_GrC2&edm=ABfd0MgBAAAA&ccb=7-4&oh=ec1d353886c06686d463d34deb1b0eb3&oe=618FB082&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV9xXq1p7CB
       caption: ❣️
