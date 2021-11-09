@@ -303,14 +303,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -408,20 +408,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -605,12 +605,12 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1457352838049255424
+  last_tweet_id: 1457951200133795840
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 43002061
+  followers: 43024083
   posts: 1278
-  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=SeZVxxmbvQcAX9HRV75&edm=ABfd0MgBAAAA&ccb=7-4&oh=30e19ccac725b518de74ee10952048a8&oe=6190ADCC&_nc_sid=7bff83
+  image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=SeZVxxmbvQcAX8J9vx_&edm=ABfd0MgBAAAA&ccb=7-4&oh=cfe880d088d715f0a26f3152a0d2670c&oe=6190ADCC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CV-lfyihhQ8
     caption: '#BLACKPINK #블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 #900MILLION
@@ -619,8 +619,8 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '69200000'
-  total_views: '20934407241'
+  subs: '69300000'
+  total_views: '20955422942'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1701,7 +1701,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '9110000'
-    total_views: '380006517'
+    total_views: '380284440'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
@@ -1772,14 +1772,19 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLTLQIpIIBQW8idkLnRwfKi14FrFYsb01ZwvM6FC3A=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/lalalalisa_m/
-    followers: 66071261
+    followers: 66163271
     posts: 779
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=YqWDxZ0HsFkAX9fiCX-&edm=ABfd0MgBAAAA&ccb=7-4&oh=f7533fbc0c1d7f944acec81683a301b3&oe=618FBE8D&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=YqWDxZ0HsFkAX_DKj5I&edm=ABfd0MgBAAAA&ccb=7-4&oh=f2fcd8f7eb6332f0824e72df3598f2f7&oe=6191B8CD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV64efoPVc9
-      caption: Guys we are in big disadvantage, Lisa is losing...please stream LALISA
-        on Apple music (from mama playlist) and YouTube. Lisa only got 2 month tracking
-        we are in disadvantage.
+      caption: "I hope you can stay healthy and sleep well and eat lots of good food.\
+        \ I  love you from saudi Arabia\U0001F1F8\U0001F1E6\U0001F1F8\U0001F1E6❤\n\
+        ⠀⡄⠀⠀⠀⠀⢀⡀⠀⠀⢀⠀⠀⠀⠀⡄⠀⢀⠤⠤⡀⠀⠀⢠⡀⠀⠀\n⠀⡇⠀⠀⠀⠀⠄⢡⠀⠀⢸⠀⠀⠀⠀⡇⠀⠣⡀⠀⠀⠀⢀⠇⢣⠀⠀\n⠀⡇⠀⠀⠀⡸⠤⠤⢆⠀⢸⠀⠀⠀⠀⡇⠀⡄⠀⠈⢢⠀⡼⠤⠬⡆⠀\n\
+        ⠀⠓⠒⠒⠀⠁⠀⠀⠘⠀⠘⠒⠒⠂⠀⠃⠀⠑⠒⠒⠁⠐⠀⠀⠀⠘⠀\n⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀\n⠀⣿⣿⡟⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀\n⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n\
+        ⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀ \n⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀\n⠀⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠃⠀ \n⠀⠀⣴⣿⣿⡇⠀⠀⣠⣶⣿⣷⣦⡀⠀\n\
+        ⠀⣼⣿⡟⠉⠁⠀⣼⣿⡿⠛⠛⣿⣿⡀\n⠀⣿⣿⠀⠀⠀⣰⣿⣿⠁⠀⠀⣹⣿⡇\n⠀⢻⣿⣷⣤⣴⣿⣿⠃⠀⢠⣴⣿⡿⠁\n⠀⠀⠛⠿⠿⠿⠟⠁⠀⠀⠸⠿⠛⠁⠀ \n⠀⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n\
+        ⠀⢿⣿⣿⣿⣶⣦⣄⣀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠉⣿⣿⠿⢿⣿⣿⣷⣦⣤⣀⠀\n⠀⠀⠀⠀⣿⣿⠀⠀⢀⣉⣽⣿⣿⣿⠀\n⠀⠀⢀⣀⣿⣿⣶⣿⣿⣿⠿⠟⠛⠉⠀\n⠀⣿⣿⣿⡿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀\n\
+        ⠀⠛⠉⠁⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀"
       timestamp: 1636170852
   spotify:
     id: 5L1lO4eRHmJ7a0Q6csE5cT
@@ -1819,7 +1824,7 @@ members:
     name: Jennierubyjane Official
     url: UCNYi_zGmR519r5gYdOKLTjQ
     subs: '7000000'
-    total_views: '61492268'
+    total_views: '61519858'
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
     videos:
@@ -1838,13 +1843,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLR370wZkUW6W6am9USVPMu3sbK-_Mb_f_LJjKx6=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 56314144
+    followers: 56393386
     posts: 795
     last_post:
       url: https://www.instagram.com/p/CV_1PMOJtIb
       caption: Head in the clouds today☁️☁️☁️
       timestamp: 1636336926
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=VQKm3nCsSrYAX_Fo2HL&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=e167467b1895b5f9856da8118affabfb&oe=618F80DB&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=VQKm3nCsSrYAX8epBCz&tn=3-22MnArf6OmqGz1&edm=ABfd0MgBAAAA&ccb=7-4&oh=32fc25bbb7c994f149935b833b0218f9&oe=61917B1B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1400830
@@ -2099,9 +2104,9 @@ members:
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
-    followers: 50167675
+    followers: 50225551
     posts: 732
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=gqSNVzpY_SMAX8uwxih&edm=ABfd0MgBAAAA&ccb=7-4&oh=5b344911e390513d1d0d8cf5069e5d78&oe=618F0C41&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=gqSNVzpY_SMAX8n287h&edm=ABfd0MgBAAAA&ccb=7-4&oh=57feb024ce5aed7ca23bfa2e5f4b9d3f&oe=61910681&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV8PXYVoKqI
       caption: The last one is me looking for my mask
@@ -2111,16 +2116,16 @@ members:
     followers: 1701011
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
@@ -2171,11 +2176,11 @@ members:
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
-    followers: 50267740
+    followers: 50324718
     posts: 737
-    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=-RXYUEowfbcAX-_UO2M&edm=ABfd0MgBAAAA&ccb=7-4&oh=94e3c124faa661b33673fa7970b822f0&oe=618FB082&_nc_sid=7bff83
+    image: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=Mf2E7y-gMyoAX-05NCP&edm=ABfd0MgBAAAA&ccb=7-4&oh=c4cc0e88bb8dafe823ca121492e6c2f6&oe=6191AAC2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV9xXq1p7CB
       caption: ❣️
       timestamp: 1636267789
-billboard_check: 08-11-2021
+billboard_check: 09-11-2021
