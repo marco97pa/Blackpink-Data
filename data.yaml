@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: It's a Hit
+    id: 4poHwdR5WPvIngpsS2y9nA
+    release_date: '2021-11-12'
+    total_tracks: 31
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273bec5a3337ed7886805db5bc7
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 7I5SuwGHiX51TNEPj6aMwM
   - name: XOXO Pop
     id: 5jzSlGo8pOrSGEpYxr4IMv
     release_date: '2021-10-29'
@@ -586,16 +596,6 @@ spotify:
     tracks:
     - name: Ice Cream
       id: 0TKbdm1ZLmSmXfm1NRrSBv
-  - name: Nobody in the Game (Remix)
-    id: 7lJofyZv9AfwbT11RTUlKR
-    release_date: '2020-10-29'
-    total_tracks: 1
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273dbf1c3c72b0b5ec0bd3b50bd
-    artist_collab: Lil Stinny
-    tracks:
-    - name: Nobody in the Game - Remix
-      id: 33dEhRCtygunLJurj2EnP7
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 85
@@ -610,7 +610,7 @@ instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 43068970
   posts: 1278
-  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=sgexEWpD58YAX_Hryhn&edm=ABfd0MgBAAAA&ccb=7-4&oh=244c3b4b5f2aee702a0f70eaa587d133&oe=6194A24C&_nc_sid=7bff83
+  image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=sgexEWpD58YAX_PePsj&edm=ABfd0MgBAAAA&ccb=7-4&oh=3a79d568756a92b16bdf455d1ce1e11f&oe=6194A24C&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CV-lfyihhQ8
     caption: '#BLACKPINK #블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 #900MILLION
@@ -1774,7 +1774,7 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 66369986
     posts: 780
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=XfzJ0Afzb3YAX_NzrIQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=2264100e44501bf31ecc63e7a64e6848&oe=6193B30D&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=XfzJ0Afzb3YAX-38fBG&edm=ABfd0MgBAAAA&ccb=7-4&oh=d722f5f31c9496ba0d752021ac990553&oe=6193B30D&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CWDxz3fJzDi
       caption: 💗🌸🍓🎀🌷
@@ -1842,7 +1842,7 @@ members:
       url: https://www.instagram.com/p/CV_1PMOJtIb
       caption: Head in the clouds today☁️☁️☁️
       timestamp: 1636336926
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=1vyPojUmQkYAX80ryUz&tn=UCpHAEXulzRTdJcs&edm=ABfd0MgBAAAA&ccb=7-4&oh=c698ba737c768bdbd8a9a56a945ce5c8&oe=6193755B&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=1vyPojUmQkYAX-kx1P7&tn=UCpHAEXulzRTdJcs&edm=ABfd0MgBAAAA&ccb=7-4&oh=f46e3e51f500d22e6ee0603c8ba3960d&oe=6193755B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1400830
@@ -2099,7 +2099,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 50332142
     posts: 732
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=0KAlL8l-1P8AX_WQTdX&edm=ABfd0MgBAAAA&ccb=7-4&oh=bbabaf28630b37de4b9e3c07d91565f0&oe=619300C1&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=0KAlL8l-1P8AX_j3t6K&edm=ABfd0MgBAAAA&ccb=7-4&oh=2219a01192abec839727d1312d6b7191&oe=619300C1&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV8PXYVoKqI
       caption: The last one is me looking for my mask
@@ -2171,7 +2171,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 50443022
     posts: 737
-    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=Mf2E7y-gMyoAX_uCl0p&edm=ABfd0MgBAAAA&ccb=7-4&oh=d04619c484a86f3284e5592db089ed10&oe=6193A502&_nc_sid=7bff83
+    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=Mf2E7y-gMyoAX_TmrTJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=902df7fa431a406bd084ccbccb1fe9a6&oe=6193A502&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CV9xXq1p7CB
       caption: ❣️
