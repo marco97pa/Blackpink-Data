@@ -149,6 +149,6 @@ def clean_caption(caption):
     return clean[:90]
 
 def wait_random():
-  sleeptime = randint(10,100)
+  sleeptime = randint(5,50)
   print("Sleeping for {} sec".format(sleeptime))
   sleep(sleeptime)
