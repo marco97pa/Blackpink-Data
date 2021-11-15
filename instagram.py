@@ -3,6 +3,8 @@ import os
 from instascrape import *
 from utils import display_num, convert_num, download_image
 from tweet import twitter_post, twitter_post_image
+from random import randint
+from time import sleep
 
 # Get Instagram cookies
 instagram_sessionid = os.environ.get('INSTAGRAM_SESSION_ID')
@@ -25,10 +27,13 @@ def instagram_data(group):
 
     print("[{}] Starting tasks...".format(module))
     group, ig_profile = instagram_profile(group)
+    wait_random()
     group = instagram_last_post(group, ig_profile)
 
     for artist in group["members"]:
+        wait_random()
         artist, ig_profile = instagram_profile(artist)
+        wait_random()
         artist = instagram_last_post(artist, ig_profile)
 
     print()
@@ -142,3 +147,8 @@ def clean_caption(caption):
                 clean += word + " "
 
     return clean[:90]
+
+def wait_random():
+  sleeptime = randint(10,100)
+  print("Sleeping for {} sec".format(sleeptime))
+  sleep(sleeptime)
