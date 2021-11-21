@@ -608,9 +608,9 @@ twitter:
   last_tweet_id: 1462246111075192838
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
-  followers: 43357056
+  followers: 43357510
   posts: 1284
-  image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=tJkF9grwW6QAX-QgXO0&edm=ABfd0MgBAAAA&ccb=7-4&oh=5e42810fa515efe9c0934711a509f4aa&oe=61A07FCC&_nc_sid=7bff83
+  image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/13741205_1738776383055894_1493730264_a.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=tJkF9grwW6QAX8FtKFi&edm=ABfd0MgBAAAA&ccb=7-4&oh=a200fc1019712c34a0108cd00f9c274c&oe=61A07FCC&_nc_sid=7bff83
   last_post:
     url: https://www.instagram.com/p/CWaPCS_pNn9
     caption: '#BLACKPINK #블랙핑크 #ASIFITSYOURLAST #마지막처럼 #MV #1_1BILLION #YOUTUBE #YG'
@@ -1773,10 +1773,10 @@ members:
     url: https://www.instagram.com/lalalalisa_m/
     followers: 67456033
     posts: 787
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=9pbgXDxy8DYAX-pVRg_&edm=ABfd0MgBAAAA&ccb=7-4&oh=05ecc9d7cc1612dff6717cb6e85dddd7&oe=61A18ACD&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120041180_337576210917769_857365109066050760_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=9pbgXDxy8DYAX8Ez75A&edm=ABfd0MgBAAAA&ccb=7-4&oh=e83d900668196d3de048fd5ab47f85b9&oe=61A18ACD&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CWhGsP9Pntp
-      caption: te amo
+      caption: 🥶
       timestamp: 1637453373
   spotify:
     id: 5L1lO4eRHmJ7a0Q6csE5cT
@@ -1845,13 +1845,13 @@ members:
     image: https://yt3.ggpht.com/ytc/AKedOLR370wZkUW6W6am9USVPMu3sbK-_Mb_f_LJjKx6=s800-c-k-c0x00ffffff-no-rj
   instagram:
     url: https://www.instagram.com/jennierubyjane/
-    followers: 57283074
+    followers: 57283583
     posts: 799
     last_post:
       url: https://www.instagram.com/p/CWZzaYpFgQI
       caption: This photo makes me feel calm 🌞
       timestamp: 1637208384
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=V6bIuun9TlgAX-DRKOk&tn=ugh3F94hM7JpjdeV&edm=ABfd0MgBAAAA&ccb=7-4&oh=f4d18990c6e23da9dfe096d5175e9ebc&oe=61A14D1B&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/71533411_449636125903525_7464596574253875200_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=V6bIuun9TlgAX9rawQ0&tn=ugh3F94hM7JpjdeV&edm=ABfd0MgBAAAA&ccb=7-4&oh=0bc49843ffbc128ac93c4f2011081fd2&oe=61A14D1B&_nc_sid=7bff83
   spotify:
     id: 250b0Wlc5Vk0CoUsaCY84M
     followers: 1506633
@@ -1955,15 +1955,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
@@ -2118,7 +2118,7 @@ members:
     url: https://www.instagram.com/roses_are_rosie/
     followers: 50871135
     posts: 737
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=98JvXFymWmEAX_y1Btb&edm=ABfd0MgBAAAA&ccb=7-4&oh=850e2548e1df673e74b5652a46e24aa4&oe=61A0D881&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=98JvXFymWmEAX-p8LW8&edm=ABfd0MgBAAAA&ccb=7-4&oh=891260c555dcf8d47030ce3d552e0342&oe=61A0D881&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CWcB5RxhJzh
       caption: '•
@@ -2163,7 +2163,7 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 69
+    popularity: 68
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eba23b22965ecef5703f58b6c5
@@ -2193,7 +2193,7 @@ members:
     url: https://www.instagram.com/sooyaaa__/
     followers: 51131221
     posts: 742
-    image: https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=1&_nc_ohc=hYPIJ9fSyAgAX_Ssan9&edm=ABfd0MgBAAAA&ccb=7-4&oh=6a4023a6d7731f3213a07aeb1c5eb1c7&oe=61A17CC2&_nc_sid=7bff83
+    image: https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/s320x320/131994802_214284176856542_767716126641019031_n.jpg?_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=hYPIJ9fSyAgAX8bJnWz&edm=ABfd0MgBAAAA&ccb=7-4&oh=245719a79512f46caf1a711323f6fd08&oe=61A17CC2&_nc_sid=7bff83
     last_post:
       url: https://www.instagram.com/p/CWfSV96JqmS
       caption: I Did It Again 💇🏻‍♀️
