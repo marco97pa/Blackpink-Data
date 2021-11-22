@@ -88,3 +88,19 @@ def download_image(url):
     file.close()
 
     return filename
+
+def download(url, filename):
+    """Downloads a file, given an url and filename
+
+    Args:
+      url: source from where download the image
+      filename: name of the file to save
+    """
+    
+    response = requests.get(url)
+
+    file = open(filename, "wb")
+    file.write(response.content)
+    file.close()
+
+    return filename

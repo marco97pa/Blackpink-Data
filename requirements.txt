@@ -8,10 +8,10 @@ pyyaml
 # Needed to post or retrieve data from Twitter
 tweepy
 #
-# insta-scrape
-# https://pypi.org/project/insta-scrape/
+# instagrapi
+# https://adw0rd.github.io/instagrapi/
 # Needed to retrieve data from Instagram
-insta-scrape
+instagrapi
 #
 # python-youtube
 # https://pypi.org/project/python-youtube/

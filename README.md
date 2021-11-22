@@ -78,7 +78,7 @@ The project is really modular and by editing the YAML file you can easily fork t
 * Python 3
 * [Tweepy](https://pypi.org/project/tweepy/)
 * [pillow](https://pypi.org/project/Pillow/)
-* [insta-scrape](https://pypi.org/project/insta-scrape/)
+* [instagrapi](https://github.com/adw0rd/instagrapi)
 * [python-youtube](https://pypi.org/project/python-youtube/)
 * [spotipy](https://github.com/plamere/spotipy)
 * [billboard.py](https://github.com/guoguo12/billboard-charts)
@@ -119,7 +119,8 @@ in that case all the python command will be 'python' instead of 'python3' and 'p
 
     export YOUTUBE_API_KEY='xxxx'
 
-    export INSTAGRAM_SESSION_ID='xxxx'
+    export INSTAGRAM_ACCOUNT_USERNAME='xxxxxx'
+    export INSTAGRAM_ACCOUNT_PASSWORD='xxxxxx'
 
     export SPOTIPY_CLIENT_ID='xxxx'
     export SPOTIPY_CLIENT_SECRET='xxxx'

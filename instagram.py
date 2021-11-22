@@ -1,17 +1,21 @@
 #!/usr/bin/env python3
 import os
-from instascrape import *
-from utils import display_num, convert_num, download_image
+from instagrapi import Client
+from PIL import Image
+import requests
+from utils import display_num, convert_num, download
 from tweet import twitter_post, twitter_post_image
-from random import randint
-from time import sleep
-
-# Get Instagram cookies
-instagram_sessionid = os.environ.get('INSTAGRAM_SESSION_ID')
-headers = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 Edg/87.0.664.57",
-"cookie": f"sessionid={instagram_sessionid};"}
 
 module = "Instagram"
+
+# Get Instagram cookies
+ACCOUNT_USERNAME = os.environ.get('INSTAGRAM_ACCOUNT_USERNAME')
+ACCOUNT_PASSWORD = os.environ.get('INSTAGRAM_ACCOUNT_PASSWORD')
+
+# Login
+cl = Client()
+cl.login(ACCOUNT_USERNAME, ACCOUNT_PASSWORD)
+
 
 def instagram_data(group):
     """Runs all the Instagram related tasks
@@ -26,26 +30,23 @@ def instagram_data(group):
     """
 
     print("[{}] Starting tasks...".format(module))
-    group, ig_profile = instagram_profile(group)
-    wait_random()
-    group = instagram_last_post(group, ig_profile)
+    group, user_id = instagram_profile(group)
+    group = instagram_last_post(group, user_id)
 
     for artist in group["members"]:
-        wait_random()
-        artist, ig_profile = instagram_profile(artist)
-        wait_random()
-        artist = instagram_last_post(artist, ig_profile)
+        artist, user_id = instagram_profile(artist)
+        artist = instagram_last_post(artist, user_id)
 
     print()
     return group
 
-def instagram_last_post(artist, profile):
+def instagram_last_post(artist, user_id):
     """Gets the last post of a profile
 
     It tweets if there is a new post: if the timestamp of the latest stored post does not match with the latest fetched posts timestamp
 
     Args:
-      - profile: a Profile instance, already scraped
+      - user_id: a profile ID
       - artist: a dictionary with all the details of the artist
 
     Returns:
@@ -54,22 +55,23 @@ def instagram_last_post(artist, profile):
 
     print("[{}] ({}) Fetching new posts".format(module, artist["instagram"]["url"][26:-1]))
 
-    recents = profile.get_recent_posts()
+    medias = cl.user_medias(user_id, 5)
     
-    for recent in recents:
-      recent.scrape(headers=headers)
+    for media in medias:
       # If the last post timestamp is greater (post is newest) or the saved post does not exist
-      if "last_post" not in artist["instagram"] or recent.timestamp > artist["instagram"]["last_post"]["timestamp"]:
-        url = "https://www.instagram.com/p/" + recent.shortcode
-        if recent.is_video:
+      if "last_post" not in artist["instagram"] or media.taken_at.timestamp() > artist["instagram"]["last_post"]["timestamp"]:
+        url = "https://www.instagram.com/p/" + media.code
+        if media.resources[0].media_type == "2":
             content_type = "video"
             filename = "temp.mp4"
+            source = media.resources[0].video_url
         else:
             content_type = "photo"
             filename = "temp.jpg"
-        recent.download(filename)
+            source = media.resources[0].thumbnail_url
+        download(source, filename)
         twitter_post_image(
-            "{} posted a new {} on #Instagram:\n{}\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(recent.caption), recent.timestamp, url, artist["hashtags"]),
+            "{} posted a new {} on #Instagram:\n{}\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(media.caption_text), media.taken_at.timestamp(), url, artist["hashtags"]),
             filename,
             None
         )
@@ -77,9 +79,9 @@ def instagram_last_post(artist, profile):
         break
 
     last_post = {}
-    last_post["url"] = "https://www.instagram.com/p/" + recents[0].shortcode
-    last_post["caption"] = recents[0].caption
-    last_post["timestamp"] = recents[0].timestamp
+    last_post["url"] = "https://www.instagram.com/p/" + medias[0].code
+    last_post["caption"] = medias[0].caption_text
+    last_post["timestamp"] = medias[0].taken_at.timestamp()
 
     artist["instagram"]["last_post"] = last_post
     
@@ -95,34 +97,35 @@ def instagram_profile(artist):
 
     Returns:
       - an dictionary containing all the updated data of the artist
-      - a Profile instance
+      - a Profile ID
     """
+    username = artist["instagram"]["url"][26:-1]
 
-    print("[{}] ({}) Fetching profile details".format(module, artist["instagram"]["url"][26:-1]))
+    print("[{}] ({}) Fetching profile details".format(module, username))
 
-    profile = Profile(artist["instagram"]["url"])
-    profile = profile.scrape(headers=headers, inplace=False)
-    artist["instagram"]["posts"] = profile.posts
+    user_id = cl.user_id_from_username(username)
+    info = cl.user_info(user_id)
+    artist["instagram"]["posts"] = info.media_count
     # Update profile pic
-    artist["instagram"]["image"] = profile.profile_pic_url_hd
+    artist["instagram"]["image"] = info.profile_pic_url
 
     # Add followers if never happened before
     if "followers" not in artist["instagram"]:
-      artist["instagram"]["followers"] = profile.followers
+      artist["instagram"]["followers"] = info.follower_count
 
     # Update followers only if there is an increase (fixes https://github.com/marco97pa/Blackpink-Data/issues/11)
-    if profile.followers > artist["instagram"]["followers"]:
-        print("[{}] ({}) Followers increased {} --> {}".format(module, artist["instagram"]["url"][26:-1], artist["instagram"]["followers"], profile.followers))
-        if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", profile.followers):
+    if info.follower_count > artist["instagram"]["followers"]:
+        print("[{}] ({}) Followers increased {} --> {}".format(module, artist["instagram"]["url"][26:-1], artist["instagram"]["followers"], info.follower_count))
+        if convert_num("M", artist["instagram"]["followers"]) != convert_num("M", info.follower_count):
             twitter_post_image(
-                "{} reached {} followers on #Instagram\n{}".format(artist["name"], display_num(profile.followers), artist["hashtags"]),
-                download_image(artist["instagram"]["image"]),
-                display_num(profile.followers, short=True),
+                "{} reached {} followers on #Instagram\n{}".format(artist["name"], display_num(info.follower_count), artist["hashtags"]),
+                download_profile_pic(artist["instagram"]["image"]),
+                display_num(info.follower_count, short=True),
                 text_size=50
                 )
-        artist["instagram"]["followers"] = profile.followers
+        artist["instagram"]["followers"] = info.follower_count
     
-    return artist, profile
+    return artist, user_id
 
 def clean_caption(caption):
     """Removes unnecessary parts of an Instagram post caption
@@ -148,7 +151,24 @@ def clean_caption(caption):
 
     return clean[:90]
 
-def wait_random():
-  sleeptime = randint(5,50)
-  print("Sleeping for {} sec".format(sleeptime))
-  sleep(sleeptime)
+def download_profile_pic(url):
+    """Downloads an image, given an url
+
+    The image is saved in the download.jpg file
+
+    Args:
+      url: source from where download the image
+    """
+
+    filename = "download.jpg"
+    response = requests.get(url)
+
+    file = open(filename, "wb")
+    file.write(response.content)
+    file.close()
+
+    img = Image.open(filename)
+    img = img.resize((400, 400), Image.ANTIALIAS)
+    img.save(filename)
+
+    return filename

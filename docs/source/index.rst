@@ -92,24 +92,13 @@ keys. Then set them as environment variables, by running these lines:
 ``export SPOTIPY_CLIENT_ID='xxxx'``
 ``export SPOTIPY_CLIENT_SECRET='xxxx'``
 
-Instagram SESSION_ID cookie
+Instagram USERNAME and PASSWORD
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can get your Instagram **Session ID** if you are logged in to
-Instagram using any browser. This guide uses Google Chrome.
+You can set your username and password like this:
+``export INSTAGRAM_ACCOUNT_USERNAME='xxxxxx'``
+``export INSTAGRAM_ACCOUNT_PASSWORD='xxxxxx'``
 
-1. Open Google Chrome
-2. Go to `Instagram`_ and log in to your account
-3. Right click somewhere on the webpage and select **Inspect** on the
-   dropdown menu to open Chrome Developer tools
-4. Click the **Application** tab under the Chrome Developer Tools window
-5. Under the **storage** header on the left-hand menu, expand
-   **Cookies** and click on the entry for ``https://www.instagram.com/``
-6. Find the row with the **Name** equal to ``sessionid``: this is your
-   **Session ID**
-
-| Then set it as environment variable by running:
-| ``export INSTAGRAM_SESSION_ID='xxxxx'``
 
 Fork
 --------------------
