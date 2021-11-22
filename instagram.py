@@ -64,11 +64,11 @@ def instagram_last_post(artist, user_id):
         if media.resources[0].media_type == "2":
             content_type = "video"
             filename = "temp.mp4"
-            source = media.resources[0].video_url
+            source = "{}".format(media.resources[0].video_url)
         else:
             content_type = "photo"
             filename = "temp.jpg"
-            source = media.resources[0].thumbnail_url
+            source = "{}".format(media.resources[0].thumbnail_url)
         download(source, filename)
         twitter_post_image(
             "{} posted a new {} on #Instagram:\n{}\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(media.caption_text), media.taken_at.timestamp(), url, artist["hashtags"]),
@@ -107,7 +107,7 @@ def instagram_profile(artist):
     info = cl.user_info(user_id)
     artist["instagram"]["posts"] = info.media_count
     # Update profile pic
-    artist["instagram"]["image"] = info.profile_pic_url
+    artist["instagram"]["image"] = "{}".format(info.profile_pic_url)
 
     # Add followers if never happened before
     if "followers" not in artist["instagram"]:
