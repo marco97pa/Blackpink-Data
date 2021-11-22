@@ -32,7 +32,8 @@ jobs:
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
         TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-        INSTAGRAM_SESSION_ID: ${{ secrets.INSTAGRAM_SESSION_ID }}
+        INSTAGRAM_ACCOUNT_USERNAME: ${{ secrets.INSTAGRAM_ACCOUNT_USERNAME }}
+        INSTAGRAM_ACCOUNT_PASSWORD: ${{ secrets.INSTAGRAM_ACCOUNT_PASSWORD }}
         SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
         SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
     - name: Commit changes # Commit changes to the master branch
