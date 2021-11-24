@@ -12,9 +12,8 @@ module = "Instagram"
 ACCOUNT_USERNAME = os.environ.get('INSTAGRAM_ACCOUNT_USERNAME')
 ACCOUNT_PASSWORD = os.environ.get('INSTAGRAM_ACCOUNT_PASSWORD')
 
-# Login
+# Init
 cl = Client()
-cl.login(ACCOUNT_USERNAME, ACCOUNT_PASSWORD)
 
 
 def instagram_data(group):
@@ -30,6 +29,10 @@ def instagram_data(group):
     """
 
     print("[{}] Starting tasks...".format(module))
+
+    # Login
+    cl.login(ACCOUNT_USERNAME, ACCOUNT_PASSWORD)
+
     group, user_id = instagram_profile(group)
     group = instagram_last_post(group, user_id)
 
