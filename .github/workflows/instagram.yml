@@ -1,10 +1,10 @@
-# This workflow runs the main script, fetches new data from all the available sources (except Instagram) and eventually posts updates on Twitter
+# This workflow runs the main script, fetching data ONLY from Instagram and eventually posts updates on Twitter
 
-name: Update All
+name: Update Instagram
 
 on:
   schedule:
-   - cron: "*/10 * * * *" # Runs every 10 minutes, everyday (actual timing may vary, depending on GitHub)
+   - cron: "0 */6 * * *" # Runs every 6 hours to avoid Instagram bans
   workflow_dispatch:
 
 jobs:
@@ -26,20 +26,19 @@ jobs:
         pip3 install -r requirements.txt
     - name: execute py script # Run the script to fetch the latest data
       run: |
-        python main.py -no-instagram
+        python main.py -no-youtube -no-spotify -no-billboard -no-twitter
       env: # API KEYs are passed as environment variables. For more info https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets
-        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }} 
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
         TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-        SPOTIPY_CLIENT_ID: ${{ secrets.SPOTIPY_CLIENT_ID }}
-        SPOTIPY_CLIENT_SECRET: ${{ secrets.SPOTIPY_CLIENT_SECRET }}
+        INSTAGRAM_ACCOUNT_USERNAME: ${{ secrets.INSTAGRAM_ACCOUNT_USERNAME }}
+        INSTAGRAM_ACCOUNT_PASSWORD: ${{ secrets.INSTAGRAM_ACCOUNT_PASSWORD }}
     - name: Commit changes # Commit changes to the master branch
       run: |
         git config --global user.name 'marco97pa'
         git config --global user.email 'marco97pa@live.it'
         git add .
-        git commit -m "Updated data.yaml"
+        git commit -m "Updated data.yaml with latest data from Instagram"
         git push
       continue-on-error: true
