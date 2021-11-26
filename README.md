@@ -1,5 +1,6 @@
 
 [![Action][action-shield]][action-url]
+[![Instagram][action2-shield]][action2-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -183,6 +184,8 @@ Project Link: [https://github.com/marco97pa/Blackpink-Data](https://github.com/m
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [action-shield]: https://github.com/marco97pa/Blackpink-Data/actions/workflows/main.yml/badge.svg
 [action-url]: https://github.com/marco97pa/Blackpink-Data/actions/workflows/main.yml
+[action2-shield]: https://github.com/marco97pa/Blackpink-Data/actions/workflows/instagram.yml/badge.svg
+[action2-url]: https://github.com/marco97pa/Blackpink-Data/actions/workflows/instagram.yml
 [forks-shield]: https://img.shields.io/github/forks/marco97pa/Blackpink-Data?style=for-the-badge
 [forks-url]: https://github.com/marco97pa/Blackpink-Data/network/members
 [stars-shield]: https://img.shields.io/github/stars/marco97pa/Blackpink-Data?color=f0a500&style=for-the-badge
