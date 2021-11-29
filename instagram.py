@@ -78,7 +78,6 @@ def instagram_last_post(artist, user_id):
           i = 0
           filenames = []
           for resource in media.resources:
-            print(resource)
             if resource.media_type == 1:
               i=i+1
               if i >= 5:
@@ -87,9 +86,6 @@ def instagram_last_post(artist, user_id):
               source = "{}".format(resource.thumbnail_url)
               download(source, filename)
               filenames.append(filename)
-              print(filenames)
-              print(filename)
-              print(i)
           twitter_post_image(
               "{} posted a new {} on #Instagram:\n{}\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(media.caption_text), media.taken_at.timestamp(), url, artist["hashtags"]),
               filenames,
