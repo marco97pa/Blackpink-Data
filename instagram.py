@@ -64,7 +64,7 @@ def instagram_last_post(artist, user_id):
       # If the last post timestamp is greater (post is newest) or the saved post does not exist
       if "last_post" not in artist["instagram"] or media.taken_at.timestamp() > artist["instagram"]["last_post"]["timestamp"]:
         url = "https://www.instagram.com/p/" + media.code
-        if media.resources[0].media_type == "2":
+        if media.resources[0].media_type == 2:
             content_type = "video"
             filename = "temp.mp4"
             source = "{}".format(media.resources[0].video_url)
@@ -79,7 +79,7 @@ def instagram_last_post(artist, user_id):
           filenames = []
           for resource in media.resources:
             print(resource)
-            if resource.media_type == "1":
+            if resource.media_type == 1:
               i=i+1
               if i >= 5:
                 break
