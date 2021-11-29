@@ -1,7 +1,7 @@
 keys
 keys.sh
 download.jpg
-temp.jpg
+temp*.jpg
 temp.mp4
 video_still.jpg
 __pycache__

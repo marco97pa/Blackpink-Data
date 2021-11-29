@@ -163,7 +163,7 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     
     Args:
         - message: a string containing the message to be posted
-        - url: filename of the image to be posted
+        - filename: filename of the image to be posted
     """
 
     if text is not None:
@@ -196,9 +196,15 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
                 auth.set_access_token(access_token, access_token_secret)
                 api = tweepy.API(auth)
 
-                uploaded = api.media_upload(filename)
-                api.update_status(message, media_ids=[uploaded.media_id])
-                os.remove(filename)
+                ids = []
+                if type(filename) is list:
+                  for elem in filename:
+                    uploaded = api.media_upload(filename)
+                    ids.append(uploaded.media_id)
+                else:
+                  uploaded = api.media_upload(filename)
+                  ids.append(uploaded.media_id)
+                api.update_status(message, media_ids=ids)
       else:
           print("::warning file=tweet.py:: Tweet NOT posted because it was a duplicate.")
 
