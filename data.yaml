@@ -1809,6 +1809,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: 2021 Hits
+      id: 1Ogzvxeew3JBjHU7oUko7e
+      release_date: '2021-11-30'
+      total_tracks: 34
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27324720d94c56c7cd965bfcd83
+      artist_collab: Various Artists
+      tracks:
+      - name: MONEY
+        id: 4IybbCRkmlt4RvSJROHhu0
     - name: Just Wanna Dance
       id: 4F0MhaKv6JBr2r0enO0VI7
       release_date: '2021-11-22'
