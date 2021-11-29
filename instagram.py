@@ -78,7 +78,7 @@ def instagram_last_post(artist, user_id):
           i = 0
           filenames = []
           for resource in media.resources:
-            print(resource.media_type)
+            print(resource)
             if resource.media_type == "1":
               i=i+1
               if i >= 5:
