@@ -171,7 +171,9 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
     
     message = message[:270]
     print(message)
-    print("Media: " + filename + "\n")
+    print("Media: ")
+    print(filename)
+    print("\n")
 
     if test is False:
       if not check_duplicates(message):
@@ -198,6 +200,7 @@ def twitter_post_image(message, filename, text, text_size=200, crop=False):
 
                 ids = []
                 if type(filename) is list:
+                  print("[{}] There are multiple photos".format(module))
                   for elem in filename:
                     uploaded = api.media_upload(filename)
                     ids.append(uploaded.media_id)
