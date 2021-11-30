@@ -65,7 +65,7 @@ def instagram_last_post(artist, user_id):
       if "last_post" not in artist["instagram"] or media.taken_at.timestamp() > artist["instagram"]["last_post"]["timestamp"]:
         url = "https://www.instagram.com/p/" + media.code
         if len(media.resources) == 0:
-            media.resources[0] = media
+            media.resources.append(media)
         if media.resources[0].media_type == 2:
             content_type = "video"
             filename = "temp.mp4"
