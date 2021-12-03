@@ -70,6 +70,7 @@ def instagram_last_post(artist, user_id):
             content_type = "video"
             filename = "temp.mp4"
             source = "{}".format(media.resources[0].video_url)
+            download(source, filename)
             twitter_post_image(
               "{} posted a new {} on #Instagram:\n{}\n{}\n{}\n\n{}".format(artist["name"], content_type, clean_caption(media.caption_text), media.taken_at.timestamp(), url, artist["hashtags"]),
               filename,
