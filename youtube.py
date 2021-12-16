@@ -61,7 +61,7 @@ def youtube_get_channel(api, channel_id):
 
     data = api.get_channel_info(channel_id=channel_id)
     channel = data.items[0]
-    print(channel)
+    print(channel.contentDetails)
 
     channel_data = {
        "name": channel.snippet.title,
