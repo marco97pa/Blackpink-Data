@@ -61,6 +61,7 @@ def youtube_get_channel(api, channel_id):
 
     data = api.get_channel_info(channel_id=channel_id)
     channel = data.items[0]
+    print(channel)
 
     channel_data = {
        "name": channel.snippet.title,
@@ -85,6 +86,7 @@ def youtube_get_videos(api, playlist_id, name):
     Returns:
       a list of videos
     """
+    print(playlist_id) 
     videos = []
     
     playlist = api.get_playlist_items(playlist_id=playlist_id, count=None)
@@ -101,7 +103,6 @@ def youtube_get_videos(api, playlist_id, name):
          "url": video.snippet.resourceId.videoId,
          "image": thumbnail}
         )
-        print(name) 
 
     print("[{}] ({}) Fetched {} videos".format(module, name, len(videos)))
 
