@@ -101,6 +101,7 @@ def youtube_get_videos(api, playlist_id, name):
          "url": video.snippet.resourceId.videoId,
          "image": thumbnail}
         )
+        print(name) 
 
     print("[{}] ({}) Fetched {} videos".format(module, name, len(videos)))
 
