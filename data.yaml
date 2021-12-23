@@ -1817,6 +1817,20 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: Fresh Finds Hits
+      id: 2gtSd14b8h4A6M0llkdG87
+      release_date: '2021-12-08'
+      total_tracks: 36
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273a1c88f054f78b2459f2a1722
+      artist_collab: Various Artists
+      tracks:
+      - name: LALISA
+        id: 1yZAy74E1VDkpFsAA1CfPj
+      - name: SG
+        id: 2YECFNmgH7bogMwQTdICql
+      - name: MONEY
+        id: 2TUq1C4QBiRATiRbwrH5m9
     - name: Tubes de 2021
       id: 4PDZ5hwWViJEpkVz1MjQFV
       release_date: '2021-12-06'
