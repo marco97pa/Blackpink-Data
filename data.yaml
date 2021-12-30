@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: R&B Workout
+    id: 2pzsLCXw4eZgLm7oZ0qH6T
+    release_date: '2021-12-31'
+    total_tracks: 26
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2737a53cc81a5d0f351582fbee9
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 3y5M8rOaQJz2eADRqjIEoP
   - name: It's a Hit
     id: 4poHwdR5WPvIngpsS2y9nA
     release_date: '2021-11-12'
@@ -586,16 +596,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 1ccRktXmlYjz2v4DVZ7cfx
-  - name: NOW That's What I Call Music, Vol. 77
-    id: 3P2f6BPhDskUbM5hnvzkLQ
-    release_date: '2021-01-29'
-    total_tracks: 21
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273007cd5d60163152d1556853d
-    artist_collab: Various Artists
-    tracks:
-    - name: Ice Cream
-      id: 0TKbdm1ZLmSmXfm1NRrSBv
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 85
