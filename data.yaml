@@ -1945,6 +1945,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Karaoke en Inglés
+      id: 1i5sfh9avMDnjnSNwAANf8
+      release_date: '2022-01-19'
+      total_tracks: 32
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27334269a9f65e117c5dbca86ec
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 4kSbYCVnKskMzE2xI5bmvK
     - name: Cool & Chill ❄️🍉
       id: 0YqrlP71AeVU6vY52M6njG
       release_date: '2021-11-23'
