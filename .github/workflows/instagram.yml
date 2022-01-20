@@ -3,8 +3,9 @@
 name: Update Instagram
 
 on:
-  schedule:
-   - cron: "0 */6 * * *" # Runs every 6 hours to avoid Instagram bans
+  # DISABLED SINCE INSTAGRAM CAN'T WORK ANYMORE WITH GITHUB ACTIONS. See https://github.com/marco97pa/Blackpink-Data/issues/27 for further details
+  # schedule:
+  # - cron: "0 */6 * * *" # Runs every 6 hours to avoid Instagram bans
   workflow_dispatch:
 
 jobs:
