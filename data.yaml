@@ -1944,6 +1944,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Good For You
+      id: 4E6A94uYw9ZSDj9wHVcXQm
+      release_date: '2022-01-21'
+      total_tracks: 36
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273dff75c273b514e1d6bcd10e5
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 0bz4i4LUjIijcuQvk35RvD
     - name: Karaoke en Inglés
       id: 1i5sfh9avMDnjnSNwAANf8
       release_date: '2022-01-19'
