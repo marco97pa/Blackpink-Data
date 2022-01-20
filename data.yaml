@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: Girl Squad
+    id: 4NoNvM260Uc6b5OX9KTrxl
+    release_date: '2022-01-21'
+    total_tracks: 35
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b27380639016bc22515a150da80e
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 4LqSJiHh8fSIuvAg0woksr
   - name: R&B Workout
     id: 2pzsLCXw4eZgLm7oZ0qH6T
     release_date: '2021-12-31'
@@ -586,16 +596,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 6aRPVJBHiVK4MRItdiSJfb
-  - name: Pop Crazy
-    id: 3VbpSX23IGz31erdvWpjcZ
-    release_date: '2021-08-27'
-    total_tracks: 50
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273904bf91c091c4c42fddbbc63
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 1ccRktXmlYjz2v4DVZ7cfx
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
