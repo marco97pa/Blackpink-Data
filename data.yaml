@@ -1801,16 +1801,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
     - name: Fresh Finds Hits
       id: 2gtSd14b8h4A6M0llkdG87
       release_date: '2021-12-08'
@@ -1850,7 +1850,7 @@ members:
       release_date: '2021-12-03'
       total_tracks: 43
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27325f79128c09a92c544e8ffb0
+      image: https://i.scdn.co/image/ab67616d0000b2731d5705c398069690f38ee766
       artist_collab: Various Artists
       tracks:
       - name: MONEY
@@ -2055,15 +2055,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
