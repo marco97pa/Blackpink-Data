@@ -1830,7 +1830,7 @@ members:
       release_date: '2021-12-06'
       total_tracks: 30
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2736a413f715946f92849ba42cc
+      image: https://i.scdn.co/image/ab67616d0000b27313eb0c2c202962bdf4384147
       artist_collab: Various Artists
       tracks:
       - name: MONEY
@@ -1850,7 +1850,7 @@ members:
       release_date: '2021-12-03'
       total_tracks: 43
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2731d5705c398069690f38ee766
+      image: https://i.scdn.co/image/ab67616d0000b273d964487a42bae2a984a2cea5
       artist_collab: Various Artists
       tracks:
       - name: MONEY
@@ -2209,7 +2209,7 @@ members:
         id: 5MPGtk7Ni67f76w0RV79GO
     uri: spotify:artist:250b0Wlc5Vk0CoUsaCY84M
     name: JENNIE
-    popularity: 64
+    popularity: 65
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb70fbc1e9b8a9305cacedb417
