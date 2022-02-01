@@ -1,6 +1,5 @@
 
 [![Action][action-shield]][action-url]
-[![Instagram][action2-shield]][action2-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
