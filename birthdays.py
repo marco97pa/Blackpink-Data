@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import datetime
-from utils import download_image
+import shutil
 from tweet import twitter_post_image, twitter_post
 
 module = "Birthdays"
@@ -28,11 +28,13 @@ def check_birthdays(group):
         if birthday.date() == now.date():
             print("[{}] ({}) Birthday: {} years!".format(module, member["name"], difference))
             if member["years"] != difference:
+                # copy image before editing, to preserve the original one
+                shutil.copy('images/' + member["image"], 'images/temp-' + member["image"])
                 member["years"] = difference
                 twitter_post_image(
                     "Today is #{}'s birthday! She did {} years\n{}".format(member["name"].upper(), difference, member["hashtags"]),
-                    download_image(member["instagram"]["image"]),
-                    str(difference)
+                    'images/temp-' + member["image"],
+                    "HB" + "\n" + str(difference)
                     )
     print()
     return group

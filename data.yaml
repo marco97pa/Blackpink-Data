@@ -1695,6 +1695,7 @@ members:
 - name: Lisa
   years: 24
   birthday: 27/03/1997
+  image: lisa.jpg
   hashtags: '#LISA #리사 #BLACKPINK @BLACKPINK'
   youtube:
     name: Lilifilm Official
@@ -1888,6 +1889,7 @@ members:
 - name: Jennie
   years: 26
   birthday: 16/01/1996
+  image: jennie.jpg
   hashtags: '#JENNIE #제니 #BLACKPINK @BLACKPINK'
   youtube:
     name: Jennierubyjane Official
@@ -2216,6 +2218,7 @@ members:
 - name: Rosé
   years: 24
   birthday: 11/02/1997
+  image: rose.jpg
   hashtags: '#로제 #ROSÉ #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/roses_are_rosie/
@@ -2291,6 +2294,7 @@ members:
 - name: Jisoo
   years: 27
   birthday: 03/01/1995
+  image: jisoo.jpg
   hashtags: ' #지수 #JISOO #BLACKPINK @BLACKPINK'
   instagram:
     url: https://www.instagram.com/sooyaaa__/
