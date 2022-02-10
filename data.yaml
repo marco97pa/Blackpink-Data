@@ -2273,11 +2273,14 @@ members:
   youtube:
     name: ROSÉ Official
     url: UCBo1hnzxV9rz3WVsv__Rn1g
-    subs: '3710000'
+    subs: '3720000'
     total_views: '9875243'
     views_scale: 10M
     playlist: UUBo1hnzxV9rz3WVsv__Rn1g
     videos:
+    - name: ROSÉ - Viva La Vida (Coldplay) Live Studio Cover
+      url: mX8rMMS-MbI
+      image: https://i.ytimg.com/vi/mX8rMMS-MbI/maxresdefault.jpg
     - name: Sunset cover - Wildfire
       url: deHE9o4L8oo
       image: https://i.ytimg.com/vi/deHE9o4L8oo/maxresdefault.jpg
