@@ -1909,6 +1909,9 @@ members:
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
     videos:
+    - name: LA vlog
+      url: BZS9DETsLjc
+      image: https://i.ytimg.com/vi/BZS9DETsLjc/maxresdefault.jpg
     - name: HERA photo shoot vlog
       url: CLq-BsSN-aQ
       image: https://i.ytimg.com/vi/CLq-BsSN-aQ/maxresdefault.jpg
