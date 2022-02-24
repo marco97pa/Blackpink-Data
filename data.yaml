@@ -1962,6 +1962,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: 'K-Pop: От рассвета до заката'
+      id: 43LydprFYKuqtBIrLRyMNi
+      release_date: '2022-02-25'
+      total_tracks: 29
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27316dc07693534f1d3d2a450ce
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 72XM77CKoclFQFUQEMACYX
     - name: Good For You
       id: 4E6A94uYw9ZSDj9wHVcXQm
       release_date: '2022-01-21'
