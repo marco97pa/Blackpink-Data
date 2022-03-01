@@ -1962,6 +1962,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: The Future Is Female
+      id: 5hbJ2lUh2tAmrWMSAX3AYa
+      release_date: '2022-03-02'
+      total_tracks: 27
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273fc0769dcece83db1f9f803d7
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 6ITEzSECbETYVnHG76yj3B
     - name: 'K-Pop: От рассвета до заката'
       id: 43LydprFYKuqtBIrLRyMNi
       release_date: '2022-02-25'
