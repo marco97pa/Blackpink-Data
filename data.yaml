@@ -2314,13 +2314,16 @@ members:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eba23b22965ecef5703f58b6c5
   youtube:
-    name: ROSÉ Official
+    name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
     subs: '4160000'
     total_views: '9875243'
     views_scale: 10M
     playlist: UUBo1hnzxV9rz3WVsv__Rn1g
     videos:
+    - name: Baking vlog
+      url: d68H7yDBwc4
+      image: https://i.ytimg.com/vi/d68H7yDBwc4/maxresdefault.jpg
     - name: ROSÉ - December (Neck Deep) Live Studio Cover
       url: 46IvBZSJKJg
       image: https://i.ytimg.com/vi/46IvBZSJKJg/maxresdefault.jpg
