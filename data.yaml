@@ -629,7 +629,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '72800000'
-  total_views: '22905319936'
+  total_views: '22915924987'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1861,7 +1861,7 @@ members:
       release_date: '2021-12-03'
       total_tracks: 43
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27316aacdd767498bf6e51fc304
+      image: https://i.scdn.co/image/ab67616d0000b273b009301a1b207e1cc3a09245
       artist_collab: Various Artists
       tracks:
       - name: MONEY
@@ -1891,7 +1891,7 @@ members:
       release_date: '2021-11-17'
       total_tracks: 65
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273b579ac6f4ceda85bce7c5694
+      image: https://i.scdn.co/image/ab67616d0000b2738e1eb047e92ad4396b22d448
       artist_collab: Various Artists
       tracks:
       - name: SG
