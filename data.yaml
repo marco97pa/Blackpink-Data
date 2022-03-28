@@ -1806,16 +1806,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: Fresh Finds Hits
       id: 2gtSd14b8h4A6M0llkdG87
       release_date: '2021-12-08'
@@ -1830,16 +1830,6 @@ members:
         id: 2YECFNmgH7bogMwQTdICql
       - name: MONEY
         id: 2TUq1C4QBiRATiRbwrH5m9
-    - name: Tubes de 2021
-      id: 4PDZ5hwWViJEpkVz1MjQFV
-      release_date: '2021-12-06'
-      total_tracks: 30
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273310ef93b3a31f87c75d056d9
-      artist_collab: Various Artists
-      tracks:
-      - name: MONEY
-        id: 09DVlQRp5RX9HQDqgmX8NG
     - name: Szilveszter 2021-2022
       id: 4O1HdVwkxTOYbfsh9PwRAF
       release_date: '2021-12-06'
@@ -1850,6 +1840,16 @@ members:
       tracks:
       - name: MONEY
         id: 00rdbKfVS7plz6PcDEl9dL
+    - name: Tubes de 2021
+      id: 4PDZ5hwWViJEpkVz1MjQFV
+      release_date: '2021-12-06'
+      total_tracks: 30
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273310ef93b3a31f87c75d056d9
+      artist_collab: Various Artists
+      tracks:
+      - name: MONEY
+        id: 09DVlQRp5RX9HQDqgmX8NG
     - name: Ultimate Hits 2021
       id: 4OGp3K282SJ9Amd26blnk3
       release_date: '2021-12-03'
@@ -2271,16 +2271,16 @@ members:
     followers: 2502694
     discography:
     - name: R
-      id: 5BQcoDfcZ8aBcikYX9B7Ob
+      id: 0rBtYa6AUvlhoTTrPbYUmi
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
+      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
       tracks:
       - name: On The Ground
-        id: 2pn8dNVSpYnAtlKFC8Q0DJ
+        id: 4cuQfZEUCI0gmjGPS89T46
       - name: Gone
-        id: 2dHoVW9AxJVSRebPRyV2aA
+        id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
