@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: Pop Collabs
+    id: 2VqW1LfpB2tbCBi57ITDo0
+    release_date: '2022-04-01'
+    total_tracks: 30
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273d2ea793366563b216a943975
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 7qS9Dx3ab7IwNq8JSHCsyk
   - name: Happy Hits
     id: 5sVpFHiD9GfMwC077sWBCM
     release_date: '2022-03-25'
@@ -596,16 +606,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 2km848z5kjx3QcoDRN8cTE
-  - name: Dawn Of Chromatica
-    id: 3OevODyllQCrhudfLLnV3y
-    release_date: '2021-09-03'
-    total_tracks: 14
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273335b00966a9839d4dde60256
-    artist_collab: Lady Gaga
-    tracks:
-    - name: Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix
-      id: 56kudbKiRjWCwiAS3FRHCL
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
