@@ -506,6 +506,26 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: Global Viral
+    id: 667rnnu3AREc5rqu4RAMBU
+    release_date: '2022-04-15'
+    total_tracks: 28
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2737fce3a43cd9e6434c02ecf7c
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 7uVj9xRjW0VPSGxmpceiDn
+  - name: Primavera Hits
+    id: 1GPicm5kZ2BvLcCNBM643H
+    release_date: '2022-04-15'
+    total_tracks: 32
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b2732994240d9510d52a647c9b14
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 3DmOOruEpzghtG3pALqQCu
   - name: Pop Collabs
     id: 2VqW1LfpB2tbCBi57ITDo0
     release_date: '2022-04-01'
@@ -586,26 +606,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 6Z7ZW8i0P0l7tEXyWkHYfR
-  - name: 10's Pop Memories
-    id: 7jv7d3xHcSAfcgmicIuwVS
-    release_date: '2021-10-22'
-    total_tracks: 32
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273a435288656a2efedd93b7ea2
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 11poYen8s39yFHtShAhw3l
-  - name: Women Now
-    id: 0XbWjWEOInB35ZrrrxVLKV
-    release_date: '2021-10-01'
-    total_tracks: 45
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b2733140d0d319092179f30655b0
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 2km848z5kjx3QcoDRN8cTE
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
