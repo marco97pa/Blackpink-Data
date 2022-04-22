@@ -1705,7 +1705,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '9900000'
-    total_views: '438883040'
+    total_views: '439153766'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
@@ -1956,6 +1956,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Melhor do Kpop 2022
+      id: 61FWwLOWP96jSDcCZvQ3Fi
+      release_date: '2022-04-22'
+      total_tracks: 13
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27339a929ddb4c9bb28b4fc0db0
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 2ZnG6SqYq7wdTHiPlJf1dG
     - name: Girls Rock!
       id: 1aUEOFjCxEAY3e3JBtLQIR
       release_date: '2022-03-04'
