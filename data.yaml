@@ -2,7 +2,7 @@ name: BLACKPINK
 hashtags: '#블랙핑크 #BLACKPINK #blinks @BLACKPINK'
 spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
-  followers: 29409450
+  followers: 29517557
   discography:
   - name: THE ALBUM (JP Ver.)
     id: 5HZR4Ep8QsjDeVJTKCKv0W
@@ -1885,7 +1885,7 @@ members:
       release_date: '2021-11-17'
       total_tracks: 65
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273e4a79d9fe0848a81c1834ba4
+      image: https://i.scdn.co/image/ab67616d0000b273239f3411261c9f7d2cef34b0
       artist_collab: Various Artists
       tracks:
       - name: SG
