@@ -1816,6 +1816,14 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Mega Hits 2022
+      id: 3ZpTE3nAEo3zUpQzZbyjXr
+      release_date: '2022-04-29'
+      total_tracks: 119
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27315f2b668d688f8cd51af9c1f
+      artist_collab: Various Artists
+      tracks: []
     - name: Fresh Finds Hits
       id: 2gtSd14b8h4A6M0llkdG87
       release_date: '2021-12-08'
@@ -2310,7 +2318,7 @@ members:
   youtube:
     name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
-    subs: '4510000'
+    subs: '4520000'
     total_views: '9875243'
     views_scale: 10M
     playlist: UUBo1hnzxV9rz3WVsv__Rn1g
