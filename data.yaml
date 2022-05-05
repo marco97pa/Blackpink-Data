@@ -1819,6 +1819,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Summer Latino 2022
+      id: 1FYtGGxnzJ9Kjiw4ELGPGs
+      release_date: '2022-05-06'
+      total_tracks: 28
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2731e7803d7d5bd463c34d7373e
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 64rMZRcuEnsuhGS05rzAhq
     - name: Mega Hits 2022
       id: 3ZpTE3nAEo3zUpQzZbyjXr
       release_date: '2022-04-29'
