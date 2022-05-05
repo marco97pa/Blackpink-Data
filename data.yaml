@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: Having Fun
+    id: 4RXWOBtTCWW8andArGwaJe
+    release_date: '2022-05-06'
+    total_tracks: 40
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273d0c7ffda95dff938b687c639
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 2I8O3TqGw3mCR4MwUJHzVu
   - name: Global Viral
     id: 667rnnu3AREc5rqu4RAMBU
     release_date: '2022-04-15'
@@ -596,16 +606,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 4gfcMcDG0dtbOVPBqKiIAm
-  - name: XOXO Pop
-    id: 5jzSlGo8pOrSGEpYxr4IMv
-    release_date: '2021-10-29'
-    total_tracks: 32
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27308acccc9f4506b81be57439a
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 6Z7ZW8i0P0l7tEXyWkHYfR
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
