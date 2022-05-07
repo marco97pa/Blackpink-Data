@@ -1809,16 +1809,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
     - name: Summer Latino 2022
       id: 1FYtGGxnzJ9Kjiw4ELGPGs
       release_date: '2022-05-06'
@@ -1829,14 +1829,6 @@ members:
       tracks:
       - name: SG
         id: 64rMZRcuEnsuhGS05rzAhq
-    - name: Mega Hits 2022
-      id: 3ZpTE3nAEo3zUpQzZbyjXr
-      release_date: '2022-04-29'
-      total_tracks: 119
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273b3d1d71b1360494f9a64968b
-      artist_collab: Various Artists
-      tracks: []
     - name: Fresh Finds Hits
       id: 2gtSd14b8h4A6M0llkdG87
       release_date: '2021-12-08'
@@ -1871,26 +1863,6 @@ members:
       tracks:
       - name: MONEY
         id: 00rdbKfVS7plz6PcDEl9dL
-    - name: Ultimate Hits 2021
-      id: 4OGp3K282SJ9Amd26blnk3
-      release_date: '2021-12-03'
-      total_tracks: 43
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273fcc7189abc1401b7879c2576
-      artist_collab: Various Artists
-      tracks:
-      - name: MONEY
-        id: 5aIJU6JWoEsARBhAkM3PHm
-    - name: 2021 Hits
-      id: 1Ogzvxeew3JBjHU7oUko7e
-      release_date: '2021-11-30'
-      total_tracks: 34
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273addccb4ea0c10189da95441e
-      artist_collab: Various Artists
-      tracks:
-      - name: MONEY
-        id: 4IybbCRkmlt4RvSJROHhu0
     - name: Just Wanna Dance
       id: 4F0MhaKv6JBr2r0enO0VI7
       release_date: '2021-11-22'
@@ -2020,36 +1992,6 @@ members:
       tracks:
       - name: SOLO
         id: 72XM77CKoclFQFUQEMACYX
-    - name: Good For You
-      id: 4E6A94uYw9ZSDj9wHVcXQm
-      release_date: '2022-01-21'
-      total_tracks: 36
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273dff75c273b514e1d6bcd10e5
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 0bz4i4LUjIijcuQvk35RvD
-    - name: Karaoke en Inglés
-      id: 1i5sfh9avMDnjnSNwAANf8
-      release_date: '2022-01-19'
-      total_tracks: 32
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27334269a9f65e117c5dbca86ec
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 4kSbYCVnKskMzE2xI5bmvK
-    - name: Cool & Chill ❄️🍉
-      id: 0YqrlP71AeVU6vY52M6njG
-      release_date: '2021-11-23'
-      total_tracks: 35
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273e0c087fac51c773294cb6ce4
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 7fsoRJpxdL1LLLHTGMp4Hk
     - name: Lovers-are-OVER party
       id: 53AjGQrYi9g0gSVxM8VTiw
       release_date: '2021-11-12'
@@ -2060,36 +2002,6 @@ members:
       tracks:
       - name: SOLO
         id: 4j44mX5sSIZCXgFke5WCiD
-    - name: Best Pop Today
-      id: 0V5ImUBiM5boYYyTze4BkH
-      release_date: '2021-10-22'
-      total_tracks: 40
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273e8530fc1b87fe4f150ab914a
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 3F6m30d28fxi5HwolHav6I
-    - name: Pop en Inglés de Hoy
-      id: 0JbjtL8YpcwfQh7THivXRb
-      release_date: '2021-10-01'
-      total_tracks: 47
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2730a55f39760232405f2714656
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 346GDk6OSCypBCA2opefw3
-    - name: Daily Remix
-      id: 7Jj4CQLsPWwvY5CCxrn8FD
-      release_date: '2021-10-01'
-      total_tracks: 40
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273979d3c3a825620076cb78d45
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 3osU0P7QKprMRfz8vJOmeq
     - name: Licencia de Conducción
       id: 3Mfbr0HQYBKeQ0jLYxRzBu
       release_date: '2021-10-01'
@@ -2100,16 +2012,6 @@ members:
       tracks:
       - name: SOLO
         id: 3ngKO77M2vUdONrSAgsMVE
-    - name: Menú Pop
-      id: 7j0vArtrKmfjws5wYo9rIM
-      release_date: '2021-09-29'
-      total_tracks: 38
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273ef78140b18ebcb9700c95579
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 0VrfKkYbqy4SBxthAVqcPp
     - name: 'Música Para Niños: Verano'
       id: 7qyCdUKm53Fg5Qeo8iwQig
       release_date: '2021-08-31'
@@ -2295,16 +2197,16 @@ members:
     followers: 2700975
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
