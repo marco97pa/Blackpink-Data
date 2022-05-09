@@ -608,7 +608,7 @@ spotify:
       id: 4gfcMcDG0dtbOVPBqKiIAm
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
-  popularity: 83
+  popularity: 82
   genres:
   - k-pop
   - k-pop girl group
@@ -1794,7 +1794,7 @@ members:
     followers: 3004061
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
-    popularity: 76
+    popularity: 75
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb7315c4978296c4de311f577e
@@ -1809,16 +1809,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
     - name: Summer Latino 2022
       id: 1FYtGGxnzJ9Kjiw4ELGPGs
       release_date: '2022-05-06'
@@ -2184,7 +2184,7 @@ members:
         id: 5MPGtk7Ni67f76w0RV79GO
     uri: spotify:artist:250b0Wlc5Vk0CoUsaCY84M
     name: JENNIE
-    popularity: 64
+    popularity: 63
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb70fbc1e9b8a9305cacedb417
@@ -2239,7 +2239,7 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 67
+    popularity: 66
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eba23b22965ecef5703f58b6c5
