@@ -629,7 +629,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '74100000'
-  total_views: '23617816985'
+  total_views: '23628539055'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1794,7 +1794,7 @@ members:
     followers: 3004061
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
-    popularity: 74
+    popularity: 73
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb7315c4978296c4de311f577e
@@ -1819,6 +1819,14 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: Top Hits 2022
+      id: 5DcOnril6UTwLbqJQ9wLEd
+      release_date: '2022-05-13'
+      total_tracks: 118
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273c6ba91b3a4d239c409daa995
+      artist_collab: Various Artists
+      tracks: []
     - name: 2022 Mega Hits
       id: 4JMbgImw95iqUSFCOawaBk
       release_date: '2022-05-11'
@@ -2247,7 +2255,7 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 65
+    popularity: 64
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eba23b22965ecef5703f58b6c5
