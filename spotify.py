@@ -212,8 +212,11 @@ def check_new_songs(artist, collection, hashtags):
                       None
                       )
               else:
-                  twitter_post("{} appeared on {} by {} with the song {}\n{}\n{} #spotify".format(artist["name"], album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags))
-      
+                  try:
+                      twitter_post("{} appeared on {} by {} with the song {}\n{}\n{} #spotify".format(artist["name"], album["name"], album["artist_collab"], album["tracks"][0]["name"], link_album(album["id"]), hashtags))
+                  except IndexError:
+                      print("WARNING: Skipped one 'appeared on' since there was not a valid response from Spotify")
+    
     artist["discography"] = collection
     return artist
 
