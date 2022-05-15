@@ -1819,6 +1819,14 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Mega Hits 2022
+      id: 7LP8x81agRbQmIUtJaINcb
+      release_date: '2022-05-16'
+      total_tracks: 118
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273664688882fc0d28f0b032367
+      artist_collab: Various Artists
+      tracks: []
     - name: Top Hits 2022
       id: 5DcOnril6UTwLbqJQ9wLEd
       release_date: '2022-05-13'
