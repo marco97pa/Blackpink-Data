@@ -628,7 +628,7 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '74200000'
+  subs: '74300000'
   total_views: '23725191558'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
@@ -1819,6 +1819,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: AQUAGYM HITS 2022
+      id: 2HtNQC3AZbuQILSeKerrMG
+      release_date: '2022-05-23'
+      total_tracks: 28
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273a4ffb4c40696522970ff7d64
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 7C4n2FTPoJZ5jnjIHpelUT
     - name: Mega Hits 2022
       id: 7LP8x81agRbQmIUtJaINcb
       release_date: '2022-05-16'
