@@ -1986,6 +1986,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: K-Pop Hot Hits
+      id: 2KnvuCZDooTMsKrR2TWh8d
+      release_date: '2022-05-27'
+      total_tracks: 30
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273d791862f675b5ef309fd2aad
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 4lDOjGibafTnR5Xoz6dCg2
     - name: Girl's Don't Cry ~ 洋楽女性ボーカルプレイリスト ~
       id: 6hLEJ0TkrRP6XeYFSfIre2
       release_date: '2022-05-09'
