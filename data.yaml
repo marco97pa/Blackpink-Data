@@ -1816,6 +1816,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Ete Latino 2022
+      id: 6pV7GmeZA64yhbssmefinc
+      release_date: '2022-06-05'
+      total_tracks: 29
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273e90f6b1f2653a991e819c529
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 7yPieBQPdvEvhmsgLkX9So
     - name: AQUAGYM HITS 2022
       id: 2HtNQC3AZbuQILSeKerrMG
       release_date: '2022-05-23'
