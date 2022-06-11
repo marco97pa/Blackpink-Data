@@ -2003,16 +2003,6 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
-    - name: K-Pop Hot Hits
-      id: 2KnvuCZDooTMsKrR2TWh8d
-      release_date: '2022-05-27'
-      total_tracks: 30
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d791862f675b5ef309fd2aad
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 4lDOjGibafTnR5Xoz6dCg2
     - name: Girl's Don't Cry ~ 洋楽女性ボーカルプレイリスト ~
       id: 6hLEJ0TkrRP6XeYFSfIre2
       release_date: '2022-05-09'
@@ -2104,15 +2094,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 5IDJBkr9EzMofENo4ScNxi
+      id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 6V3dOOUiPg53wUf83tBLR8
+        id: 0eQgA4KkNbJojAIfNjdJrM
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
