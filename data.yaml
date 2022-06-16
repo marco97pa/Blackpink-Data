@@ -1816,6 +1816,14 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: Mega Hits Pride 2022
+      id: 1sdW9WGK4zivYh0fyDLpkU
+      release_date: '2022-06-15'
+      total_tracks: 129
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273f831a00a420c83a4f30c1e62
+      artist_collab: Various Artists
+      tracks: []
     - name: Hits ete 2022
       id: 6a6mB9Klz2WJkjIKoDvjeM
       release_date: '2022-06-15'
@@ -1826,14 +1834,6 @@ members:
       tracks:
       - name: SG
         id: 5tTv7VEex0kxrGrECwQIf1
-    - name: Mega Hits Pride 2022
-      id: 1sdW9WGK4zivYh0fyDLpkU
-      release_date: '2022-06-15'
-      total_tracks: 129
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273f831a00a420c83a4f30c1e62
-      artist_collab: Various Artists
-      tracks: []
     - name: Reventando Streamig
       id: 4BDL7h6lsBcrEvFTwiaeGL
       release_date: '2022-06-06'
