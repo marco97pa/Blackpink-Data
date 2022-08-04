@@ -1952,6 +1952,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Para toda la familia
+      id: 0ojWzXs2zNDxnYBR4qYwe3
+      release_date: '2022-08-05'
+      total_tracks: 60
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273c08b6961d3283102cd86e730
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 5Qqw5vM2j05sF7J5ULSPIJ
     - name: Melhor do Kpop 2022
       id: 61FWwLOWP96jSDcCZvQ3Fi
       release_date: '2022-04-22'
