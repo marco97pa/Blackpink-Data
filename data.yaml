@@ -1737,6 +1737,16 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: EDM (Escucha Duro Mor)
+      id: 1gmXiSbYzukiD5yPtfZ2Uf
+      release_date: '2022-08-12'
+      total_tracks: 30
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27317d5b20aface46cb65f44b81
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 5jj3wKFZfwUHtW9fbJ0IJe
     - name: Mega Hits Summer 2022
       id: 1Kst9aD41T5jKOEWwJwNNG
       release_date: '2022-06-28'
