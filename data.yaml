@@ -615,7 +615,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1557927852661944320
+  last_tweet_id: 1558106352706539520
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -633,6 +633,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'BLACKPINK - ‘Pink Venom’ ROSÉ Concept Teaser #2'
+    url: 7C0TewNgkDM
+    image: https://i.ytimg.com/vi/7C0TewNgkDM/maxresdefault.jpg
   - name: BLACKPINK - 'Pink Venom' JISOO Concept Teaser
     url: vpVBRTXpJeI
     image: https://i.ytimg.com/vi/vpVBRTXpJeI/maxresdefault.jpg
