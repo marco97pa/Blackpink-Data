@@ -615,7 +615,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1559480122054672384
+  last_tweet_id: 1559555592880287744
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -633,6 +633,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK - ‘Pink Venom’ M/V TEASER
+    url: UTCC8k6KwnQ
+    image: https://i.ytimg.com/vi/UTCC8k6KwnQ/maxresdefault.jpg
   - name: 'CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26'
     url: 0pJ1oD-OXZo
     image: https://i.ytimg.com/vi/0pJ1oD-OXZo/maxresdefault.jpg
