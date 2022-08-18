@@ -506,6 +506,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
+  - name: British R&B
+    id: 2p8kwtp4kEetYWm3rkuHhm
+    release_date: '2022-08-19'
+    total_tracks: 26
+    type: appears_on
+    image: https://i.scdn.co/image/ab67616d0000b273d790d4f4a1ac4b667fa00118
+    artist_collab: Various Artists
+    tracks:
+    - name: Kiss and Make Up
+      id: 6jVovjW5fS6sHGGgjMd5HO
   - name: Having Fun
     id: 4RXWOBtTCWW8andArGwaJe
     release_date: '2022-05-06'
@@ -596,16 +606,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 7I5SuwGHiX51TNEPj6aMwM
-  - name: Fiesta Universitaria
-    id: 2Vg0do7tHidLuMZWivEE6Q
-    release_date: '2021-10-29'
-    total_tracks: 30
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273e1ea164c57a34e39ec6f8e86
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 4gfcMcDG0dtbOVPBqKiIAm
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 79
