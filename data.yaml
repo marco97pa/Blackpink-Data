@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1560480667041173505
+  last_tweet_id: 1560499654449836032
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -1679,7 +1679,7 @@ members:
       timestamp: 1641631200.0
   spotify:
     id: 5L1lO4eRHmJ7a0Q6csE5cT
-    followers: 3402502
+    followers: 3504941
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
     popularity: 70
