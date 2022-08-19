@@ -607,7 +607,7 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '77400000'
+  subs: '77500000'
   total_views: '25029053409'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
@@ -1432,6 +1432,9 @@ youtube:
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-5
     url: 1rXL-Qi502k
     image: https://i.ytimg.com/vi/1rXL-Qi502k/maxresdefault.jpg
+  - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-1
+    url: WBdQnhwO4gQ
+    image: https://i.ytimg.com/vi/WBdQnhwO4gQ/maxresdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.1-2
     url: tVYSrwBW1tQ
     image: https://i.ytimg.com/vi/tVYSrwBW1tQ/maxresdefault.jpg
