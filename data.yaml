@@ -266,6 +266,15 @@ spotify:
       id: 6OKXcx7tClGAS0o2cOTl2v
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
+  - name: Pink Venom
+    id: 2myz9HGT2vuOArEgOCCyMV
+    release_date: '2022-08-19'
+    total_tracks: 1
+    type: single
+    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
+    tracks:
+    - name: Pink Venom
+      id: 01WTV3NRDIeFFUwaYr9PCZ
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
@@ -576,36 +585,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 69ggfAKXHUg93zRaQeTnwD
-  - name: Girl Squad
-    id: 4NoNvM260Uc6b5OX9KTrxl
-    release_date: '2022-01-21'
-    total_tracks: 35
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27380639016bc22515a150da80e
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 4LqSJiHh8fSIuvAg0woksr
-  - name: R&B Workout
-    id: 2pzsLCXw4eZgLm7oZ0qH6T
-    release_date: '2021-12-31'
-    total_tracks: 26
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b2737a53cc81a5d0f351582fbee9
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 3y5M8rOaQJz2eADRqjIEoP
-  - name: It's a Hit
-    id: 4poHwdR5WPvIngpsS2y9nA
-    release_date: '2021-11-12'
-    total_tracks: 31
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273bec5a3337ed7886805db5bc7
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 7I5SuwGHiX51TNEPj6aMwM
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 79
@@ -615,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1560461782166413312
+  last_tweet_id: 1560480667041173505
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -628,17 +607,14 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '76800000'
-  total_views: '24945619769'
+  subs: '76900000'
+  total_views: '24954034074'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
   - name: BLACKPINK - ‘Pink Venom’ M/V
     url: gQlMMD8auMs
     image: https://i.ytimg.com/vi/gQlMMD8auMs/maxresdefault.jpg
-  - name: BLACKPINK - 'Pink Venom' Countdown Livestream
-    url: C8YDXGL-v7w
-    image: https://i.ytimg.com/vi/C8YDXGL-v7w/maxresdefault_live.jpg
   - name: 'CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26'
     url: 0pJ1oD-OXZo
     image: https://i.ytimg.com/vi/0pJ1oD-OXZo/maxresdefault.jpg
