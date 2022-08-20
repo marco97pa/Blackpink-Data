@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1560788662191005696
+  last_tweet_id: 1560824908942557184
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -612,6 +612,18 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'BLACKPINK - ‘Pink Venom’ M/V Visual Clip #JISOO'
+    url: e6G_mxIE6jk
+    image: https://i.ytimg.com/vi/e6G_mxIE6jk/maxresdefault.jpg
+  - name: 'BLACKPINK - ‘Pink Venom’ M/V Visual Clip #JENNIE'
+    url: lNQP2OCmPMU
+    image: https://i.ytimg.com/vi/lNQP2OCmPMU/maxresdefault.jpg
+  - name: 'BLACKPINK - ‘Pink Venom’ M/V Visual Clip #ROSÉ'
+    url: UUGn_mSaXiQ
+    image: https://i.ytimg.com/vi/UUGn_mSaXiQ/maxresdefault.jpg
+  - name: 'BLACKPINK - ‘Pink Venom’ M/V Visual Clip #LISA'
+    url: HGx19NwDAC4
+    image: https://i.ytimg.com/vi/HGx19NwDAC4/maxresdefault.jpg
   - name: 'Create a Short to ''Pink Venom'' & show us your moves with #PinkVenomChallenge
       only on YouTube Shorts'
     url: UAgwPVv5RRA
@@ -1606,7 +1618,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10300000'
-    total_views: '475711084'
+    total_views: '476173501'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
@@ -2208,7 +2220,7 @@ members:
   youtube:
     name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
-    subs: '4900000'
+    subs: '4910000'
     total_views: '9875243'
     views_scale: 10M
     playlist: UUBo1hnzxV9rz3WVsv__Rn1g
