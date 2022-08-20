@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
 twitter:
   url: blackpink
-  last_tweet_id: 1560673592190578688
+  last_tweet_id: 1560788662191005696
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -612,6 +612,10 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'Create a Short to ''Pink Venom'' & show us your moves with #PinkVenomChallenge
+      only on YouTube Shorts'
+    url: UAgwPVv5RRA
+    image: https://i.ytimg.com/vi/UAgwPVv5RRA/maxresdefault.jpg
   - name: 'CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26'
     url: 0pJ1oD-OXZo
     image: https://i.ytimg.com/vi/0pJ1oD-OXZo/maxresdefault.jpg
@@ -2245,4 +2249,4 @@ members:
       url: https://www.instagram.com/p/CY8KU8eO9oX
       caption: "\U0001F380\n오모나 \n렌즈가\n즈응말 이뻐요\U0001F90D\n@olens_official #광고"
       timestamp: 1642656216.0
-billboard_check: 19-08-2022
+billboard_check: 20-08-2022
