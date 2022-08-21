@@ -61,28 +61,28 @@ spotify:
     - name: Forever Young - Live
       id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 71O60S5gIJSIAhdnrDIh3N
+    id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
+    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
     tracks:
     - name: How You Like That
-      id: 4SFknyjLcyTLJFPKD2m96o
+      id: 6qHFPCWow1hMMY5x8h9VSM
     - name: Ice Cream (with Selena Gomez)
-      id: 4JUPEh2DVSXFGExu4Uxevz
+      id: 52aLulmBwpzoQXkiE7G4OT
     - name: Pretty Savage
-      id: 1XnpzbOGptRwfJhZgLbmSr
+      id: 3VTKwL1uS2JGotaJA4oXXB
     - name: Bet You Wanna (feat. Cardi B)
-      id: 7iAgNZdotu40NwtoIWJHFe
+      id: 1hPkiovjTqiJAJen4uyNRg
     - name: Lovesick Girls
-      id: 4Ws314Ylb27BVsvlZOy30C
+      id: 4Vhvlhomv8fTp2e6I4XTpe
     - name: Crazy Over You
-      id: 7qq0EOPW4RRlqdvMBmdd73
+      id: 4yOqfpzmL4FvmXJTUgAMUP
     - name: Love To Hate Me
-      id: 7iKDsPfLT0d5mu2htfMKBZ
+      id: 09JE599HkmbidwGWyD4ZGy
     - name: You Never Know
-      id: 39kzWAiVPpycdMpr745oPj
+      id: 1b0PG9Zd1HhOwq3n9QNkDg
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -267,14 +267,14 @@ spotify:
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
   - name: Pink Venom
-    id: 2myz9HGT2vuOArEgOCCyMV
+    id: 3dZBZnDa3z20uEVnxR38M1
     release_date: '2022-08-19'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
+    image: https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1
     tracks:
     - name: Pink Venom
-      id: 01WTV3NRDIeFFUwaYr9PCZ
+      id: 0skYUMpS0AcbpjcGsAbRGj
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
@@ -312,14 +312,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -587,11 +587,11 @@ spotify:
       id: 69ggfAKXHUg93zRaQeTnwD
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
-  popularity: 79
+  popularity: 80
   genres:
   - k-pop
   - k-pop girl group
-  image: https://i.scdn.co/image/ab6761610000e5eb9f73197444a8a6b016f4a546
+  image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
   last_tweet_id: 1561187262985293824
@@ -673,6 +673,9 @@ youtube:
   - name: 'LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #3'
     url: FiLP0SQmVwk
     image: https://i.ytimg.com/vi/FiLP0SQmVwk/maxresdefault.jpg
+  - name: 'LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #2'
+    url: LKSfLGtfrBA
+    image: https://i.ytimg.com/vi/LKSfLGtfrBA/maxresdefault.jpg
   - name: 'LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #1'
     url: gCszAvYz1Go
     image: https://i.ytimg.com/vi/gCszAvYz1Go/maxresdefault.jpg
@@ -817,6 +820,9 @@ youtube:
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.16
     url: O_ibCeLnhPQ
     image: https://i.ytimg.com/vi/O_ibCeLnhPQ/maxresdefault.jpg
+  - name: BLACKPINK - 'Lovesick Girls' Jimmy Kimmel Live
+    url: 3l5jwqPT2yk
+    image: https://i.ytimg.com/vi/3l5jwqPT2yk/maxresdefault.jpg
   - name: 'BLACKPINK - ‘Lovesick Girls’ 1018 SBS Inkigayo : NO.1 OF THE WEEK'
     url: UcvYlihruvo
     image: https://i.ytimg.com/vi/UcvYlihruvo/maxresdefault.jpg
@@ -977,6 +983,9 @@ youtube:
       DOME-」 TEASER
     url: wnCqVU2b9iw
     image: https://i.ytimg.com/vi/wnCqVU2b9iw/maxresdefault.jpg
+  - name: BLACKPINK - 'Kill This Love' Live at Coachella 2019
+    url: -6XwN_wu3KU
+    image: https://i.ytimg.com/vi/-6XwN_wu3KU/maxresdefault.jpg
   - name: BLACKPINK - '붐바야 (BOOMBAYAH)' Live at Coachella 2019
     url: _HhAzr5DLik
     image: https://i.ytimg.com/vi/_HhAzr5DLik/maxresdefault.jpg
@@ -1094,6 +1103,9 @@ youtube:
   - name: BLACKPINK - 'KILL THIS LOVE' LISA TEASER VIDEO
     url: TlCPlO5rf7U
     image: https://i.ytimg.com/vi/TlCPlO5rf7U/maxresdefault.jpg
+  - name: BLACKPINK - 'BLACKPINK DIARIES' EP.4
+    url: iFPZiwQytVY
+    image: https://i.ytimg.com/vi/iFPZiwQytVY/maxresdefault.jpg
   - name: LIVE DVD & Blu-ray “BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA
       DOME OSAKA"” TRAILER
     url: y46mF5uQtQs
@@ -1219,6 +1231,9 @@ youtube:
   - name: BLACKPINK JAPAN SINGLE CD “DDU-DU DDU-DU” TRAILER
     url: Evv39uqjzkE
     image: https://i.ytimg.com/vi/Evv39uqjzkE/maxresdefault.jpg
+  - name: BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo
+    url: 5hwepTxNKtE
+    image: https://i.ytimg.com/vi/5hwepTxNKtE/maxresdefault.jpg
   - name: BLACKPINK - LISA 'Forever Young' FOCUSED CAMERA
     url: 4KRdmXcJWQU
     image: https://i.ytimg.com/vi/4KRdmXcJWQU/maxresdefault.jpg
@@ -1695,7 +1710,7 @@ members:
     popularity: 70
     genres:
     - k-pop
-    image: https://i.scdn.co/image/ab6761610000e5eb7315c4978296c4de311f577e
+    image: https://i.scdn.co/image/ab6761610000e5eb5501e38df72152700d045f70
     discography:
     - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
       id: 2TGtXG18s21Q1jnY2TC39M
@@ -1707,16 +1722,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
     - name: EDM (Escucha Duro Mor)
       id: 1gmXiSbYzukiD5yPtfZ2Uf
       release_date: '2022-08-12'
@@ -2155,7 +2170,7 @@ members:
     popularity: 60
     genres:
     - k-pop
-    image: https://i.scdn.co/image/ab6761610000e5eb70fbc1e9b8a9305cacedb417
+    image: https://i.scdn.co/image/ab6761610000e5eb87e59b06562e5ddc3358962f
 - name: Rosé
   years: 25
   birthday: 11/02/1997
@@ -2175,16 +2190,16 @@ members:
     followers: 3101032
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
@@ -2210,7 +2225,7 @@ members:
     popularity: 62
     genres:
     - k-pop
-    image: https://i.scdn.co/image/ab6761610000e5eba23b22965ecef5703f58b6c5
+    image: https://i.scdn.co/image/ab6761610000e5eb0c30a3f585ed42919852595f
   youtube:
     name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
