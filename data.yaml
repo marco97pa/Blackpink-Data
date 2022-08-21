@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1561187262985293824
+  last_tweet_id: 1561352450220896256
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -607,11 +607,31 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '78100000'
-  total_views: '25143767160'
+  subs: '78200000'
+  total_views: '25191042926'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'Create a Short to ''Pink Venom'' & show us your moves with #PinkVenomChallenge
+      only on YouTube Shorts'
+    url: OHnbckpeXv8
+    image: https://i.ytimg.com/vi/OHnbckpeXv8/maxresdefault.jpg
+  - name: 'Show us what you’ve got. Join the #PinkVenomChallenge & dance along. Only
+      on YouTube Shorts.'
+    url: SjiSYJqQlXU
+    image: https://i.ytimg.com/vi/SjiSYJqQlXU/maxresdefault.jpg
+  - name: 'Bring your best dance moves and join the #PinkVenomChallenge with us. Only
+      on YouTube Shorts.'
+    url: n-3jzVgFJac
+    image: https://i.ytimg.com/vi/n-3jzVgFJac/maxresdefault.jpg
+  - name: 'Show us that you are BORN PINK and join us in the #PinkVenomChallenge Only
+      on YouTube Shorts.'
+    url: Lui5GlyQL7U
+    image: https://i.ytimg.com/vi/Lui5GlyQL7U/maxresdefault.jpg
+  - name: '“Get em, get em, get em” with us and join the #PinkVenomChallenge Only
+      on YouTube Shorts.'
+    url: WtJyKhaceG0
+    image: https://i.ytimg.com/vi/WtJyKhaceG0/maxresdefault.jpg
   - name: 'Create a Short to ''Pink Venom'' & show us your moves with #PinkVenomChallenge
       only on YouTube Shorts'
     url: UAgwPVv5RRA
@@ -622,21 +642,39 @@ youtube:
   - name: BLACKPINK - ‘Pink Venom’ Concept Teaser
     url: 6eCCRvCWez8
     image: https://i.ytimg.com/vi/6eCCRvCWez8/maxresdefault.jpg
+  - name: 'BLACKPINK - ‘Pink Venom’ JISOO Concept Teaser #2'
+    url: FQkI9RtkmrI
+    image: https://i.ytimg.com/vi/FQkI9RtkmrI/maxresdefault.jpg
   - name: 'BLACKPINK - ‘Pink Venom’ JENNIE Concept Teaser #2'
     url: 9q3byegECqw
     image: https://i.ytimg.com/vi/9q3byegECqw/maxresdefault.jpg
+  - name: 'BLACKPINK - ‘Pink Venom’ ROSÉ Concept Teaser #2'
+    url: 7C0TewNgkDM
+    image: https://i.ytimg.com/vi/7C0TewNgkDM/maxresdefault.jpg
   - name: 'BLACKPINK - ‘Pink Venom’ LISA Concept Teaser #2'
     url: FvFyKt1KYfU
     image: https://i.ytimg.com/vi/FvFyKt1KYfU/maxresdefault.jpg
   - name: BLACKPINK - ‘Pink Venom’ LISA Concept Teaser
     url: qpJYP4v8aLo
     image: https://i.ytimg.com/vi/qpJYP4v8aLo/maxresdefault.jpg
+  - name: BLACKPINK - ‘Pink Venom’ ROSÉ Concept Teaser
+    url: 948IACe0000
+    image: https://i.ytimg.com/vi/948IACe0000/maxresdefault.jpg
+  - name: BLACKPINK - 'Pink Venom' JENNIE Concept Teaser
+    url: 7-8d34yjHNA
+    image: https://i.ytimg.com/vi/7-8d34yjHNA/maxresdefault.jpg
   - name: BLACKPINK - 'Pink Venom' JISOO Concept Teaser
     url: vpVBRTXpJeI
     image: https://i.ytimg.com/vi/vpVBRTXpJeI/maxresdefault.jpg
   - name: BLACKPINK - 'BORN PINK' ANNOUNCEMENT TRAILER
     url: nxs0RHpT_Hg
     image: https://i.ytimg.com/vi/nxs0RHpT_Hg/maxresdefault.jpg
+  - name: BLACKPINK X PUBG MOBILE - ‘Ready For Love’ M/V
+    url: 7WyHtSlvHD4
+    image: https://i.ytimg.com/vi/7WyHtSlvHD4/maxresdefault.jpg
+  - name: 'CALLING ALL BLINKS: REFLECT ON #COP26 주한 영국대사와 함께한 블랙핑크의 #기후행동 돌아보기'
+    url: 8rceGqSF4-w
+    image: https://i.ytimg.com/vi/8rceGqSF4-w/maxresdefault.jpg
   - name: 'CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26'
     url: 0pJ1oD-OXZo
     image: https://i.ytimg.com/vi/0pJ1oD-OXZo/maxresdefault.jpg
@@ -724,6 +762,9 @@ youtube:
   - name: BLACKPINK CARD by BC CARD
     url: WelkkRN_ENY
     image: https://i.ytimg.com/vi/WelkkRN_ENY/maxresdefault.jpg
+  - name: BLACKPINK - 5th ANNIVERSARY [4+1] THE MOVIE MAIN TRAILER
+    url: MHncNFal0ms
+    image: https://i.ytimg.com/vi/MHncNFal0ms/maxresdefault.jpg
   - name: BLACKPINK - 「Lovesick Girls - JP Ver.-」 MV
     url: ds0fyCwym6o
     image: https://i.ytimg.com/vi/ds0fyCwym6o/maxresdefault.jpg
@@ -889,6 +930,9 @@ youtube:
   - name: BLACKPINK - 'Lovesick Girls' M/V
     url: dyRsYk0LyA8
     image: https://i.ytimg.com/vi/dyRsYk0LyA8/maxresdefault.jpg
+  - name: BLACKPINK - 'Lovesick Girls' M/V TEASER
+    url: YdQg_L4o57g
+    image: https://i.ytimg.com/vi/YdQg_L4o57g/maxresdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' Concept Teaser Video
     url: sXkhYC8Z9lw
     image: https://i.ytimg.com/vi/sXkhYC8Z9lw/maxresdefault.jpg
@@ -916,6 +960,9 @@ youtube:
   - name: BLACKPINK - '24/365 with BLACKPINK' EP.11
     url: uKECHoewS08
     image: https://i.ytimg.com/vi/uKECHoewS08/maxresdefault.jpg
+  - name: BLACKPINK - '24/365 with BLACKPINK' EP.10
+    url: DBDmov0fBSs
+    image: https://i.ytimg.com/vi/DBDmov0fBSs/maxresdefault.jpg
   - name: BLACKPINK X Selena Gomez - 'Ice Cream' DANCE PERFORMANCE VIDEO (in ZEPETO)
     url: 27h9SJcIdM0
     image: https://i.ytimg.com/vi/27h9SJcIdM0/maxresdefault.jpg
@@ -1015,6 +1062,10 @@ youtube:
   - name: BLACKPINK - '24/365 with BLACKPINK' Prologue
     url: ZjGiK87EaQ0
     image: https://i.ytimg.com/vi/ZjGiK87EaQ0/maxresdefault.jpg
+  - name: BLACKPINK ‐ Kill This Love -JP Ver.- Live at BLACKPINK 2019-2020 WORLD TOUR
+      IN YOUR AREA-TOKYO DOME-
+    url: tOCUE8wRQYY
+    image: https://i.ytimg.com/vi/tOCUE8wRQYY/maxresdefault.jpg
   - name: BLACKPINK - LIVE Blu-ray & DVD 「BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA-TOKYO
       DOME-」 TEASER
     url: wnCqVU2b9iw
@@ -1158,6 +1209,9 @@ youtube:
   - name: BLACKPINK - 'BLACKPINK DIARIES' EP.2
     url: mkNDSFWGb6E
     image: https://i.ytimg.com/vi/mkNDSFWGb6E/maxresdefault.jpg
+  - name: BLACKPINK - 'BLACKPINK DIARIES' EP.1
+    url: 73ZA1phZIeM
+    image: https://i.ytimg.com/vi/73ZA1phZIeM/maxresdefault.jpg
   - name: ROSÉ - 'EYES CLOSED (Halsey)' COVER
     url: vXmVvAgzgVI
     image: https://i.ytimg.com/vi/vXmVvAgzgVI/maxresdefault.jpg
@@ -1180,6 +1234,9 @@ youtube:
   - name: JENNIE - 'SOLO' DIARY EP.4-2
     url: HDIoWLzOmVc
     image: https://i.ytimg.com/vi/HDIoWLzOmVc/maxresdefault.jpg
+  - name: JENNIE - 'SOLO' DIARY EP.4-1
+    url: 2IOdJyJS5DY
+    image: https://i.ytimg.com/vi/2IOdJyJS5DY/maxresdefault.jpg
   - name: 'JENNIE - ‘SOLO’ 1216 SBS Inkigayo : NO.1 OF THE WEEK'
     url: 7nukOecMf-U
     image: https://i.ytimg.com/vi/7nukOecMf-U/maxresdefault.jpg
@@ -1414,6 +1471,9 @@ youtube:
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.8-4
     url: LJt1cJE-Qh0
     image: https://i.ytimg.com/vi/LJt1cJE-Qh0/maxresdefault.jpg
+  - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-5
+    url: txMVxDWU7Jg
+    image: https://i.ytimg.com/vi/txMVxDWU7Jg/maxresdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.7-3
     url: gwy9e5e622A
     image: https://i.ytimg.com/vi/gwy9e5e622A/maxresdefault.jpg
@@ -1438,6 +1498,9 @@ youtube:
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-3
     url: t1s-U-xadpA
     image: https://i.ytimg.com/vi/t1s-U-xadpA/maxresdefault.jpg
+  - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.6-1
+    url: ZNziUUhjmvI
+    image: https://i.ytimg.com/vi/ZNziUUhjmvI/maxresdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.5-5
     url: rMGwt1sBMq4
     image: https://i.ytimg.com/vi/rMGwt1sBMq4/maxresdefault.jpg
@@ -1596,6 +1659,9 @@ youtube:
       Music Awards
     url: VQLn90MACUQ
     image: https://i.ytimg.com/vi/VQLn90MACUQ/maxresdefault.jpg
+  - name: BLACKPINK - '휘파람 (WHISTLE)' + '불장난 (PLAYING WITH FIRE)' in 2016 SBS Gayodaejun
+    url: _paRxWTIyAo
+    image: https://i.ytimg.com/vi/_paRxWTIyAo/maxresdefault.jpg
   - name: 'BLACKPINK - ''불장난 (PLAYING WITH FIRE)'' 1204 SBS Inkigayo : NO.1 OF THE
       WEEK'
     url: hTDRE5d5A2M
@@ -1633,6 +1699,9 @@ youtube:
   - name: BLACKPINK​ - '휘파람(WHISTLE)' 0904 SBS Inkigayo
     url: 6F0UWgSSQqU
     image: https://i.ytimg.com/vi/6F0UWgSSQqU/maxresdefault.jpg
+  - name: BLACKPINK​ - '휘파람(WHISTLE)' 0828 SBS Inkigayo
+    url: 13XTnp3Lp84
+    image: https://i.ytimg.com/vi/13XTnp3Lp84/maxresdefault.jpg
   - name: 'BLACKPINK - BEHIND THE SCENES #001'
     url: 9bOfCLnOQnI
     image: https://i.ytimg.com/vi/9bOfCLnOQnI/maxresdefault.jpg
@@ -1685,6 +1754,9 @@ members:
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
+    - name: LILI's FILM - Paris Vlog
+      url: NsK55CI167M
+      image: https://i.ytimg.com/vi/NsK55CI167M/maxresdefault.jpg
     - name: LILI's FILM - Europe Vlog
       url: 7Eu8mhJo6W0
       image: https://i.ytimg.com/vi/7Eu8mhJo6W0/maxresdefault.jpg
@@ -1710,6 +1782,9 @@ members:
     - name: LILI's FILM [LiLi's World - '쁘의 세계'] - EP.3 M/V REACTION
       url: usTq813Qjvc
       image: https://i.ytimg.com/vi/usTq813Qjvc/maxresdefault.jpg
+    - name: LILI's FILM [LiLi's World - '쁘의 세계'] - EP.2 M/V MAKING
+      url: _93yUnhBtzs
+      image: https://i.ytimg.com/vi/_93yUnhBtzs/maxresdefault.jpg
     - name: LILI's FILM [LiLi's World - '쁘의 세계'] - EP.1 JACKET MAKING
       url: jAt4ktNQwoQ
       image: https://i.ytimg.com/vi/jAt4ktNQwoQ/maxresdefault.jpg
@@ -1731,6 +1806,9 @@ members:
     - name: 'LILI''s FILM #3 - LISA Dance Performance Video'
       url: je_R3gEtDbw
       image: https://i.ytimg.com/vi/je_R3gEtDbw/maxresdefault.jpg
+    - name: 'LILI''s FILM #2 - LISA Dance Performance Video'
+      url: By61X4Ku9JE
+      image: https://i.ytimg.com/vi/By61X4Ku9JE/maxresdefault.jpg
     - name: 'LILI''s FILM #4 - BLACKPINK in CALIFORNIA'
       url: JRZQGMzbPes
       image: https://i.ytimg.com/vi/JRZQGMzbPes/maxresdefault.jpg
@@ -1946,6 +2024,9 @@ members:
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
     videos:
+    - name: Jennie's Selfcare Routines
+      url: UcXOaUThF2w
+      image: https://i.ytimg.com/vi/UcXOaUThF2w/maxresdefault.jpg
     - name: Hawaii vlog
       url: gSva10cuutQ
       image: https://i.ytimg.com/vi/gSva10cuutQ/maxresdefault.jpg
@@ -1958,6 +2039,9 @@ members:
     - name: Homemade mandu vlog (feat. JISOO)
       url: Vbu7HOCti2c
       image: https://i.ytimg.com/vi/Vbu7HOCti2c/maxresdefault.jpg
+    - name: Bakery tour vlog
+      url: lWxfycNz1Fs
+      image: https://i.ytimg.com/vi/lWxfycNz1Fs/maxresdefault.jpg
     - name: Jennie's Everyday Essentials
       url: wSYBay8oYJA
       image: https://i.ytimg.com/vi/wSYBay8oYJA/maxresdefault.jpg
@@ -2297,9 +2381,15 @@ members:
     - name: Baking vlog
       url: d68H7yDBwc4
       image: https://i.ytimg.com/vi/d68H7yDBwc4/maxresdefault.jpg
+    - name: ROSÉ - Don't Look Back In Anger (Oasis) Live Studio Cover
+      url: oYyWoovxq-8
+      image: https://i.ytimg.com/vi/oYyWoovxq-8/maxresdefault.jpg
     - name: ROSÉ - December (Neck Deep) Live Studio Cover
       url: 46IvBZSJKJg
       image: https://i.ytimg.com/vi/46IvBZSJKJg/maxresdefault.jpg
+    - name: ROSÉ - Viva La Vida (Coldplay) Live Studio Cover
+      url: mX8rMMS-MbI
+      image: https://i.ytimg.com/vi/mX8rMMS-MbI/maxresdefault.jpg
     - name: Sunset cover - Wildfire
       url: deHE9o4L8oo
       image: https://i.ytimg.com/vi/deHE9o4L8oo/maxresdefault.jpg
