@@ -267,14 +267,14 @@ spotify:
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
   - name: Pink Venom
-    id: 3dZBZnDa3z20uEVnxR38M1
+    id: 2myz9HGT2vuOArEgOCCyMV
     release_date: '2022-08-19'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1
+    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
     tracks:
     - name: Pink Venom
-      id: 0skYUMpS0AcbpjcGsAbRGj
+      id: 01WTV3NRDIeFFUwaYr9PCZ
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
@@ -417,20 +417,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK (Japanese Version)'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -1857,16 +1857,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: EDM (Escucha Duro Mor)
       id: 1gmXiSbYzukiD5yPtfZ2Uf
       release_date: '2022-08-12'
@@ -2033,9 +2033,6 @@ members:
     - name: LA vlog
       url: BZS9DETsLjc
       image: https://i.ytimg.com/vi/BZS9DETsLjc/maxresdefault.jpg
-    - name: HERA photo shoot vlog
-      url: CLq-BsSN-aQ
-      image: https://i.ytimg.com/vi/CLq-BsSN-aQ/maxresdefault.jpg
     - name: Homemade mandu vlog (feat. JISOO)
       url: Vbu7HOCti2c
       image: https://i.ytimg.com/vi/Vbu7HOCti2c/maxresdefault.jpg
