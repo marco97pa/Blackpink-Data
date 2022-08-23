@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1561714819853856768
+  last_tweet_id: 1561914230630416384
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -608,7 +608,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '78400000'
-  total_views: '25276738102'
+  total_views: '25318976490'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1750,7 +1750,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10300000'
-    total_views: '476907480'
+    total_views: '477166601'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
