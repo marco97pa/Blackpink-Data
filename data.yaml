@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1562112093973008386
+  last_tweet_id: 1562454980636086273
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -612,6 +612,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK - ‘Pink Venom’ DANCE PRACTICE VIDEO
+    url: RFMi3v0TXP8
+    image: https://i.ytimg.com/vi/RFMi3v0TXP8/maxresdefault.jpg
   - name: 'Create a Short to ''Pink Venom'' & show us your moves with #PinkVenomChallenge
       only on YouTube Shorts'
     url: OHnbckpeXv8
