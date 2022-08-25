@@ -1861,6 +1861,16 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: Dance electro mood
+      id: 1z9nNuYJuBwgOVI9efNg7B
+      release_date: '2022-08-26'
+      total_tracks: 30
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273f58a11abfdfa19fe5a23b9a3
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 6XjLokfOWgXQGwyVFPdag8
     - name: EDM (Escucha Duro Mor)
       id: 1gmXiSbYzukiD5yPtfZ2Uf
       release_date: '2022-08-12'
