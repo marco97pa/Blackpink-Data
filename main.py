@@ -140,7 +140,7 @@ if __name__ == '__main__':
         group = billboard_data(group)
     
     if source["radio"]:
-        print("radio_data()")
+        radio_data()
 
     if write:
         write_group(group)
