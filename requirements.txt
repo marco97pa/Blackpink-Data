@@ -13,6 +13,10 @@ tweepy
 # Needed to retrieve data from Instagram
 instagrapi
 #
+# Beautiful Soup
+# Needed to retrieve data from radios
+beautifulsoup4
+#
 # python-youtube
 # https://pypi.org/project/python-youtube/
 # Needed to retrieve data from YouTube

@@ -24,10 +24,10 @@ def radio_data():
 
     f = open("last_radio.txt", "r")
     for appearence in radio:
-    if f.readline() == appearence:
-        break
-    else:
-        twitter_post("#PinkVenom aired on radio at " + appearence)
+        if f.readline() == appearence:
+            break
+        else:
+            twitter_post("#PinkVenom aired on radio at " + appearence)
     f.close()
 
     f = open("last_radio.txt", "w")
