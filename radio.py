@@ -8,8 +8,8 @@ module = "Radio"
 def radio_data():
 	"""Gets appearences of BLACKPINK on italian radios
     """
-	
-	print("[{}] Starting...".format(module))
+    
+    print("[{}] Starting...".format(module))
     URL = "https://radioairplay.fm/artista/175127/blackpink/airplay/pink-venom/"
     page = requests.get(URL)
 
