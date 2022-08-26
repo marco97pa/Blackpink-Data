@@ -2294,7 +2294,7 @@ members:
       tracks:
       - name: BLACK
         id: 44f1TNdoQUgf3PUYraCTsH
-    - name: LET'S TALK ABOUT LOVE
+    - name: Let's Talk about Love
       id: 61nJoBqpC5qaF0g0Np0Ucw
       release_date: '2013-08-19'
       total_tracks: 6
@@ -2302,7 +2302,7 @@ members:
       image: https://i.scdn.co/image/ab67616d0000b273e3fdb668eeac5d4f1be31fc0
       artist_collab: SEUNGRI
       tracks:
-      - name: GG Be (Feat. JENNIE)
+      - name: GG Be
         id: 5MPGtk7Ni67f76w0RV79GO
     uri: spotify:artist:250b0Wlc5Vk0CoUsaCY84M
     name: JENNIE
