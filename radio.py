@@ -25,7 +25,9 @@ def radio_data():
     
     f = open("last_radio.txt", "r")
     for appearence in radio:
-        if datetime.strptime(appearence[:19], '%d/%m/%Y %H:%M:%S') > datetime.strptime(f.readline()[:19], '%d/%m/%Y %H:%M:%S'):
+        date_fetched = datetime.strptime(appearence[:19], '%d/%m/%Y %H:%M:%S ')
+        date_last = datetime.strptime(f.readline()[:19], '%d/%m/%Y %H:%M:%S ')
+        if  date_fetched > date_last:
             print(appearence)
             #twitter_post("#PinkVenom aired on radio at " + appearence)
     f.close()
