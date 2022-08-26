@@ -10,6 +10,7 @@ from instagram import instagram_data
 from youtube import youtube_data
 from spotify import spotify_data
 from billboard_charts import billboard_data
+from radio import radio_data
 
 def load_group():
     """Reads the data.yaml YAML file
@@ -68,7 +69,7 @@ def check_args():
       A dictionary that contains all the sources and their state (enabled or disabled, True or False)
     """
 
-    source = {"instagram": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True, "billboard": True}
+    source = {"instagram": True, "radio": True, "youtube": True, "spotify": True, "birthday": True, "twitter": True, "billboard": True}
     write = True
 
     if len(sys.argv) > 1:
@@ -80,6 +81,10 @@ def check_args():
             if arg == "-no-instagram":
                 print("-no-instagram parameter passed!")
                 source["instagram"] = False
+            
+            if arg == "-no-radio":
+                print("-no-radio parameter passed!")
+                source["radio"] = False
                 
             if arg == "-no-spotify":
                 print("-no-spotify parameter passed!")
@@ -133,6 +138,9 @@ if __name__ == '__main__':
 
     if source["billboard"]:
         group = billboard_data(group)
+    
+    if source["radio"]:
+        radio_data()
 
     if write:
         write_group(group)
