@@ -6,7 +6,7 @@ from tweet import twitter_post
 module = "Radio"
 
 def radio_data():
-	"""Gets appearences of BLACKPINK on italian radios
+    """Gets appearences of BLACKPINK on italian radios
     """
     
     print("[{}] Starting...".format(module))
