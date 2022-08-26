@@ -2,7 +2,6 @@
 import requests
 from bs4 import BeautifulSoup
 from tweet import twitter_post
-from datetime import datetime
 
 module = "Radio"
 
@@ -26,14 +25,10 @@ def radio_data():
     f = open("last_radio.txt", "r")
     last = f.readline()
     for appearence in radio:
-        # date_fetched = datetime.strptime(appearence[:19], '%d/%m/%Y %H:%M:%S')
-        # print(last[:19])
-        # date_last = datetime.strptime(last[:19], '%d/%m/%Y %H:%M:%S')
         if  appearence == last:
             break
         else:
-            print(appearence)
-            #twitter_post("#PinkVenom aired on radio at " + appearence)
+            twitter_post("#PinkVenom aired on radio at " + appearence)
     f.close()
 
     f = open("last_radio.txt", "w")
