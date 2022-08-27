@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1563406346439237632
+  last_tweet_id: 1563451257812987906
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -1151,9 +1151,6 @@ youtube:
   - name: BLACKPINK - JISOO 'Don't Know What To Do' FOCUSED CAMERA
     url: RgI8UNOqczE
     image: https://i.ytimg.com/vi/RgI8UNOqczE/maxresdefault.jpg
-  - name: BLACKPINK - JENNIE 'Don't Know What To Do' FOCUSED CAMERA
-    url: sL175y19MUU
-    image: https://i.ytimg.com/vi/sL175y19MUU/maxresdefault.jpg
   - name: BLACKPINK - LISA 'Kill This Love' FOCUSED CAMERA
     url: GXBDwS2Tizo
     image: https://i.ytimg.com/vi/GXBDwS2Tizo/maxresdefault.jpg
