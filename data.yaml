@@ -312,14 +312,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -417,20 +417,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK (Japanese Version)'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -1836,16 +1836,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: Dance electro mood
       id: 1z9nNuYJuBwgOVI9efNg7B
       release_date: '2022-08-26'
@@ -1871,7 +1871,7 @@ members:
       release_date: '2022-06-28'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27332980f35161b67af2f050b12
+      image: https://i.scdn.co/image/ab67616d0000b2735b195b6eb13f324eb7549606
       artist_collab: Various Artists
       tracks: []
     - name: Mega Hits Pride 2022
@@ -1879,7 +1879,7 @@ members:
       release_date: '2022-06-15'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27397e9d1c748083fb9dceb57ed
+      image: https://i.scdn.co/image/ab67616d0000b273ad53f0173b027e375f3a05a2
       artist_collab: Various Artists
       tracks: []
     - name: Reventando Streamig
@@ -1917,7 +1917,7 @@ members:
       release_date: '2022-05-16'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273ff7d7447ff837afdb409e827
+      image: https://i.scdn.co/image/ab67616d0000b2732161c8416b1ca8b5a25106e3
       artist_collab: Various Artists
       tracks: []
     - name: Top Hits 2022
@@ -1925,7 +1925,7 @@ members:
       release_date: '2022-05-13'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273830f61f8d51427ef3a3708ce
+      image: https://i.scdn.co/image/ab67616d0000b273685dfa40b159b7444d76baa3
       artist_collab: Various Artists
       tracks: []
     - name: 2022 Mega Hits
@@ -1933,7 +1933,7 @@ members:
       release_date: '2022-05-11'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2738455048e26a7c48b31c23d91
+      image: https://i.scdn.co/image/ab67616d0000b273515d1b91a7d738689417f752
       artist_collab: Various Artists
       tracks: []
     - name: Summer Latino 2022
@@ -2280,7 +2280,7 @@ members:
       image: https://i.scdn.co/image/ab67616d0000b2738993cee2c10adefcac0a3654
       artist_collab: G-DRAGON
       tracks:
-      - name: BLACK
+      - name: Black (Feat. JENNIE of BLACKPINK)
         id: 44f1TNdoQUgf3PUYraCTsH
     - name: Let's Talk about Love
       id: 61nJoBqpC5qaF0g0Np0Ucw
