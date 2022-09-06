@@ -1816,6 +1816,15 @@ members:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb5501e38df72152700d045f70
     discography:
+    - name: Find
+      id: 7tUM3CxNYgdz1tNJgZYe0z
+      release_date: '2022-08-30'
+      total_tracks: 1
+      type: single
+      image: https://i.scdn.co/image/ab67616d0000b27319f1da9cacd5185f743ef1ef
+      tracks:
+      - name: Find
+        id: 15067uPEcEgET4w6Sq1Jma
     - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
       id: 2TGtXG18s21Q1jnY2TC39M
       release_date: '2021-10-22'
