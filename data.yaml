@@ -621,6 +621,9 @@ youtube:
   - name: BLACKPINK - ‘Pink Venom’ Visualizer
     url: N_Dlp-ueDf8
     image: https://i.ytimg.com/vi/N_Dlp-ueDf8/maxresdefault.jpg
+  - name: BLACKPINK - ‘Pink Venom’ M/V REACTION
+    url: 4tF9yT6TaKM
+    image: https://i.ytimg.com/vi/4tF9yT6TaKM/maxresdefault.jpg
   - name: BLACKPINK - ‘Pink Venom’ DANCE PRACTICE VIDEO
     url: RFMi3v0TXP8
     image: https://i.ytimg.com/vi/RFMi3v0TXP8/maxresdefault.jpg
@@ -2009,7 +2012,7 @@ members:
       release_date: '2021-11-17'
       total_tracks: 65
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273392ce7bd136224f828d05cdf
+      image: https://i.scdn.co/image/ab67616d0000b27311305460212c9eba7bed9628
       artist_collab: Various Artists
       tracks:
       - name: SG
