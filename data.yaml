@@ -312,14 +312,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -1850,16 +1850,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: Dance electro mood
       id: 1z9nNuYJuBwgOVI9efNg7B
       release_date: '2022-08-26'
@@ -1885,7 +1885,7 @@ members:
       release_date: '2022-06-28'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2735b195b6eb13f324eb7549606
+      image: https://i.scdn.co/image/ab67616d0000b2733582015b0824205c911fc641
       artist_collab: Various Artists
       tracks: []
     - name: Mega Hits Pride 2022
@@ -1893,7 +1893,7 @@ members:
       release_date: '2022-06-15'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273ad53f0173b027e375f3a05a2
+      image: https://i.scdn.co/image/ab67616d0000b273479b8aabbcc3af864a9f448b
       artist_collab: Various Artists
       tracks: []
     - name: Reventando Streamig
@@ -1901,7 +1901,7 @@ members:
       release_date: '2022-06-06'
       total_tracks: 36
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273eb36da892502fa899d134c9d
+      image: https://i.scdn.co/image/ab67616d0000b273d9c124a751887fb3676f12dd
       artist_collab: Various Artists
       tracks:
       - name: SG
@@ -1931,7 +1931,7 @@ members:
       release_date: '2022-05-16'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2732161c8416b1ca8b5a25106e3
+      image: https://i.scdn.co/image/ab67616d0000b2739c2f8bca1016da132363e762
       artist_collab: Various Artists
       tracks: []
     - name: Top Hits 2022
@@ -1939,7 +1939,7 @@ members:
       release_date: '2022-05-13'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273685dfa40b159b7444d76baa3
+      image: https://i.scdn.co/image/ab67616d0000b2730061c9dc959486a9ef467eaa
       artist_collab: Various Artists
       tracks: []
     - name: 2022 Mega Hits
@@ -1947,7 +1947,7 @@ members:
       release_date: '2022-05-11'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273515d1b91a7d738689417f752
+      image: https://i.scdn.co/image/ab67616d0000b27310d94c35754b8086d7c110c0
       artist_collab: Various Artists
       tracks: []
     - name: Summer Latino 2022
