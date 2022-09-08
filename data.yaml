@@ -608,7 +608,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '80300000'
-  total_views: '26147853218'
+  total_views: '26164813550'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -654,6 +654,9 @@ youtube:
       only on YouTube Shorts'
     url: UAgwPVv5RRA
     image: https://i.ytimg.com/vi/UAgwPVv5RRA/maxresdefault.jpg
+  - name: BLACKPINK - ‘Pink Venom’ M/V MAKING FILM
+    url: pDP9SEP7vCo
+    image: https://i.ytimg.com/vi/pDP9SEP7vCo/maxresdefault.jpg
   - name: 'BLACKPINK #PinkVenomChallenge Coming soon! #ROSÉ'
     url: IgvTAaTs1h0
     image: https://i.ytimg.com/vi/IgvTAaTs1h0/maxresdefault.jpg
