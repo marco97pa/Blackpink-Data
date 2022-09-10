@@ -267,14 +267,14 @@ spotify:
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
   - name: Pink Venom
-    id: 2myz9HGT2vuOArEgOCCyMV
+    id: 3dZBZnDa3z20uEVnxR38M1
     release_date: '2022-08-19'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
+    image: https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1
     tracks:
     - name: Pink Venom
-      id: 01WTV3NRDIeFFUwaYr9PCZ
+      id: 0skYUMpS0AcbpjcGsAbRGj
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
