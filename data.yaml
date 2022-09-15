@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1570065083086282756
+  last_tweet_id: 1570221911745122305
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -608,10 +608,13 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '80800000'
-  total_views: '26374513904'
+  total_views: '26396158333'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK - ‘BORN PINK’ Countdown Party
+    url: XOX4379U-lw
+    image: https://i.ytimg.com/vi/XOX4379U-lw/maxresdefault_live.jpg
   - name: BLACKPINK - ‘Pink Venom’ SPECIAL STAGE
     url: RkKXbweBCcI
     image: https://i.ytimg.com/vi/RkKXbweBCcI/maxresdefault.jpg
@@ -1774,7 +1777,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10400000'
-    total_views: '482584569'
+    total_views: '482791426'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
