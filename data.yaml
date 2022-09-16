@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1570672511729414146
+  last_tweet_id: 1570701098037678082
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -570,7 +570,7 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '81000000'
+  subs: '81100000'
   total_views: '26437799176'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
