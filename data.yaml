@@ -4,6 +4,29 @@ spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
   followers: 32100374
   discography:
+  - name: BORN PINK
+    id: 69XcoJoFtHIeU1BVI4P1df
+    release_date: '2022-09-16'
+    total_tracks: 8
+    type: album
+    image: https://i.scdn.co/image/ab67616d0000b2736cc467f604995434b05b92de
+    tracks:
+    - name: Pink Venom
+      id: 6Sv9Nq6sDahA0IZhRB9iY2
+    - name: Shut Down
+      id: 1KQyxaQISEB799RlYRAO9V
+    - name: Typa Girl
+      id: 6n2QaALsho13m4ujI8Gw44
+    - name: Yeah Yeah Yeah
+      id: 4CrUDEnUkAURzYULkKwVfj
+    - name: Hard To Love
+      id: 14IzA3737f7dKk8EEFouEZ
+    - name: The Happiest Girl
+      id: 127d8THEGSXFevp21C5JOm
+    - name: Tally
+      id: 53430rZ4G40jiRQl1GhAvU
+    - name: Ready For Love
+      id: 1mvZcyt2S6NMWcUYabSwHv
   - name: THE ALBUM (JP Ver.)
     id: 5HZR4Ep8QsjDeVJTKCKv0W
     release_date: '2021-08-03'
@@ -525,66 +548,6 @@ spotify:
     tracks:
     - name: Kiss and Make Up
       id: 6jVovjW5fS6sHGGgjMd5HO
-  - name: Having Fun
-    id: 4RXWOBtTCWW8andArGwaJe
-    release_date: '2022-05-06'
-    total_tracks: 40
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273d0c7ffda95dff938b687c639
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 2I8O3TqGw3mCR4MwUJHzVu
-  - name: Global Viral
-    id: 667rnnu3AREc5rqu4RAMBU
-    release_date: '2022-04-15'
-    total_tracks: 28
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b2737fce3a43cd9e6434c02ecf7c
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 7uVj9xRjW0VPSGxmpceiDn
-  - name: Primavera Hits
-    id: 1GPicm5kZ2BvLcCNBM643H
-    release_date: '2022-04-15'
-    total_tracks: 32
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b2732994240d9510d52a647c9b14
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 3DmOOruEpzghtG3pALqQCu
-  - name: Pop Collabs
-    id: 2VqW1LfpB2tbCBi57ITDo0
-    release_date: '2022-04-01'
-    total_tracks: 30
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273d2ea793366563b216a943975
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 7qS9Dx3ab7IwNq8JSHCsyk
-  - name: Happy Hits
-    id: 5sVpFHiD9GfMwC077sWBCM
-    release_date: '2022-03-25'
-    total_tracks: 32
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b2738808542c19c653d5f69791d1
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 2FthC1jmdt458mH5A0sWIB
-  - name: Pop Icons
-    id: 6PoE8iSjGgr9bMIGPdJcVX
-    release_date: '2022-02-11'
-    total_tracks: 32
-    type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273281c5e4934de1eb84768a40d
-    artist_collab: Various Artists
-    tracks:
-    - name: Kiss and Make Up
-      id: 69ggfAKXHUg93zRaQeTnwD
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 84
@@ -594,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1570563615874519041
+  last_tweet_id: 1570629102956335105
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -607,14 +570,14 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '80900000'
+  subs: '81000000'
   total_views: '26437799176'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
-  - name: BLACKPINK - ‘BORN PINK’ Countdown Party
-    url: XOX4379U-lw
-    image: https://i.ytimg.com/vi/XOX4379U-lw/maxresdefault_live.jpg
+  - name: BLACKPINK - ‘Shut Down’ M/V
+    url: POe9SOEKotk
+    image: https://i.ytimg.com/vi/POe9SOEKotk/maxresdefault.jpg
   - name: BLACKPINK - ‘Pink Venom’ SPECIAL STAGE
     url: RkKXbweBCcI
     image: https://i.ytimg.com/vi/RkKXbweBCcI/maxresdefault.jpg
@@ -1777,7 +1740,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10400000'
-    total_views: '482791426'
+    total_views: '483014316'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
