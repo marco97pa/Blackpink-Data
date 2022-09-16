@@ -594,7 +594,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
 twitter:
   url: blackpink
-  last_tweet_id: 1570427442048925697
+  last_tweet_id: 1570563615874519041
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -2448,4 +2448,4 @@ members:
       url: https://www.instagram.com/p/CY8KU8eO9oX
       caption: "\U0001F380\n오모나 \n렌즈가\n즈응말 이뻐요\U0001F90D\n@olens_official #광고"
       timestamp: 1642656216.0
-billboard_check: 15-09-2022
+billboard_check: 16-09-2022
