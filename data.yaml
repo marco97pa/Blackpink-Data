@@ -1555,6 +1555,9 @@ youtube:
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-4
     url: Spp7sNhTKQo
     image: https://i.ytimg.com/vi/Spp7sNhTKQo/maxresdefault.jpg
+  - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-2
+    url: XrIaJayElnw
+    image: https://i.ytimg.com/vi/XrIaJayElnw/maxresdefault.jpg
   - name: BLACKPINK - ‘블핑하우스 (BLACKPINK HOUSE)’ EP.2-3
     url: 1pDj6Z6cDZ8
     image: https://i.ytimg.com/vi/1pDj6Z6cDZ8/maxresdefault.jpg
@@ -2048,6 +2051,9 @@ members:
     - name: Vogue photo shoot vlog
       url: D-q6HDjMTA0
       image: https://i.ytimg.com/vi/D-q6HDjMTA0/maxresdefault.jpg
+    - name: '''THE SHOW'' vlog'
+      url: vH3EhJFY3us
+      image: https://i.ytimg.com/vi/vH3EhJFY3us/maxresdefault.jpg
     - name: Hello world . From Jennie
       url: erYPvNbc_mc
       image: https://i.ytimg.com/vi/erYPvNbc_mc/maxresdefault.jpg
