@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1571681580711804929
+  last_tweet_id: 1571776362142388226
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -2021,7 +2021,7 @@ members:
       release_date: '2021-11-17'
       total_tracks: 65
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27311305460212c9eba7bed9628
+      image: https://i.scdn.co/image/ab67616d0000b273c3f2524ec58fceb148f2ebce
       artist_collab: Various Artists
       tracks:
       - name: SG
