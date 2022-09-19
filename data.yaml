@@ -550,11 +550,11 @@ spotify:
       id: 6jVovjW5fS6sHGGgjMd5HO
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
-  popularity: 84
+  popularity: 87
   genres:
   - k-pop
   - k-pop girl group
-  image: https://i.scdn.co/image/ab6761610000e5eb7b6160c954c6a5b7d4756608
+  image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
   last_tweet_id: 1571681580711804929
@@ -2378,10 +2378,10 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 63
+    popularity: 64
     genres:
     - k-pop
-    image: https://i.scdn.co/image/ab6761610000e5eb0c30a3f585ed42919852595f
+    image: https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997
   youtube:
     name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
