@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1572445844196192256
+  last_tweet_id: 1572556258003263490
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,21 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK - ‘Typa Girl’ (Official Audio)
+    url: UhxW9Njqqu0
+    image: https://i.ytimg.com/vi/UhxW9Njqqu0/maxresdefault.jpg
+  - name: BLACKPINK - ‘Yeah Yeah Yeah’ (Official Audio)
+    url: wQTjv-Xo1gY
+    image: https://i.ytimg.com/vi/wQTjv-Xo1gY/maxresdefault.jpg
+  - name: BLACKPINK - ‘Hard to Love’ (Official Audio)
+    url: 7Hr3p1BHC_E
+    image: https://i.ytimg.com/vi/7Hr3p1BHC_E/maxresdefault.jpg
+  - name: BLACKPINK - ‘Tally’ (Official Audio)
+    url: VQo4hyWfBQ4
+    image: https://i.ytimg.com/vi/VQo4hyWfBQ4/maxresdefault.jpg
+  - name: BLACKPINK - ‘Ready For Love’ (Official Audio)
+    url: -Wduzor_Y1Q
+    image: https://i.ytimg.com/vi/-Wduzor_Y1Q/maxresdefault.jpg
   - name: BLACKPINK - ‘Shut Down’ M/V TEASER
     url: YzigQ-93ig8
     image: https://i.ytimg.com/vi/YzigQ-93ig8/maxresdefault.jpg
