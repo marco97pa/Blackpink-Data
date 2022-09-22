@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1572615630918123521
+  last_tweet_id: 1572745105295175680
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -571,7 +571,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '81600000'
-  total_views: '26770521691'
+  total_views: '26788997033'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -2441,4 +2441,4 @@ members:
       url: https://www.instagram.com/p/CY8KU8eO9oX
       caption: "\U0001F380\n오모나 \n렌즈가\n즈응말 이뻐요\U0001F90D\n@olens_official #광고"
       timestamp: 1642656216.0
-billboard_check: 21-09-2022
+billboard_check: 22-09-2022
