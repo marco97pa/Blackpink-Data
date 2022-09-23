@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1573190836074217473
+  last_tweet_id: 1573236631427256320
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK - ‘BORN PINK’ Countdown Party Replay
+    url: S1EVzs5tOVk
+    image: https://i.ytimg.com/vi/S1EVzs5tOVk/maxresdefault.jpg
   - name: BLACKPINK - ‘Hard to Love’ (Official Audio)
     url: 7Hr3p1BHC_E
     image: https://i.ytimg.com/vi/7Hr3p1BHC_E/maxresdefault.jpg
