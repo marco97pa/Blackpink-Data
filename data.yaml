@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1573114928843685891
+  last_tweet_id: 1573145269579153408
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -1238,10 +1238,6 @@ youtube:
   - name: JENNIE - 'SOLO' DIARY EP.5-1
     url: gHj5OGqvZ_8
     image: https://i.ytimg.com/vi/gHj5OGqvZ_8/maxresdefault.jpg
-  - name: BLACKPINK - 'SOLO' + '뚜두뚜두(DDU-DU DDU-DU)' + 'FOREVER YOUNG' in 2018 SBS
-      Gayodaejun
-    url: cxNIewNXpcg
-    image: https://i.ytimg.com/vi/cxNIewNXpcg/maxresdefault.jpg
   - name: JENNIE - 'SOLO' DIARY EP.4-3
     url: QIvx2ZPE6K4
     image: https://i.ytimg.com/vi/QIvx2ZPE6K4/maxresdefault.jpg
@@ -1761,7 +1757,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10400000'
-    total_views: '484455047'
+    total_views: '484682591'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
