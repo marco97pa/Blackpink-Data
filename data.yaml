@@ -578,6 +578,12 @@ youtube:
   - name: BLACKPINK - ‘BORN PINK’ Countdown Party Replay
     url: S1EVzs5tOVk
     image: https://i.ytimg.com/vi/S1EVzs5tOVk/maxresdefault.jpg
+  - name: BLACKPINK - ‘Typa Girl’ (Official Audio)
+    url: UhxW9Njqqu0
+    image: https://i.ytimg.com/vi/UhxW9Njqqu0/maxresdefault.jpg
+  - name: BLACKPINK - ‘Yeah Yeah Yeah’ (Official Audio)
+    url: wQTjv-Xo1gY
+    image: https://i.ytimg.com/vi/wQTjv-Xo1gY/maxresdefault.jpg
   - name: BLACKPINK - ‘Hard to Love’ (Official Audio)
     url: 7Hr3p1BHC_E
     image: https://i.ytimg.com/vi/7Hr3p1BHC_E/maxresdefault.jpg
@@ -1760,7 +1766,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10400000'
-    total_views: '484682591'
+    total_views: '484891514'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
