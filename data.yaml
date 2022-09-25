@@ -571,7 +571,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '81700000'
-  total_views: '26882148718'
+  total_views: '26898553099'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -950,6 +950,9 @@ youtube:
   - name: BLACKPINK - ‘Pretty Savage’ 1011 SBS Inkigayo
     url: gU2HqP4NxUs
     image: https://i.ytimg.com/vi/gU2HqP4NxUs/maxresdefault.jpg
+  - name: BLACKPINK - '24/365 with BLACKPINK' EP.14
+    url: IXpUVTAZ9B4
+    image: https://i.ytimg.com/vi/IXpUVTAZ9B4/maxresdefault.jpg
   - name: BLACKPINK - 'Lovesick Girls' DANCE PRACTICE VIDEO
     url: YxksUfnuEbI
     image: https://i.ytimg.com/vi/YxksUfnuEbI/maxresdefault.jpg
@@ -2458,4 +2461,4 @@ members:
       url: https://www.instagram.com/p/CY8KU8eO9oX
       caption: "\U0001F380\n오모나 \n렌즈가\n즈응말 이뻐요\U0001F90D\n@olens_official #광고"
       timestamp: 1642656216.0
-billboard_check: 24-09-2022
+billboard_check: 25-09-2022
