@@ -2408,6 +2408,16 @@ members:
       tracks:
       - name: Gone - Live
         id: 5lnmMdUf1ifC0Oa8wsKuyW
+    - name: On the Daily
+      id: 5DvydXlfbw7QbwW9IQr0Ea
+      release_date: '2017-10-15'
+      total_tracks: 1
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273154cf7d40bb0fca407fe2200
+      artist_collab: Mozado
+      tracks:
+      - name: On the Daily
+        id: 7CQDCPQeHEKTLXzvyTbQ6z
     - name: One of a Kind
       id: 4EitCfNTOlnqtRrmBBuwGQ
       release_date: '2012-09-15'
