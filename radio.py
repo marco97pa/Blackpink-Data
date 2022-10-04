@@ -16,21 +16,25 @@ def radio_data():
     soup = BeautifulSoup(page.content, "html.parser")
 
     table = soup.find("table", class_="table-striped")
-    rows = table.find("tbody").find_all("tr")
-    radio = []
-    for row in rows:
-        radio.append(row.text.strip().replace('\n', ' on ').replace(' (Italia)',' (Italy)'))
+    try:
+        rows = table.find("tbody").find_all("tr")
+        radio = []
+        for row in rows:
+            radio.append(row.text.strip().replace('\n', ' on ').replace(' (Italia)',' (Italy)'))
 
-    
-    f = open("last_radio.txt", "r")
-    last = f.readline()
-    for appearence in radio:
-        if  appearence == last:
-            break
-        else:
-            twitter_post("#ShutDown aired on radio at " + appearence)
-    f.close()
+        
+        f = open("last_radio.txt", "r")
+        last = f.readline()
+        for appearence in radio:
+            if  appearence == last:
+                break
+            else:
+                twitter_post("#ShutDown aired on radio at " + appearence)
+        f.close()
 
-    f = open("last_radio.txt", "w")
-    f.write(radio[0])
-    f.close()
+        f = open("last_radio.txt", "w")
+        f.write(radio[0])
+        f.close()
+
+    except AttributeError:
+        print("WARNING: no table found on the radio page")
