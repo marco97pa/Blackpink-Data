@@ -10,7 +10,7 @@ def radio_data():
     """
     
     print("[{}] Starting...".format(module))
-    URL = "https://radioairplay.fm/artista/175127/blackpink/airplay/pink-venom/"
+    URL = "https://radioairplay.fm/artista/175127/blackpink/airplay/shut-down/"
     page = requests.get(URL)
 
     soup = BeautifulSoup(page.content, "html.parser")
@@ -28,7 +28,7 @@ def radio_data():
         if  appearence == last:
             break
         else:
-            twitter_post("#PinkVenom aired on radio at " + appearence)
+            twitter_post("#ShutDown aired on radio at " + appearence)
     f.close()
 
     f = open("last_radio.txt", "w")
