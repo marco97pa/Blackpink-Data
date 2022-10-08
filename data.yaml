@@ -290,14 +290,14 @@ spotify:
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
   - name: Pink Venom
-    id: 2myz9HGT2vuOArEgOCCyMV
+    id: 3dZBZnDa3z20uEVnxR38M1
     release_date: '2022-08-19'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
+    image: https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1
     tracks:
     - name: Pink Venom
-      id: 01WTV3NRDIeFFUwaYr9PCZ
+      id: 0skYUMpS0AcbpjcGsAbRGj
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
@@ -335,14 +335,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 2VBb4LRcRSACOfJWRUgVZl
+    id: 7nZPZCnwS90jrRjGNjzv4D
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
+    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2J4P46vCFm1rPkNkp9pZWX
+      id: 2k0e6dy1tx7fE6m126Ydfw
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -440,20 +440,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 0wOiWrujRbxlKEGWRQpKYc
+    id: 6yetqbA9vli7RLoUWYZLsq
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
+    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
     tracks:
     - name: DDU-DU DDU-DU
-      id: 4lQsB3ERTWSNaAN1IkuNRl
+      id: 69BIczdH6QMnFx7dsSssN8
     - name: Forever Young
-      id: 6veFyjNycn6EaNCKhkPXUY
+      id: 2Pp9osgyIcw6o1avfDDDhH
     - name: Really
-      id: 2URMA0ap6SAI8wFmcY1yta
+      id: 4HxVweMysEnuYxy3gkFtKk
     - name: See U Later
-      id: 2REoTZjaB3jyAt5dgkV5GK
+      id: 5RBH8ypFAj5HTZTPRpI1XL
   - name: 'Re: BLACKPINK (Japanese Version)'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -1949,7 +1949,7 @@ members:
       release_date: '2022-06-06'
       total_tracks: 36
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d9c124a751887fb3676f12dd
+      image: https://i.scdn.co/image/ab67616d0000b27355b3b495f62f1ff270c2ba31
       artist_collab: Various Artists
       tracks:
       - name: SG
@@ -2275,7 +2275,7 @@ members:
       release_date: '2020-09-30'
       total_tracks: 25
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273a3581cb72834bcfa1ad9bc78
+      image: https://i.scdn.co/image/ab67616d0000b273014ba50d477a70e7f8455aae
       artist_collab: Various Artists
       tracks:
       - name: SOLO
