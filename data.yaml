@@ -2,7 +2,7 @@ name: BLACKPINK
 hashtags: '#블랙핑크 #BLACKPINK #blinks @BLACKPINK'
 spotify:
   id: 41MozSoPIsD1dJM0CLPjZF
-  followers: 33014154
+  followers: 33128053
   discography:
   - name: BORN PINK
     id: 7jaSNQUBJbvfbZHLNFrV7P
@@ -571,7 +571,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '82200000'
-  total_views: '27249744684'
+  total_views: '27251212467'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -1794,7 +1794,7 @@ members:
     name: Lilifilm Official
     url: UC35HKvKYPkri4Grd5KXl3wQ
     subs: '10500000'
-    total_views: '487813234'
+    total_views: '488026272'
     views_scale: 10M
     playlist: UU35HKvKYPkri4Grd5KXl3wQ
     videos:
@@ -1883,7 +1883,7 @@ members:
       timestamp: 1641631200.0
   spotify:
     id: 5L1lO4eRHmJ7a0Q6csE5cT
-    followers: 3603811
+    followers: 3701078
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
     popularity: 71
