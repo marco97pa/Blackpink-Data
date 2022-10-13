@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1580378863842250752
+  last_tweet_id: 1580454402435190785
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH
+    url: ZPA37YESz2U
+    image: https://i.ytimg.com/vi/ZPA37YESz2U/maxresdefault.jpg
   - name: BLACKPINK - ‘BORN PINK’ Countdown Party Replay
     url: S1EVzs5tOVk
     image: https://i.ytimg.com/vi/S1EVzs5tOVk/maxresdefault.jpg
