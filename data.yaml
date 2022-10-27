@@ -2152,6 +2152,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Camino de la escuela
+      id: 3LvpAZDZ6eMsqPvoHdo2gZ
+      release_date: '2022-10-28'
+      total_tracks: 20
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273365bc94360c4197721bff3de
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 0DYkWnSmsh1IH66SqKJFrN
     - name: Para toda la familia
       id: 0ojWzXs2zNDxnYBR4qYwe3
       release_date: '2022-08-05'
