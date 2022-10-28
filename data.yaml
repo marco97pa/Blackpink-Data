@@ -84,28 +84,28 @@ spotify:
     - name: Forever Young - Live
       id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -335,14 +335,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -1910,16 +1910,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
     - name: Dance electro mood
       id: 1z9nNuYJuBwgOVI9efNg7B
       release_date: '2022-08-26'
@@ -2384,7 +2384,7 @@ members:
         id: 5MPGtk7Ni67f76w0RV79GO
     uri: spotify:artist:250b0Wlc5Vk0CoUsaCY84M
     name: JENNIE
-    popularity: 62
+    popularity: 61
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5ebc2c8185fc0902b43e35f671f
@@ -2407,16 +2407,16 @@ members:
     followers: 3301075
     discography:
     - name: R
-      id: 5BQcoDfcZ8aBcikYX9B7Ob
+      id: 0rBtYa6AUvlhoTTrPbYUmi
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
+      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
       tracks:
       - name: On The Ground
-        id: 2pn8dNVSpYnAtlKFC8Q0DJ
+        id: 4cuQfZEUCI0gmjGPS89T46
       - name: Gone
-        id: 2dHoVW9AxJVSRebPRyV2aA
+        id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
