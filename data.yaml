@@ -1923,6 +1923,16 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: Hype de electro
+      id: 1WJRgqVNf6EuEMro9Pv8AS
+      release_date: '2022-11-04'
+      total_tracks: 31
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2733c6f0b0892aded68b7a468d7
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 71fu9P7vMjSuC5wDGXTGXi
     - name: Dance electro mood
       id: 1z9nNuYJuBwgOVI9efNg7B
       release_date: '2022-08-26'
