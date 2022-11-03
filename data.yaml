@@ -2168,6 +2168,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Música Infantil 2022
+      id: 0OeQbbpmBQ4dwUAvQK6ISG
+      release_date: '2022-11-04'
+      total_tracks: 25
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273b10a5aa33049cfdc6e0193ea
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO
+        id: 20j20QmjCmzqRkpUl4X4HG
     - name: Camino de la escuela
       id: 3LvpAZDZ6eMsqPvoHdo2gZ
       release_date: '2022-10-28'
