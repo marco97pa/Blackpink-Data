@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1590222658083246086
+  last_tweet_id: 1590313257406971905
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] ATLANTA HIGHLIGHT CLIP
+    url: tFexh0nnAwU
+    image: https://i.ytimg.com/vi/tFexh0nnAwU/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] HOUSTON HIGHLIGHT CLIP
     url: Y0uG9BR4PBE
     image: https://i.ytimg.com/vi/Y0uG9BR4PBE/maxresdefault.jpg
