@@ -84,28 +84,28 @@ spotify:
     - name: Forever Young - Live
       id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -440,20 +440,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK (Japanese Version)'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -1925,16 +1925,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: Hype de electro
       id: 1WJRgqVNf6EuEMro9Pv8AS
       release_date: '2022-11-04'
@@ -1978,7 +1978,7 @@ members:
       release_date: '2022-06-15'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d3207f6e31dfd4214d396063
+      image: https://i.scdn.co/image/ab67616d0000b273729ee1e1800872f722e65c9a
       artist_collab: Various Artists
       tracks: []
     - name: Reventando Streamig
@@ -2059,16 +2059,6 @@ members:
         id: 2YECFNmgH7bogMwQTdICql
       - name: MONEY
         id: 2TUq1C4QBiRATiRbwrH5m9
-    - name: Szilveszter 2021-2022
-      id: 4O1HdVwkxTOYbfsh9PwRAF
-      release_date: '2021-12-06'
-      total_tracks: 31
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273bf86438e89f93525b8e3f3ad
-      artist_collab: Various Artists
-      tracks:
-      - name: MONEY
-        id: 00rdbKfVS7plz6PcDEl9dL
     - name: Tubes de 2021
       id: 4PDZ5hwWViJEpkVz1MjQFV
       release_date: '2021-12-06'
@@ -2079,6 +2069,16 @@ members:
       tracks:
       - name: MONEY
         id: 09DVlQRp5RX9HQDqgmX8NG
+    - name: Szilveszter 2021-2022
+      id: 4O1HdVwkxTOYbfsh9PwRAF
+      release_date: '2021-12-06'
+      total_tracks: 31
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273bf86438e89f93525b8e3f3ad
+      artist_collab: Various Artists
+      tracks:
+      - name: MONEY
+        id: 00rdbKfVS7plz6PcDEl9dL
     - name: Just Wanna Dance
       id: 4F0MhaKv6JBr2r0enO0VI7
       release_date: '2021-11-22'
