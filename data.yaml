@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1594933818443853824
+  last_tweet_id: 1595024301442404352
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -570,11 +570,14 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '83000000'
+  subs: '83100000'
   total_views: '27948071228'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] NEWARK HIGHLIGHT CLIP
+    url: AWl-Wc6Qpbo
+    image: https://i.ytimg.com/vi/AWl-Wc6Qpbo/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] CHICAGO HIGHLIGHT CLIP
     url: luw-pOEmUY8
     image: https://i.ytimg.com/vi/luw-pOEmUY8/maxresdefault.jpg
