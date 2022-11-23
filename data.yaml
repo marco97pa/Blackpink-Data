@@ -5,28 +5,28 @@ spotify:
   followers: 34504200
   discography:
   - name: BORN PINK
-    id: 7jaSNQUBJbvfbZHLNFrV7P
+    id: 69XcoJoFtHIeU1BVI4P1df
     release_date: '2022-09-16'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738
+    image: https://i.scdn.co/image/ab67616d0000b2736cc467f604995434b05b92de
     tracks:
     - name: Pink Venom
-      id: 6stcJnJHPO8RrYx5LLz5OP
+      id: 6Sv9Nq6sDahA0IZhRB9iY2
     - name: Shut Down
-      id: 0ARKW62l9uWIDYMZTUmJHF
+      id: 1KQyxaQISEB799RlYRAO9V
     - name: Typa Girl
-      id: 0L8LOav65XwLjCLS11gNPD
+      id: 6n2QaALsho13m4ujI8Gw44
     - name: Yeah Yeah Yeah
-      id: 5TfKoQg9AjmDIWYKFoDqMN
+      id: 4CrUDEnUkAURzYULkKwVfj
     - name: Hard to Love
-      id: 3MJhPqL2IgGs7gHEB2M35q
+      id: 14IzA3737f7dKk8EEFouEZ
     - name: The Happiest Girl
-      id: 1XoY4WZrvPIphBaikXGjF8
+      id: 127d8THEGSXFevp21C5JOm
     - name: Tally
-      id: 0bYVPJvXr8ACmw313cVvhB
+      id: 53430rZ4G40jiRQl1GhAvU
     - name: Ready For Love
-      id: 7Dq4YNgsltQuTmhYz1wJzq
+      id: 1mvZcyt2S6NMWcUYabSwHv
   - name: THE ALBUM (JP Ver.)
     id: 5HZR4Ep8QsjDeVJTKCKv0W
     release_date: '2021-08-03'
@@ -84,28 +84,28 @@ spotify:
     - name: Forever Young - Live
       id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -335,14 +335,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -1992,7 +1992,7 @@ members:
       release_date: '2022-06-06'
       total_tracks: 36
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27355b3b495f62f1ff270c2ba31
+      image: https://i.scdn.co/image/ab67616d0000b273a29bcaa3c5e6ca42a71b9713
       artist_collab: Various Artists
       tracks:
       - name: SG
@@ -2065,16 +2065,6 @@ members:
         id: 2YECFNmgH7bogMwQTdICql
       - name: MONEY
         id: 2TUq1C4QBiRATiRbwrH5m9
-    - name: Tubes de 2021
-      id: 4PDZ5hwWViJEpkVz1MjQFV
-      release_date: '2021-12-06'
-      total_tracks: 30
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27307eb4a9da726e571ca5c0e63
-      artist_collab: Various Artists
-      tracks:
-      - name: MONEY
-        id: 09DVlQRp5RX9HQDqgmX8NG
     - name: Szilveszter 2021-2022
       id: 4O1HdVwkxTOYbfsh9PwRAF
       release_date: '2021-12-06'
@@ -2085,6 +2075,16 @@ members:
       tracks:
       - name: MONEY
         id: 00rdbKfVS7plz6PcDEl9dL
+    - name: Tubes de 2021
+      id: 4PDZ5hwWViJEpkVz1MjQFV
+      release_date: '2021-12-06'
+      total_tracks: 30
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27307eb4a9da726e571ca5c0e63
+      artist_collab: Various Artists
+      tracks:
+      - name: MONEY
+        id: 09DVlQRp5RX9HQDqgmX8NG
     - name: Just Wanna Dance
       id: 4F0MhaKv6JBr2r0enO0VI7
       release_date: '2021-11-22'
@@ -2451,16 +2451,16 @@ members:
     followers: 3301075
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
       id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
