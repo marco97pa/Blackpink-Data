@@ -5,28 +5,28 @@ spotify:
   followers: 34504200
   discography:
   - name: BORN PINK
-    id: 69XcoJoFtHIeU1BVI4P1df
+    id: 7jaSNQUBJbvfbZHLNFrV7P
     release_date: '2022-09-16'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2736cc467f604995434b05b92de
+    image: https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738
     tracks:
     - name: Pink Venom
-      id: 6Sv9Nq6sDahA0IZhRB9iY2
+      id: 6stcJnJHPO8RrYx5LLz5OP
     - name: Shut Down
-      id: 1KQyxaQISEB799RlYRAO9V
+      id: 0ARKW62l9uWIDYMZTUmJHF
     - name: Typa Girl
-      id: 6n2QaALsho13m4ujI8Gw44
+      id: 0L8LOav65XwLjCLS11gNPD
     - name: Yeah Yeah Yeah
-      id: 4CrUDEnUkAURzYULkKwVfj
+      id: 5TfKoQg9AjmDIWYKFoDqMN
     - name: Hard to Love
-      id: 14IzA3737f7dKk8EEFouEZ
+      id: 3MJhPqL2IgGs7gHEB2M35q
     - name: The Happiest Girl
-      id: 127d8THEGSXFevp21C5JOm
+      id: 1XoY4WZrvPIphBaikXGjF8
     - name: Tally
-      id: 53430rZ4G40jiRQl1GhAvU
+      id: 0bYVPJvXr8ACmw313cVvhB
     - name: Ready For Love
-      id: 1mvZcyt2S6NMWcUYabSwHv
+      id: 7Dq4YNgsltQuTmhYz1wJzq
   - name: THE ALBUM (JP Ver.)
     id: 5HZR4Ep8QsjDeVJTKCKv0W
     release_date: '2021-08-03'
@@ -51,38 +51,38 @@ spotify:
     - name: You Never Know - JP Ver.
       id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 5IDJBkr9EzMofENo4ScNxi
+    id: 05tjy9njMXtZhhQKy6eSbw
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
     tracks:
     - name: Kill This Love - Live
-      id: 1GrGs8HBvOHHdeho4w1ZkH
+      id: 20M2G72S2uPv5HSGlbjzau
     - name: Crazy Over You - Live
-      id: 20O6VxUyfLn6Zk8izFpMeu
+      id: 7DrC7HY96mwYCZTdVMWRqC
     - name: How You Like That - Live
-      id: 3p9HltmtqXCvCSKKOKMZ29
+      id: 2t7einPRQzodw4hn1mTey3
     - name: Don't Know What To Do - Live
-      id: 6BYdrWzCp2tL2RKSoncArx
+      id: 4YRsEUhV94lfsE8ths8qnF
     - name: PLAYING WITH FIRE - Live
-      id: 7jKhvwWoXGmfc8Ehc4kFrt
+      id: 6HenyHrl0dlPFZKZeZrQL1
     - name: Lovesick Girls - Live
-      id: 4GPLXDicIuRmAELK5RWvCw
+      id: 1H7ZzRGyuyccxcCEl5iZka
     - name: Love To Hate Me + You Never Know - Live
-      id: 76F0GgW1qB7nED5CQeZSrX
+      id: 7aD3TKOSytAienGPAe7mUO
     - name: Pretty Savage - Live
-      id: 3ua8wdqzl3SdgElppgcuf2
+      id: 6L21Zb4gCi8DsGFfRWzP1e
     - name: DDU-DU DDU-DU - Live
-      id: 4gXhyN8S81jbq50NdEUcLR
+      id: 0wYdz8PwtGIuxOcgsAfBTV
     - name: WHISTLE - Live
-      id: 5dUFWYt4BJfWlhC9CxWFGe
+      id: 2Lf2DTkeqCRka9Gw7dT0cI
     - name: As If It's Your Last - Live
-      id: 5ROltcFSXdACTwRwOyJRzv
+      id: 0xY0xiUh7JAq7WKAMZbX6V
     - name: BOOMBAYAH - Live
-      id: 1kUXkPQh6G8GLAIVIMgJwk
+      id: 4pvNkEwArOjdB0usShWcFm
     - name: Forever Young - Live
-      id: 3QCRpdVPsCK11k5zUMfc1l
+      id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
     id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
@@ -2320,15 +2320,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 5IDJBkr9EzMofENo4ScNxi
+      id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 6V3dOOUiPg53wUf83tBLR8
+        id: 0eQgA4KkNbJojAIfNjdJrM
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
