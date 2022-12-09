@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1600825236450332672
+  last_tweet_id: 1601139650370080774
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'BLACKPINK - ‘B.P.M.’ Roll #2'
+    url: 4hgm69uVCdQ
+    image: https://i.ytimg.com/vi/4hgm69uVCdQ/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] BARCELONA HIGHLIGHT CLIP
     url: 6EOInfp38to
     image: https://i.ytimg.com/vi/6EOInfp38to/maxresdefault.jpg
