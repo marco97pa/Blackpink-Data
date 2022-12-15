@@ -1962,6 +1962,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: New Year, New Energy
+      id: 6oTdnpLlzYBz2ihiva785G
+      release_date: '2022-12-16'
+      total_tracks: 25
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27315733da7af1644dc0f38cf7f
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 1UB2knhTynPZdOOcjxnpRj
     - name: Noel Latino 2022
       id: 4heIn1uqNAUQGKFyQjCfFI
       release_date: '2022-11-25'
