@@ -1965,6 +1965,24 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Charts 2022
+      id: 1oGlOw8N2tvhr5TRe9Wfla
+      release_date: '2022-12-17'
+      total_tracks: 80
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2734ce042bd9b2d0ab8b27cc90a
+      artist_collab: Various Artists
+      tracks: []
+    - name: Best Electronic of 2022
+      id: 2EoPhhh9DugX7fpGc1ghSm
+      release_date: '2022-12-17'
+      total_tracks: 47
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27353c140203f7d84525ed0ed6e
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 5uQUXpRhmVgyk2ImIlkGK1
     - name: New Year, New Energy
       id: 6oTdnpLlzYBz2ihiva785G
       release_date: '2022-12-16'
