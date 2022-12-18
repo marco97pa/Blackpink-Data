@@ -23,7 +23,7 @@ jobs:
         pip3 install -r requirements.txt
     - name: execute py script # Run the script to fetch the latest data
       run: |
-        python main.py -no-tweet -no-instagram
+        python main.py -no-tweet -no-instagram -no-radio
       env: # API KEYs are passed as environment variables. For more info https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }} 
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
