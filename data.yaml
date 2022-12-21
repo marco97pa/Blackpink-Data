@@ -5,28 +5,28 @@ spotify:
   followers: 35416121
   discography:
   - name: BORN PINK
-    id: 69XcoJoFtHIeU1BVI4P1df
+    id: 7jaSNQUBJbvfbZHLNFrV7P
     release_date: '2022-09-16'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2736cc467f604995434b05b92de
+    image: https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738
     tracks:
     - name: Pink Venom
-      id: 6Sv9Nq6sDahA0IZhRB9iY2
+      id: 6stcJnJHPO8RrYx5LLz5OP
     - name: Shut Down
-      id: 1KQyxaQISEB799RlYRAO9V
+      id: 0ARKW62l9uWIDYMZTUmJHF
     - name: Typa Girl
-      id: 6n2QaALsho13m4ujI8Gw44
+      id: 0L8LOav65XwLjCLS11gNPD
     - name: Yeah Yeah Yeah
-      id: 4CrUDEnUkAURzYULkKwVfj
+      id: 5TfKoQg9AjmDIWYKFoDqMN
     - name: Hard to Love
-      id: 14IzA3737f7dKk8EEFouEZ
+      id: 3MJhPqL2IgGs7gHEB2M35q
     - name: The Happiest Girl
-      id: 127d8THEGSXFevp21C5JOm
+      id: 1XoY4WZrvPIphBaikXGjF8
     - name: Tally
-      id: 53430rZ4G40jiRQl1GhAvU
+      id: 0bYVPJvXr8ACmw313cVvhB
     - name: Ready For Love
-      id: 1mvZcyt2S6NMWcUYabSwHv
+      id: 7Dq4YNgsltQuTmhYz1wJzq
   - name: THE ALBUM (JP Ver.)
     id: 5HZR4Ep8QsjDeVJTKCKv0W
     release_date: '2021-08-03'
@@ -84,28 +84,28 @@ spotify:
     - name: Forever Young - Live
       id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -290,14 +290,14 @@ spotify:
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
   - name: Pink Venom
-    id: 3dZBZnDa3z20uEVnxR38M1
+    id: 2myz9HGT2vuOArEgOCCyMV
     release_date: '2022-08-19'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1
+    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
     tracks:
     - name: Pink Venom
-      id: 0skYUMpS0AcbpjcGsAbRGj
+      id: 01WTV3NRDIeFFUwaYr9PCZ
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
