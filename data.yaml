@@ -2640,4 +2640,16 @@ members:
       url: https://www.instagram.com/p/CY8KU8eO9oX
       caption: "\U0001F380\n오모나 \n렌즈가\n즈응말 이뻐요\U0001F90D\n@olens_official #광고"
       timestamp: 1642656216.0
+  youtube:
+    name: 행복지수 103%
+    url: UCRE-097LGtx_Zo7LrHvkycA
+    subs: '727000'
+    total_views: '0'
+    views_scale: 10M
+    playlist: UURE-097LGtx_Zo7LrHvkycA
+    videos:
+    - name: LONDON vlog
+      url: 74-hMv9X2VY
+      image: https://i.ytimg.com/vi/74-hMv9X2VY/maxresdefault.jpg
+    image: https://yt3.ggpht.com/9qnp5goxwoyWKkrfPQRppn4lvKswZSpccSrqrinO_VbA4uyIpu23LAUTOGI1KIoqNoL6SYKl2A=s800-c-k-c0x00ffffff-no-rj
 billboard_check: 02-01-2023
