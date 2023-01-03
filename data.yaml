@@ -51,38 +51,38 @@ spotify:
     - name: You Never Know - JP Ver.
       id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 05tjy9njMXtZhhQKy6eSbw
+    id: 5IDJBkr9EzMofENo4ScNxi
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
     tracks:
     - name: Kill This Love - Live
-      id: 20M2G72S2uPv5HSGlbjzau
+      id: 1GrGs8HBvOHHdeho4w1ZkH
     - name: Crazy Over You - Live
-      id: 7DrC7HY96mwYCZTdVMWRqC
+      id: 20O6VxUyfLn6Zk8izFpMeu
     - name: How You Like That - Live
-      id: 2t7einPRQzodw4hn1mTey3
+      id: 3p9HltmtqXCvCSKKOKMZ29
     - name: Don't Know What To Do - Live
-      id: 4YRsEUhV94lfsE8ths8qnF
+      id: 6BYdrWzCp2tL2RKSoncArx
     - name: PLAYING WITH FIRE - Live
-      id: 6HenyHrl0dlPFZKZeZrQL1
+      id: 7jKhvwWoXGmfc8Ehc4kFrt
     - name: Lovesick Girls - Live
-      id: 1H7ZzRGyuyccxcCEl5iZka
+      id: 4GPLXDicIuRmAELK5RWvCw
     - name: Love To Hate Me + You Never Know - Live
-      id: 7aD3TKOSytAienGPAe7mUO
+      id: 76F0GgW1qB7nED5CQeZSrX
     - name: Pretty Savage - Live
-      id: 6L21Zb4gCi8DsGFfRWzP1e
+      id: 3ua8wdqzl3SdgElppgcuf2
     - name: DDU-DU DDU-DU - Live
-      id: 0wYdz8PwtGIuxOcgsAfBTV
+      id: 4gXhyN8S81jbq50NdEUcLR
     - name: WHISTLE - Live
-      id: 2Lf2DTkeqCRka9Gw7dT0cI
+      id: 5dUFWYt4BJfWlhC9CxWFGe
     - name: As If It's Your Last - Live
-      id: 0xY0xiUh7JAq7WKAMZbX6V
+      id: 5ROltcFSXdACTwRwOyJRzv
     - name: BOOMBAYAH - Live
-      id: 4pvNkEwArOjdB0usShWcFm
+      id: 1kUXkPQh6G8GLAIVIMgJwk
     - name: Forever Young - Live
-      id: 0vGUFVPXhsEUeDnwNCs8CC
+      id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
     id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
@@ -440,20 +440,20 @@ spotify:
     - name: DDU-DU DDU-DU
       id: 1PMXpTPJfh3ViK8PMZ9ZnY
   - name: SQUARE UP
-    id: 6yetqbA9vli7RLoUWYZLsq
+    id: 0wOiWrujRbxlKEGWRQpKYc
     release_date: '2018-06-15'
     total_tracks: 4
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27314d1e0d0aba77339c007ed92
+    image: https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef
     tracks:
     - name: DDU-DU DDU-DU
-      id: 69BIczdH6QMnFx7dsSssN8
+      id: 4lQsB3ERTWSNaAN1IkuNRl
     - name: Forever Young
-      id: 2Pp9osgyIcw6o1avfDDDhH
+      id: 6veFyjNycn6EaNCKhkPXUY
     - name: Really
-      id: 4HxVweMysEnuYxy3gkFtKk
+      id: 2URMA0ap6SAI8wFmcY1yta
     - name: See U Later
-      id: 5RBH8ypFAj5HTZTPRpI1XL
+      id: 2REoTZjaB3jyAt5dgkV5GK
   - name: 'Re: BLACKPINK (Japanese Version)'
     id: 2Gz6UbNiSL1caVQBpExJ5x
     release_date: '2018-03-28'
@@ -1973,16 +1973,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 0IL9eNM4gfkmTqdwiJy63d
+      id: 66OYt73mqan1hWa78BhfPd
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
+      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
       tracks:
       - name: LALISA
-        id: 10BfqdiV5PhV1UYsMEyou1
+        id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
-        id: 7ifLrhXBoQ5MDFTRpIYkfA
+        id: 7hU3IHwjX150XLoTVmjD0q
     - name: Charts 2022
       id: 1oGlOw8N2tvhr5TRe9Wfla
       release_date: '2022-12-17'
