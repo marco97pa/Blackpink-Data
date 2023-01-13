@@ -51,61 +51,61 @@ spotify:
     - name: You Never Know - JP Ver.
       id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 5IDJBkr9EzMofENo4ScNxi
+    id: 05tjy9njMXtZhhQKy6eSbw
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
     tracks:
     - name: Kill This Love - Live
-      id: 1GrGs8HBvOHHdeho4w1ZkH
+      id: 20M2G72S2uPv5HSGlbjzau
     - name: Crazy Over You - Live
-      id: 20O6VxUyfLn6Zk8izFpMeu
+      id: 7DrC7HY96mwYCZTdVMWRqC
     - name: How You Like That - Live
-      id: 3p9HltmtqXCvCSKKOKMZ29
+      id: 2t7einPRQzodw4hn1mTey3
     - name: Don't Know What To Do - Live
-      id: 6BYdrWzCp2tL2RKSoncArx
+      id: 4YRsEUhV94lfsE8ths8qnF
     - name: PLAYING WITH FIRE - Live
-      id: 7jKhvwWoXGmfc8Ehc4kFrt
+      id: 6HenyHrl0dlPFZKZeZrQL1
     - name: Lovesick Girls - Live
-      id: 4GPLXDicIuRmAELK5RWvCw
+      id: 1H7ZzRGyuyccxcCEl5iZka
     - name: Love To Hate Me + You Never Know - Live
-      id: 76F0GgW1qB7nED5CQeZSrX
+      id: 7aD3TKOSytAienGPAe7mUO
     - name: Pretty Savage - Live
-      id: 3ua8wdqzl3SdgElppgcuf2
+      id: 6L21Zb4gCi8DsGFfRWzP1e
     - name: DDU-DU DDU-DU - Live
-      id: 4gXhyN8S81jbq50NdEUcLR
+      id: 0wYdz8PwtGIuxOcgsAfBTV
     - name: WHISTLE - Live
-      id: 5dUFWYt4BJfWlhC9CxWFGe
+      id: 2Lf2DTkeqCRka9Gw7dT0cI
     - name: As If It's Your Last - Live
-      id: 5ROltcFSXdACTwRwOyJRzv
+      id: 0xY0xiUh7JAq7WKAMZbX6V
     - name: BOOMBAYAH - Live
-      id: 1kUXkPQh6G8GLAIVIMgJwk
+      id: 4pvNkEwArOjdB0usShWcFm
     - name: Forever Young - Live
-      id: 3QCRpdVPsCK11k5zUMfc1l
+      id: 0vGUFVPXhsEUeDnwNCs8CC
   - name: THE ALBUM
-    id: 5jI79QM3CJiSELceqwVe78
+    id: 71O60S5gIJSIAhdnrDIh3N
     release_date: '2020-10-02'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2731870c400a7f79d43649bc040
+    image: https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe
     tracks:
     - name: How You Like That
-      id: 6qHFPCWow1hMMY5x8h9VSM
+      id: 4SFknyjLcyTLJFPKD2m96o
     - name: Ice Cream (with Selena Gomez)
-      id: 52aLulmBwpzoQXkiE7G4OT
+      id: 4JUPEh2DVSXFGExu4Uxevz
     - name: Pretty Savage
-      id: 3VTKwL1uS2JGotaJA4oXXB
+      id: 1XnpzbOGptRwfJhZgLbmSr
     - name: Bet You Wanna (feat. Cardi B)
-      id: 1hPkiovjTqiJAJen4uyNRg
+      id: 7iAgNZdotu40NwtoIWJHFe
     - name: Lovesick Girls
-      id: 4Vhvlhomv8fTp2e6I4XTpe
+      id: 4Ws314Ylb27BVsvlZOy30C
     - name: Crazy Over You
-      id: 4yOqfpzmL4FvmXJTUgAMUP
+      id: 7qq0EOPW4RRlqdvMBmdd73
     - name: Love To Hate Me
-      id: 09JE599HkmbidwGWyD4ZGy
+      id: 7iKDsPfLT0d5mu2htfMKBZ
     - name: You Never Know
-      id: 1b0PG9Zd1HhOwq3n9QNkDg
+      id: 39kzWAiVPpycdMpr745oPj
   - name: BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live)
     id: 7J4ASJD3IvdANlrPkmeVP0
     release_date: '2020-05-14'
@@ -2209,7 +2209,7 @@ members:
   youtube:
     name: Jennierubyjane Official
     url: UCNYi_zGmR519r5gYdOKLTjQ
-    subs: '9020000'
+    subs: '9030000'
     total_views: '99962102'
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
