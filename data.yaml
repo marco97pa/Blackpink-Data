@@ -2005,7 +2005,7 @@ members:
       release_date: '2022-12-17'
       total_tracks: 47
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27353c140203f7d84525ed0ed6e
+      image: https://i.scdn.co/image/ab67616d0000b2738febc1fd8838151f43cb298e
       artist_collab: Various Artists
       tracks:
       - name: SG
@@ -2399,15 +2399,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
@@ -2602,7 +2602,7 @@ members:
   youtube:
     name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
-    subs: '5410000'
+    subs: '5420000'
     total_views: '9875243'
     views_scale: 10M
     playlist: UUBo1hnzxV9rz3WVsv__Rn1g
