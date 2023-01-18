@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1615589848345378819
+  last_tweet_id: 1615680527301840896
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] HONG KONG HIGHLIGHT CLIP
+    url: YW32gwOg7kk
+    image: https://i.ytimg.com/vi/YW32gwOg7kk/maxresdefault.jpg
   - name: 'BLACKPINK - ‘B.P.M.’ Roll #7'
     url: O0gZRROft68
     image: https://i.ytimg.com/vi/O0gZRROft68/maxresdefault.jpg
