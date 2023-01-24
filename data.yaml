@@ -1998,6 +1998,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: SHOTS
+      id: 0qM3FYqa6pJSijwPUDLllu
+      release_date: '2023-01-25'
+      total_tracks: 17
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2732ce05ff8533ef68d85e63dad
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 6vP3SLnCuuJLJM8hfbvQvE
     - name: Charts 2022
       id: 1oGlOw8N2tvhr5TRe9Wfla
       release_date: '2022-12-17'
