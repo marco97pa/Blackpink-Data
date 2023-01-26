@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1618489357685620736
+  last_tweet_id: 1618579642822041600
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] RIYADH HIGHLIGHT CLIP
+    url: CoocTMrspKs
+    image: https://i.ytimg.com/vi/CoocTMrspKs/maxresdefault.jpg
   - name: 'BLACKPINK - ‘B.P.M.’ Roll #8'
     url: zfCo-X7UmKI
     image: https://i.ytimg.com/vi/zfCo-X7UmKI/maxresdefault.jpg
