@@ -2636,11 +2636,14 @@ members:
   youtube:
     name: Rosesarerosie
     url: UCBo1hnzxV9rz3WVsv__Rn1g
-    subs: '5520000'
+    subs: '5540000'
     total_views: '9875243'
     views_scale: 10M
     playlist: UUBo1hnzxV9rz3WVsv__Rn1g
     videos:
+    - name: ROSÉ - 'Until I Found You (Stephen Sanchez)' Cover
+      url: WfEiabOTH8Y
+      image: https://i.ytimg.com/vi/WfEiabOTH8Y/maxresdefault.jpg
     - name: Taking you behind the scenes of my Saint Laurent Photoshoot
       url: QLevyjz_npY
       image: https://i.ytimg.com/vi/QLevyjz_npY/maxresdefault.jpg
@@ -2686,7 +2689,7 @@ members:
   youtube:
     name: 행복지수 103%
     url: UCRE-097LGtx_Zo7LrHvkycA
-    subs: '3380000'
+    subs: '3390000'
     total_views: '9800008'
     views_scale: 10M
     playlist: UURE-097LGtx_Zo7LrHvkycA
