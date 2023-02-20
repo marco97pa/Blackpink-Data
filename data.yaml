@@ -5,28 +5,28 @@ spotify:
   followers: 37617948
   discography:
   - name: BORN PINK
-    id: 7jaSNQUBJbvfbZHLNFrV7P
+    id: 69XcoJoFtHIeU1BVI4P1df
     release_date: '2022-09-16'
     total_tracks: 8
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738
+    image: https://i.scdn.co/image/ab67616d0000b2736cc467f604995434b05b92de
     tracks:
     - name: Pink Venom
-      id: 6stcJnJHPO8RrYx5LLz5OP
+      id: 6Sv9Nq6sDahA0IZhRB9iY2
     - name: Shut Down
-      id: 0ARKW62l9uWIDYMZTUmJHF
+      id: 1KQyxaQISEB799RlYRAO9V
     - name: Typa Girl
-      id: 0L8LOav65XwLjCLS11gNPD
+      id: 6n2QaALsho13m4ujI8Gw44
     - name: Yeah Yeah Yeah
-      id: 5TfKoQg9AjmDIWYKFoDqMN
+      id: 4CrUDEnUkAURzYULkKwVfj
     - name: Hard to Love
-      id: 3MJhPqL2IgGs7gHEB2M35q
+      id: 14IzA3737f7dKk8EEFouEZ
     - name: The Happiest Girl
-      id: 1XoY4WZrvPIphBaikXGjF8
+      id: 127d8THEGSXFevp21C5JOm
     - name: Tally
-      id: 0bYVPJvXr8ACmw313cVvhB
+      id: 53430rZ4G40jiRQl1GhAvU
     - name: Ready For Love
-      id: 7Dq4YNgsltQuTmhYz1wJzq
+      id: 1mvZcyt2S6NMWcUYabSwHv
   - name: THE ALBUM (JP Ver.)
     id: 5HZR4Ep8QsjDeVJTKCKv0W
     release_date: '2021-08-03'
@@ -51,38 +51,38 @@ spotify:
     - name: You Never Know - JP Ver.
       id: 07RKTVjYGuNTDb00I84wiE
   - name: BLACKPINK 2021 'THE SHOW' LIVE
-    id: 05tjy9njMXtZhhQKy6eSbw
+    id: 5IDJBkr9EzMofENo4ScNxi
     release_date: '2021-06-01'
     total_tracks: 15
     type: album
-    image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+    image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
     tracks:
     - name: Kill This Love - Live
-      id: 20M2G72S2uPv5HSGlbjzau
+      id: 1GrGs8HBvOHHdeho4w1ZkH
     - name: Crazy Over You - Live
-      id: 7DrC7HY96mwYCZTdVMWRqC
+      id: 20O6VxUyfLn6Zk8izFpMeu
     - name: How You Like That - Live
-      id: 2t7einPRQzodw4hn1mTey3
+      id: 3p9HltmtqXCvCSKKOKMZ29
     - name: Don't Know What To Do - Live
-      id: 4YRsEUhV94lfsE8ths8qnF
+      id: 6BYdrWzCp2tL2RKSoncArx
     - name: PLAYING WITH FIRE - Live
-      id: 6HenyHrl0dlPFZKZeZrQL1
+      id: 7jKhvwWoXGmfc8Ehc4kFrt
     - name: Lovesick Girls - Live
-      id: 1H7ZzRGyuyccxcCEl5iZka
+      id: 4GPLXDicIuRmAELK5RWvCw
     - name: Love To Hate Me + You Never Know - Live
-      id: 7aD3TKOSytAienGPAe7mUO
+      id: 76F0GgW1qB7nED5CQeZSrX
     - name: Pretty Savage - Live
-      id: 6L21Zb4gCi8DsGFfRWzP1e
+      id: 3ua8wdqzl3SdgElppgcuf2
     - name: DDU-DU DDU-DU - Live
-      id: 0wYdz8PwtGIuxOcgsAfBTV
+      id: 4gXhyN8S81jbq50NdEUcLR
     - name: WHISTLE - Live
-      id: 2Lf2DTkeqCRka9Gw7dT0cI
+      id: 5dUFWYt4BJfWlhC9CxWFGe
     - name: As If It's Your Last - Live
-      id: 0xY0xiUh7JAq7WKAMZbX6V
+      id: 5ROltcFSXdACTwRwOyJRzv
     - name: BOOMBAYAH - Live
-      id: 4pvNkEwArOjdB0usShWcFm
+      id: 1kUXkPQh6G8GLAIVIMgJwk
     - name: Forever Young - Live
-      id: 0vGUFVPXhsEUeDnwNCs8CC
+      id: 3QCRpdVPsCK11k5zUMfc1l
   - name: THE ALBUM
     id: 5jI79QM3CJiSELceqwVe78
     release_date: '2020-10-02'
@@ -290,14 +290,14 @@ spotify:
     - name: SEE U LATER - Japanese Version
       id: 7IS4NciwYPs1wMywOKx69z
   - name: Pink Venom
-    id: 2myz9HGT2vuOArEgOCCyMV
+    id: 3dZBZnDa3z20uEVnxR38M1
     release_date: '2022-08-19'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b273a05e34f50d239e48fe5de4c1
+    image: https://i.scdn.co/image/ab67616d0000b273797b37e01334a0897825d8b1
     tracks:
     - name: Pink Venom
-      id: 01WTV3NRDIeFFUwaYr9PCZ
+      id: 0skYUMpS0AcbpjcGsAbRGj
   - name: Pretty Savage (JP Ver.)
     id: 7GSCElvTHw10xFfIHdibF1
     release_date: '2021-08-03'
@@ -335,14 +335,14 @@ spotify:
     - name: Lovesick Girls - JP Ver.
       id: 0UJRzax7oFLoK8Sb9IcPcm
   - name: Ice Cream (with Selena Gomez)
-    id: 7nZPZCnwS90jrRjGNjzv4D
+    id: 2VBb4LRcRSACOfJWRUgVZl
     release_date: '2020-08-28'
     total_tracks: 1
     type: single
-    image: https://i.scdn.co/image/ab67616d0000b27384bd4cce257cd624b3bebefa
+    image: https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0
     tracks:
     - name: Ice Cream (with Selena Gomez)
-      id: 2k0e6dy1tx7fE6m126Ydfw
+      id: 2J4P46vCFm1rPkNkp9pZWX
   - name: How You Like That
     id: 2jtqWR8SyWOLgKz4HiLtxI
     release_date: '2020-06-26'
@@ -2006,16 +2006,16 @@ members:
       - name: SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)
         id: 6IPNp9PfaEqrzotY47TIWy
     - name: LALISA
-      id: 66OYt73mqan1hWa78BhfPd
+      id: 0IL9eNM4gfkmTqdwiJy63d
       release_date: '2021-09-10'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19
+      image: https://i.scdn.co/image/ab67616d0000b273eceaf0c574ae5003bea98621
       tracks:
       - name: LALISA
-        id: 7uQZVznj0uQOGC9KhV2Mg6
+        id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
-        id: 7hU3IHwjX150XLoTVmjD0q
+        id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: SHOTS
       id: 0qM3FYqa6pJSijwPUDLllu
       release_date: '2023-01-25'
@@ -2439,15 +2439,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 0eQgA4KkNbJojAIfNjdJrM
+        id: 6V3dOOUiPg53wUf83tBLR8
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
@@ -2593,26 +2593,26 @@ members:
     followers: 3502718
     discography:
     - name: R
-      id: 0rBtYa6AUvlhoTTrPbYUmi
+      id: 5BQcoDfcZ8aBcikYX9B7Ob
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
+      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
       tracks:
       - name: On The Ground
-        id: 4cuQfZEUCI0gmjGPS89T46
+        id: 2pn8dNVSpYnAtlKFC8Q0DJ
       - name: Gone
-        id: 4oLccGxsr0RiLDtJdfchsn
+        id: 2dHoVW9AxJVSRebPRyV2aA
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 05tjy9njMXtZhhQKy6eSbw
+      id: 5IDJBkr9EzMofENo4ScNxi
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
+      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
       artist_collab: BLACKPINK
       tracks:
       - name: Gone - Live
-        id: 4HZ6bzqW2ybPYbvfuBLmUM
+        id: 5lnmMdUf1ifC0Oa8wsKuyW
     - name: On the Daily
       id: 5DvydXlfbw7QbwW9IQr0Ea
       release_date: '2017-10-15'
