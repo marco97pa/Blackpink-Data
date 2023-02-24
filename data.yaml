@@ -2439,15 +2439,15 @@ members:
       - name: SOLO
         id: 0PpfPhZAKuek6wSYIDm9EX
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 5IDJBkr9EzMofENo4ScNxi
+      id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
       artist_collab: BLACKPINK
       tracks:
       - name: SOLO - Live
-        id: 6V3dOOUiPg53wUf83tBLR8
+        id: 0eQgA4KkNbJojAIfNjdJrM
     - name: Música al toque
       id: 7hEru57FEK1UTx2oOwNI0M
       release_date: '2021-05-28'
@@ -2593,26 +2593,26 @@ members:
     followers: 3502718
     discography:
     - name: R
-      id: 5BQcoDfcZ8aBcikYX9B7Ob
+      id: 0rBtYa6AUvlhoTTrPbYUmi
       release_date: '2021-03-12'
       total_tracks: 2
       type: single
-      image: https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f
+      image: https://i.scdn.co/image/ab67616d0000b273b763483dd8c2987c35d70da5
       tracks:
       - name: On The Ground
-        id: 2pn8dNVSpYnAtlKFC8Q0DJ
+        id: 4cuQfZEUCI0gmjGPS89T46
       - name: Gone
-        id: 2dHoVW9AxJVSRebPRyV2aA
+        id: 4oLccGxsr0RiLDtJdfchsn
     - name: BLACKPINK 2021 'THE SHOW' LIVE
-      id: 5IDJBkr9EzMofENo4ScNxi
+      id: 05tjy9njMXtZhhQKy6eSbw
       release_date: '2021-06-01'
       total_tracks: 15
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273d5e4203a5e8167435a0b7561
+      image: https://i.scdn.co/image/ab67616d0000b27349d51d828114499e20e82662
       artist_collab: BLACKPINK
       tracks:
       - name: Gone - Live
-        id: 5lnmMdUf1ifC0Oa8wsKuyW
+        id: 4HZ6bzqW2ybPYbvfuBLmUM
     - name: On the Daily
       id: 5DvydXlfbw7QbwW9IQr0Ea
       release_date: '2017-10-15'
