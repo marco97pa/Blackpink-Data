@@ -2703,6 +2703,9 @@ members:
     views_scale: 10M
     playlist: UURE-097LGtx_Zo7LrHvkycA
     videos:
+    - name: COPENHAGEN vlog
+      url: UR4P0okaSZo
+      image: https://i.ytimg.com/vi/UR4P0okaSZo/maxresdefault.jpg
     - name: PARIS vlog
       url: fYzLPJXQ6uM
       image: https://i.ytimg.com/vi/fYzLPJXQ6uM/maxresdefault.jpg
