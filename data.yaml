@@ -571,7 +571,7 @@ youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
   subs: '84500000'
-  total_views: '29222171280'
+  total_views: '29224832260'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
@@ -2112,7 +2112,7 @@ members:
       release_date: '2022-06-28'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273811ecf814e9619ea8a660e68
+      image: https://i.scdn.co/image/ab67616d0000b2738a07156d71b12ec7109e5326
       artist_collab: Various Artists
       tracks: []
     - name: Mega Hits Pride 2022
