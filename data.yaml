@@ -2019,6 +2019,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Pop Workout Hits 2023
+      id: 7zNz6ABzRHFzLlxg2EZCwi
+      release_date: '2023-03-01'
+      total_tracks: 55
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27393598e8fea0dcee1ab981dd0
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 4yvCdYYNCaB9H7OvGSCk0A
     - name: SHOTS
       id: 0qM3FYqa6pJSijwPUDLllu
       release_date: '2023-01-25'
