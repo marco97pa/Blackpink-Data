@@ -2022,6 +2022,16 @@ members:
         id: 7uQZVznj0uQOGC9KhV2Mg6
       - name: MONEY
         id: 7hU3IHwjX150XLoTVmjD0q
+    - name: Pop Blockbusters 12
+      id: 2CfUiECiHYR7Qk0SUCAhkC
+      release_date: '2023-03-06'
+      total_tracks: 42
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2730bad3a512627a615278e3c91
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 4OcHVDyL47NyuBm31ZBTxA
     - name: Pop Workout Hits 2023
       id: 7zNz6ABzRHFzLlxg2EZCwi
       release_date: '2023-03-01'
