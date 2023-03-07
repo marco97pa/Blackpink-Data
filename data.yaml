@@ -2022,6 +2022,26 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Rap Kings Vol 4
+      id: 3Dj3kn4PTdCsHzGhJUl8bi
+      release_date: '2023-03-08'
+      total_tracks: 40
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2735f19da29fc419049bcefa775
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 0JjfqMMato1b1u5fn1IxgE
+    - name: POP LOVE HITS VOL 8
+      id: 4yXaJWjBzMK0IxU8MiW7Bq
+      release_date: '2023-03-08'
+      total_tracks: 24
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273abf4b29798f66e5379be74f0
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 1ZCEbpjiarcahFwM4rydbQ
     - name: Pop Blockbusters 12
       id: 2CfUiECiHYR7Qk0SUCAhkC
       release_date: '2023-03-06'
