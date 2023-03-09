@@ -538,16 +538,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
-  - name: Internet Sensations
-    id: 62repENq4TP0fxY7qWHOy9
-    release_date: '2023-02-24'
-    total_tracks: 29
+  - name: listen again
+    id: 7gs37QF9tMg2KukkseFSUn
+    release_date: '2023-03-10'
+    total_tracks: 20
     type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b273672d195ca1a6c774b92ad00b
+    image: https://i.scdn.co/image/ab67616d0000b27398c89f79fc90e8024a74e35a
     artist_collab: Various Artists
     tracks:
     - name: Kiss and Make Up
-      id: 47Thx4NFShEnwNAwpjHlTl
+      id: 0d5NTjBYRSQSXGXlDMtkHv
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 87
