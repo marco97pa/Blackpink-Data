@@ -962,9 +962,6 @@ youtube:
   - name: 'ROSÉ - ''On The Ground'' 0328 SBS Inkigayo : NO.1 OF THE WEEK'
     url: VFBj5sWfbH4
     image: https://i.ytimg.com/vi/VFBj5sWfbH4/maxresdefault.jpg
-  - name: How ROSÉ’S Song “On The Ground” Makes Her Feel | RELEASED
-    url: S7_iy3BOgvk
-    image: https://i.ytimg.com/vi/S7_iy3BOgvk/maxresdefault.jpg
   - name: ROSÉ - 'On The Ground' Dance Performance
     url: z6CSW2yu8Mg
     image: https://i.ytimg.com/vi/z6CSW2yu8Mg/maxresdefault.jpg
@@ -2755,6 +2752,9 @@ members:
     views_scale: 10M
     playlist: UURE-097LGtx_Zo7LrHvkycA
     videos:
+    - name: BERLIN vlog
+      url: KeY2kGJq6Rk
+      image: https://i.ytimg.com/vi/KeY2kGJq6Rk/maxresdefault.jpg
     - name: COPENHAGEN vlog
       url: UR4P0okaSZo
       image: https://i.ytimg.com/vi/UR4P0okaSZo/maxresdefault.jpg
