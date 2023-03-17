@@ -2022,6 +2022,16 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Worldwide hits 4
+      id: 681dcZhkLZFkD2BE9W1i92
+      release_date: '2023-03-18'
+      total_tracks: 28
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273e332a26681f646b20be74976
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 2Fesua28f0hRMJFJFiBoaU
     - name: Rap Kings Vol 4
       id: 3Dj3kn4PTdCsHzGhJUl8bi
       release_date: '2023-03-08'
