@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1637468975792549889
+  last_tweet_id: 1637680365870653442
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] X KOREAN AIR WELCOME VIDEO
+    url: ido-fCQek5Q
+    image: https://i.ytimg.com/vi/ido-fCQek5Q/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] JAKARTA HIGHLIGHT CLIP
     url: WQ3POzJxztI
     image: https://i.ytimg.com/vi/WQ3POzJxztI/maxresdefault.jpg
