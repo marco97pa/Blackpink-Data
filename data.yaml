@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1640368075760451585
+  last_tweet_id: 1640730469414195202
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: JISOO - ‘꽃(FLOWER)’ M/V TEASER
+    url: LLWZOF7DiVg
+    image: https://i.ytimg.com/vi/LLWZOF7DiVg/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] KAOHSIUNG HIGHLIGHT CLIP
     url: vNFTtDh4mEg
     image: https://i.ytimg.com/vi/vNFTtDh4mEg/maxresdefault.jpg
