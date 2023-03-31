@@ -581,9 +581,6 @@ youtube:
   - name: BLACKPINK WORLD TOUR [BORN PINK] MANILA HIGHLIGHT CLIP
     url: B8lVquymG1s
     image: https://i.ytimg.com/vi/B8lVquymG1s/maxresdefault.jpg
-  - name: JISOO - FIRST SINGLE ALBUM [ME] COUNTDOWN LIVE
-    url: SIuyRzrzWs8
-    image: https://i.ytimg.com/vi/SIuyRzrzWs8/maxresdefault_live.jpg
   - name: JISOO - ‘꽃(FLOWER)’ M/V TEASER
     url: LLWZOF7DiVg
     image: https://i.ytimg.com/vi/LLWZOF7DiVg/maxresdefault.jpg
@@ -2336,7 +2333,7 @@ members:
   youtube:
     name: Jennierubyjane Official
     url: UCNYi_zGmR519r5gYdOKLTjQ
-    subs: '9330000'
+    subs: '9340000'
     total_views: '99962102'
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
