@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1642060373426843650
+  last_tweet_id: 1642376309358706689
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: JISOO - [ME] JACKET MAKING FILM
+    url: 1EQvcWz3Ziw
+    image: https://i.ytimg.com/vi/1EQvcWz3Ziw/maxresdefault.jpg
   - name: JISOO - ‘꽃(FLOWER)’ FANCHANT GUIDE
     url: AUwWAdBUo5U
     image: https://i.ytimg.com/vi/AUwWAdBUo5U/maxresdefault.jpg
