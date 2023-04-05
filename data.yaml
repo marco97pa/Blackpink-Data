@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1643508771245654016
+  last_tweet_id: 1643629587014852614
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: JISOO - ‘꽃(FLOWER)’ DANCE PERFORMANCE VIDEO
+    url: 4XZz3WXRw0A
+    image: https://i.ytimg.com/vi/4XZz3WXRw0A/maxresdefault.jpg
   - name: '코첼라 모드로 변신하는 모습을 공유해 보세요. YouTube Shorts에서 #CoachellaOnYouTube 를 함께 즐겨요.'
     url: 7Q4D3TwDAio
     image: https://i.ytimg.com/vi/7Q4D3TwDAio/maxresdefault.jpg
