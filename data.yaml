@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1643629587014852614
+  last_tweet_id: 1643810760269893633
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'JISOO - ‘꽃(FLOWER)’ M/V HIGHLIGHT CLIP #2'
+    url: -rzQhaOvol0
+    image: https://i.ytimg.com/vi/-rzQhaOvol0/maxresdefault.jpg
   - name: JISOO - ‘꽃(FLOWER)’ DANCE PERFORMANCE VIDEO
     url: 4XZz3WXRw0A
     image: https://i.ytimg.com/vi/4XZz3WXRw0A/maxresdefault.jpg
