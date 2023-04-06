@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1643810760269893633
+  last_tweet_id: 1643825863639662593
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: '난 하얀 꽃잎처럼 날아가🤍 #JISOO_FLOWER #지수꽃 #ME #JISOO #지수 #BLACKPINK #블랙핑크 #FLOWERchallenge'
+    url: nzLq6D72PKU
+    image: https://i.ytimg.com/vi/nzLq6D72PKU/maxresdefault.jpg
   - name: 'JISOO - ‘꽃(FLOWER)’ M/V HIGHLIGHT CLIP #2'
     url: -rzQhaOvol0
     image: https://i.ytimg.com/vi/-rzQhaOvol0/maxresdefault.jpg
