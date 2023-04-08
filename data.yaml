@@ -2098,16 +2098,6 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
-    - name: HIT SONGS ENGLISH VOL 7
-      id: 4WTHuiLENlpOj28Fyenzlv
-      release_date: '2023-04-07'
-      total_tracks: 40
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273774a0723a4789a36ee75662c
-      artist_collab: Various Artists
-      tracks:
-      - name: SG
-        id: 42nNY3653wqv828SpsEsTW
     - name: HIT SONGS ENGLISH VOL 10
       id: 6pEtk7kvbfcF1qYvJuHsfN
       release_date: '2023-04-07'
@@ -2118,6 +2108,16 @@ members:
       tracks:
       - name: SG
         id: 4Rpbvr8GWrBqbVtztxuyYB
+    - name: HIT SONGS ENGLISH VOL 7
+      id: 4WTHuiLENlpOj28Fyenzlv
+      release_date: '2023-04-07'
+      total_tracks: 40
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273774a0723a4789a36ee75662c
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 42nNY3653wqv828SpsEsTW
     - name: Boss Bitch
       id: 15COqijm3oqGBjEKMCvrAo
       release_date: '2023-03-22'
@@ -2797,7 +2797,7 @@ members:
         id: 3V375E3xldRPEEcIKiw83l
     uri: spotify:artist:3eVa5w3URK5duf6eyVDbu9
     name: ROSÉ
-    popularity: 66
+    popularity: 67
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5ebd2d167f018561742f26a0997
