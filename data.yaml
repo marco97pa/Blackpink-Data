@@ -550,7 +550,7 @@ spotify:
       id: 0d5NTjBYRSQSXGXlDMtkHv
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
-  popularity: 87
+  popularity: 86
   genres:
   - k-pop
   - k-pop girl group
@@ -2193,7 +2193,7 @@ members:
       release_date: '2022-12-17'
       total_tracks: 80
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27378543782c1ba48df7a84d6b7
+      image: https://i.scdn.co/image/ab67616d0000b273be54bc75d727d37dd2a745a3
       artist_collab: Various Artists
       tracks: []
     - name: Best Electronic of 2022
@@ -2271,7 +2271,7 @@ members:
       release_date: '2022-06-28'
       total_tracks: 129
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2738310fff126e6e8659891dd02
+      image: https://i.scdn.co/image/ab67616d0000b273a3f89703abb323751059e854
       artist_collab: Various Artists
       tracks: []
     - name: Mega Hits Pride 2022
