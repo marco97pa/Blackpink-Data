@@ -557,7 +557,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1645642046257106944
+  last_tweet_id: 1645987192546926592
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -575,6 +575,12 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: JISOO AT JISOO’S FLOWER HOUSE🌹
+    url: _FO7SjDGbBE
+    image: https://i.ytimg.com/vi/_FO7SjDGbBE/maxresdefault.jpg
+  - name: JISOO’S FLOWER HOUSE RECAP VIDEO
+    url: 2teptoNjT0g
+    image: https://i.ytimg.com/vi/2teptoNjT0g/maxresdefault.jpg
   - name: '🌹 and 🌷 #JISOO_FLOWER #지수꽃 #ME #JISOO #지수 #BLACKPINK #블랙핑크 #FLOWERchallenge'
     url: FJf8U0bB1iw
     image: https://i.ytimg.com/vi/FJf8U0bB1iw/maxresdefault.jpg
