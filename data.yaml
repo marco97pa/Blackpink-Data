@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1646755255278002177
+  last_tweet_id: 1646845911149211649
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -576,6 +576,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] TOKYO HIGHLIGHT CLIP
+    url: _YajgtGF5s4
+    image: https://i.ytimg.com/vi/_YajgtGF5s4/maxresdefault.jpg
   - name: JISOO AT JISOO’S FLOWER HOUSE🌹
     url: _FO7SjDGbBE
     image: https://i.ytimg.com/vi/_FO7SjDGbBE/maxresdefault.jpg
@@ -2111,6 +2114,36 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Stress Buster Buddy Vol4
+      id: 2tA4nfqedX4yEbk6hXuYTy
+      release_date: '2023-04-15'
+      total_tracks: 38
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2734a1074b7ece03391e64bbc18
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 6dmiDV2DNXDiIIux1DYWVB
+    - name: Worldwide hits 8
+      id: 1D2vPpMdUIXGS4gQJm6kPz
+      release_date: '2023-04-15'
+      total_tracks: 37
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2736fd74bbbef6ae7456896700d
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 2mIQfJ2tdHifSToyCm0rFu
+    - name: POP OF THE TOP MOST CLASS 7
+      id: 31hIPsvq80FxXH1Pe4IQ4V
+      release_date: '2023-04-15'
+      total_tracks: 57
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27345d573b4320a5ef710f5abe2
+      artist_collab: Various Artists
+      tracks:
+      - name: SG
+        id: 4CpPBDDVrpdlnFdXGWUpLf
     - name: HIT SONGS ENGLISH VOL 10
       id: 6pEtk7kvbfcF1qYvJuHsfN
       release_date: '2023-04-07'
