@@ -2616,26 +2616,6 @@ members:
       tracks:
       - name: SOLO
         id: 4j44mX5sSIZCXgFke5WCiD
-    - name: Licencia de Conducción
-      id: 3Mfbr0HQYBKeQ0jLYxRzBu
-      release_date: '2021-10-01'
-      total_tracks: 38
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2730a1f66d3c728cff9aa3315d5
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 3ngKO77M2vUdONrSAgsMVE
-    - name: 'Música Para Niños: Verano'
-      id: 7qyCdUKm53Fg5Qeo8iwQig
-      release_date: '2021-08-31'
-      total_tracks: 25
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b273f79fedb1be0eacfecc8a9678
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 5PBBTNktBcB3iT1AWleBrp
     - name: All You Need Is Love And K-Pop
       id: 3h3lwMhVdY54pJo4WPy5A1
       release_date: '2021-06-25'
