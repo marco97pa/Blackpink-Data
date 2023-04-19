@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1648361539894931459
+  last_tweet_id: 1648582392586862593
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -576,6 +576,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: JISOO - [ME] OFFLINE FAN SIGNING EVENT
+    url: eBuQfK9ZPuQ
+    image: https://i.ytimg.com/vi/eBuQfK9ZPuQ/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] TOKYO HIGHLIGHT CLIP
     url: _YajgtGF5s4
     image: https://i.ytimg.com/vi/_YajgtGF5s4/maxresdefault.jpg
