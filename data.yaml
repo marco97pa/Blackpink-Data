@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1648582392586862593
+  last_tweet_id: 1648657700212068354
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -571,11 +571,14 @@ instagram:
 youtube:
   name: BLACKPINK
   url: UCOmHUn--16B90oW2L6FRR3A
-  subs: '86900000'
+  subs: '87000000'
   total_views: '30394539353'
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK COACHELLA WEEK 1 HIGHLIGHT CLIP
+    url: jba5D8chWzk
+    image: https://i.ytimg.com/vi/jba5D8chWzk/maxresdefault.jpg
   - name: JISOO - [ME] OFFLINE FAN SIGNING EVENT
     url: eBuQfK9ZPuQ
     image: https://i.ytimg.com/vi/eBuQfK9ZPuQ/maxresdefault.jpg
@@ -2866,7 +2869,7 @@ members:
   youtube:
     name: 행복지수 103%
     url: UCRE-097LGtx_Zo7LrHvkycA
-    subs: '4070000'
+    subs: '4080000'
     total_views: '9800008'
     views_scale: 10M
     playlist: UURE-097LGtx_Zo7LrHvkycA
