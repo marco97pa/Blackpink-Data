@@ -2120,6 +2120,26 @@ members:
         id: 10BfqdiV5PhV1UYsMEyou1
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
+    - name: Down to Earth
+      id: 6uMu4poce5OdMd1HYglZux
+      release_date: '2023-04-25'
+      total_tracks: 6
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b2738d82b267a58890ea7d7bc053
+      artist_collab: TAEYANG
+      tracks:
+      - name: Shoong! (feat. LISA of BLACKPINK)
+        id: 5HrIcZOo1DysX53qDRlRnt
+    - name: EP ALBUM [Down to Earth]
+      id: 7vKlb0pagL7xi6mOgNJD9h
+      release_date: '2023-04-25'
+      total_tracks: 6
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b27337f41be0d3fae756e0fff83f
+      artist_collab: TAEYANG
+      tracks:
+      - name: Shoong! (feat. LISA of BLACKPINK)
+        id: 0DCtjKlVxrxO4BFCJUywM8
     - name: POP OF THE TOP MOST CLASS 7
       id: 31hIPsvq80FxXH1Pe4IQ4V
       release_date: '2023-04-15'
