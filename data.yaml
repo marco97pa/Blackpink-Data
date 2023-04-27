@@ -2565,6 +2565,16 @@ members:
       tracks:
       - name: SOLO - KR Ver.
         id: 3JHJirP2XWJItdKGV4b1y8
+    - name: Divas En Vivo
+      id: 6ueoJ6UCZ7vRhBECnKf5ZS
+      release_date: '2023-04-28'
+      total_tracks: 23
+      type: appears_on
+      image: https://i.scdn.co/image/ab67616d0000b273f1ab2a838c94ea944de7c859
+      artist_collab: Various Artists
+      tracks:
+      - name: SOLO - Live
+        id: 3ooAbOP4UwMgfhoOshlf6b
     - name: Música Infantil 2022
       id: 0OeQbbpmBQ4dwUAvQK6ISG
       release_date: '2022-11-04'
