@@ -2101,7 +2101,7 @@ members:
     followers: 4303499
     uri: spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT
     name: LISA
-    popularity: 73
+    popularity: 74
     genres:
     - k-pop
     image: https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d
@@ -2127,15 +2127,15 @@ members:
       - name: MONEY
         id: 7ifLrhXBoQ5MDFTRpIYkfA
     - name: Down to Earth
-      id: 6uMu4poce5OdMd1HYglZux
+      id: 6q2v2FAOpb3Rk2avT7mxQS
       release_date: '2023-04-25'
       total_tracks: 6
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328
+      image: https://i.scdn.co/image/ab67616d0000b2733e39c67040f721ffe568d448
       artist_collab: TAEYANG
       tracks:
       - name: Shoong! (feat. LISA of BLACKPINK)
-        id: 5HrIcZOo1DysX53qDRlRnt
+        id: 0oJRiblEiQgTg2hRfnacIt
     - name: EP ALBUM [Down to Earth]
       id: 7vKlb0pagL7xi6mOgNJD9h
       release_date: '2023-04-25'
