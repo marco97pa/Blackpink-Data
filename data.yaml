@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1652118950170492931
+  last_tweet_id: 1653610935813283840
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -576,6 +576,10 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: '#JENNIE 가 왔단다 왔단다🌷 #JISOO_FLOWER #지수꽃 #ME #JISOO #지수 #제니 #BLACKPINK #블랙핑크
+      #FLOWERchallenge #젠냥이'
+    url: oNTt5oh6yek
+    image: https://i.ytimg.com/vi/oNTt5oh6yek/maxresdefault.jpg
   - name: BLACKPINK WORLD TOUR [BORN PINK] ENCORE IN NORTH AMERICA TOUR TRAILER
     url: 35XABEDIR7k
     image: https://i.ytimg.com/vi/35XABEDIR7k/maxresdefault.jpg
