@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1654002917937152000
+  last_tweet_id: 1654093524059717632
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -576,6 +576,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: BLACKPINK WORLD TOUR [BORN PINK] MEXICO CITY HIGHLIGHT CLIP
+    url: Q5fP3iLafzM
+    image: https://i.ytimg.com/vi/Q5fP3iLafzM/maxresdefault.jpg
   - name: '#JISOO and #JENNIE #JISOO_FLOWER #지수꽃 #ME #지수 #제니 #BLACKPINK #블랙핑크 #FLOWERchallenge'
     url: K_t30E2AjME
     image: https://i.ytimg.com/vi/K_t30E2AjME/maxresdefault.jpg
