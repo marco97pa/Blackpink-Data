@@ -2645,16 +2645,6 @@ members:
       tracks:
       - name: SOLO
         id: 6ITEzSECbETYVnHG76yj3B
-    - name: 'K-Pop: От рассвета до заката'
-      id: 43LydprFYKuqtBIrLRyMNi
-      release_date: '2022-02-25'
-      total_tracks: 29
-      type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b27316dc07693534f1d3d2a450ce
-      artist_collab: Various Artists
-      tracks:
-      - name: SOLO
-        id: 72XM77CKoclFQFUQEMACYX
     - name: Lovers-are-OVER party
       id: 53AjGQrYi9g0gSVxM8VTiw
       release_date: '2021-11-12'
