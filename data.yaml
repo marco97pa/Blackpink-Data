@@ -538,16 +538,16 @@ spotify:
     tracks:
     - name: As If It's Your Last
       id: 4ZxOuNHhpyOj4gv52MtQpT
-  - name: listen again
-    id: 7gs37QF9tMg2KukkseFSUn
-    release_date: '2023-03-10'
-    total_tracks: 20
+  - name: Safe Zone
+    id: 6vv320N4TxCWRdikAno0Bi
+    release_date: '2023-05-12'
+    total_tracks: 30
     type: appears_on
-    image: https://i.scdn.co/image/ab67616d0000b27398c89f79fc90e8024a74e35a
+    image: https://i.scdn.co/image/ab67616d0000b27336cdb1cd94126739b3fd37da
     artist_collab: Various Artists
     tracks:
     - name: Kiss and Make Up
-      id: 0d5NTjBYRSQSXGXlDMtkHv
+      id: 456bpLes7UqeWkeqwTF0DI
   uri: spotify:artist:41MozSoPIsD1dJM0CLPjZF
   name: BLACKPINK
   popularity: 86
