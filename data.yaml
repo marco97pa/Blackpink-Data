@@ -2158,10 +2158,10 @@ members:
       release_date: '2023-04-25'
       total_tracks: 6
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2738010ef4709af6d4ef3f77fc8
+      image: https://i.scdn.co/image/ab67616d0000b2735644c885d0fe447f124361b7
       artist_collab: TAEYANG
       tracks:
-      - name: Shoong! (feat. LISA of BLACKPINK)
+      - name: Shoong! - feat. LISA of BLACKPINK
         id: 0DCtjKlVxrxO4BFCJUywM8
     - name: POP OF THE TOP MOST CLASS 7
       id: 31hIPsvq80FxXH1Pe4IQ4V
@@ -2412,7 +2412,7 @@ members:
       release_date: '2022-05-16'
       total_tracks: 118
       type: appears_on
-      image: https://i.scdn.co/image/ab67616d0000b2736615656285dba96ddbad878b
+      image: https://i.scdn.co/image/ab67616d0000b273a83e0f850b30cb6e1923a8bb
       artist_collab: Various Artists
       tracks: []
     - name: Top Hits 2022
