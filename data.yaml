@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1656112894877241345
+  last_tweet_id: 1656947334373314561
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -576,6 +576,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'BLACKPINK - ‘B.P.M.’ Roll #18'
+    url: CriyikSOlrQ
+    image: https://i.ytimg.com/vi/CriyikSOlrQ/maxresdefault.jpg
   - name: 'BLACKPINK - ‘B.P.M.’ Roll #17'
     url: rkWynKFShaw
     image: https://i.ytimg.com/vi/rkWynKFShaw/maxresdefault.jpg
