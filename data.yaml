@@ -558,7 +558,7 @@ spotify:
   image: https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c
 twitter:
   url: blackpink
-  last_tweet_id: 1659121656953208839
+  last_tweet_id: 1659484038468452353
 instagram:
   url: https://www.instagram.com/blackpinkofficial/
   followers: 44820460
@@ -576,6 +576,9 @@ youtube:
   views_scale: B
   playlist: UUOmHUn--16B90oW2L6FRR3A
   videos:
+  - name: 'BLACKPINK - ‘B.P.M.’ Roll #19'
+    url: Pn_04ltdt00
+    image: https://i.ytimg.com/vi/Pn_04ltdt00/maxresdefault.jpg
   - name: BLACKPINK THE GAME OFFICIAL TRAILER VIDEO
     url: ERl_J3b_ejI
     image: https://i.ytimg.com/vi/ERl_J3b_ejI/maxresdefault.jpg
@@ -2517,6 +2520,9 @@ members:
     views_scale: 10M
     playlist: UUNYi_zGmR519r5gYdOKLTjQ
     videos:
+    - name: North America World Tour vlog
+      url: AHxoA-9lzCM
+      image: https://i.ytimg.com/vi/AHxoA-9lzCM/maxresdefault.jpg
     - name: Valentine’s Day vlog
       url: jI8fYUcqVO8
       image: https://i.ytimg.com/vi/jI8fYUcqVO8/maxresdefault.jpg
