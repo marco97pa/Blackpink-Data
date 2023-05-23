@@ -72,6 +72,10 @@ It uses a lot of sources to fetch the latest update about the group: Spotify, Yo
 
 The project is really modular and by editing the YAML file you can easily fork this repo and make a bot of another group or artist, with zero to minimal code changes.
 
+#### Development suspended
+Thanks to the latest updates of Twitter API pricing, the development and execution is suspended.  
+ See https://github.com/marco97pa/Blackpink-Data/issues/31 for further details
+
 
 ### Built With
 

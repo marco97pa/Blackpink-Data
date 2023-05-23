@@ -3,8 +3,9 @@
 name: Update All
 
 on:
-  schedule:
-   - cron: "*/10 * * * *" # Runs every 10 minutes, everyday (actual timing may vary, depending on GitHub)
+  # DISABLED SINCE TWITTER API IS NOT FREE ANYMORE. See https://github.com/marco97pa/Blackpink-Data/issues/31 for further details
+  # schedule:
+  #  - cron: "*/10 * * * *" # Runs every 10 minutes, everyday (actual timing may vary, depending on GitHub)
   workflow_dispatch:
 
 jobs:
